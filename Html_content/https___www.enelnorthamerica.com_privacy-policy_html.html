@@ -1,0 +1,2171 @@
+
+<!DOCTYPE HTML>
+
+<html lang="en">
+
+
+
+
+    <head>
+        <meta/>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <title>Privacy Policy | Enel North America </title>
+        
+        <meta name="description" content="See our privacy statements and policies for the US and Canada."/>
+        <meta name="template" content="hub"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        
+        
+
+        
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/enel-common/clientlibs/clientlib-bundle.lc-b77d637f7e244b70eb7ed96ab308aef3-lc.min.css" type="text/css">
+
+
+
+
+
+
+
+
+
+        
+    
+    
+
+    
+
+    
+    
+    
+
+        
+        
+
+        
+        <meta name="google-site-verification" content="search"/>
+
+
+
+
+        <!--sly data-sly-use.wcmInit="initwcm.js" data-sly-test=""
+             data-sly-call="libs.core.wcm.components.page.v2.page.headlibs__002e__html$1@5b7f4981"/ -->
+        <!--sly data-sly-include="author.html"/ -->
+
+
+        
+
+    
+
+
+
+
+
+
+
+
+
+        
+        
+            <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.enelnorthamerica.com/content/enel-na/favicon.ico"/>
+            <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://www.enelnorthamerica.com/content/enel-na/favicon.ico"/>
+        
+        
+
+
+	<meta name="robots" content="index,follow"/>
+
+
+
+        <script src="https://assets.adobedtm.com/58373ae8f4f6/a2778b5de26c/launch-6b6799b50ace.min.js"></script>
+
+        <meta name="google-site-verification" content="wMwaMAyOKYFmi-B3YHctHJKSf7y4zRSpbDeo9k2cahg" />
+
+<meta name="google-site-verification" content="R9Fe4SvDyaM5JfzGMZ3wsNkCQofw-m_T8CswQ2VUpA8" />
+
+        
+
+        
+            <link rel="canonical" href="https://www.enelnorthamerica.com/privacy-policy"/>
+        
+
+        <link rel="alternate" hreflang="x-default" href="https://www.enelnorthamerica.com/privacy-policy"/>
+        <link rel="alternate" hreflang="en" href="https://www.enelnorthamerica.com/privacy-policy"/>
+
+
+        
+        
+
+    <meta property="og:locale" content="en"/>
+    
+        <meta property="og:url" content="https://www.enelnorthamerica.com/privacy-policy"/>
+    
+    <meta property="og:type" content="hub"/>
+    <meta property="og:title" content="Privacy Policy | Enel North America"/>
+    <meta property="og:description" content="See our privacy statements and policies for the US and Canada."/>
+    <meta property="og:image"/>
+    <meta property="og:image:alt"/>
+
+        
+        
+
+    <meta name="twitter:card" content="summary"/>
+
+    <meta name="twitter:title" content="Privacy Policy | Enel North America"/>
+
+    <meta name="twitter:description" content="See our privacy statements and policies for the US and Canada."/>
+
+    <meta name="twitter:image"/>
+
+    <meta name="twitter:image:alt"/>
+    
+
+
+
+        
+        
+
+        <script>
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        function getDuplicatedParameters (parameterMap) {
+            var arr = parameterMap;
+            var sorted_arr = arr.slice().sort();
+            var results = [];
+            for (var i = 0; i < arr.length - 1; i++) {
+                if (sorted_arr[i + 1] == sorted_arr[i]) {
+                    results.push(sorted_arr[i]);
+                }
+            }
+            return results;
+        }
+
+        function getParameterMapName (url) {
+            var queryString = getQueryString(url);
+            var parameterMaps = queryString.split("=");
+            var paramsName = [];
+            for(var i in parameterMaps)
+            {
+                var param = parameterMaps[i];
+                var paramName;
+                if (param.indexOf('?')>= 0) {
+                    paramName = param.split('?')[1];
+                } else {
+                    paramName = param.split('&')[1];
+                }
+                paramsName[i] = paramName;
+            }
+            return paramsName;
+        }
+
+        function purgeDuplicatedParams (url) {
+            var urlResult = url;
+            var duplicatedParams = getDuplicatedParameters(getParameterMapName(url));
+            for (var i in duplicatedParams) {
+                urlResult = removeURLParameter(urlResult,duplicatedParams[i]);
+            }
+            return urlResult;
+        }
+
+        function updateQueryStringParameter(uri, key, value) {
+            if (value != null && value.length > 0) {
+                var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+                var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+                if (uri.match(re)) {
+                    return uri.replace(re, '$1' + key + "=" + value + '$2');
+                }
+                else {
+                    return uri + separator + key + "=" + value;
+                }
+            }
+            return uri;
+        }
+
+        function removeURLParameter(url, parameter) {
+            var urlparts= url.split('?');
+            if (urlparts.length>=2) {
+                var prefix= encodeURIComponent(parameter)+'=';
+                var pars= urlparts[1].split(/[&;]/g);
+                var removed = false;
+                for (var i= pars.length; i-- > 0;) {
+                    if (pars[i].lastIndexOf(prefix, 0) !== -1 && !removed) {
+                        pars.splice(i, 1);
+                        removed = true;
+                    }
+                }
+                url= urlparts[0] + (pars.length > 0 ? '?' + pars.join('&') : "");
+                return url;
+            } else {
+                return url;
+            }
+        }
+
+        function getQueryString(url, redirect) {
+            var queryString = url.split('?')[1];
+            if (typeof queryString == 'undefined') {
+                queryString = '';
+            } else {
+                if (typeof (redirect)!= 'undefined' && redirect.indexOf('?')>0) {
+                    queryString = '&' + queryString;
+                } else {
+                    queryString = '?' + queryString;
+                }
+            }
+            return queryString;
+        }
+
+        if(readCookie('langRedirect') == null){
+            document.cookie = "langRedirect=MQ==;path=/" ;
+            var langMapString = null;
+            var headElement = document.getElementsByTagName("head")[0];
+            if(headElement != null && typeof headElement == "object"){
+                var langMapString = headElement.getAttribute("data-attr-langredirect");
+            }
+            if( langMapString != null ){
+                var browserlanguage = navigator.language;
+                browserlanguage = browserlanguage.split("-")[0];
+                var obj = JSON.parse(langMapString);
+                var redirect = obj[browserlanguage];
+                if(redirect != null){
+                    redirect = purgeDuplicatedParams (redirect + getQueryString(window.location.href, redirect));
+                    window.location.href=updateQueryStringParameter(redirect,'refred', document.referrer);
+                }
+            }
+        }
+    document.addEventListener("DOMContentLoaded", function(event) {
+   		history.replaceState({}, 'Title', removeURLParameter(location.href, 'refred'));
+   	});
+        </script>
+
+    </head>
+
+<body class="hub base page basicpage" id="hub-a3bf449abd">
+
+
+
+    
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+<script type="text/javascript"> _linkedin_partner_id = "4208257"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4208257&fmt=gif"/> </noscript>
+
+<!-- Global site tag (gtag.js) - Google Ads: 308394303 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-308394303"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ 
+ gtag('config', 'AW-308394303');
+</script>
+
+<div id="app" data-search-api="test.api" data-gmap-api-key="AIzaSyAEffJTT7eVPBJK0Peuwz2E-aLzl7nKIUo" data-recaptcha-key="6Lf7OHEeAAAAAKRKMfFGNMYxffzLUAdRE3zM_7vC" data-enel-data-layer="{&#34;pagename&#34;:[&#34;en&#34;,&#34;privacy-policy&#34;],&#34;pagetype&#34;:&#34;hub&#34;,&#34;areatype&#34;:&#34;privacy-policy.html&#34;,&#34;language&#34;:&#34;en&#34;}" data-site="com" data-aria-flk='{
+        "pageDotAriaLabel":"Page dot %n",
+        "previousAriaLabel":"Previous",
+        "nextAriaLabel":"Next"
+      }' v-cloak>
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<main-navigation inline-template>
+    <header class="MainNavigationWrapper " aem-comp="MainNavigation" aem-id="main-navigation-menu" data-json-links="[{&#34;label&#34;:&#34;Solutions&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions&#34;,&#34;children&#34;:[{&#34;label&#34;:&#34;Energy Solutions&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions/energy-solutions&#34;},{&#34;label&#34;:&#34;Our Integrated Approach &#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions/our-integrated-approach&#34;},{&#34;label&#34;:&#34;Case Studies &#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions/case-studies&#34;}]},{&#34;label&#34;:&#34;Insights&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights&#34;,&#34;children&#34;:[{&#34;label&#34;:&#34;All Insights&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/all-insights&#34;},{&#34;label&#34;:&#34;Blogs&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/blogs&#34;},{&#34;label&#34;:&#34;eBooks&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/ebooks&#34;},{&#34;label&#34;:&#34;Videos&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/videos&#34;},{&#34;label&#34;:&#34;Infographics&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/infographics&#34;},{&#34;label&#34;:&#34;Resource Centers&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/resource-centers&#34;}]},{&#34;label&#34;:&#34;Sustainability&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability&#34;,&#34;children&#34;:[{&#34;label&#34;:&#34;Our Approach&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability/our-approach&#34;},{&#34;label&#34;:&#34;Goals and Progress&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability/goals-and-progress&#34;},{&#34;label&#34;:&#34;Reporting and Resources&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability/reporting-and-resources&#34;}]},{&#34;label&#34;:&#34;About Us&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us&#34;,&#34;children&#34;:[{&#34;label&#34;:&#34;Enel in North America&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/enel-in-north-america&#34;},{&#34;label&#34;:&#34;Our Purpose&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/our-purpose&#34;},{&#34;label&#34;:&#34;Our Story&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/our-story&#34;},{&#34;label&#34;:&#34;Newsroom&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/newsroom&#34;}]},{&#34;label&#34;:&#34;Careers&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers&#34;,&#34;children&#34;:[{&#34;label&#34;:&#34;Life at Enel&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/life-at-enel&#34;},{&#34;label&#34;:&#34;Work at Enel&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/work-at-enel&#34;},{&#34;label&#34;:&#34;Diversity &amp; Inclusion&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/diversity-inclusion&#34;},{&#34;label&#34;:&#34;Apply at Enel&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/apply-at-enel&#34;}]},{&#34;label&#34;:&#34;Contact Us&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/contact-us&#34;,&#34;children&#34;:[{&#34;label&#34;:&#34;Contact Us&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/contact-us/contact-our-team&#34;},{&#34;label&#34;:&#34;Find a Solution&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/contact-us/find-a-solution&#34;}]}]" data-search-bar-id="main-search-bar" data-platform-menu-id="platform-menu" data-navigation-cta="" data-contact-us-cta="{&#34;label&#34;:&#34;Contact Us&#34;,&#34;ariaLabel&#34;:&#34;Contact Us&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/contact-us/contact-our-team&#34;,&#34;target&#34;:&#34;_self&#34;}">
+        <div :class="['MainNavigation',{'open': isSiteHeaderFixed,'navigation-hidden': isNavigationHidden,'is-cta-nav': navigationCta,'with-PlatformMenu': hasPlatformMenu,'with-secondLevelVoices': hasSecondLevel,},]">
+
+            
+            <div v-if="imageD">
+                
+            </div>
+
+            
+            <div ref="navigation" :class="['MainNavigationEl',{'open': isOpen,'is-search-open': isSearchOpen,'desktop-fixed': isDesktopFixed,},]">
+                <div class="container">
+                    <div class="wrapper" @click="closeOnTablet">
+
+                        <nav aria-label="Section Menu" class="navbar" @click="stopOnMobile($event)">
+                            
+                            <a href="#" :class="['toggler']" :aria-label="isOpen ? 'Open menu' : 'Close menu'" role="button" :aria-expanded="isOpen + ''" @click.prevent="openMenu">
+                                <span :class="['tw-menu-container', { open: isOpen }]">
+                                    <span class="tw-menu-icon"></span>
+                                </span>
+                            </a>
+
+                            <div :class="['nav-el', { cta: navigationCta }]">
+                                <div class="logo" itemscope itemtype="https://schema.org/Organization">
+                                    <a itemprop="url" href="https://www.enelnorthamerica.com/en" class="logo-link">
+                                        
+                                            <span class="logo-text">Homepage</span>
+                                            
+                                            
+    
+
+    
+    
+
+        <img src="/etc.clientlibs/enel-common/clientlibs/clientlib-bundle/resources/img/logo/logo.svg" alt="Enel North America Logo 60th Anniversary" class="logo-img" itemprop="logo"/>
+
+        
+    
+
+                                            
+                                            
+    
+
+    
+    
+
+        <img src="/etc.clientlibs/enel-common/clientlibs/clientlib-bundle/resources/img/logo/logo-white.svg" alt="Enel North America Logo 60th Anniversary" class="logo-img white"/>
+
+        
+    
+
+                                        
+                                    </a>
+                                </div>
+                            </div>
+
+                            
+                            <ul class="menu navbar-menu" aria-label="Main menu">
+                                <li v-for="(item, i) in jsonLinks" :key="'main-nav-link-'+i" class="item" :aria-current="item.isCurrent ? 'page' : null">
+                                    <a :href="item.href" data-satellite-content-menu="" data-satellite-content-menulivello="" :class="['item-link', { active: item.isCurrent }]">
+                                        {{ item.label }}
+                                        
+                                        <span v-if="item.isCurrent" class="sr-only">Selected item</span>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <a v-if="contactUsCta" class="desktop-contactus cta-button" :href="contactUsCta.href" :target="contactUsCta.target" :aria-label="contactUsCta.ariaLabel">
+                                {{ contactUsCta.label }}
+                            </a>
+
+                            
+                            <button ref="searchTrigger" :class="['search',{ contactus: contactUsCta },]" aria-label="Open search bar" tabindex="0" @click="openSearchBar">
+                                <svg class="icon" width="20" height="20">
+                                    <use xlink:href="#icon-search"></use>
+                                </svg>
+                            </button>
+
+                            <a v-if="navigationCta" :class="['cta-secondary cta-outline cta-nav cta-extended-area',navigationCta.classes,]" :href="navigationCta.pagePath">
+                                {{ navigationCta.text }}
+                            </a>
+
+                            
+                            <div id="main-navigation-search" class="search-wrapper">
+                                
+
+
+
+<search-bar inline-template>
+    <div class="SearchBar" aem-comp="SearchBar" aem-id="main-search-bar" :role="isOpen ? 'dialog' : null" data-anchor-id="ANCHORID" data-search-page-path='https://www.enelnorthamerica.com/about-us/newsroom/search-all' :data-suggest-json='JSON.stringify({ delay: 500, endpoint: "https://www.enelnorthamerica.com/configuration/_jcr_content/header/search-bar.jsonsuggestion.json", minLength: 3, title :"Suggested searches" })' :data-quick-links="JSON.stringify({ title: 'Quick links', items: [] })">
+        <div class="bar" :class="{open: isOpen}" :aria-hidden="(!isOpen)+''" @click.stop="" ref="$bar">
+
+            <span v-if="isOpen" class="invisible-tab" @focus="keepFocusOnComponent" aria-hidden="false" tabindex="0">
+            </span>
+
+            <div class="wrapper">
+                <div class="search">
+                    <form class="search-form" action="#" @submit.prevent="submitSearch">
+                        <input autocomplete="off" type="text" name="search" ref="searchInput" :class="['search-input', {'hidden-outline': isFirstFocus}]" :tabindex="disableTabindexIf(!isOpen)" v-model="queryText" @blur="isFirstFocus = false"/>
+
+
+                        <div :class="['suggestions', {open: isSuggestionsOpen}]" :aria-hidden="isSuggestionsOpen ? 'false' : 'true'" @click.stop="">
+                            <ul class="suggestion-block">
+                                <li class="item title">
+                                    <span class="item-link">{{currentSuggestions.title}}</span>
+                                </li>
+                                 <li v-for="(item, index) in currentSuggestions.items" :key="'suggestions-item-'+index" :class="['item']">
+                                    <a href="#" class="item-link" :tabindex="disableTabindexIf(!suggestions.length)" @click.prevent="openSuggestionPage($event)" v-html="item" v-if="!item.href">{{item}}</a>
+                                    <a class="item-link" v-else v-html="item.text" :href="item.href" :tabindex="disableTabindexIf(!suggestions.length)" @mousedown="openQuickLinks($event)">{{item.text}}</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <button ref="searchTrigger" :class="['search-button', { 'is-visible': isSubmitVisible }]" type="submit" aria-label="Search" :aria-hidden="isSubmitVisible ? 'false' : 'true'" :tabindex="disableTabindexIf(!isSubmitVisible)" @submit.prevent="submitSearch">
+                            <svg class="icon" width="20" height="20">
+                                <use xlink:href="#icon-search"></use>
+                            </svg>
+                        </button>
+                    </form>
+                </div>
+
+      <button v-if="isOpen" ref="closeButton" class="cancel" aria-label="Close search" tabindex="0" @click.prevent="toggleSearchBar" @keyup.enter="toggleSearchBar">
+                    <svg class="icon">
+                        <use xlink:href="#icon-close" stroke="#0E141A"></use>
+                    </svg>
+                </button>
+            </div>
+
+            <div class="shadow-wrapper">
+                <div class="shadow" @click="toggleSearchBar"></div>
+            </div>
+
+            <span v-if="isOpen" class="invisible-tab" tabindex="0" @focus="keepFocusOnComponent"></span>
+        </div>
+    </div>
+</search-bar>
+                            </div>
+                            
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <a v-if="navigationCta" ref="$mobileSubscribeCta" :class="['cta-secondary cta-nav fixed cta-extended-area',navigationCta.classes,]" :href="navigationCta.pagePath">
+                {{ navigationCta.text }}
+            </a>
+
+            
+            <div v-if="imageD && secondLevelLinks.length" ref="secondLevelNavigation" :class="['secondLevelMainNavigationEl',{'desktop-fixed': isDesktopFixed,'sticky': secondLevelNavigationSticky,},]">
+                <div class="container">
+                    <div class="wrapper">
+                        <nav aria-label="Section Menu" class="navbar">
+
+                            <ul class="menu navbar-menu" aria-label="Main menu">
+                                <li v-for="(item, i) in secondLevelLinks" :key="'second-level-nav-link-'+i" class="item" :aria-current="item.isCurrent ? 'page' : null">
+                                    <a :href="item.href" data-satellite-content-menu="" data-satellite-content-menulivello="" :class="['item-link', { active: item.isCurrent }]">
+                                        {{ item.label }}
+                                        
+                                        <span v-if="item.isCurrent" class="sr-only">Selected item</span>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <a v-if="secondLevelCta && imageD" class="cta-secondary cta-outline cta-extended-area" :href="secondLevelCta.href" :target="secondLevelCta.target" role="button">
+                                {{ secondLevelCta.label }}
+                            </a>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div v-if="!imageD">
+            
+            
+        </div>
+        <div v-if="!imageD" :class="['mobile-navigation', { open: isOpen }]" @scroll.stop="">
+            <div v-if="imageT" class="shadow" @click="openMenu"></div>
+            <nav id="main-navigation-menu-mobile" ref="$navigation" class="navigation" :aria-hidden="!isOpen + ''" :tabindex="disableTabindexIf(!isOpen)" @click.stop="">
+                <div class="menu">
+                    
+
+
+    
+
+    <menu-accordion inline-template>
+        <nav :class="['header-menu', 'MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="main-menu-accordion" aem-comp="MenuAccordion" data-anchor-id="ANCHORID" :aria-labelledby="'menu-accordion-title-' + stringToSlug(jsonLinks.section) + '-' + _uid" data-json-links="{&#34;accordionGroup&#34;:&#34;header&#34;,&#34;section&#34;:&#34;Solutions&#34;,&#34;isOpen&#34;:true,&#34;links&#34;:[{&#34;label&#34;:&#34;Energy Solutions&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions/energy-solutions&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Our Integrated Approach &#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions/our-integrated-approach&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Case Studies &#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/solutions/case-studies&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;}]}" data-disable-breakpoint-up="lg">
+            
+
+            <div v-if="isAccordionEnabled" class="title">
+                <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link" role="button" tabindex="0" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+stringToSlug(jsonLinks.section)" @click="toggleAccordion" @keydown.enter="toggleAccordion">
+                  {{ jsonLinks.section }}
+                </span>
+            </div>
+
+            <ul :id="'menu-accordion-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu" :aria-hidden="isAccordionExpanded ? 'false' : 'true'">
+                <li v-if="!isAccordionEnabled" class="title">
+                  <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link">
+                    {{ jsonLinks.section }}
+                  </span>
+                </li>
+
+                
+                <li v-for="(item, index) in jsonLinks.links" :key="'menu-accordion-link-'+index" :class="['item', { 'item--active': index === 0 }]">
+                    
+                    <a class="menu-link" :aria-label="item.alt" :data-satellite-content-menu="item.satelliteMenu" :data-satellite-content-menulivello="item.satelliteLivello" :href="item.href" :name="item.name" :tabindex="disableTabindexIf(!isAccordionExpanded)" :target="item.target">
+                        <span>{{ item.label }}</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </menu-accordion>
+
+
+
+    
+
+    <menu-accordion inline-template>
+        <nav :class="['header-menu', 'MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="main-menu-accordion" aem-comp="MenuAccordion" data-anchor-id="ANCHORID" :aria-labelledby="'menu-accordion-title-' + stringToSlug(jsonLinks.section) + '-' + _uid" data-json-links="{&#34;accordionGroup&#34;:&#34;header&#34;,&#34;section&#34;:&#34;Insights&#34;,&#34;isOpen&#34;:true,&#34;links&#34;:[{&#34;label&#34;:&#34;All Insights&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/all-insights&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Blogs&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/blogs&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;eBooks&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/ebooks&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Videos&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/videos&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Infographics&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/infographics&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Resource Centers&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/insights/resource-centers&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;}]}" data-disable-breakpoint-up="lg">
+            
+
+            <div v-if="isAccordionEnabled" class="title">
+                <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link" role="button" tabindex="0" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+stringToSlug(jsonLinks.section)" @click="toggleAccordion" @keydown.enter="toggleAccordion">
+                  {{ jsonLinks.section }}
+                </span>
+            </div>
+
+            <ul :id="'menu-accordion-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu" :aria-hidden="isAccordionExpanded ? 'false' : 'true'">
+                <li v-if="!isAccordionEnabled" class="title">
+                  <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link">
+                    {{ jsonLinks.section }}
+                  </span>
+                </li>
+
+                
+                <li v-for="(item, index) in jsonLinks.links" :key="'menu-accordion-link-'+index" :class="['item', { 'item--active': index === 0 }]">
+                    
+                    <a class="menu-link" :aria-label="item.alt" :data-satellite-content-menu="item.satelliteMenu" :data-satellite-content-menulivello="item.satelliteLivello" :href="item.href" :name="item.name" :tabindex="disableTabindexIf(!isAccordionExpanded)" :target="item.target">
+                        <span>{{ item.label }}</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </menu-accordion>
+
+
+
+    
+
+    <menu-accordion inline-template>
+        <nav :class="['header-menu', 'MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="main-menu-accordion" aem-comp="MenuAccordion" data-anchor-id="ANCHORID" :aria-labelledby="'menu-accordion-title-' + stringToSlug(jsonLinks.section) + '-' + _uid" data-json-links="{&#34;accordionGroup&#34;:&#34;header&#34;,&#34;section&#34;:&#34;Sustainability&#34;,&#34;isOpen&#34;:true,&#34;links&#34;:[{&#34;label&#34;:&#34;Our Approach&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability/our-approach&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Goals and Progress&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability/goals-and-progress&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Reporting and Resources&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/sustainability/reporting-and-resources&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;}]}" data-disable-breakpoint-up="lg">
+            
+
+            <div v-if="isAccordionEnabled" class="title">
+                <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link" role="button" tabindex="0" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+stringToSlug(jsonLinks.section)" @click="toggleAccordion" @keydown.enter="toggleAccordion">
+                  {{ jsonLinks.section }}
+                </span>
+            </div>
+
+            <ul :id="'menu-accordion-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu" :aria-hidden="isAccordionExpanded ? 'false' : 'true'">
+                <li v-if="!isAccordionEnabled" class="title">
+                  <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link">
+                    {{ jsonLinks.section }}
+                  </span>
+                </li>
+
+                
+                <li v-for="(item, index) in jsonLinks.links" :key="'menu-accordion-link-'+index" :class="['item', { 'item--active': index === 0 }]">
+                    
+                    <a class="menu-link" :aria-label="item.alt" :data-satellite-content-menu="item.satelliteMenu" :data-satellite-content-menulivello="item.satelliteLivello" :href="item.href" :name="item.name" :tabindex="disableTabindexIf(!isAccordionExpanded)" :target="item.target">
+                        <span>{{ item.label }}</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </menu-accordion>
+
+
+
+    
+
+    <menu-accordion inline-template>
+        <nav :class="['header-menu', 'MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="main-menu-accordion" aem-comp="MenuAccordion" data-anchor-id="ANCHORID" :aria-labelledby="'menu-accordion-title-' + stringToSlug(jsonLinks.section) + '-' + _uid" data-json-links="{&#34;accordionGroup&#34;:&#34;header&#34;,&#34;section&#34;:&#34;About Us&#34;,&#34;isOpen&#34;:true,&#34;links&#34;:[{&#34;label&#34;:&#34;Enel in North America&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/enel-in-north-america&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Our Purpose&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/our-purpose&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Our Story&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/our-story&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Newsroom&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/about-us/newsroom&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;}]}" data-disable-breakpoint-up="lg">
+            
+
+            <div v-if="isAccordionEnabled" class="title">
+                <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link" role="button" tabindex="0" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+stringToSlug(jsonLinks.section)" @click="toggleAccordion" @keydown.enter="toggleAccordion">
+                  {{ jsonLinks.section }}
+                </span>
+            </div>
+
+            <ul :id="'menu-accordion-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu" :aria-hidden="isAccordionExpanded ? 'false' : 'true'">
+                <li v-if="!isAccordionEnabled" class="title">
+                  <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link">
+                    {{ jsonLinks.section }}
+                  </span>
+                </li>
+
+                
+                <li v-for="(item, index) in jsonLinks.links" :key="'menu-accordion-link-'+index" :class="['item', { 'item--active': index === 0 }]">
+                    
+                    <a class="menu-link" :aria-label="item.alt" :data-satellite-content-menu="item.satelliteMenu" :data-satellite-content-menulivello="item.satelliteLivello" :href="item.href" :name="item.name" :tabindex="disableTabindexIf(!isAccordionExpanded)" :target="item.target">
+                        <span>{{ item.label }}</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </menu-accordion>
+
+
+
+    
+
+    <menu-accordion inline-template>
+        <nav :class="['header-menu', 'MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="main-menu-accordion" aem-comp="MenuAccordion" data-anchor-id="ANCHORID" :aria-labelledby="'menu-accordion-title-' + stringToSlug(jsonLinks.section) + '-' + _uid" data-json-links="{&#34;accordionGroup&#34;:&#34;header&#34;,&#34;section&#34;:&#34;Careers&#34;,&#34;isOpen&#34;:true,&#34;links&#34;:[{&#34;label&#34;:&#34;Life at Enel&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/life-at-enel&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Work at Enel&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/work-at-enel&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Diversity &amp; Inclusion&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/diversity-inclusion&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Apply at Enel&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/careers/apply-at-enel&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;}]}" data-disable-breakpoint-up="lg">
+            
+
+            <div v-if="isAccordionEnabled" class="title">
+                <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link" role="button" tabindex="0" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+stringToSlug(jsonLinks.section)" @click="toggleAccordion" @keydown.enter="toggleAccordion">
+                  {{ jsonLinks.section }}
+                </span>
+            </div>
+
+            <ul :id="'menu-accordion-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu" :aria-hidden="isAccordionExpanded ? 'false' : 'true'">
+                <li v-if="!isAccordionEnabled" class="title">
+                  <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link">
+                    {{ jsonLinks.section }}
+                  </span>
+                </li>
+
+                
+                <li v-for="(item, index) in jsonLinks.links" :key="'menu-accordion-link-'+index" :class="['item', { 'item--active': index === 0 }]">
+                    
+                    <a class="menu-link" :aria-label="item.alt" :data-satellite-content-menu="item.satelliteMenu" :data-satellite-content-menulivello="item.satelliteLivello" :href="item.href" :name="item.name" :tabindex="disableTabindexIf(!isAccordionExpanded)" :target="item.target">
+                        <span>{{ item.label }}</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </menu-accordion>
+
+
+
+    
+
+    <menu-accordion inline-template>
+        <nav :class="['header-menu', 'MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="main-menu-accordion" aem-comp="MenuAccordion" data-anchor-id="ANCHORID" :aria-labelledby="'menu-accordion-title-' + stringToSlug(jsonLinks.section) + '-' + _uid" data-json-links="{&#34;accordionGroup&#34;:&#34;header&#34;,&#34;section&#34;:&#34;Contact Us&#34;,&#34;isOpen&#34;:true,&#34;links&#34;:[{&#34;label&#34;:&#34;Contact Us&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/contact-us/contact-our-team&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;},{&#34;label&#34;:&#34;Find a Solution&#34;,&#34;href&#34;:&#34;https://www.enelnorthamerica.com/contact-us/find-a-solution&#34;,&#34;target&#34;:&#34;_self&#34;,&#34;alt&#34;:&#34;&#34;}]}" data-disable-breakpoint-up="lg">
+            
+
+            <div v-if="isAccordionEnabled" class="title">
+                <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link" role="button" tabindex="0" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+stringToSlug(jsonLinks.section)" @click="toggleAccordion" @keydown.enter="toggleAccordion">
+                  {{ jsonLinks.section }}
+                </span>
+            </div>
+
+            <ul :id="'menu-accordion-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu" :aria-hidden="isAccordionExpanded ? 'false' : 'true'">
+                <li v-if="!isAccordionEnabled" class="title">
+                  <span :id="'menu-accordion-title-'+stringToSlug(jsonLinks.section)+'-'+_uid" class="menu-link">
+                    {{ jsonLinks.section }}
+                  </span>
+                </li>
+
+                
+                <li v-for="(item, index) in jsonLinks.links" :key="'menu-accordion-link-'+index" :class="['item', { 'item--active': index === 0 }]">
+                    
+                    <a class="menu-link" :aria-label="item.alt" :data-satellite-content-menu="item.satelliteMenu" :data-satellite-content-menulivello="item.satelliteLivello" :href="item.href" :name="item.name" :tabindex="disableTabindexIf(!isAccordionExpanded)" :target="item.target">
+                        <span>{{ item.label }}</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+    </menu-accordion>
+
+
+
+                </div>
+
+                
+                <a v-if="hasPlatformMenu" class="megamenu-toggler" href="#" role="button" title="Group and country website, social network" :tabindex="disableTabindexIf(!isOpen)" aria-label="Open group menu" @click.prevent="openMegamenu">
+                    <span class="text">Enel group</span>
+                    <img class="caret" src="/etc.clientlibs/enel-common/clientlibs/clientlib-bundle/resources/img/icon-chevron-down.svg" alt=">"/>
+                </a>
+                <div :class="['mobile-contactus']">
+                    <a v-if="contactUsCta" class="cta-button" :href="contactUsCta.href" :target="contactUsCta.target" :aria-label="contactUsCta.ariaLabel">
+                        {{ contactUsCta.label }}
+                    </a>
+                </div>
+            </nav>
+        </div>
+        <div v-if="secondLevelCta && !imageD" class="cta-wrapper">
+            <a class="cta-secondary cta-nav fixed cta-extended-area subscribe-button" :href="secondLevelCta.href" :target="secondLevelCta.target" role="button">
+                {{ secondLevelCta.label }}
+            </a>
+        </div>
+    </header>
+</main-navigation>
+
+
+
+
+
+
+
+<main id="main">
+    
+
+<page-loader inline-template>
+    <div class="PageLoader " aem-id="page-loader-2030304642" aem-comp="PageLoader" role="alertdialog" :aria-live="isActive ? 'assertive' : 'off'" :aria-hidden="isActive ? 'false' : 'true'" :aria-busy="isActive ? 'true' : 'false'">
+
+        <div :class="['spinner', {open:isActive}]" :tabindex="disableTabindexIf(!isActive)" ref="$spinner">
+            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-label="Spinning icon">
+        <circle cx="50" cy="50" r="45"/>
+      </svg>
+        </div>
+
+    </div>
+</page-loader>
+    
+    <div id="disclaimer">
+        
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/enel-common/components/content/hero-cmp/clientlibs/site.lc-67cd59b4e8bb95b1c61f84f04413afee-lc.min.css" type="text/css">
+<script src="/etc.clientlibs/enel-common/components/content/hero-cmp/clientlibs/site.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js"></script>
+
+
+
+
+
+
+<hero inline-template>
+    
+    
+        
+       
+    
+    <section class="Hero    override--color-black  " aem-id="hero-637427578" aem-comp="Hero" ref="component">
+        <div class="container">
+            <div class="wrapper">
+                
+                
+
+                
+
+                <h1 ref="title" class="title shading" v-observe-visibility="{callback: function(isVisible, entry){fadeUp(isVisible, entry, $refs.title, 50, .6)},throttle: 300,}">Privacy Policy</h1>
+
+                <p ref="copy" class="copy" v-observe-visibility="{callback: function(isVisible, entry){fadeUp(isVisible, entry, $refs.copy, 50, .6)},throttle: 300,}"></p>
+
+                
+
+            </div>
+        </div> 
+        <div class="gridWrapper">
+
+
+
+
+
+
+</div>
+    </section>
+
+    
+    
+</hero>
+
+        
+
+
+
+
+
+    
+    
+    
+
+
+<section class="FreeText    " aem-id="free_text-2062605548" aem-comp="FreeText">
+
+    
+
+    <div class="container">
+
+        <div class="row justify-content-center">
+           <div class="col-12 col-md-10">  <!-- col-lg-7 -->
+                <div class="rte general-typo">
+
+
+    <p>When you use our website, you’re trusting us with your information. We understand this is an important responsibility and work to protect your information.</p>
+<p>Our privacy policy sets out how we process the personal information we collect via our websites and services as described therein in the United States and Canada. It is meant to help you understand what information we collect, why we collect it, and address any question or concern you may have about the use of your personal information. </p>
+<p>We may change this Privacy Policy from time to time and therefore we always indicate the date the last changes were published.</p>
+<p>See below our privacy statements and policies for the United States and Canada. <br />
+ <br />
+</p>
+<h2>United States</h2>
+<p><strong>California Consumer Privacy Act (CCPA) </strong><br />
+<a href="/privacy-policy/california-consumer-privacy-act.html">Click here</a> to read privacy statements required under the California Consumer Privacy Act. <br />
+<a href="https://www.enelnorthamerica.com/privacy-policy/Notice-at-Collection-for-CA-Residents">Click here</a> to read  our Notice at Collection for California Residents.<br />
+ <br />
+</p>
+<h2>Canada</h2>
+<p><strong>Canada Privacy Policy </strong><br />
+<a href="/privacy-policy/canada-privacy-policy.html">Click here</a> to read our Privacy Policy for Canada.<br />
+ </p>
+<h2>General Information</h2>
+<p><strong>USA Headquarters</strong><br />
+<br />
+100 Brickstone Square, Suite 300<br />
+Andover, MA 01810</p>
+<p><br />
+ </p>
+
+</div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+    </div>
+    
+
+
+
+
+
+
+<global-footer inline-template>
+    <footer class="Footer  " aem-id="footer-enel-na" aem-comp="Footer">
+
+        <div class="container">
+
+            
+            
+
+<div class="footer-links">
+	           
+    <div class="row">
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion1_0-334804561" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion1_0\u002D334804561-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion1_0\u002D334804561-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          Solutions
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion1_0\u002D334804561-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion1_0\u002D334804561-'+ this.stringToSlug(jsonLinks.section)">Solutions</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/solutions/energy-solutions" data-satellite-content-menu="energy-solutions" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Energy Solutions" target="_self">
+                    <span>Energy Solutions</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/solutions/our-integrated-approach" data-satellite-content-menu="our-integrated-approach" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Our Integrated Approach" target="_self">
+                    <span>Our Integrated Approach</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/solutions/case-studies" data-satellite-content-menu="case-studies" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Case Studies" target="_self">
+                    <span>Case Studies</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion1_1-334804560" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion1_1\u002D334804560-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion1_1\u002D334804560-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          Insights
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion1_1\u002D334804560-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion1_1\u002D334804560-'+ this.stringToSlug(jsonLinks.section)">Insights</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/insights/all-insights" data-satellite-content-menu="all-insights" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="All Insights" target="_self">
+                    <span>All Insights</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/insights/blogs" data-satellite-content-menu="blogs" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Blogs" target="_self">
+                    <span>Blogs</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/insights/ebooks" data-satellite-content-menu="ebooks" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="eBooks" target="_self">
+                    <span>eBooks</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/insights/videos" data-satellite-content-menu="videos" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Videos" target="_self">
+                    <span>Videos</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/insights/infographics" data-satellite-content-menu="infographics" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Infographics" target="_self">
+                    <span>Infographics</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/insights/resource-centers" data-satellite-content-menu="resource-centers" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Resource Centers" target="_self">
+                    <span>Resource Centers</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion1_2-334804559" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion1_2\u002D334804559-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion1_2\u002D334804559-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          Sustainability
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion1_2\u002D334804559-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion1_2\u002D334804559-'+ this.stringToSlug(jsonLinks.section)">Sustainability</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/our-approach" data-satellite-content-menu="our-approach" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Our Approach" target="_self">
+                    <span>Our Approach</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/our-approach/sustainable-energy" data-satellite-content-menu="sustainable-energy" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Sustainable Energy" target="_self">
+                    <span>Sustainable Energy</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/our-approach/value-for-communities" data-satellite-content-menu="value-for-communities" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Value for Communities" target="_self">
+                    <span>Value for Communities</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/our-approach/circular-economy" data-satellite-content-menu="circular-economy" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Circular Economy" target="_self">
+                    <span>Circular Economy</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/our-approach/innovation" data-satellite-content-menu="innovation" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Innovation" target="_self">
+                    <span>Innovation</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/goals-and-progress" data-satellite-content-menu="goals-and-progress" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Goals and Progress" target="_self">
+                    <span>Goals and Progress</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/sustainability/reporting-and-resources" data-satellite-content-menu="reporting-and-resources" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Reporting and Resources" target="_self">
+                    <span>Reporting and Resources</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion1_3-334804558" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion1_3\u002D334804558-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion1_3\u002D334804558-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          About Us
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion1_3\u002D334804558-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion1_3\u002D334804558-'+ this.stringToSlug(jsonLinks.section)">About Us</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/enel-in-north-america" data-satellite-content-menu="enel-in-north-america" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Enel in North America" target="_self">
+                    <span>Enel in North America</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/our-purpose" data-satellite-content-menu="our-purpose" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Our Purpose" target="_self">
+                    <span>Our Purpose</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/our-story" data-satellite-content-menu="our-story" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Our Story" target="_self">
+                    <span>Our Story</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/enel-in-north-america/leadership-team" data-satellite-content-menu="leadership-team" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Leadership Team" target="_self">
+                    <span>Leadership Team</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/enel-in-north-america/corporate-governance" data-satellite-content-menu="corporate-governance" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Corporate Governance" target="_self">
+                    <span>Corporate Governance</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion3_0-334802639" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion3_0\u002D334802639-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion3_0\u002D334802639-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          Careers
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion3_0\u002D334802639-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion3_0\u002D334802639-'+ this.stringToSlug(jsonLinks.section)">Careers</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/careers/life-at-enel" data-satellite-content-menu="life-at-enel" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Life at Enel" target="_self">
+                    <span>Life at Enel</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/careers/work-at-enel" data-satellite-content-menu="works-at-enel" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Works at Enel" target="_self">
+                    <span>Works at Enel</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/careers/diversity-inclusion" data-satellite-content-menu="diversity---inclusion" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Diversity &amp; Inclusion" target="_self">
+                    <span>Diversity &amp; Inclusion</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/careers/apply-at-enel" data-satellite-content-menu="apply-at-enel" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Apply at Enel" target="_self">
+                    <span>Apply at Enel</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion3_1-334802638" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion3_1\u002D334802638-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion3_1\u002D334802638-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          Newsroom
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion3_1\u002D334802638-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion3_1\u002D334802638-'+ this.stringToSlug(jsonLinks.section)">Newsroom</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/newsroom" data-satellite-content-menu="all-news" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="All News" target="_self">
+                    <span>All News</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/newsroom/all-stories" data-satellite-content-menu="stories" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Stories" target="_self">
+                    <span>Stories</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/newsroom/search-press" data-satellite-content-menu="press-releases" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Press Releases" target="_self">
+                    <span>Press Releases</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/media-resources" data-satellite-content-menu="media-resources" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Media Resources" target="_self">
+                    <span>Media Resources</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/newsroom/search-videos" data-satellite-content-menu="videos" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Videos" target="_self">
+                    <span>Videos</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/about-us/newsroom/search-photos" data-satellite-content-menu="photos" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Photos" target="_self">
+                    <span>Photos</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    
+        
+        
+        <div class="col-12 col-md-4 col-lg">
+            <div class="footer-accordion">
+                
+
+
+<menu-accordion inline-template>
+    <nav :class="['MenuAccordion menu-accordion',{ 'menu-accordion--open': isOpen, 'is-enabled': isAccordionEnabled }]" aem-id="menu-accordion3_2-334802637" aem-comp="MenuAccordion" data-anchor-id="1" :aria-labelledby="'menu\u002Daccordion3_2\u002D334802637-'+ this.stringToSlug(jsonLinks.section)" data-disable-breakpoint-up="lg">
+        
+        <div class="title" v-if="isAccordionEnabled">
+        <span class="menu-link" role="button" tabindex="0" @click="toggleAccordion" @keydown.enter="toggleAccordion" :id="'menu\u002Daccordion3_2\u002D334802637-'+ this.stringToSlug(jsonLinks.section)" :aria-label="jsonLinks.section" :aria-expanded="isAccordionExpanded ? 'true' : 'false'" :aria-controls="'menu-accordion-'+ this.stringToSlug(jsonLinks.section)">
+          Contact Us
+        </span>
+        </div>
+
+        <ul class="menu" :id="'menu\u002Daccordion3_2\u002D334802637-'+ this.stringToSlug(jsonLinks.section)" :aria-hidden="isAccordionExpanded ? 'true' : 'false'">
+
+            <li class="title" v-if="!isAccordionEnabled">
+                <span class="menu-link" tabindex="0" :id="'menu\u002Daccordion3_2\u002D334802637-'+ this.stringToSlug(jsonLinks.section)">Contact Us</span>
+            </li>
+
+            <li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/contact-us/contact-our-team" data-satellite-content-menu="contact-us" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Contact Us" target="_self">
+                    <span>Contact Us</span>
+                </a>
+            </li>
+<li class="item">
+                
+                <a class="menu-link" href="https://www.enelnorthamerica.com/contact-us/find-a-solution" data-satellite-content-menu="find-a-solution" data-satellite-content-menulivello="primo livello" :tabindex="disableTabindexIf(!isAccordionExpanded)" aria-label="Find a Solution" target="_self">
+                    <span>Find a Solution</span>
+                </a>
+            </li>
+
+        </ul>
+    </nav>
+</menu-accordion>
+                
+            </div>
+        </div>
+    
+        
+        
+        
+    </div>
+</div>
+
+
+            
+            
+            <div data-v-67ea2020="" class="footer-menu"><!---->
+
+                <nav data-v-67ea2020="" aria-label="Site contentinfo" class="menu">
+                    <div data-v-67ea2020="" class="item"><span data-v-3a9b2e2a="" tabindex="0" id="menu-accordion1_0-334804561-" style="font-weight: 700;" class="menu-link">Other Enel Websites</span></div>
+                    <br/>
+
+                    <div data-v-67ea2020="" class="item item--link"><a data-v-67ea2020="" href="https://www.enel.com/">Enel Group</a></div>
+                    <div data-v-67ea2020="" class="item item--link"><a data-v-67ea2020="" href="https://www.enelxway.com/us/en">Enel X Way</a></div>
+                    <div data-v-67ea2020="" class="item item--link"><a data-v-67ea2020="" href="https://globaltrading.enel.com/">Enel Global
+                            Trading</a></div>
+                    <div data-v-67ea2020="" class="item item--link"><a data-v-67ea2020="" href="https://openinnovability.enel.com/">Enel Open
+                            Innovability</a></div>
+                    <div data-v-67ea2020="" class="item"><a data-v-67ea2020="" href="https://globalprocurement.enel.com/">Enel Global Procurement</a>
+                    </div>
+                    <div data-v-67ea2020="" class="copyright"></div>
+                </nav>
+
+            </div>
+            <br/>
+
+
+
+
+
+            
+
+            <div class="footer-menu">
+
+                
+                <nav class="socials" v-if="!imageD" role="navigation" aria-label="Social links">
+                    <div class="item">
+                        
+                        <a class="social-link" href="https://www.facebook.com/enelnorthamerica" @mousedown="trackSocial(stringToSlug(''))" target="_blank">
+                            <svg width="8" height="16">
+                                <use xlink:href="#icon-facebook" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item">
+                        
+                        <a class="social-link" href="https://twitter.com/Enel_NA" @mousedown="trackSocial(stringToSlug(''))" target="_blank">
+                            <svg width="16" height="16">
+                                <use xlink:href="#icon-twitter" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item">
+                        
+                        <a class="social-link" href="https://www.linkedin.com/company/enelnorthamerica" @mousedown="trackSocial(stringToSlug(''))" target="_blank">
+                            <svg width="14" height="16">
+                                <use xlink:href="#icon-linkedin" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item">
+                        
+                        <a class="social-link" href="https://www.youtube.com/enelnorthamerica" @mousedown="trackSocial(stringToSlug(''))" target="_blank">
+                            <svg width="15" height="16">
+                                <use xlink:href="#icon-youtube" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item">
+                        
+                        <a class="social-link" href="https://www.instagram.com/enelgroup" @mousedown="trackSocial(stringToSlug(''))" target="_blank">
+                            <svg width="16" height="16">
+                                <use xlink:href="#icon-instagram" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item">
+                        
+                        
+                    </div>
+
+                </nav>
+
+                <nav class="menu" aria-label="Site contentinfo">
+                    <div class="item item--link">
+                        
+                        <a href="https://www.enelnorthamerica.com/legal-disclaimer" aria-label="Legal Disclaimer" name="&amp;lid=legal-disclaimer&amp;lpos=footer">Legal Disclaimer</a>
+                    </div>
+<div class="item item--link">
+                        
+                        <a href="https://www.enelnorthamerica.com/privacy-policy" aria-label="Privacy Policy" name="&amp;lid=privacy-policy&amp;lpos=footer">Privacy Policy</a>
+                    </div>
+<div class="item item--link">
+                        
+                        <a href="https://www.enelnorthamerica.com/cookie-policy" aria-label="Cookie Policy" name="&amp;lid=cookie-policy&amp;lpos=footer">Cookie Policy</a>
+                    </div>
+
+                    
+                    <div class="item item--language">
+                        
+
+
+    
+    <language-popover inline-template>
+        <div :class="['LanguagePopover ',{'open': isOpen}]" aem-id="main-language-popover" aem-comp="LanguagePopover" data-languages='[]'>
+
+            <a class="trigger" href="#" role="button" ref="trigger" aria-haspopup="dialog" @click.prevent="openPopover">
+                
+                <img height="12" class="icon" src="/etc.clientlibs/enel-common/clientlibs/clientlib-bundle/resources/img/usa-flag.svg" alt="en"/>English</a>
+            
+            <div :class="['shadow',{'shadow--open': isOpen}]" @click="closePopover"></div>
+
+            <template v-if="isOpen">
+                
+                <span class="invisible-tab" tabindex="0" @focus="setVoiceOverFocus($refs.langItems[0])"></span>
+            </template>
+
+            
+            <div :class="['popover', {'popover--open': isOpen}]" tabindex="-1" role="dialog" aria-modal="true" :aria-hidden="isOpen ? 'false' : 'true'" @keydown.esc="closePopover" @click.stop="closePopover">
+
+                
+                <div class="content" @click.stop="" role="dialog" ref="$dialog" :aria-modal="isOpen ? 'false' : 'true'">
+
+                    <div class="content-inner">
+                        <div :class="{container: isMobile}">
+
+                            
+                            <ul class="menu" role="menu">
+                                
+                                <span class="invisible-tab" aria-hidden="false" @focus="keepFocusOnMenu($refs.langItems[0])" :tabindex="disableTabindexIf(!isOpen)"></span>
+                                <li class="item item--active">
+
+                                    <a href="https://www.enelnorthamerica.com/privacy-policy" ref="langItems" @focus="itemFocused(0)" @blur="isFirstFocus = false" :class="['menu-link', {'hidden-outline': isFirstFocus}]" :tabindex="disableTabindexIf(!isOpen)" key="0" :aria-hidden="(!isOpen)+''" lang="en" hreflang="en" @mousedown="setLanguage('en', true)">English</a>
+                                </li>
+
+
+                                
+                                <span class="invisible-tab" v-if="isOpen" :tabindex="0" @focus="keepFocusOnMenu($refs.langItems[0])"></span>
+                            </ul>
+
+
+                        </div> 
+                    </div> 
+
+                    <div class="arrow"></div>
+
+                </div> 
+            </div> 
+        </div> 
+
+    </language-popover>
+
+
+                    </div>
+                    <div class="copyright">© Enel Spa All Rights Reserved Enel Spa VAT code 15844561009</div>
+                </nav>
+
+                
+                <nav class="socials" v-if="!!imageD" aria-label="Social links" role="menu">
+                    <div class="item" role="menuitem">
+                        <a class="social-link" href="https://www.facebook.com/enelnorthamerica" target="_blank">
+                            <svg width="8" height="16">
+                                <use xlink:href="#icon-facebook" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item" role="menuitem">
+                        <a class="social-link" href="https://twitter.com/Enel_NA" target="_blank">
+                            <svg width="16" height="16">
+                                <use xlink:href="#icon-twitter" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item" role="menuitem">
+                        <a class="social-link" href="https://www.linkedin.com/company/enelnorthamerica" target="_blank">
+                            <svg width="14" height="16">
+                                <use xlink:href="#icon-linkedin" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item" role="menuitem">
+                        <a class="social-link" href="https://www.youtube.com/enelnorthamerica" target="_blank">
+                            <svg width="15" height="16">
+                                <use xlink:href="#icon-youtube" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item" role="menuitem">
+                        <a class="social-link" href="https://www.instagram.com/enelgroup" target="_blank">
+                            <svg width="16" height="16">
+                                <use xlink:href="#icon-instagram" fill="#667790"></use>
+                            </svg>
+                        </a>
+                    </div>
+<div class="item" role="menuitem">
+                        
+                    </div>
+
+                </nav>
+            </div>
+        </div>
+    </footer>
+</global-footer>
+    
+
+
+
+
+
+</main>
+    
+
+
+
+<common-icons inline-template>
+    <div aem-id="main-common-icons-163370809" class="CommonIcons" style="display:none;">
+        
+        
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-facebook" x="0px" y="0px" viewBox="0 0 8 15" enable-background="new 0 0 8 15" xml:space="preserve" role="img" aria-labelledby="titleFacebook contentFacebook">
+    <title id="titleFacebook">Facebook Icon</title>
+            <desc id="contentFacebook"></desc>
+
+            <path d="M5.2,15V8.1H7.55L7.9,5.45H5.2V3.762c0-.772.2-1.3,1.35-1.3H8V.1C7.3.048,6.6,0,5.9,0A3.264,3.264,0,0,0,2.35,3.473V5.45H0V8.1H2.35V15H5.2Z"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-desktop" width="24" height="24" viewBox="0 0 24 24" xml:space="preserve" role="img" aria-labelledby="titleDesktop contentDesktop">
+      <title id="titleDesktop">Desktop Icon</title>
+            <desc id="contentDesktop"></desc>
+
+            <rect id="Rectangle_18742" data-name="Rectangle 18742" width="24" height="24" fill="none" opacity="0"/>
+            <path id="Rectangle_18741" data-name="Rectangle 18741" d="M1,0H19a1,1,0,0,1,1,1V14a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(2.5 3.5)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_3384" data-name="Line 3384" x2="8" transform="translate(8.5 21.5)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_3385" data-name="Line 3385" x2="20" transform="translate(2.5 14.5)" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_3386" data-name="Line 3386" y2="4" transform="translate(12.5 17.5)" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </svg>
+
+        
+         <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H4.68754L15.6865 16H10.9779L0 0ZM1.83203 1H3.9987L13.832 15.0556H11.6654L1.83203 1Z" fill="white"/>
+                <path d="M15.3893 0H13.9449L0.222656 16H1.61155L15.3893 0Z" fill="white"/>
+        </svg> -->
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-twitter" x="0px" y="0px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve" role="img" aria-labelledby="titleTwitter contentTwitter">
+    <title id="titleTwitter">Twitter Icon</title>
+            <desc id="contentTwitter"></desc>
+
+            <!-- <path d="M16,1.5C15.4,1.8,14.8,2,14.1,2c0.7-0.4,1.2-1.1,1.4-1.8c-0.7,0.4-1.4,0.6-2.1,0.8c-1.3-1.3-3.3-1.4-4.7-0.1
+    C8,1.7,7.6,2.9,7.8,4C5.2,3.9,2.8,2.7,1.1,0.6C0.3,2.1,0.7,4,2.2,5c-0.5,0-1-0.2-1.5-0.4v0.1c0,1.5,1.1,2.9,2.6,3.2
+    C2.8,8,2.3,8,1.8,7.9c0.5,1.3,1.7,2.2,3.1,2.3c-1.2,0.9-2.6,1.4-4.1,1.4c-0.3,0-0.5,0-0.8-0.1c1.5,1,3.3,1.5,5.1,1.5
+    c5.1,0.1,9.3-4,9.4-9.2c0,0,0-0.1,0-0.1V3.3C15,2.8,15.6,2.2,16,1.5z"/> -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H4.68754L15.6865 16H10.9779L0 0ZM1.83203 1H3.9987L13.832 15.0556H11.6654L1.83203 1Z"/>
+    <path d="M15.3893 0H13.9449L0.222656 16H1.61155L15.3893 0Z"/>
+
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-youtube" x="0px" y="0px" viewBox="0 0 15 10.51" enable-background="new 0 0 15 10.51" xml:space="preserve" role="img" aria-labelledby="titleYoutube contentYoutube">
+    <title id="titleYoutube">Youtube Icon</title>
+            <desc id="contentYoutube"></desc>
+
+            <path d="M14.691,1.643A1.879,1.879,0,0,0,13.369.321,43.893,43.893,0,0,0,7.5,0,45.631,45.631,0,0,0,1.631.309,1.918,1.918,0,0,0,.309,1.643,19.8,19.8,0,0,0,0,5.251,19.729,19.729,0,0,0,.309,8.859a1.879,1.879,0,0,0,1.322,1.322A43.987,43.987,0,0,0,7.5,10.5a45.631,45.631,0,0,0,5.869-.309,1.879,1.879,0,0,0,1.322-1.322A19.8,19.8,0,0,0,15,5.264,18.8,18.8,0,0,0,14.691,1.643ZM6,7.5V3l3.9,2.249Z "/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-messenger" x="0px" y="0px" viewBox="0 0 13.86 14" enable-background="new 0 0 13.86 14" xml:space="preserve" role="img" aria-labelledby="titleMessenger contentMessenger">
+    <title id="titleMessenger">Messenger Icon</title>
+            <desc id="contentMessenger"></desc>
+
+            <path d="M6.929,0A6.716,6.716,0,0,0,0,6.48a6.312,6.312,0,0,0,2.574,5.039V14l2.364-1.312a7.384,7.384,0,0,0,1.991.272,6.716,6.716,0,0,0,6.929-6.48A6.715,6.715,0,0,0,6.929,0Zm.73,8.689L5.866,6.827,2.416,8.737,6.2,4.722,7.991,6.584l3.452-1.91Z"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-linkedin" x="0px" y="0px" viewBox="0 0 14 12.84" enable-background="new 0 0 14 12.84" xml:space="preserve" role="img" aria-labelledby="titleLinkedin contentLinkedin">
+    <title id="titleLinkedin">Linkedin Icon</title>
+            <desc id="contentLinkedin"></desc>
+
+            <path d="M3.1,12.838H.332V4.095H3.043v8.743ZM1.66,3.043h0A1.533,1.533,0,0,1,0,1.549,1.543,1.543,0,0,1,1.66,0,1.533,1.533,0,0,1,3.32,1.494,1.543,1.543,0,0,1,1.66,3.043ZM14,12.838H10.9V8.3c0-1.162-.5-1.992-1.549-1.992A1.6,1.6,0,0,0,7.858,7.36a2.7,2.7,0,0,0-.055.719v4.7H4.759s.055-8.024,0-8.743H7.8V5.423a2.754,2.754,0,0,1,2.711-1.439C12.451,3.984,14,5.257,14,7.968Z"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-instagram" x="0px" y="0px" viewBox="0 0 15 15" enable-background="new 0 0 15 15" xml:space="preserve" role="img" aria-labelledby="titleInstagram contentInstagram">
+    <title id="titleInstagram">Instagram Icon</title>
+            <desc id="contentInstagram"></desc>
+
+            <path class="cls-1" d="M7.5,1.35c2,0,2.24,0,3,0a4.07,4.07,0,0,1,1.39.25,2.5,2.5,0,0,1,1.42,1.43,3.85,3.85,0,0,1,.26,1.39c0,.79.05,1,.05,3s0,2.24-.05,3a4.07,4.07,0,0,1-.25,1.39,2.52,2.52,0,0,1-1.43,1.43,4.44,4.44,0,0,1-1.39.26c-.79,0-1,0-3,0s-2.24,0-3,0a4.45,4.45,0,0,1-1.4-.26,2.5,2.5,0,0,1-1.42-1.43,4.44,4.44,0,0,1-.26-1.39c0-.79,0-1,0-3s0-2.24,0-3a4.45,4.45,0,0,1,.26-1.4A2.5,2.5,0,0,1,3.08,1.65,4.07,4.07,0,0,1,4.47,1.4c.79,0,1,0,3,0M7.5,0c-2,0-2.29,0-3.09.05A5.64,5.64,0,0,0,2.59.39a3.84,3.84,0,0,0-2.2,2.2A5.64,5.64,0,0,0,.05,4.41c0,.8,0,1,0,3.09s0,2.29.05,3.09a5.64,5.64,0,0,0,.34,1.82,3.84,3.84,0,0,0,2.2,2.2A5.93,5.93,0,0,0,4.41,15c.8,0,1,0,3.09,0s2.29,0,3.09,0a5.93,5.93,0,0,0,1.82-.35,3.84,3.84,0,0,0,2.2-2.2A5.93,5.93,0,0,0,15,10.59c0-.8,0-1.05,0-3.09s0-2.29,0-3.09a5.93,5.93,0,0,0-.35-1.82,3.84,3.84,0,0,0-2.2-2.2A5.64,5.64,0,0,0,10.59.05C9.79,0,9.54,0,7.5,0Z"/>
+            <path class="cls-1" d="M7.5,3.65A3.85,3.85,0,1,0,11.35,7.5,3.85,3.85,0,0,0,7.5,3.65ZM7.5,10A2.5,2.5,0,1,1,10,7.5,2.5,2.5,0,0,1,7.5,10Z"/>
+            <circle class="cls-1" cx="11.5" cy="3.5" r="0.9"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" id="icon-shared-link" viewBox="0 0 15.998 15.961" enable-background="new 0 0 15.998 15.961" xml:space="preserve" role="img" aria-labelledby="titleSharedLink contentSharedLink">
+    <title id="titleSharedLink">Shared Link Icon</title>
+            <desc id="contentSharedLink"></desc>
+
+            <g id="Group_12429" data-name="Group 12429" transform="translate(-511.076 -1371.609)">
+      <path id="Union_7" data-name="Union 7" class="cls-1" d="M15509.716,20916.926a3.889,3.889,0,0,1,0-5.506l2.341-2.348a4,4,0,0,1,5.513,0l-1.061,1.061a2.463,2.463,0,0,0-3.392,0l-2.341,2.348a2.393,2.393,0,0,0,0,3.391,2.456,2.456,0,0,0,3.386,0l2.016-2.016,1.061,1.061-2.016,2.01a3.89,3.89,0,0,1-5.512,0Zm4.86-4.855,1.066-1.066a2.444,2.444,0,0,0,3.386,0l2.347-2.34a2.4,2.4,0,0,0,0-3.393,2.463,2.463,0,0,0-3.392,0l-2.011,2.016-1.061-1.061,2.011-2.016a4,4,0,0,1,5.513,0,3.908,3.908,0,0,1,0,5.514l-2.347,2.346a3.905,3.905,0,0,1-5.513,0Z" transform="translate(-14997 -19531)"/>
+    </g>
+  </svg>
+
+        
+        <svg id="icon-checkmark-success" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" role="img" viewBox="0 0 15 11" aria-labelledby="titleCheckMark contentCheckMark">
+    <title id="titleCheckMark">Checkmark Icon</title>
+            <desc id="contentCheckMark"></desc>
+
+
+            <path class="cls-1" d="M17.141,5.293l-9.2,8.8-3.5-3.344-1.152,1.1,4.649,4.446,10.351-9.9Z" transform="translate(-3.293 -5.293)"/>
+  </svg>
+
+        
+        <svg id="icon-chevron-down" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" role="img" viewBox="0 0 12 7" aria-labelledby="titleChevron contentChevron">
+    <title id="titleChevron">Chevron Icon</title>
+            <desc id="contentChevron"></desc>
+
+            <path d="M7.412,9.5,5.93,10.887l6,5.613,6-5.613L16.447,9.5,11.93,13.726Z" transform="translate(-5.93 -9.5)"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-close" viewBox="0 0 16.414 16.414" aria-labelledby="titleClose contentClose">
+    <title id="titleClose">Close Icon</title>
+            <desc id="contentClose"></desc>
+
+            <g transform="translate(-0.293 -0.293)">
+      <g transform="translate(1 1)">
+        <line x2="15" y2="15" stroke-width="2"/>
+          <line x1="15" y2="15" stroke-width="2"/>
+      </g>
+    </g>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-add" viewBox="0 0 13.106 13.105" aria-labelledby="titleAdd contentAdd">
+    <title id="titleAdd">Add Icon</title>
+            <desc id="contentAdd"></desc>
+
+            <path d="M269.029,575.815h-5.8v-5.8h-1.5v5.8h-5.8v1.5h5.8v5.8h1.5v-5.8h5.8Z" transform="translate(-255.922 -570.012)"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-arrow-increase" viewBox="0 0 12 12" aria-labelledby="titleIncrease contentIncrease">
+    <title id="titleIncrease">Increase Icon</title>
+            <desc id="contentIncrease"></desc>
+            <path d="M80.406,571.9v1.616h5.8l-9.242,9.242L78.11,583.9l9.242-9.241v5.8h1.616V571.9Z" transform="translate(-76.967 -571.904)"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-arrow-oblique" viewBox="0 0 12 12" aria-labelledby="titleOblique contentOblique">
+    <title id="titleOblique">Arrow Oblique Icon</title>
+            <desc id="contentOblique"></desc>
+            <path d="M80.406,571.9v1.616h5.8l-9.242,9.242L78.11,583.9l9.242-9.241v5.8h1.616V571.9Z" transform="translate(-76.968 -571.904)"/>
+  </svg>
+
+        
+        <!-- <svg xmlns="http://www.w3.org/2000/svg"
+             xml:space="preserve"
+             role="img"
+             id="icon-arrow-down"
+             viewBox="0 0 11.236 15"
+             aria-labelledby="titleArrowDown contentArrowDown"
+        >
+    <title id="titleArrowDown">Arrow Down Icon</title>
+            <desc id="contentArrowDown"></desc>
+            <path id="Path_13402"
+                  data-name="Path 13402"
+                  d="M72.048,578.332,68.24,582.14v-12.13h-1.5v12.13l-3.808-3.809-1.06,1.06,5.618,5.619,5.618-5.619Z"
+                  transform="translate(-61.871 -570.01)"/>
+  </svg> -->
+
+        <!--Arrow download-->
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 16 17" id="icon-arrow-down">
+                <title id="titleArrowDown">Arrow Down Icon</title>
+                <desc id="contentArrowDown"></desc>
+                <path d="M14.8589 14.2567L14.9312 14.0765L16 14.4777L15.9447 14.6299C15.856 14.8742 15.6596 15.243 15.3678 15.5882C14.9188 16.119 14.3554 16.4532 13.6729 16.4954L13.5248 16.5H2.47835C1.2142 16.5 0.337436 15.6539 0.0649709 14.6715L0.0362268 14.5576L0 14.3984L0.592383 14.2623L1.11559 14.1393L1.15308 14.2975C1.27266 14.8019 1.63701 15.296 2.35533 15.3466L2.47835 15.3509H13.5248C13.9192 15.3509 14.2543 15.1463 14.5334 14.7973C14.6329 14.6729 14.7178 14.5389 14.7879 14.4047C14.8196 14.3441 14.8431 14.2937 14.8589 14.2567ZM8.19633 11.4942L12.4781 7.06036L13.3019 7.85971L9.02027 12.2935C8.78886 12.5326 8.48679 12.6773 8.1603 12.7078L8.03681 12.7139L7.91276 12.7085C7.62605 12.6834 7.35985 12.5715 7.14251 12.3857L7.05243 12.3016L2.70673 7.86797L3.52564 7.06202L7.87148 11.4958C7.90396 11.5294 7.94389 11.5514 7.98737 11.5603L8.03188 11.5648L8.07779 11.5599C8.10747 11.5536 8.1356 11.5415 8.16083 11.5242L8.19633 11.4942ZM8.57839 0.5V9.34207H7.43165V0.5H8.57839Z" fill="#D3135A"/>
+              </svg>
+
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-arrow-next" viewBox="0 0 48.999 19" aria-labelledby="ArrowNext">
+      <g transform="translate(0)">
+        <rect fill="none"/>
+          <path d="M53.124,135.384h-45" transform="translate(-6.277 -125.884)" fill="rgba(0,0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path d="M211.25,109.759l7.621-7.5-7.621-7.5" transform="translate(-171.871 -92.759)" fill="rgba(0,0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-search" viewBox="0 0 20 20" aria-labelledby="titleSearch-1 contentSearch-1">
+    <title id="titleSearch-1">Search Icon</title>
+            <desc id="contentSearch-1"></desc>
+            <path d="M11.977,3A7.881,7.881,0,0,0,4,10.794a7.881,7.881,0,0,0,7.977,7.794,8.059,8.059,0,0,0,4.267-1.218L22.006,23,24,21.052l-5.689-5.544a7.626,7.626,0,0,0,1.642-4.713A7.881,7.881,0,0,0,11.977,3Zm0,1.834a6.019,6.019,0,0,1,6.1,5.96,6.019,6.019,0,0,1-6.1,5.96,6.019,6.019,0,0,1-6.1-5.96A6.019,6.019,0,0,1,11.977,4.834Z" transform="translate(-4 -3)"/>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-search-2" viewBox="0 0 20 20" aria-labelledby="titleSearch-2 contentSearch-2">
+    <title id="titleSearch-2">icons.alternativeSearch.title</title>
+            <desc id="contentSearch-2">icons.alternativeSearch.desc</desc>
+            <path d="M17.262,8.571A8.536,8.536,0,0,0,8.69,0,8.638,8.638,0,0,0,0,8.571a8.536,8.536,0,0,0,8.571,8.571,8.308,8.308,0,0,0,4.762-1.429l.357-.238L18.214,20l1.667-1.667-4.4-4.524.238-.357A7.951,7.951,0,0,0,17.262,8.571Zm-8.69,6.786A6.86,6.86,0,0,1,1.786,8.571h0A6.86,6.86,0,0,1,8.571,1.786a6.86,6.86,0,0,1,6.786,6.786A6.783,6.783,0,0,1,8.571,15.357Z"/>
+
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-share" viewBox="0 0 17 20" aria-labelledby="titleShare contentShare">
+    <title id="titleShare">Share Icon</title>
+            <desc id="contentShare"></desc>
+
+            <g transform="translate(-737 -98)">
+      <path d="M299.077,20l-10.693,7.178,10.693,6.705" transform="translate(452 81)" fill="none" stroke-width="2"/>
+                <g transform="translate(748 98)" fill="none" stroke-width="1">
+        <circle cx="3" cy="3" r="3" stroke="none"/>
+                    <circle cx="3" cy="3" r="2.5" fill="#fff"/>
+      </g>
+                <g transform="translate(737 105)" fill="none" stroke-width="1">
+        <circle cx="3" cy="3" r="3" stroke="none"/>
+                    <circle cx="3" cy="3" r="2.5" fill="#fff"/>
+      </g>
+                <g transform="translate(748 112)" fill="none" stroke-width="1">
+        <circle cx="3" cy="3" r="3" stroke="none"/>
+                    <circle cx="3" cy="3" r="2.5" fill="#fff"/>
+      </g>
+    </g>
+  </svg>
+
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-filter" viewBox="0 0 12.759 13" aria-labelledby="titleFilter contentFilter">
+    <title id="titleFilter">Filter Icon</title>
+            <desc id="contentFilter"></desc>
+
+            <g transform="translate(-68.677 -65.596)">
+      <path d="M69.114,67.556h1.573A1.541,1.541,0,0,0,72.1,68.632l.039,0a1.543,1.543,0,0,0,1.432-1.014c.008-.022.015-.044.022-.066h6.465c.307,0,.616.006.923,0H81a.437.437,0,1,0,0-.874H74.3c-.235,0-.471,0-.707,0a1.481,1.481,0,0,0-.471-.721,1.577,1.577,0,0,0-.881-.358,1.5,1.5,0,0,0-1.552,1.082H69.114a.437.437,0,1,0,0,.874Z" transform="translate(0)" fill="currentColor"/>
+                <path d="M81,408.682H79.276a1.481,1.481,0,0,0-.472-.724,1.577,1.577,0,0,0-.881-.358,1.5,1.5,0,0,0-1.552,1.082H70.035c-.3,0-.606-.006-.909,0h-.013a.437.437,0,0,0,0,.874h6.563c.23,0,.46,0,.689,0a1.541,1.541,0,0,0,1.417,1.074l.039,0a1.543,1.543,0,0,0,1.432-1.014c.008-.022.015-.044.022-.066H81a.437.437,0,0,0,0-.874Z" transform="translate(0 -337.02)" fill="currentColor"/>
+                <path d="M81,750.682H76.353l-.427,0a1.48,1.48,0,0,0-.472-.722,1.576,1.576,0,0,0-.881-.358,1.5,1.5,0,0,0-1.552,1.082H69.114a.437.437,0,0,0,0,.874h3.9a1.541,1.541,0,0,0,1.418,1.077.286.286,0,0,0,.039,0,1.543,1.543,0,0,0,1.432-1.014c.008-.021.015-.043.022-.065H80.34c.216,0,.431,0,.647,0H81a.437.437,0,0,0,0-.874Z" transform="translate(0 -674.039)" fill="currentColor"/>
+            </g>
+
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-email" viewBox="0 0 13 9.67" aria-labelledby="titleEmail contentEmail">
+    <title id="titleEmail">Email icon</title>
+            <desc id="contentEmail"></desc>
+            <g transform="translate(-317.936 -1366.537)">
+      <path d="M324.436,1372.619l-.6-.444-5.9-4.391v8.423h13v-8.423l-5.9,4.391Z"/>
+                <path d="M324.436,1371.373l6.5-4.835h-13Z"/>
+    </g>
+  </svg>
+        
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="13.972" height="10.643" role="img" id="icon-email-outline" viewBox="0 0 13.972 10.643" aria-labelledby="titleEmailOutline contentEmailOutline">
+            <title id="titleEmailOutline">Icon Email Outline </title>
+            <desc id="contentEmailOutline"></desc>
+            <path d="M12.744,61H1.228A1.23,1.23,0,0,0,0,62.228v8.187a1.23,1.23,0,0,0,1.228,1.228H12.744a1.23,1.23,0,0,0,1.228-1.228V62.228A1.23,1.23,0,0,0,12.744,61Zm-.17.819L7.012,67.381,1.4,61.819ZM.819,70.245V62.394L4.761,66.3Zm.579.579,3.945-3.945,1.382,1.371a.409.409,0,0,0,.578,0L8.651,66.9l3.924,3.924Zm11.756-.579L9.229,66.321,13.153,62.4Z" transform="translate(0 -61)"/>
+        </svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="13.689" height="13.75" role="img" id="icon-phone-outline" viewBox="0 0 13.689 13.75" aria-labelledby="titlePhonelOutline contentPhoneOutline">
+            <title id="titlePhonelOutline">Icon Phone Outline</title>
+            <desc id="contentPhoneOutline"></desc>
+            <g transform="translate(0 0)">
+                <path d="M11.868,35.6a1.435,1.435,0,0,0-1.041-.477,1.484,1.484,0,0,0-1.053.474l-.973.97c-.08-.043-.16-.083-.237-.123-.111-.055-.216-.108-.3-.163a10.579,10.579,0,0,1-2.535-2.31,6.241,6.241,0,0,1-.832-1.312c.253-.231.487-.471.715-.7.086-.086.172-.176.259-.262a1.413,1.413,0,0,0,0-2.131l-.841-.841c-.1-.1-.194-.194-.286-.293-.185-.191-.379-.388-.579-.573a1.458,1.458,0,0,0-1.032-.453,1.509,1.509,0,0,0-1.047.453l-.006.006L1.026,28.921a2.253,2.253,0,0,0-.668,1.432,5.4,5.4,0,0,0,.394,2.286,13.262,13.262,0,0,0,2.356,3.93,14.5,14.5,0,0,0,4.827,3.779,7.52,7.52,0,0,0,2.711.8c.065,0,.132.006.194.006a2.321,2.321,0,0,0,1.777-.764c0-.006.009-.009.012-.015a7,7,0,0,1,.539-.558c.132-.126.268-.259.4-.4a1.537,1.537,0,0,0,.465-1.066,1.48,1.48,0,0,0-.474-1.057Zm1.1,3.243s0,0,0,0c-.12.129-.243.246-.376.376a8.1,8.1,0,0,0-.594.616,1.485,1.485,0,0,1-1.158.49c-.046,0-.1,0-.142,0A6.681,6.681,0,0,1,8.3,39.6a13.683,13.683,0,0,1-4.546-3.561A12.505,12.505,0,0,1,1.534,32.35a4.4,4.4,0,0,1-.345-1.928,1.414,1.414,0,0,1,.425-.915l1.05-1.05a.7.7,0,0,1,.468-.219.659.659,0,0,1,.45.216l.009.009c.188.176.367.357.554.551.1.1.194.2.293.3l.841.841a.588.588,0,0,1,0,.955c-.089.089-.176.179-.265.265-.259.265-.505.511-.773.752-.006.006-.012.009-.015.015a.628.628,0,0,0-.16.7l.009.028A6.751,6.751,0,0,0,5.07,34.49l0,0a11.305,11.305,0,0,0,2.735,2.489,4.2,4.2,0,0,0,.379.206c.111.055.216.108.3.163.012.006.025.015.037.022a.668.668,0,0,0,.3.077.659.659,0,0,0,.468-.213l1.053-1.053a.7.7,0,0,1,.465-.231.627.627,0,0,1,.444.225l.006.006,1.7,1.7A.609.609,0,0,1,12.971,38.846Z" transform="translate(-0.344 -27.406)"/>
+            </g>
+        </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" role="img" id="icon-fax-outline" aria-labelledby="titleFaxlOutline contentFaxOutline">
+            <title id="titleFaxlOutline">Icon Fax OutlineFax outline icon</title>
+            <desc id="contentFaxOutline">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</desc>
+            <g id="Group_18018" data-name="Group 18018">
+                <g id="Group_18017" data-name="Group 18017">
+                    <path id="Path_15960" data-name="Path 15960" d="M14.594,2.875h-.469V.469A.469.469,0,0,0,13.656,0H7.094a.469.469,0,0,0-.469.469V2.875H5.607a1.408,1.408,0,0,0-1.326-.938h-1a1.408,1.408,0,0,0-1.326.938H1.406A1.408,1.408,0,0,0,0,4.281v9.375a1.408,1.408,0,0,0,1.406,1.406h.549A1.408,1.408,0,0,0,3.281,16h1a1.408,1.408,0,0,0,1.326-.937h8.987A1.408,1.408,0,0,0,16,13.656V4.281A1.408,1.408,0,0,0,14.594,2.875ZM1.875,14.125H1.406a.469.469,0,0,1-.469-.469V4.281a.469.469,0,0,1,.469-.469h.469Zm2.875.469a.469.469,0,0,1-.469.469h-1a.469.469,0,0,1-.469-.469V3.344a.469.469,0,0,1,.469-.469h1a.469.469,0,0,1,.469.469ZM7.563.938h5.625V2.875H7.563Zm7.5,12.719a.469.469,0,0,1-.469.469H5.688V3.813h8.906a.469.469,0,0,1,.469.469Z"/>
+                </g>
+            </g>
+            <g id="Group_18020" data-name="Group 18020" transform="translate(6.687 12.304)">
+                <g id="Group_18019" data-name="Group 18019">
+                    <path id="Path_15961" data-name="Path 15961" d="M213.307,392h-.871a.436.436,0,1,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-212 -392)"/>
+                </g>
+            </g>
+            <g id="Group_18022" data-name="Group 18022" transform="translate(9.526 12.304)">
+                <g id="Group_18021" data-name="Group 18021">
+                    <path id="Path_15962" data-name="Path 15962" d="M303.307,392h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-302 -392)"/>
+                </g>
+            </g>
+            <g id="Group_18024" data-name="Group 18024" transform="translate(12.514 12.304)">
+                <g id="Group_18023" data-name="Group 18023">
+                    <path id="Path_15963" data-name="Path 15963" d="M393.307,392h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,0,0,0-.871Z" transform="translate(-392 -392)"/>
+                </g>
+            </g>
+            <g id="Group_18026" data-name="Group 18026" transform="translate(6.687 10.421)">
+                <g id="Group_18025" data-name="Group 18025">
+                    <path id="Path_15964" data-name="Path 15964" d="M213.307,332h-.871a.436.436,0,1,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-212 -332)"/>
+                </g>
+            </g>
+            <g id="Group_18028" data-name="Group 18028" transform="translate(9.526 10.421)">
+                <g id="Group_18027" data-name="Group 18027">
+                    <path id="Path_15965" data-name="Path 15965" d="M303.307,332h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-302 -332)"/>
+                </g>
+            </g>
+            <g id="Group_18030" data-name="Group 18030" transform="translate(12.514 10.421)">
+                <g id="Group_18029" data-name="Group 18029">
+                    <path id="Path_15966" data-name="Path 15966" d="M393.307,332h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-392 -332)"/>
+                </g>
+            </g>
+            <g id="Group_18032" data-name="Group 18032" transform="translate(6.687 8.537)">
+                <g id="Group_18031" data-name="Group 18031">
+                    <path id="Path_15967" data-name="Path 15967" d="M213.307,272h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-212 -272)"/>
+                </g>
+            </g>
+            <g id="Group_18034" data-name="Group 18034" transform="translate(9.526 8.537)">
+                <g id="Group_18033" data-name="Group 18033">
+                    <path id="Path_15968" data-name="Path 15968" d="M303.307,272h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-302 -272)"/>
+                </g>
+            </g>
+            <g id="Group_18036" data-name="Group 18036" transform="translate(12.514 8.537)">
+                <g id="Group_18035" data-name="Group 18035">
+                    <path id="Path_15969" data-name="Path 15969" d="M393.307,272h-.871a.436.436,0,0,0,0,.871h.871a.436.436,0,1,0,0-.871Z" transform="translate(-392 -272)"/>
+                </g>
+            </g>
+            <g id="Group_18038" data-name="Group 18038" transform="translate(7.286 4.821)">
+                <g id="Group_18037" data-name="Group 18037">
+                    <path id="Path_15970" data-name="Path 15970" d="M218.536,152h-6.1a.436.436,0,0,0-.436.436v1.743a.436.436,0,0,0,.436.436h6.1a.436.436,0,0,0,.436-.436v-1.743A.436.436,0,0,0,218.536,152Zm-.436,1.743h-5.228v-.871H218.1Z" transform="translate(-212 -152)"/>
+                </g>
+            </g>
+        </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-print" viewBox="0 0 15.007 14.998" aria-labelledby="titlePrint contentPrint">
+    <title id="titlePrint">Print icon</title>
+            <desc id="contentPrint"></desc>
+            <path d="M209.994,574.451h-2.91v-4.438H197.9v4.438h-2.909v7.623H197.9v2.937h9.188v-2.937h2.91Zm-10.6-2.938h6.188v2.938H199.4Zm6.188,12H199.4v-2.939h6.188Zm2.91-2.937h-1.41v-1.5H197.9v1.5h-1.409v-4.623h12.007Z" transform="translate(-194.987 -570.014)"/>
+
+  </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-play-btn" viewBox="0 0 50 50" aria-labelledby="titlePlay contentPlay">
+    <title id="titlePlay"></title>
+            <desc id="contentPlay"></desc>
+            <g id="play-btn">
+      <circle cx="25" cy="25" r="25" style="opacity:0.25" fill="#ffffff"/>
+                <path d="M19,15l15.5,9.75L19,34.52Z" style="fill:#ffffff"/>
+    </g>
+  </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-user" viewBox="0 0 19.5 20.4" aria-labelledby="titleUserIcon contentUserIcon">
+    <title id="titleUserIcon"></title>
+            <desc id="contentUserIcon"></desc>
+            <g transform="translate(-9.7 -9.8)">
+      <path d="M19.5,19.9h0a9.736,9.736,0,0,0-9.8,9.4v.9H29.2v-.9A9.649,9.649,0,0,0,19.5,19.9Zm-7.9,8.6a7.973,7.973,0,0,1,13.5-4.6h0a7.926,7.926,0,0,1,2.4,4.6Z"/>
+                <path d="M19.5,19.6h0A4.95,4.95,0,0,0,23,11.2a5,5,0,0,0-3.5-1.4h0a4.9,4.9,0,1,0,0,9.8Zm0-1.7a3.159,3.159,0,0,1-3.2-3.2,3.2,3.2,0,1,1,3.2,3.2Z"/>
+  </g>
+  </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-error" viewBox="0 0 18 15" aria-labelledby="titleError contentError">
+    <title id="titleError"></title>
+            <desc id="contentError"></desc>
+            <path d="M19.315,15.876,11.759,3.68a1.467,1.467,0,0,0-2.476,0l-7.556,12.2a1.368,1.368,0,0,0-.019,1.413A1.453,1.453,0,0,0,2.966,18H18.077a1.454,1.454,0,0,0,1.257-.712A1.368,1.368,0,0,0,19.315,15.876ZM11.38,15.5H9.662V13.833H11.38Zm0-3.333H9.662V8H11.38Z" transform="translate(-1.521 -3)"/>
+  </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" id="icon-user-variant" viewBox="0 0 24 24" aria-labelledby="user-icon">
+            <title id="titleError">User icon</title>
+            <desc id="contentError">An icon representing a user</desc>
+            <path id="Path_15911" data-name="Path 15911" d="M15.289,11.76a6.353,6.353,0,1,0-6.579,0A12.014,12.014,0,0,0,0,23.294V24H24v-.706A12.014,12.014,0,0,0,15.289,11.76ZM7.059,6.353A4.941,4.941,0,1,1,12,11.294,4.947,4.947,0,0,1,7.059,6.353ZM1.44,22.588a10.583,10.583,0,0,1,21.12,0Z"/>
+        </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-info" width="15" height="15" viewBox="0 0 15 15" aria-labelledby="titleInfo contentInfo">
+    <title id="titleInfo"></title>
+            <desc id="contentInfo"></desc>
+            <g transform="translate(-172 -463)">
+      <circle cx="7.5" cy="7.5" r="7.5" transform="translate(172 463)" fill="#d3135a"/>
+                <path d="M.9-9.431H3.27v-1.4H.9ZM.975-3h2.22V-8.488H.975Z" transform="translate(177.484 477.83)" fill="#fff"/>
+  </g>
+  </svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-info-outline" width="18" height="18" viewBox="0 0 18 18" aria-labelledby="titleInfo contentInfo">
+      <title id="titleInfo">icons-info-outline-title</title>
+            <desc id="contentInfo">icons-info-outline-desc</desc>
+            <path fill="currentColor" d="M9 18c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9zM9 1.5C4.9 1.5 1.5 4.9 1.5 9s3.3 7.5 7.5 7.5c4.1 0 7.5-3.3 7.5-7.5S13.1 1.5 9 1.5zm.8 5.7H8v1.5h.3v4.4h1.5V7.2zM8 4.4h1.5v1.5H8V4.4z"/>
+    </svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24.579" xml:space="preserve" role="img" id="icon-thumb-up-outline" aria-labelledby="titleThumbsUpOutline contentThumbsUpOutline">
+      <title id="titleThumbsUpOutline"> Icon Thumb Up</title>
+            <desc id="contentThumbsUpOutline"></desc>
+
+            <g transform="translate(-2.5 -3.255)">
+        <g transform="translate(2.5 3.255)">
+          <path d="M27.462,14.893a2.538,2.538,0,0,0-.579-2.1,2.6,2.6,0,0,0-1.973-.921H19.492c.158-.894.316-1.578.473-2.236A23.042,23.042,0,0,0,20.6,6.213a2.573,2.573,0,0,0-2.209-2.92A2.63,2.63,0,0,0,15.31,5.371C14.415,9.4,11,12.157,9.944,12.894A1.61,1.61,0,0,0,9.786,13h-5.6A1.7,1.7,0,0,0,2.5,14.683V24.2a1.7,1.7,0,0,0,1.683,1.683H9.891a4.673,4.673,0,0,1,1.026.447,12.5,12.5,0,0,0,6.549,1.5h6.471A2.67,2.67,0,0,0,26.594,25.7a2.538,2.538,0,0,0-.579-2.1v-.026a2.491,2.491,0,0,0,.868-1.5,2.538,2.538,0,0,0-.579-2.1v-.026a2.491,2.491,0,0,0,.868-1.5,2.538,2.538,0,0,0-.579-2.1v-.026A2.233,2.233,0,0,0,27.462,14.893ZM4.052,24.2V14.683a.124.124,0,0,1,.132-.132h5.05v9.811H4.183A.167.167,0,0,1,4.052,24.2Zm19.911-7.181h.658a1.066,1.066,0,0,1,.789.368.98.98,0,0,1,.237.842,1.1,1.1,0,0,1-1.131.842h-.842a.763.763,0,0,0,0,1.526h.658a1.066,1.066,0,0,1,.789.368.98.98,0,0,1,.237.842,1.1,1.1,0,0,1-1.131.842h-.842a.763.763,0,0,0,0,1.526h.658a1.066,1.066,0,0,1,.789.368.98.98,0,0,1,.237.842,1.1,1.1,0,0,1-1.131.842H17.466a10.878,10.878,0,0,1-5.839-1.341c-.289-.158-.552-.289-.842-.421V14.183c.026-.026.053-.026.053-.053,1.131-.842,4.945-3.893,5.945-8.443a1.1,1.1,0,0,1,1.341-.868,1.063,1.063,0,0,1,.921,1.263,18.37,18.37,0,0,1-.579,3.183,25.542,25.542,0,0,0-.552,2.657,1.351,1.351,0,0,0,.289,1.052,1.278,1.278,0,0,0,1,.447H24.91a1.066,1.066,0,0,1,.789.368.98.98,0,0,1,.237.842,1.1,1.1,0,0,1-1.131.842h-.842a.763.763,0,0,0-.763.763A.754.754,0,0,0,23.963,17.024Z" transform="translate(-2.5 -3.255)"/>
+        </g>
+      </g>
+    </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="23" viewBox="0 0 24 23" role="img" id="icon-thumb-up" aria-labelledby="titleThumbsUp contentThumbsUp">
+
+            <title id="titleThumbsUp">Icon Thumb Down Up</title>
+            <desc id="contentThumbsUp"></desc>
+            <path d="M5.5,13H.5a.5.5,0,0,1-.5-.5V.5A.5.5,0,0,1,.5,0h5A.5.5,0,0,1,6,.5v12A.5.5,0,0,1,5.5,13Z" transform="translate(0 10)"/>
+            <path d="M17,13.75a2.239,2.239,0,0,1-1.235,2,2.239,2.239,0,0,1-1,3,2.222,2.222,0,0,1,.235,1A2.253,2.253,0,0,1,12.75,22H3.5A5.62,5.62,0,0,1,.146,20.854.5.5,0,0,1,0,20.5v-9a.5.5,0,0,1,.276-.447l.843-.421L4,4.39V1A.5.5,0,0,1,4.187.609,3.141,3.141,0,0,1,6,0C7.157,0,9,1.831,9,4a14.378,14.378,0,0,1-.8,4h6.3A2.5,2.5,0,0,1,17,10.5a2.471,2.471,0,0,1-.649,1.675A2.23,2.23,0,0,1,17,13.75Z" transform="translate(7)"/>
+        </svg>
+
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24.579" xml:space="preserve" role="img" id="icon-thumb-down-outline" aria-labelledby="titleThumbsdownOutline contentThumbsdownOutline">
+      <title id="titleThumbsdownOutline">Icon Thumb Down Outline</title>
+            <desc id="contentThumbsdownOutline"></desc>
+
+            <g transform="translate(-2.5 -3.255)">
+        <g transform="translate(2.5 3.255)">
+    <path d="M27.462,16.2a2.538,2.538,0,0,1-.579,2.1,2.6,2.6,0,0,1-1.973.921H19.492c.158.894.316,1.578.473,2.236a23.041,23.041,0,0,1,.631,3.419,2.573,2.573,0,0,1-2.209,2.92,2.63,2.63,0,0,1-3.077-2.078C14.415,21.694,11,18.932,9.944,18.2a1.61,1.61,0,0,1-.158-.105h-5.6A1.7,1.7,0,0,1,2.5,16.407V6.885A1.7,1.7,0,0,1,4.183,5.2H9.891a4.673,4.673,0,0,0,1.026-.447,12.5,12.5,0,0,1,6.549-1.5h6.471a2.67,2.67,0,0,1,2.657,2.131,2.538,2.538,0,0,1-.579,2.1v.026a2.491,2.491,0,0,1,.868,1.5,2.538,2.538,0,0,1-.579,2.1v.026a2.491,2.491,0,0,1,.868,1.5,2.538,2.538,0,0,1-.579,2.1v.026A2.233,2.233,0,0,1,27.462,16.2ZM4.052,6.885v9.522a.124.124,0,0,0,.132.132h5.05V6.727H4.183A.167.167,0,0,0,4.052,6.885Zm19.911,7.181h.658a1.066,1.066,0,0,0,.789-.368.98.98,0,0,0,.237-.842,1.1,1.1,0,0,0-1.131-.842h-.842a.763.763,0,0,1,0-1.526h.658a1.066,1.066,0,0,0,.789-.368.98.98,0,0,0,.237-.842,1.1,1.1,0,0,0-1.131-.842h-.842a.763.763,0,1,1,0-1.526h.658a1.066,1.066,0,0,0,.789-.368.98.98,0,0,0,.237-.842,1.1,1.1,0,0,0-1.131-.842H17.466A10.878,10.878,0,0,0,11.627,6.2c-.289.158-.552.289-.842.421V16.907c.026.026.053.026.053.053,1.131.842,4.945,3.893,5.945,8.443a1.1,1.1,0,0,0,1.341.868,1.063,1.063,0,0,0,.921-1.263,18.37,18.37,0,0,0-.579-3.183,25.542,25.542,0,0,1-.552-2.657,1.351,1.351,0,0,1,.289-1.052,1.278,1.278,0,0,1,1-.447H24.91A1.066,1.066,0,0,0,25.7,17.3a.98.98,0,0,0,.237-.842,1.1,1.1,0,0,0-1.131-.842h-.842a.763.763,0,0,1-.763-.763A.754.754,0,0,1,23.963,14.066Z" transform="translate(-2.5 -3.255)"/>
+        </g>
+      </g>
+    </svg>
+        
+        <svg xml:space="preserve" role="img" id="icon-phone" aria-labelledby="titlePhone contentPhone" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.933 15">
+
+      <title id="titlePhone">Icon Phone</title>
+            <desc id="contentPhone"></desc>
+
+            <g id="phone-call" transform="translate(-0.344 -0.801)">
+        <g id="Group_17971" data-name="Group 17971" transform="translate(0.344 0.801)">
+          <path d="M12.915,36.348a1.566,1.566,0,0,0-1.136-.521,1.619,1.619,0,0,0-1.149.517L9.569,37.4c-.087-.047-.175-.091-.259-.134-.121-.06-.235-.118-.333-.178a11.54,11.54,0,0,1-2.765-2.52A6.808,6.808,0,0,1,5.3,33.139c.276-.252.531-.514.78-.766.094-.094.188-.192.282-.286a1.542,1.542,0,0,0,0-2.325l-.917-.917c-.1-.1-.212-.212-.312-.319-.2-.208-.413-.423-.632-.625a1.591,1.591,0,0,0-1.126-.494,1.646,1.646,0,0,0-1.142.494l-.007.007L1.087,29.059a2.458,2.458,0,0,0-.729,1.562,5.891,5.891,0,0,0,.43,2.493A14.468,14.468,0,0,0,3.359,37.4a15.813,15.813,0,0,0,5.265,4.123,8.2,8.2,0,0,0,2.957.874c.071,0,.144.007.212.007a2.532,2.532,0,0,0,1.939-.833c0-.007.01-.01.013-.017a7.641,7.641,0,0,1,.588-.608c.144-.138.292-.282.437-.433a1.676,1.676,0,0,0,.507-1.163A1.615,1.615,0,0,0,14.76,38.2Zm1.2,3.538s0,0,0,0c-.131.141-.265.269-.41.41a8.836,8.836,0,0,0-.649.672A1.62,1.62,0,0,1,11.8,41.5c-.05,0-.1,0-.155,0a7.288,7.288,0,0,1-2.621-.786,14.926,14.926,0,0,1-4.96-3.884A13.642,13.642,0,0,1,1.642,32.8a4.8,4.8,0,0,1-.376-2.1,1.543,1.543,0,0,1,.464-1l1.146-1.146a.764.764,0,0,1,.511-.239.719.719,0,0,1,.491.235l.01.01c.2.192.4.39.6.6.1.108.212.215.319.326l.917.917a.641.641,0,0,1,0,1.042c-.1.1-.192.195-.289.289-.282.289-.551.558-.843.82-.007.007-.013.01-.017.017a.685.685,0,0,0-.175.763l.01.03A7.365,7.365,0,0,0,5.5,35.135l0,0a12.333,12.333,0,0,0,2.984,2.715,4.587,4.587,0,0,0,.413.225c.121.06.235.118.333.178.013.007.027.017.04.024a.728.728,0,0,0,.333.084.718.718,0,0,0,.511-.232l1.149-1.149a.76.76,0,0,1,.507-.252.684.684,0,0,1,.484.245l.007.007,1.851,1.851A.664.664,0,0,1,14.118,39.886Z" transform="translate(-0.344 -27.406)"/>
+        </g>
+      </g>
+    </svg>
+        
+        <svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleEmergency contentEmergency" width="25" height="25" viewBox="0 0 25 25" id="icon-emergency">
+
+      <title id="titleEmergency">Icon Emergency</title>
+            <desc id="contentEmergency"></desc>
+            <g transform="translate(-2.5 -2.5)">
+        <path d="M15,2.5A12.5,12.5,0,1,0,27.5,15,12.511,12.511,0,0,0,15,2.5Zm1.974,5.421a1.605,1.605,0,1,1-1.605,1.605A1.629,1.629,0,0,1,16.974,7.921Zm4.263,11.526H8.763a.723.723,0,0,1-.658-1.026l3.474-7.816a.716.716,0,0,1,1.316,0l2.474,5.553a.262.262,0,0,0,.447.053l1.658-2.289a.714.714,0,0,1,1.158,0l3.184,4.368A.73.73,0,0,1,21.237,19.447Z"/>
+      </g>
+    </svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="23" viewBox="0 0 24 23" role="img" id="icon-thumb-down" aria-labelledby="titleThumbsdown contentThumbsdown">
+            <title id="titleThumbsdown">Icon Thumb Down</title>
+            <desc id="contentThumbsdown"></desc>
+            <g transform="translate(0 -0.5)">
+                <path d="M5.5.5H.5A.5.5,0,0,0,0,1V13a.5.5,0,0,0,.5.5h5A.5.5,0,0,0,6,13V1A.5.5,0,0,0,5.5.5Z"/>
+                <path d="M24,9.75a2.239,2.239,0,0,0-1.235-2,2.239,2.239,0,0,0-1-3,2.222,2.222,0,0,0,.235-1A2.253,2.253,0,0,0,19.75,1.5H10.5A5.62,5.62,0,0,0,7.146,2.646.5.5,0,0,0,7,3v9a.5.5,0,0,0,.276.447l.843.421L11,19.11V22.5a.5.5,0,0,0,.187.391A3.141,3.141,0,0,0,13,23.5c1.157,0,3-1.831,3-4a14.378,14.378,0,0,0-.8-4h6.3A2.5,2.5,0,0,0,24,13a2.471,2.471,0,0,0-.649-1.675A2.23,2.23,0,0,0,24,9.75Z"/>
+            </g>
+        </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="11" role="img" id="icon-list-view" aria-labelledby="titleListView contentListView" viewBox="0 0 20 11">
+            <title id="titleListView">icons-list-view-title</title>
+            <desc id="contentListView"></desc>
+            <path id="list" d="M4.427,0H20V2.21H4.427Zm0,11V8.79H20V11Zm0-4.421V4.421H20V6.579ZM0,2.21V0H2.24V2.21ZM0,11V8.79H2.24V11ZM0,6.579V4.421H2.24V6.579Z"/>
+        </svg>
+
+        
+        <svg xmlns="http://www.w3.org/2000/svg" width="19.301" height="16.3" role="img" id="icon-map-view" aria-labelledby="titleMapView contentMapView" viewBox="0 0 19.301 16.3">
+            <title id="titleMapView">Icon Map View</title>
+            <desc id="contentMapView"></desc>
+            <path id="map" d="M18.61.1a.833.833,0,0,0-.8,0L12.673,2.85,6.643.1H6.568A.216.216,0,0,0,6.457.042a.873.873,0,0,0-.13-.008h0a.935.935,0,0,0-.121.008A.929.929,0,0,0,6.012.1H5.863L.315,3A1.211,1.211,0,0,0,.1,3.275a.711.711,0,0,0-.1.373V15.236a.655.655,0,0,0,.111.382.911.911,0,0,0,.278.263.729.729,0,0,0,.8,0l5.14-2.749,5.938,2.749h0a.644.644,0,0,0,.2.076,1.9,1.9,0,0,0,.2.008.738.738,0,0,0,.111-.008.189.189,0,0,0,.111-.076h.167L18.61,13a1.132,1.132,0,0,0,.278-.28A.655.655,0,0,0,19,12.335V.764a.655.655,0,0,0-.111-.382A1.132,1.132,0,0,0,18.61.1ZM7.125,1.917l4.75,2.172v9.994l-4.75-2.172ZM1.577,4.089l3.971-2.1v9.926L1.577,14Zm15.846,7.822L13.452,14V4.089l3.971-2.1ZM19,15.236" transform="translate(0.15 0.15)" fill="#0e141a" stroke="#0e141a" stroke-width="0.3"/>
+        </svg>
+        <svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titlePause contentPause" width="8" height="10" viewBox="0 0 8 10" id="icon-pause">
+
+            <title id="titlePause">Icon Pause</title>
+            <desc id="contentPause"></desc>
+            <g transform="translate(-126 -598)">
+              <rect width="2" height="10" transform="translate(126 598)"/>
+                <rect width="2" height="10" transform="translate(132 598)"/>
+            </g>
+        </svg>
+        <svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titlePlay contentPlay" width="8" height="10" viewBox="0 0 8 10" id="icon-play">
+
+            <title id="titlePlay">Pause button icon</title>
+            <desc id="contentPlay">An icon representing a Pause button</desc>
+            <g id="Polygon_1" transform="translate(8) rotate(90)" stroke-linecap="square">
+                <path d="M 8.19575023651123 7 L 1.804250001907349 7 L 5 1.886800050735474 L 8.19575023651123 7 Z" stroke="none"/>
+                <path d="M 5 3.773600101470947 L 3.608500003814697 6 L 6.391499996185303 6 L 5 3.773600101470947 M 5 0 L 10 8 L 0 8 L 5 0 Z" stroke="none"/>
+            </g>
+        </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-labelledby="titleHouse contentHouse" id="icon-house" width="24" height="24" viewBox="0 0 24 24">
+
+      <title id="titleHouse">Pause button icon</title>
+            <desc id="contentHouse"></desc>
+            <g transform="translate(-132)">
+        <g transform="translate(132)" stroke-width="1" opacity="0">
+          <rect width="24" height="24" stroke="none"/>
+            <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+        </g>
+                <path d="M136,8.8V20h5" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+                <path d="M152,8.8V20h-5" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+                <path d="M154,10,144,4l-10,6" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+                <path d="M141,20V15a3,3,0,0,1,6,0v5" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" aria-labelledby="titleBusiness contentBusiness" id="icon-business" width="21.5" height="17.5" viewBox="0 0 21.5 17.5">
+
+      <title id="titleBusiness">Pause button icon</title>
+            <desc id="contentBusiness"></desc>
+            <g transform="translate(306.771 80.736)">
+        <rect width="10" height="16" transform="translate(-306.021 -79.986)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+                <rect width="4" height="3" transform="translate(-303.021 -76.986)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+                <rect width="4" height="3" transform="translate(-303.021 -70.986)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+                <rect width="4" height="3" transform="translate(-293.021 -70.986)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+                <rect width="10" height="10" transform="translate(-296.021 -73.986)" fill="none" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="icon-darksite-bell" viewBox="0 0 24 24" xml:space="preserve" preserveAspectRatio="xMinYMid" role="img" aria-labelledby="titleDarksiteBell contentDarksiteBell">
+      <title id="titleDarksiteBell">Pause button icon</title>
+            <desc id="contentDarksiteBell">Pause button icon</desc>
+
+            <path d="M22,18.4c-0.4,0-1.6-0.1-1.6-1.6v-0.1v-6c0-2.3-1-4.4-2.5-5.8c-0.7-0.8-1.6-1.4-2.5-1.8V0H8.6v3.1c-2.9,1.3-4.9,4.2-4.9,7.6
+      v6.2l0,0c0,1.4-1.2,1.5-1.6,1.5c-0.5,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9l0,0l0,0h6.4v0.3c0,1.9,1.5,3.4,3.4,3.4s3.4-1.5,3.2-3.4
+      v-0.3h6.6c0,0,0,0,0.1,0h0.1c0.5,0,0.9-0.4,0.9-0.9S22.5,18.4,22,18.4z M10.5,1.8h3.1v0.8c-0.5-0.1-1.1-0.2-1.6-0.2s-1,0.1-1.5,0.1
+      V1.8z M5.6,16.9v-6.2c0-3.6,2.9-6.5,6.5-6.5c0.6,0,1.2,0.1,1.8,0.3c0.2,0.1,0.3,0.2,0.6,0.2l0,0C15.3,5,16,5.5,16.6,6.2
+      c1.2,1.1,1.9,2.8,1.9,4.5v6.2l0,0c0,0.6,0.2,1.2,0.4,1.6H5.2C5.4,18.1,5.6,17.5,5.6,16.9L5.6,16.9z M13.4,20.6
+      c0,0.8-0.7,1.5-1.5,1.5s-1.5-0.7-1.5-1.5v-0.3h3V20.6z"/>
+    </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="shape-blue-circle" viewBox="0 0 9 9" xml:space="preserve" preserveAspectRatio="xMinYMid" role="img" aria-labelledby="titleShapeBlueCirle contentShapeBlueCircle">
+          <title id="titleShapeBlueCirle">Shape blue circle icon</title>
+            <desc id="contentShapeBlueCircle">An icon representing a blue circle</desc>
+
+            <path id="Tracciato_13745" data-name="Tracciato 13745" d="M4.5,0A4.5,4.5,0,0,1,9,4.5,4.645,4.645,0,0,1,7.25,8.062,4.27,4.27,0,0,1,4.5,9a4.5,4.5,0,0,1,0-9Z" fill="#1f6dff"/>
+  </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="shape-green-triangle" viewBox="0 0 9 9" xml:space="preserve" preserveAspectRatio="xMinYMid" role="img" aria-labelledby="titleShapeGreenTriangle contentShapeGreenTriangle">
+          <title id="titleShapeGreenTriangle">Shape green triangle icon</title>
+            <desc id="contentShapeGreenTriangle">An icon representing a green triangle</desc>
+
+            <path id="Rettangolo_18854" data-name="Rettangolo 18854" d="M.794,0H8.735A.265.265,0,0,1,9,.265V8.206A.794.794,0,0,1,8.206,9h0A8.206,8.206,0,0,1,0,.794v0A.794.794,0,0,1,.794,0Z" transform="translate(9 9) rotate(-180)" fill="#008c5a"/>
+    </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="shape-red-square" viewBox="0 0 9 9" xml:space="preserve" preserveAspectRatio="xMinYMid" role="img" aria-labelledby="titleShapeRedSquare contentShapeRedSquare">
+          <title id="titleShapeRedSquare">Shape red square icon</title>
+            <desc id="contentShapeRedSquare">An icon representing a red square</desc>
+
+            <rect id="Rettangolo_18816" data-name="Rettangolo 18816" width="9" height="9" fill="#d3135a"/>
+    </svg>
+
+        <svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleLogout contentLogout" width="18" height="15.429" viewBox="0 0 18 15.429" id="icon-logout">
+
+    <title id="titleLogout">Logout button icon</title>
+            <desc id="contentLogout">An icon representing a Logout button</desc>
+            <path d="M1303.721,3998h-4.5a.643.643,0,0,1-.643-.643v-9.643a.643.643,0,0,1,.643-.642h1.019l-2.3-2.305-2.305,2.305h1.02a.643.643,0,0,1,.643.642v7.715h-1.286v-7.071h-1.929a.643.643,0,0,1-.455-1.1l3.857-3.857a.642.642,0,0,1,.909,0l3.857,3.857a.643.643,0,0,1-.455,1.1h-1.929v8.357h3.857a.643.643,0,0,0,.643-.642v-14.143a.644.644,0,0,0-.643-.643H1292.15a.644.644,0,0,0-.643.643v14.143a.643.643,0,0,0,.643.642h5.143V3998h-5.143a1.93,1.93,0,0,1-1.928-1.928v-14.143a1.931,1.931,0,0,1,1.928-1.929h11.572a1.931,1.931,0,0,1,1.929,1.929v14.143A1.93,1.93,0,0,1,1303.721,3998Z" transform="translate(-3980 1305.65) rotate(-90)"/>
+  </svg>
+
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-eye-outline" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="titleEyeOutline contentEyeOutline">
+    <title id="titleEyeOutline">Eye Outline icon</title>
+            <desc id="contentEyeOutline">An icon for show password</desc>
+            <g id="ico_show_pwd" data-name="ico_show pwd" transform="translate(0 -0.064)">
+      <g id="ico_show_pwd-2" data-name="ico_show_pwd">
+        <rect id="Rettangolo_18560" data-name="Rettangolo 18560" width="24" height="24" transform="translate(0 0.064)" fill="none"/>
+          <path id="Tracciato_13530" data-name="Tracciato 13530" d="M12,15.5A3.5,3.5,0,1,1,15.5,12,3.5,3.5,0,0,1,12,15.5Zm0-6A2.5,2.5,0,1,0,14.5,12,2.5,2.5,0,0,0,12,9.5Z" transform="translate(0 0.066)" fill="#667790"/>
+          <path id="Tracciato_13531" data-name="Tracciato 13531" d="M12.142,18.5h-.284c-4.64,0-9.771-5.922-9.986-6.175L1.592,12l.28-.325C2.087,11.422,7.218,5.5,11.858,5.5h.284c4.64,0,9.771,5.922,9.986,6.175l.28.325-.28.325C21.913,12.578,16.782,18.5,12.142,18.5ZM2.923,12c1.133,1.227,5.337,5.5,8.935,5.5h.284c3.6,0,7.8-4.272,8.935-5.5-1.133-1.227-5.337-5.5-8.935-5.5h-.284C8.256,6.5,4.056,10.772,2.923,12Z" transform="translate(0 0.066)" fill="#667790"/>
+      </g>
+    </g>
+  </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" role="img" id="icon-eye" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="titleEye contentEye">
+    <title id="titleEye">Eye icon</title>
+            <desc id="contentEye">An icon for show password</desc>
+            <g id="ico_show_pwd" data-name="ico_show pwd" transform="translate(0 -0.064)">
+    <g id="ico_show_pwd-2" data-name="ico_show_pwd">
+      <path id="Tracciato_13531" data-name="Tracciato 13531" d="M12.142,18.5h-.284c-4.64,0-9.771-5.922-9.986-6.175L1.592,12l.28-.325C2.087,11.422,7.218,5.5,11.858,5.5h.284c4.64,0,9.771,5.922,9.986,6.175l.28.325-.28.325C21.913,12.578,16.782,18.5,12.142,18.5Z" transform="translate(0 0.066)" fill="#667790"/>
+        <rect id="Rettangolo_18560" data-name="Rettangolo 18560" width="24" height="24" transform="translate(0 0.064)" fill="none"/>
+        <path id="Tracciato_13530" data-name="Tracciato 13530" d="M12,15.5A3.5,3.5,0,1,1,15.5,12,3.5,3.5,0,0,1,12,15.5Zm0-6A2.5,2.5,0,1,0,14.5,12,2.5,2.5,0,0,0,12,9.5Z" transform="translate(0 0.066)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
+
+        <svg id="icon-darksitegs" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" role="img" aria-labelledby="titleDarkSiteGS contentDarkSiteGS">
+            <title id="titleDarkSiteGS">Dark site banner icon</title>
+            <desc id="contentDarkSiteGS">An icon representing a dark site banner</desc>
+
+            <path fill="#c40055" d="M803.662,150.752a1.931,1.931,0,0,0-1.419-.534,4.094,4.094,0,0,0-1.533.346L776.156,160.7c-1.717.7-1.96,1.681-1.952,2.2s.259,1.49,1.989,2.168l5.382,2.114a.838.838,0,0,0,1.064-.464.825.825,0,0,0-.463-1.064l-5.382-2.12c-.714-.273-.947-.572-.952-.649s.235-.378.938-.669l24.559-10.128a2.559,2.559,0,0,1,.914-.225.431.431,0,0,1,.256.053c.069.071.122.463-.176,1.166L792.2,177.635c-.289.707-.591.938-.671.942s-.367-.241-.646-.948l-3.647-9.291,3.8-3.813a.823.823,0,0,0,0-1.163.833.833,0,0,0-.581-.236.815.815,0,0,0-.578.238l-4.152,4.171a.184.184,0,0,0-.073.089.761.761,0,0,0-.131.207H785.5l-1.775,8.97a.818.818,0,0,0,1.5.593l2.327-3.767,1.807,4.6c.672,1.726,1.643,1.989,2.163,1.993h.014c.514,0,1.482-.253,2.187-1.951l10.132-24.555c.709-1.71.184-2.588-.191-2.959m-17.824,22.881.639-3.239.53,1.346Z" transform="translate(-774.203 -150.218)"/>
+            <path fill="#3ab5e4" d="M825.464,171.466a1.876,1.876,0,1,1-1.876-1.875,1.876,1.876,0,0,1,1.876,1.875" transform="translate(-803.474 -162.151)"/>
+        </svg>
+
+        <svg id="icon-clock" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" aria-labelledby="alertBannerIcon">
+            <g transform="translate(8.026 8.026)">
+                <circle id="Ellipse_122" data-name="Ellipse 122" cx="16" cy="16" r="16" transform="translate(-0.026 -0.026)" fill="none" stroke-miterlimit="10" stroke-width="2"/>
+                <path id="Path_16082" data-name="Path 16082" d="M8.5,4.5v8.026h6.02" transform="translate(7.553 3.526)" fill="none" stroke-miterlimit="10" stroke-width="2"/>
+            </g>
+        </svg>
+
+        <svg id="icon-lamp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" aria-labelledby="alertBannerIcon">
+            <title id="titleThumbsdown">Lamp icon</title>
+            <desc id="contentThumbsdown">An icon representing a something new inside aria banner</desc>
+            <g id="Group_18018" data-name="Group 18018" transform="translate(5.97 7.961)">
+                <g id="Group_18574" data-name="Group 18574" transform="translate(1.029 -1.961)">
+                    <path id="Path_16086" data-name="Path 16086" d="M1,30a16,16,0,0,1,32,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+                    <line id="Line_4535" data-name="Line 4535" x1="32" transform="translate(1 30)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+                    <path id="Path_16087" data-name="Path 16087" d="M21,30v2a4,4,0,0,1-8,0V30" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+                    <path id="Path_16088" data-name="Path 16088" d="M13,14.5V10h8v4.5" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+                    <line id="Line_4536" data-name="Line 4536" y2="10" transform="translate(17)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+                </g>
+            </g>
+        </svg>
+        <svg id="icon-time" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19" role="img" aria-labelledby="titleTime contentTime">
+            <title id="titleTime">Time icon</title>
+            <desc id="contentTime">An icon representing time</desc>
+            <g id="Raggruppa_16947" data-name="Raggruppa 16947" transform="translate(-923.441 -233.441)">
+                <circle id="Ellisse_115" data-name="Ellisse 115" cx="9" cy="9" r="9" transform="translate(923.941 233.941)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+                <path id="Tracciato_13436" data-name="Tracciato 13436" d="M3508-19755.236v4.135l4.348,2.49" transform="translate(-2575.059 19994.041)" fill="none" stroke="currentColor" stroke-width="1"/>
+            </g>
+        </svg>
+        <svg id="icon-bulb" xmlns="http://www.w3.org/2000/svg" width="35.323" height="33.156" viewBox="0 0 35.323 33.156" role="img" aria-labelledby="titleTime contentTime">
+            <title id="titleBulb">Bulb icon</title>
+            <desc id="contentBulb">
+                An icon representing a bulb
+            </desc>
+            <g transform="translate(0 1)">
+                <path id="Tracciato_13490" data-name="Tracciato 13490" d="M12.886,28.153a1,1,0,0,1-1-.943A12.426,12.426,0,0,0,8.6,19.5,9.723,9.723,0,0,1,6,12.983v-.052A10.226,10.226,0,0,1,9.353,5.765,10.547,10.547,0,0,1,16.812,3a10.547,10.547,0,0,1,7.459,2.763,10.226,10.226,0,0,1,3.352,7.167v.056a9.73,9.73,0,0,1-2.58,6.45,12.424,12.424,0,0,0-3.309,7.769,1,1,0,1,1-2-.107,14.424,14.424,0,0,1,3.837-9.019,7.73,7.73,0,0,0,2.048-5.094,8.24,8.24,0,0,0-2.7-5.746A8.559,8.559,0,0,0,16.843,5h-.062A8.559,8.559,0,0,0,10.7,7.241,8.24,8.24,0,0,0,8,12.989a7.727,7.727,0,0,0,2.069,5.151A14.431,14.431,0,0,1,13.886,27.1a1,1,0,0,1-.942,1.055Z" transform="translate(0.85 -3.998)" fill="currentColor"/>
+                <path id="Linea_3301" data-name="Linea 3301" d="M.707,3.2-.707,1.785,1.785-.707,3.2.707Z" transform="translate(5.357 21.061)" fill="currentColor"/>
+                <path id="Linea_3302" data-name="Linea 3302" d="M1.788,3.183-.7.71.7-.71,3.2,1.763Z" transform="translate(3.395 0.339)" fill="currentColor"/>
+                <path id="Linea_3303" data-name="Linea 3303" d="M3.513,1H0V-1H3.513Z" transform="translate(0 11.897)" fill="currentColor"/>
+                <path id="Linea_3304" data-name="Linea 3304" d="M1.785,3.2-.707.707.707-.707,3.2,1.785Z" transform="translate(27.474 21.061)" fill="currentColor"/>
+                <path id="Linea_3305" data-name="Linea 3305" d="M.7,3.183-.7,1.763,1.788-.71,3.2.71Z" transform="translate(29.436 0.339)" fill="currentColor"/>
+                <path id="Linea_3306" data-name="Linea 3306" d="M3.513,1H0V-1H3.513Z" transform="translate(31.811 11.897)" fill="currentColor"/>
+                <path id="Rettangolo_18050" data-name="Rettangolo 18050" d="M-1-1H12V9H-1ZM10,1H1V7h9Z" transform="translate(12.113 23.155)" fill="currentColor"/>
+            </g>
+        </svg>
+
+        <svg id="icon-world" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33" role="img" aria-labelledby="yitleWorld contentWorld">
+            <title id="titleWorld">World icon</title>
+            <desc id="contentWorld">
+                An icon representing world
+            </desc>
+            <g id="online_billing" transform="translate(1.124 1.124)">
+                <path id="Ellisse_155" data-name="Ellisse 155" d="M15.5-1A16.5,16.5,0,0,1,27.167,27.167,16.5,16.5,0,1,1,3.833,3.833,16.392,16.392,0,0,1,15.5-1Zm0,31A14.5,14.5,0,0,0,25.753,5.247,14.5,14.5,0,0,0,5.247,25.753,14.405,14.405,0,0,0,15.5,30Z" transform="translate(-0.124 -0.124)" fill="currentColor"/>
+                <path id="Ellisse_156" data-name="Ellisse 156" d="M6-1C8.045-1,9.882.839,11.175,4.179A32.438,32.438,0,0,1,13,15.5a32.438,32.438,0,0,1-1.825,11.321C9.882,30.161,8.045,32,6,32S2.118,30.161.825,26.821A32.438,32.438,0,0,1-1,15.5,32.438,32.438,0,0,1,.825,4.179C2.118.839,3.955-1,6-1ZM6,30c1.127,0,2.365-1.458,3.31-3.9A30.422,30.422,0,0,0,11,15.5,30.422,30.422,0,0,0,9.31,4.9C8.365,2.458,7.127,1,6,1S3.635,2.458,2.69,4.9A30.422,30.422,0,0,0,1,15.5,30.422,30.422,0,0,0,2.69,26.1C3.635,28.542,4.873,30,6,30Z" transform="translate(8.876 -0.124)" fill="currentColor"/>
+                <path id="Ellisse_157" data-name="Ellisse 157" d="M15.5-1A32.438,32.438,0,0,1,26.821.825C30.161,2.118,32,3.955,32,6s-1.839,3.882-5.179,5.175A32.438,32.438,0,0,1,15.5,13,32.438,32.438,0,0,1,4.179,11.175C.839,9.882-1,8.045-1,6S.839,2.118,4.179.825A32.438,32.438,0,0,1,15.5-1Zm0,12A30.422,30.422,0,0,0,26.1,9.31C28.542,8.365,30,7.127,30,6s-1.458-2.365-3.9-3.31A30.422,30.422,0,0,0,15.5,1,30.422,30.422,0,0,0,4.9,2.69C2.458,3.635,1,4.873,1,6S2.458,8.365,4.9,9.31A30.422,30.422,0,0,0,15.5,11Z" transform="translate(-0.124 8.876)" fill="currentColor"/>
+            </g>
+        </svg>
+
+        <svg id="icon-person" xmlns="http://www.w3.org/2000/svg" width="36.333" height="32.834" viewBox="0 0 36.333 32.834" role="img" aria-labelledby="titlePerson contentPerson">
+            <title id="titlePerson">Person icon</title>
+            <desc id="contentPerson">
+                An icon representing a person
+            </desc>
+            <g id="Raggruppa_19708" data-name="Raggruppa 19708" transform="translate(-941.833 -3218.583)">
+                <path id="Ellisse_117" data-name="Ellisse 117" d="M6.833-1A7.833,7.833,0,1,1-1,6.833,7.842,7.842,0,0,1,6.833-1Zm0,13.667A5.833,5.833,0,1,0,1,6.833,5.84,5.84,0,0,0,6.833,12.667Z" transform="translate(953.167 3219.583)"/>
+                <path id="Tracciato_13469" data-name="Tracciato 13469" d="M39.333,26.667H3v-1a12.227,12.227,0,0,1,1.466-5.789,14.912,14.912,0,0,1,3.939-4.657A20.488,20.488,0,0,1,21.167,11a20.488,20.488,0,0,1,12.762,4.221,14.912,14.912,0,0,1,3.939,4.657,12.227,12.227,0,0,1,1.466,5.789Zm-34.283-2H37.283C36.631,18.148,29.652,13,21.167,13S5.7,18.148,5.05,24.667Z" transform="translate(938.833 3224.75)"/>
+            </g>
+        </svg>
+    </div>
+</common-icons>
+    
+
+    
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.lc-652a558c3774088b61b0530c184710d1-lc.min.js"></script>
+<script src="/etc.clientlibs/enel-common/clientlibs/clientlib-bundle.lc-5ae50e3b230235a3fdc5bf3e2a6a99d2-lc.min.js"></script>
+
+
+
+
+
+    <script>
+  var touchsupport = ('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)
+  if (!touchsupport) { // browser doesn't support touch
+      document.documentElement.className += "no-touch";
+  }
+    </script>
+    
+</div>
+<script>
+jQuery(document).ready(function () {
+jQuery('.CtaModule[aem-id="cta_module-1466247517"]').appendTo('section.ElevatorPitch[aem-id="elevator_pitch_cmp-2086447693"]');   
+});
+</script>
+
+<style>
+[data-v-1e19a7b4] .title.shading i {
+-webkit-animation: bgClip-data-v-1e19a7b4 4.5s 1;
+animation: bgClip-data-v-1e19a7b4 4.5s 1;
+-webkit-animation-timing-function: linear;
+animation-timing-function: linear;
+color: transparent !important;
+font-style: normal;
+background: transparent repeat-x;
+-webkit-background-clip: text;
+background-size: 700% 200%;
+background-image: linear-gradient(45deg, #008c5a, #55be5a, #41b9e6, #000000, #d3135a, #ff5a0f);
+background-position-x: 100%;
+ font-style: normal;   
+}
+
+h2#content_box-196136808-title {
+font-size: 2.4rem;
+line-height: 1.166667;
+font-weight: 700;
+}
+
+.CtaModule[aem-id="cta_module-1466247517"] {
+margin-top: 60px;
+}
+</style>
+
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+    
+    
+
+
+</body>
+</html>

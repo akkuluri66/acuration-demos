@@ -1,0 +1,217 @@
+Putting It All Together: Block and Index Pricing 2.0 | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Putting It All Together: Block and Index Pricing 2.0
+December 11, 2013
+A few months ago we wrote a post explaining the
+block and index pricing
+model for energy procurement. There’s no one-size-fits-all solution when it comes to tackling the ‘blocks’ of this approach, so as a follow-up to our previous post, we’re diving a little deeper on the different ways to address the block portion of a block and index strategy.
+
+For many large energy consumers, having roughly 80% of their electricity supply hedged, or fixed, about a year into the future is a smart approach. The remaining 20% (or whatever that leftover amount may be) is bought hourly on the spot market index, where the price is tied to market fluctuations. (Note: the block and index strategy can also be applied to the purchase of natural gas.)
+
+The hedged portion of your portfolio doesn’t have to be just one block – in fact, it can consist of multiple blocks, depending on your load profile. Facilities with predictable year-round load, such as data centers, often have only one block, whereas facilities with loads that vary daily or seasonally, such as manufacturers with 24x5 operations or a commercial real estate facility, respectively, tend to have the hedged portion of their energy supply comprised of several blocks. Which approach(es) your facility should select depends on your energy consumption and your risk tolerance.
+
+Not sure of the options for the energy you want to purchase in blocks? Read on for an overview of the most common kinds of blocks, as well as the types of facilities generally best suited for each type.
+
+Annual Blocks Based on Time of Year
+Seasonal:
+Buying energy in seasonal blocks is just what it suggests: meaning that you secure a block of energy for a given season (usually a 3-4 month period). This approach is a good option for those organizations whose energy use varies seasonally, such as some K-12 school districts, commercial real estate facilities, or manufacturers with seasonal production schedules. Seasonal hedging also allows customers to minimize their budget risk during the more volatile winter and summer months, providing an opportunity to purchase energy on the spot market during the generally less volatile shoulder months.
+
+Monthly:
+Monthly energy blocks are bought for specific months, which allows for a bit more granularity compared to the seasonal approach we just discussed. This is a good fit for those facilities in zones with low volatility in prices, making it favorable to stay on straight index pricing for all but a few months here and there. Not sure if you’re in one of these zones?
+Contact our team
+today and we’d be happy to help you figure it out.
+
+Blocks Based on Operating Schedule
+Around-the-clock:
+Around-the-clock blocks of energy are increments of constant energy use over time. This type of block is helpful for those facilities that operate around-the-clock, such as manufacturers with 24x7 schedules or hospitals or data centers, which depend on a constant and consistent energy supply. Around-the-clock blocks are also useful as a “baseload” block to hedge a facility’s minimum hourly use.
+
+On-peak:
+On-peak blocks are those that cover the on-peak hours, typically around 7am-11pm, Monday through Friday (holidays excluded). This hedging method is ideal for buildings with traditional weekday operating schedules, such as an office building.
+
+Off-peak:
+The off-peak hedging approach entails purchasing blocks of energy for the off-peak hours, typically over the weekend, national holidays, and from 11pm-7am during the week. Off-peak blocks are usually good for those facilities with high loads off hours, on weekends, or on holidays, such as manufacturers that have a heavy emphasis on the third shift.
+
+Off-peak blocks and on-peak blocks can often supplement around-the-clock blocks to more closely follow a facility’s load.
+
+If you’re thinking, "My facility’s energy usage is more complex than any one type of block can accommodate,” not to worry. You can create a combination of blocks to fit your organization’s unique energy needs.
+
+For example, if you operate a commercial real estate facility with peak demand of 2.5 MW during on-peak operating hours Monday through Friday, and 1 MW of baseload demand overnight, during holidays, and on the weekends, you could purchase a 1 MW around-the-clock block and layer on an additional 1 MW on-peak block to satisfy your electricity needs. The unhedged portion of the load — approximately 500kW — would be purchased on the spot market.
+
+One thing to be cautious of: the more you slice up the load into smaller-sized blocks (i.e., less than 1MW), the higher the price premium from the supplier. Why? The smaller the block size, the greater the cost the supplier incurs to purchase an “odd lot”, or a portion of a wholesale block, because they have to liquidate the remainder of the block not purchased by the customer and try to sell it on the spot market. This cost is then passed along to the customer.
+
+Energy managers are often strapped for time, and energy supply purchasing can be an extremely nuanced process. Companies do undertake this effort in-house, but it’s helpful to have a neutral third party on your side that doesn’t have a stake in the game for which supplier you choose. Navigating the
+energy procurement
+process with a trusted partner not only can save time, but it can also save you money. By partnering with Enel X,
+Boston Properties saved approximately $5M
+on their energy procurement and had the time to focus on other priorities.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

@@ -1,0 +1,434 @@
+Building automation: cos'è e come funziona | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+FAQ
+Building automation: cos’è e cosa significa?
+Hai bisogno di informazioni?
+CONTATTACI
+Il termine
+building automation
+(automazione degli edifici) si riferisce all’integrazione della tecnologia negli impianti nel settore commerciale e dei servizi. L’obiettivo dei
+sistemi di building automation
+è quello di aumentare i livelli di
+vivibilità, comfort e sicurezza
+degli edifici, oltre a
+ridurre l’impatto ambientale e i
+costi in bolletta
+, grazie a un’infrastruttura di
+supervisione e controllo
+che funziona anche da remoto. I principali sistemi che possono essere controllati in maniera intelligente sono:
+Illuminazione
+Termoregolazione
+Sistemi di sicurezza
+Impianti audio e video
+Dispositivi elettrici
+Comfort Management
+Il sistema più avanzato per la gestione a distanza del tuo impianto di condizionamento.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Questi sistemi hanno diversi campi d’applicazione: uffici, scuole, banche, cantieri, alberghi, agriturismi, palestre, porti, pubbliche amministrazioni, ospedali…
+
+La
+building automation in un’azienda
+, per esempio, potrebbe consistere nel monitoraggio degli accessi alle diverse aree, nell’identificazione di personale e mezzi in transito e nella gestione della loro presenza all’interno di ogni struttura, riducendo drasticamente i rischi di collisione uomo-macchina. Nel caso degli
+uffici
+, invece, si può programmare lo spegnimento degli impianti nel fine settimana e gestire l’illuminazione e il
+condizionamento degli ambienti
+basandosi sul clima esterno o sul numero di persone presenti. Nelle
+strutture sanitarie
+la building automation consente la coordinazione intelligente dei sistemi: migliora la gestione delle chiamate dei degenti e delle comunicazioni interne tra il personale, riducendo i tempi di risposta. È possibile anche ottimizzare le code che si formano per le visite mediche, i prelievi o le analisi negli ambulatori.
+Come funzionano i sistemi di building automation?
+La building automation consiste nell’
+implementazione di sistemi smart e connessioni
+in grado di gestire i processi in un edificio tramite un’unità di controllo centralizzato, grazie ad app o altre piattaforme. Un efficace sistema di building automation permette di
+monitorare le prestazioni e rilevare eventuali guasti
+in modo tempestivo.
+
+L’
+automazione degli edifici
+è resa possibile dall’integrazione di cinque diversi elementi:
+Efficienza energetica per il terziario
+Soluzioni per ridurre i consumi e l’impronta ecologica della tua azienda.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+i
+sensori
+, che rilevano informazioni dall’ambiente circostante e le trasmettono ai controller;
+i
+controller
+, che raccolgono i dati, li elaborano e comandano i sistemi collegati;
+i
+dispositivi di output
+, che eseguono i comandi ricevuti dai controller;
+i
+protocolli di comunicazione
+, che consentono alle varie componenti del sistema di comunicare tra loro con un linguaggio specifico;
+l’
+interfaccia operatore
+, che permette l’accesso e la gestione del sistema di automazione.
+In genere gli impianti si basano su tre tecnologie: BUS, onde convogliate e trasmissione dati wireless.
+
+Sistemi a tecnologia BUS
+I vari dispositivi sono collegati attraverso un doppino intrecciato che trasferisce sia i segnali che l’energia.
+Pro
+:
+
+la sicurezza dei dati trasmessi, l’immunità dai disturbi e la velocità. Ottima soluzione per le nuove costruzioni.
+Contro
+: occorrono lavori di muratura e, in caso di strutture vincolate, potrebbero esserci difficoltà di installazione.
+Sistema a onde convogliate
+I componenti del sistema sono collegati in parallelo e comunicano tra loro attraverso la rete elettrica.
+Pro
+:
+
+ha costi ridotti e bassa invasività, perché non ci sono cavi aggiuntivi da inserire. È una buona soluzione in caso di ristrutturazione.
+Contro
+: minore sicurezza dei dati trasmessi a causa dei disturbi sulle linee elettriche – se non vengono risolti da appositi strumenti – e una velocità di trasmissione bassa.
+Sistemi wireless
+Se l’intervento murario è difficile, si può scegliere la trasmissione wireless basata su onde radio, che può coprire anche vaste aree tramite ripetitori.
+Pro
+:
+
+buona sicurezza dei dati trasmessi, bassa invasività e ridotti costi di installazione; velocità di trasmissione elevata per le tecnologie consolidate.
+Contro
+: sostituzione delle batterie per i dispositivi non raggiunti dal circuito di potenza. I costi sono superiori rispetto alle soluzioni cablate.
+
+Se si usano impianti con
+protocolli proprietari
+è necessario utilizzare solo i componenti di un determinato costruttore. Con
+protocolli standard o aperti
+i prodotti devono invece adottare lo stesso protocollo.
+Quali sono i vantaggi della building automation per un’azienda?
+Usare tecnologie di
+building automation in azienda
+comporta diversi vantaggi.
+
+Riduzione dei consumi energetici
+Una gestione smart e automatizzata degli impianti permette l’
+ottimizzazione del consumo di energia
+. È stato calcolato che si può risparmiare dal 15 al 30% (e in alcuni casi anche oltre), con un minor impatto a livello ecologico, grazie all’abbattimento delle emissioni di anidride carbonica.
+Comfort e maggiore produttività in azienda
+Grazie a un software di gestione remota degli impianti di condizionamento, che applica strumenti di data science ai dati di monitoraggio, si può ottenere un vero
+comfort management
+. L’installazione di sistemi di termoregolazione, che non è invasiva rispetto agli impianti già esistenti, permette di tenere sotto controllo la temperatura nelle diverse zone di un edificio. Un ambiente con una buona efficienza energetica e che risulta confortevole comporta dei vantaggi per la salute e per la produttività.
+Monitoraggio dei consumi
+La presenza di un sistema automatizzato permette di
+tracciare i consumi
+e di individuare eventuali aree critiche in cui occorre intervenire, con l’impiego di Energy Management System
+(EMS)
+.
+Controllo centralizzato e da remoto
+Queste soluzioni consentono una
+gestione semplice e immediata
+, facendo risparmiare tempo e denaro grazie alle app da scaricare su smartphone o tablet.
+Aumento della sicurezza
+L’automazione scavalca le dimenticanze umane e
+previene
+anche gli eventi imprevedibili.
+Energy Management
+Monitora in tempo reale i consumi per accrescere l’efficienza energetica della tua impresa.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Building automation o domotica: quali sono le differenze?
+Building automation e
+domotica
+sono due cose diverse, anche se mirano entrambe a migliorare la qualità della vita delle persone:
+La
+domotica
+riguarda l’ambiente domestico e la gestione di diversi dispositivi all’interno della propria abitazione. In sostanza, automatizza la casa, con la gestione del microclima e dei requisiti energetici, la gestione degli elettrodomestici e delle tapparelle, la comunicazione e l’informazione e, non ultima, la sicurezza.
+La
+building automation
+punta a migliorare e ottimizzare l’efficienza, la vivibilità, il comfort e la sicurezza di un edificio nel suo complesso (palazzo residenziale o d'uffici, azienda, scuola, albergo, ospedale etc.) attraverso l’utilizzo di tecnologie che permettono di gestire in maniera automatizzata e integrata impianti, reti informatiche e di comunicazione.
+Scopri gli altri servizi
+Le soluzioni pensate da Enel X per privati, aziende e Pubblica Amministrazione.
+Comfort Management
+Il sistema più avanzato per la gestione a distanza del tuo impianto di condizionamento.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Energy Management
+Monitora in tempo reale i consumi per accrescere l’efficienza energetica della tua impresa.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Diagnosi e consulenza per le imprese
+Il supporto dei più innovativi sistemi di analisi in ambito energetico per permetterti di raggiungere gli obiettivi dell
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Efficienza energetica per le industrie
+Soluzioni per ridurre i consumi e l’impronta ecologica della tua azienda.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Efficienza energetica per il terziario
+Soluzioni per ridurre i consumi e l’impronta ecologica della tua azienda.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Flessibilità
+Contribuisci con la tua azienda alla stabilità della rete elettrica e monetizza la tua disponibilità.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Caro bollette: come ridurre i costi energetici dell’azienda?
+Caro bollette: come ridurre i costi energetici dell’azienda?
+La bolletta energetica è una delle voci di spesa più rilevanti per un’azienda: ridurla vuol dire aumentare la competitività.
+
+Innovazione
+Soluzioni Business
+Elettrificazione
++2
+Elettrificazione e Transizione Energetica
+Elettrificazione e Transizione Energetica
+Elettrificazione dei consumi e transizione energetica: come raggiungere la carbon neutrality entro il 2050 e limitare il cambiamento climatico. Scopri di più!
+
+Azienda
++7
+Economia circolare
+Elettrificazione
+e-City
+Privato
+Soluzioni Business
+Smart Home
+Pubblica Amministrazione
+Flessibilità, la strada verso la sostenibilità energetica
+Flessibilità, la strada verso la sostenibilità energetica
+Flessibilità e nuove tecnologie: gli strumenti per raggiungere il traguardo della decarbonizzazione
+
+Soluzioni Business
+Innovazione
+Azienda
++2
+Flessibilità energetica: soluzioni e vantaggi per le aziende
+Flessibilità energetica: soluzioni e vantaggi per le aziende
+L’offerta di Enel X per il mondo business, dai programmi di Demand Response al Peak Management.
+
+Innovazione
++1
+Business solutions
+Iscriviti alla nostra newsletter
+Registrati per ricevere le ultime notizie sulle soluzioni e sugli eventi di Enel X per le aziende. Clicca su "iscriviti". Riceverai una email di conferma della tua iscrizione.
+ISCRIVITI
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

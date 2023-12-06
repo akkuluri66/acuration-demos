@@ -1,0 +1,260 @@
+Electricity contracting methods explained
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Australia
+
+EN
+
+
+Explore
+Products & Services
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Resources
+LEARN MORE
+CONTACT US
+Australia
+
+EN
+
+
+Explore
+Products & Services
+LEARN MORE
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Australia
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Renewable Energy
+Energy Advisory
+Demand Response
+Electric Mobility
+You may be interested in
+Peaking Response
+LEARN MORE
+Workplace EV charging program
+LEARN MORE
+Resources
+Electricity contracting methods explained
+From fixed price variable volume to progressive purchasing, there are many different options when it comes to contracting your electricity supply.
+There are several different ways your organisation can contract with electricity suppliers. Each has its pros and cons, and it’s important to choose an option that not only helps your business achieve its goals, but also lets you take advantage of opportunities in a rapidly changing market.
+
+Here’s what you need to know:
+
+Fixed price variable volume (FPVV)
+Often referred to as a traditional electricity contract, this is when a retailer supplies your electricity at a given price. This fixed price is often broken into different peak and off-peak pricing.
+
+Pros
+Cons
+It’s a familiar option, which means you’re unlikely to face any challenges getting this method signed-off.
+You get price certainty for a given period, which means you can budget confidently with the only variable being your usage.
+There’s no ongoing management. Once signed, this is ‘set and forget.
+You’ve taken the price on offer that day and locked in a price for the term, which could reduce or increase between now and the end of your contract period.
+You’ll get charged risk premiums. This is because the retailer has committed a price to you, and they understandably have to add risk premiums to it. These are related to the volume you may or may not use, as well as market risk the retailer is taking.
+Because of the above points, it’s unlikely this will be the lowest cost option for you. Unless, of course, the market increases significantly for the entire period of your contract, at which point you’ll pay a high price for your next contract.
+Level of risk/reward: Low/Low.
+
+Progressive Electricity Purchasing
+Rather than entering into a fixed price contract, progressive purchasing lets you buy ‘blocks’ of electricity at different times throughout the year. This flexible approach means you can lock in future pricing at a time that suits you, or when market conditions are looking favourable. For example, you may want to purchase individual quarters in the future, or a proportion of the load – like 25% of your Q2 2022 load – today.
+
+Pros
+Cons
+By actively managing your purchasing, you can take advantage of short term dips in the market. This helps you save money over time.
+Purchasing your electricity in multiple transactions helps you spread and mitigate risk.
+You can mix and match the beneficial elements of other product types (like fixed price, spot, financial instruments (CFDs) or hedging) to save money. For example, you can still execute a CFD with another third party if you feel it’s good value, and then manage your progressive agreement accordingly.
+You can maintain budget certainty by setting up triggers and maximum spends.
+This is a relatively new method, so your organisation may need some internal education before they feel comfortable making the switch.
+It can be ineffective without correct management.
+Level of risk/reward: Low*/High.
+*assumes there’s a robust governance model in place.
+
+Spot market or pool pass-through
+In this type of contract, you pay the retailer the actual market price during the given period and at the location at which it’s consumed. This sort of contract will have a mark-up from the retailer on the spot price.
+
+Pros
+Cons
+This offers you the lowest cost outcome in the long run (~10 year horizon), because there’s no risk premiums from retailers.
+You pay the intrinsic price of electricity (the actual price of generating the electricity in each time period), which is formulated based on the generator’s dynamic bids and offers.
+There’s no budget certainty and it’s impossible to predict what the market pricing will be.
+You’ll likely see large monthly cash flow fluctuations, which may negatively impact your business.
+Outages or unexpected weather can lead to spot prices being held at levels that you didn’t budget for.
+Level of risk/reward: High/High.
+
+Spot market or pool pass-through combined with financial instruments (CFDs or hedges)
+This is a physical contract where the customer pays the actual price (plus a retailer mark-up) that the market settles for in that given period, and at the location where it’s consumed. To manage some of the volatility in the spot market, you can choose to overlay a financial hedge to create some certainty around the price outcome.
+
+Pros
+Cons
+
+The hedge results in a fixed portion of the load being consumed at a known rate, so you get an element of budget certainty.
+The CFD’s will include risk premiums, because the provider has taken market risk onboard and will therefore price it in.
+Financial instruments may need prudential to be posted, as well as special accounting treatment.
+It’s unlikely you’ll be fully hedged, which will result in exposure to spot prices.
+The CFD is a financial instrument and not linked to physical supply, so if your usage is significantly reduced, the CFD will still need to be settled at the original volume, which would result in significant market risk.
+Level of risk/reward: Med/Med.
+
+As you can see, there’s benefits and risks associated with all contracting methods, and you should make a decision based on what’s best for your organisation, both now and in the future.
+To learn more,
+get in touch
+with one of our energy purchasing experts.
+
+Article
+Energy Advisory
++3
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+Related Content
+Enel X VPP FCAS market leadership
+Enel X VPP FCAS market leadership
+Keeping the electricity grid stable at all times with Frequency Control Ancillary Services
+
+Article
+Demand Response
++3
+ARENA RERT trial proves demand response fast reliable and effective
+ARENA RERT trial proves demand response fast reliable and effective
+Businesses can protect the grid, earn revenue and enhance sustainability with Demand Response
+
+Demand Response
+Article
++3
+Turn energy purchasing into a source of competitive advantage
+Turn energy purchasing into a source of competitive advantage
+Three tips on how to get ahead of the game
+
+Article
+Energy Advisory
++3
+Demand Response addresses the energy trilemma
+Demand Response addresses the energy trilemma
+How Virtual Power Plants address issues of energy security, affordability and sustainability
+
+Demand Response
+Article
++3
+Frequency grid support explained
+Frequency grid support explained
+Help to keep the grid stable at all times with frequency control ancillary services (FCAS) markets
+
+Demand Response
+Article
++3
+Generate revenue from existing assets
+Generate revenue from existing assets
+The food chain is innovating to improve the bottom line with VPPs and Demand Response
+
+Demand Response
+Article
++3
+A Transformative Opportunity for Circular Economy
+A Transformative Opportunity for Circular Economy
+Learn more about how Demand Response contributes to a more sustainable future in this Enel X global whitepaper.
+
+Demand Response
+Whitepaper
++3
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Oxford Cold Storage participates in Virtual Power Plant as part of its sustainability initiative
+
+Case study
+Demand Response
++3
+Matthews Quarries Demand Response
+Matthews Quarries Demand Response
+Our quarrying client earns regular payments for powering down onsite equipment in response to a grid need
+
+Case study
+Demand Response
++3
+✖
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+©Enel X Australia Pty Ltd. All rights reserved | ABN: 49 104 710 278
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+
+

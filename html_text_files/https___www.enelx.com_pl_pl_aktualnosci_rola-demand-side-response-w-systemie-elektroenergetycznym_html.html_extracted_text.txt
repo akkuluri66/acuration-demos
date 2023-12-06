@@ -1,0 +1,149 @@
+Rola Demand Side Response w systemie elektroenergetycznym | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Kim jesteśmy
+Corporate
+Polska
+
+PL
+
+Angielski
+Polska
+Odkrywaj
+Demand Side Response
+Doradztwo i Zrównoważony rozwój
+Doradztwo i Zrównoważony rozwój
+Doradztwo energetyczne
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Odkryj pełną gamę możliwości, jakie daje energia odnawialna.
+Doradztwo energetyczne
+DOWIEDZ SIĘ WIĘCEJ
+Wsparcie
+KONTAKT Z NAMI
+Polska
+
+PL
+
+Angielski
+Polska
+Odkrywaj
+Demand Side Response
+Doradztwo i Zrównoważony rozwój
+DOWIEDZ SIĘ WIĘCEJ
+Doradztwo i Zrównoważony rozwój
+Doradztwo energetyczne
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Wsparcie
+Polska
+Europa
+Irlandia
+Włochy
+Hiszpania
+Zjednoczone Królestwo
+Ameryka północna
+Stany Zjednoczone
+Kanada
+LATAM
+Argentyna
+Brazylia
+Chile
+Kolumbia
+Peru
+APAC
+Australia
+Japonia
+Nowa Zelandia
+Korea Południowa
+Tajwan
+Szukaj tutaj
+Doradztwo energetyczne
+Sustainability
+Demand Side Response
+Szukaj więcej informacji
+Sustainability
+DOWIEDZ SIĘ WIĘCEJ
+Aktualności z rynku energii
+Rola Demand Side Response w systemie elektroenergetycznym
+Starzenie się bloków energetycznych, konieczność stopniowej rezygnacji z nierentownej produkcji energii elektrycznej z węgla i przejście na technologie odnawialnych źródeł energii oraz zmiany klimatyczne to 3 istotne czynniki wpływające na konieczność rozwoju usług polegających na sterowaniu popytem na energię elektryczną. Demand Side Response (DSR) to usługa, która polega na zmniejszeniu bądź przesunięciu w czasie poboru mocy przez odbiorców, którzy w zamian za gotowość do realizacji tej redukcji otrzymują wynagrodzenie.
+
+Dlaczego DSR?
+Zapotrzebowanie na energię elektryczną nie jest jednostajne, zależy zarówno od pory dnia, jak i od pory roku i musi być na bieżąco pokrywane przez źródła wytwórcze. W przypadku deficytu energii w systemie energetycznym (ze względu na awarię bloków energetycznych, z powodu ekstremalnych zjawisk pogodowych - upałów bądź silnych mrozów) i wystąpienia zagrożenia dostaw, stabilność funkcjonowania systemu elektroenergetycznego  stara się zapewnić operator systemu elektroenergetycznego – Polskie Sieci Energetyczne (PSE). Jedną z metod zapewnienia nieprzerwanych dostaw, wykorzystywaną wyłącznie w przypadku osiągnięcia krytycznie niskich poziomów rezerw mocy, są programy DSR w ramach rynku mocy.
+DSR wykorzystywane jest na szeroką skalę w bardzo wielu państwach, prekursorami były Stany Zjednoczone i Wielka Brytania, ale usługi te są coraz chętniej wykorzystywane w coraz większej ilości krajów Europy i świata. Dzięki wykorzystywaniu zarządzania popytem dostawy energii mogą być bardziej niezawodne, ponieważ stanowią dodatkową rezerwę ograniczającą ryzyko wystąpienia tzw. blackoutów.
+
+Wezwania do redukcji
+W razie zaistnienia zagrożenia deficytem mocy i braku dostępnych mocy wytwórczych PSE mogą wzywać uczestników programów DSR do redukcji poboru mocy. Takie wezwania są jednak niezwykle rzadkie. Zgodnie z obowiązującymi przepisami mogą się one odbyć w ściśle określonych warunkach, kiedy rezerwy mocy w KSE spadną poniżej krytycznego poziomu i wykorzystane zostaną inne środki zaradcze.
+Dotychczasowe doświadczenia z udziału w programach DSR, a także dane z raportu KPMG przygotowanego na zlecenie Enel X w 2020 roku „Udział odbiorców w Rynku Mocy - szanse i zagrożenia”, wskazują, że prawdopodobna liczba faktycznych wezwań do redukcji jest stosunkowo niska dla uczestników programów DSR. W wariancie najbardziej realistycznym w całym badanym trzyletnim okresie (2017–2019) warunki umożliwiające ogłoszenie przez PSE okresów zagrożenia wystąpiłyby tylko przez 4 godziny w ciągu 2 dni. Doświadczenia pierwszego roku funkcjonowania rynku mocy potwierdzają te analizy  - mimo wystąpienia rekordowego zapotrzebowania i kilku awarii dużych elektrowni systemowych, operator nie ogłosił ani jednego okresu zagrożenia. Były przeprowadzane jedynie krótkie testy, po których operator zwraca ponad 4 tys. zł/ MWh skutecznie przeprowadzonej redukcji poboru mocy.
+
+DSR a OZE
+Rola DSR w systemie elektroenergetycznym będzie rosła wraz z większym udziałem OZE w polskim miksie energetycznym. Odnawialne Źródła Energii, w przeciwieństwie do energetyki konwencjonalnej, są silnie uzależnione od pogody. Ta nieprzewidywalność powoduje, że zwiększa się efektywność utrzymania rezerw mocy po stronie odbiorców, gdyż jak wykazują statystyki wraz ze wzrostem mocy zwiększa się udział procentowy mocy szczytowych, które są wykorzystywane bardzo rzadko. Większy udział źródeł odnawialnych oznacza także większe zapotrzebowanie na usługi elastyczności, które także mogą być świadczone przez część odbiorców. Usługi te mogą być wykorzystywane częściej, z krótszym czasem wyprzedzenia i zapewniać wsparcie w codziennym bilansowaniu systemu przez PSE, zwłaszcza jeśli maleje udział w produkcji elektrowni cieplnych, które do tej pory świadczyły takie usługi.
+
+DSR a klimat
+Zmiany klimatyczne są przyczyną coraz to częstszych anomalii pogodowych. Te z kolei z jednej strony wpływają mocno na potencjał energetyki odnawialnej, w szczególności wiatrowej, z drugiej same w sobie przyczyniają się do wyczerpywania rezerw mocy. Zjawisko to może być spowodowane wystąpieniem awarii w pracy elektrowni (wskutek suszy i opadania poziomów rzek latem, bądź silnych mrozów zimą) lub zwiększonym zużyciem energii (choćby przez klimatyzatory w trakcie upałów). Wtedy również może zajść potrzeba ograniczenia poboru w szczycie zapotrzebowania na energię, aby uniknąć blackoutu.
+
+Odbiorcy dzięki DSR płacą mniej za energię
+Udział w programach DSR to zdecydowanie większa kontrola nad zużyciem energii w przedsiębiorstwie. Firmy mają również swój wkład w zwiększenie stabilności systemu, a więc gwarancji nieprzerwanych dostaw energii. Natomiast wymierną korzyścią udziału w Programie jest wynagrodzenie uzależnione od potencjału redukcji. Odbiorcy biorący udział w programach DSR mogą liczyć na wynagrodzenie sięgające do 200 tys. złotych rocznie za zdolność do redukcji 1 MW, co przy rosnących cenach energii, stanowi niemałą oszczędność.
+✖
+ENEL X POLSKA
+
+
+Kim jesteśmy
+HSEQ
+Wsparcie
+
+
+FAQ
+PRZECZYTAJ
+
+
+Aktualności
+Dołącz do nas
+
+
+Kariera
+Dostawcy
+ENEL GROUP
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel Global Trading
+ENEL X POLSKA
+
+
+Kim jesteśmy
+HSEQ
+Wsparcie
+
+
+FAQ
+PRZECZYTAJ
+
+
+Aktualności
+Dołącz do nas
+
+
+Kariera
+Dostawcy
+ENEL GROUP
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel Global Trading
+© Enel X Polska Sp. z o.o  Wszelkie prawa zastrzeżone VAT: 5252701584 Kapitał zakładowy: 12.275.150,00 PLN
+Dane firmy
+|
+Informacje prawne
+|
+Polityka prywatności
+|
+Polityka dotyczaca cookies

@@ -1,0 +1,326 @@
+Autoconsumo. ¿Cómo funciona el autoconsumo fotovoltaico?
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Hogares
+Empresas
+Ciudades
+Sobre nosotros
+Corporativo
+España
+
+ES
+
+
+Explora
+SMART LIFE
+Movilidad Sostenible
+Smart home
+HISTORIAS DE ÉXITO
+Energía solar
+Vehículo Eléctrico
+Electrificación en Zaragoza
+VER MÁS
+Productos y servicios
+EQUIPAMIENTO
+Soluciones para el hogar
+SMART HOME
+Descubre Homix
+Climatización
+VER MÁS
+Soporte
+Comunidad de Propietarios
+CONTÁCTANOS
+Hogares
+
+Hogares
+
+Empresas
+
+
+Ciudades
+
+
+España
+
+ES
+
+
+Explora
+VER MÁS
+SMART LIFE
+Movilidad Sostenible
+Smart home
+HISTORIAS DE ÉXITO
+Energía solar
+Vehículo Eléctrico
+Productos y servicios
+VER MÁS
+EQUIPAMIENTO
+Soluciones para el hogar
+SMART HOME
+Descubre Homix
+Soporte
+Comunidad de Propietarios
+Elegir país
+Europa
+España
+Italia
+Polonia
+UK
+Irlanda
+Portugal
+Norte America
+USA
+Canada
+LATAM
+Perú
+Chile
+Argentina
+Brasil
+Colombia
+APAC
+Australia
+Japón
+Corea del Sur
+Taiwan
+Nueva Zelanda
+Buscar en este sitio
+Medio ambiente
+Smart Home
+Autoconsumo
+Eficiencia
+Tal vez te interese:
+Smart Home
+VER MÁS
+Autoconsumo. ¿Cómo funciona el autoconsumo fotovoltaico?
+Con al
+autoconsumo fotovoltaico
+,
+tu empresa puede transformar la energía del sol, fuente limpia y renovable, en ahorro en tu factura energética,
+aprovechando las instalaciones de tu negocio
+.
+
+Para un diseño óptimo de una
+instalación solar fotovoltaica
+, hay que considerar el consumo de la instalación, de forma que se minimicen los excedentes. Para ello, a partir de la curva de consumo del cliente, se tienen en cuenta 3 escenarios:
+Los
+módulos fotovoltaicos
+se instalan sobre la cubierta del cliente. Se encargan de convertir luz solar en energía eléctrica.
+Los módulos fotovoltaicos generan electricidad en
+Corriente Continua
+. Se deben conectar a un inversor fotovoltaico para transformarlo en Corriente Alterna para que funcione con la red interna del cliente.
+El
+sistema FV
+se conecta a la red interior del edificio vía el cuadro eléctrico existente. Se contabilizan los datos energéticos de la instalación del cliente.
+El cliente sigue conectado a la red convencional
+para suministrar electricidad al edificio cuando la instalación FV no aporte la energía suficiente para suministrar toda la energía demandada por el cliente.
+Se
+monitoriza
+el sistema PV y todos los parámetros necesarios para disponer de información personalizada sobre el comportamiento energético del edificio.
+
+¿Cuál es la regulación vigente que aplica a las instalaciones solares fotovoltaicas?
+
+Actualmente, las
+instalaciones solares fotovoltaicas
+en modalidad de autoconsumo están reguladas por el RD 900/2015, actualizado por las condiciones establecidas en RD 15/2018 y RD 244/2019.
+¿Cuál es el beneficio económico que obtengo de la instalación solar fotovoltaica?
+
+
+Los
+beneficios económicos
+principales para el cliente son el coste evitado de electricidad
+autoconsumida
+(que hubiese sido consumida de la red eléctrica convencional)  y los posibles beneficios que puedan provenir de la energía exportada a red, en caso que existan
+excedentes
+.
+
+Solución Fotovoltaica para Empresas
+La solución para ser más competitivo consiguiendo ahorros sustanciales en tu factura eléctrica
+CALCULADORA SOLAR
+¿Qué es una instalación solar fotovoltaica en modalidad de autoconsumo?
+Una
+instalación solar fotovoltaica
+es una instalación capaz de generar
+energía eléctrica de origen renovable
+, obtenida directamente a partir de la radiación solar mediante placas solares fotovoltaicas.
+
+En una instalación solar fotovoltaica en modalidad de
+autoconsumo
+,  la energía generada por la instalación fotovoltaica  es consumida por el consumidor conectado a dicha instalación fotovoltaica.
+
+Los elementos principales de una instalación solar fotovoltaica son los paneles solares, la estructura de sujeción, los inversores, sistema de conexión y monitorización.
+
+¿Existe alguna limitación al tamaño de la instalación solar fotovoltaica?
+Conforme a la normativa vigente, no existe limitación al tamaño de la instalación. Si bien es necesario realizar un diseño óptimo en base a los requisitos descritos anteriormente para asegurar el mejor rendimiento técnico - económico de la
+instalación fotovoltaica de autoconsumo
+.
+
+¿Qué ocurre con la energía vertida a la red? ¿Qué es el mecanismo de compensación simplificado?
+Autoconsumo con excedentes acogido al mecanismo de compensación simplificado
+Mecanismo diseñado para pequeños consumidores renovables de hasta 100 kW.
+Los pequeños consumidores pueden compensar en su factura la energía consumida a través de la red con la energía excedentaria que en un momento determinado no consumen bien a un precio regulado o negociado con la comercializadora en caso de disponer de un contrato con comercializadora libre.
+Este mecanismo de compensación simplifica los tramites, haciendo que la gestión para el beneficio de los excedentes sea mucho mas sencilla para el productor.
+
+Autoconsumo con excedentes NO acogido al mecanismo de compensación simplificado
+La energía excedentaria se vende a precio pool de cada momento vía un contrato con un representante de mercado.
+Es necesario que el titular de la instalación FV se dé de alta como productor.
+
+¿Qué criterios hay que seguir para un correcto diseño y dimensionamiento de una instalación solar fotovoltaica?
+
+
+Es necesario
+diseñar y dimensionar cada
+instalación fotovoltaica
+
+individualmente
+conforme a las condiciones de cada cliente y en base a los siguientes requisitos:
+Energía Solar Fotovoltaica para empresas
+Ahorra con autoconsumo
+
+SABER MÁS
+
+
+
+Espacio disponible
+libre de sombras en las cubiertas y/o terrenos del usuario en la
+calculador solar fotovoltiaca.
+Acoplar la generación de la potencia instalada fotovoltaica de acuerdo a los consumos
+horarios del cliente.
+Se busca una
+minimización de excedentes
+vertidos a red, ya que la remuneración de los mismos es menor que el coste evitado por la energía no consumida de la red convencional.
+Optimización del diseño
+de la instalación en el espacio disponible para maximizar el rendimiento de la instalación.
+
+¿Puedo exportar los excedentes generados por la instalación a la red eléctrica? ¿Existen mecanismos para beneficiarse económicamente?
+Mantenimiento solar fotovoltaica
+Complementamos nuestra oferta de energía solar fotovoltaica con el Servicio de mantenimiento para empresas de este tipo.
+SABER MÁS
+
+
+Sí, la energía excedentaria puede exportarse a la red. Existen
+dos modalidades
+a las que se puede acoger la instalación FV para poder vender dicha energía excedentaria:
+
+1. Autoconsumo con excedentes acogido al mecanismo de compensación simplificado:
+Mecanismo diseñado para pequeños consumidores renovables de hasta 100 kW.
+Los pequeños consumidores pueden compensar en su factura la energía consumida a través de la red con la energía excedentaria que en un momento determinado no consumen bien a un precio regulado o negociado con la comercializadora en caso de disponer de un contrato con comercializadora libre.
+Este mecanismo de compensación simplifica los tramites, haciendo que la gestión para el beneficio de los excedentes sea mucho mas sencilla para el productor.
+2. Autoconsumo con excedentes NO acogido al mecanismo de compensación simplificado:
+La energía excedentaria se vende a precio pool de cada momento vía un contrato con un representante de mercado.
+Es necesario que el titular de la instalación FV se dé de alta como productor.
+
+ESCENARIO 1
+El sistema no genera energía al no haber radiación solar. La demanda se cubre 100% con la red eléctrica.
+ESCENARIO 2
+El sistema genera energía pero no cubre toda la demanda. Se consume toda energía  del sistema y el resto se cubre por la red eléctrica.
+ESCENARIO 3
+El sistema genera más energía que la demandada. El cliente cubre toda su demanda de energía con el sistema y la restante se vierte a la red.
+
+Nuestras Historias
+Accede al blog de Endesa X  ponte al día sobre nuestras iniciativas
+Recuperar el calor para impulsar la Descarbonización
+Recuperar el calor para impulsar la Descarbonización
+Endesa X ha diseñado para Resonac un sistema de recuperación de calor para su planta de producción coruñesa, que logrará reducir un 70% el consumo de las calderas a gas y un 30% del consumo eléctrico de las estufas.
+
+Eficiencia
+Instalaciones Eléctricas
+e-Industries
++4
+Energía solar: ahorro y sostenibilidad para las empresas
+Energía solar: ahorro y sostenibilidad para las empresas
+El alza de los precios de la electricidad está sometiendo a las empresas a un auténtico desafío, ya que la factura de la luz está alcanzando cotas insólitas entre los gastos fijos de las empresas.
+
+Eficiencia
+Autoconsumo
+Solar Fotovoltaica
+e-Industries
++5
+La energía solar puede reducir el consumo eléctrico de tu empresa hasta un 40%
+La energía solar puede reducir el consumo eléctrico de tu empresa hasta un 40%
+Las instalaciones solares fotovoltaicas son capaces de generar energía eléctrica a partir de los rayos del sol. Transformar la radiación solar en electricidad aprovechando las instalaciones de tu empresa proporciona un ahorro significativo a tu factura energética.
+
+Autoconsumo
+e-Industries
++3
+La electrificación es hoy la opción más eficiente para el sector cárnico
+La electrificación es hoy la opción más eficiente para el sector cárnico
+La Descarbonización es hoy el eje de la competitividad empresarial y la Electrificación, la palanca para conseguirlo. Un proceso que ya ha comenzado en la industria española y que ha pasado de ser una opción a ser una necesidad, pues no descarbonizarse sale caro.
+
+Eficiencia
+Instalaciones Eléctricas
+e-Industries
++4
+✖
+Endesa X
+Quienes sómos
+Endesa X Store
+Contacto
+HSEQ
+Soluciones
+
+
+Hogares
+Empresas
+Ciudades
+SOPORTE
+
+
+Preguntas frecuentes
+Media
+
+
+Historias
+Comunicados de prensa
+ÚNETE
+
+
+Trabaja con nosotros
+Innovation hubs
+Hazte partner
+ENEL NETWORK
+
+
+Enel X Global
+Endesa
+Enel Group
+Endesa X
+Quienes sómos
+Endesa X Store
+Contacto
+HSEQ
+Soluciones
+
+
+Hogares
+Empresas
+Ciudades
+SOPORTE
+
+
+Preguntas frecuentes
+Media
+
+
+Historias
+Comunicados de prensa
+ÚNETE
+
+
+Trabaja con nosotros
+Innovation hubs
+Hazte partner
+ENEL NETWORK
+
+
+Enel X Global
+Endesa
+Enel Group
+© Copyright 2023 ENDESA X SERVICIOS S.L. Todos los derechos reservados | CIF número: B01788041
+Créditos
+|
+Legal
+|
+Privacidad
+|
+Cookies

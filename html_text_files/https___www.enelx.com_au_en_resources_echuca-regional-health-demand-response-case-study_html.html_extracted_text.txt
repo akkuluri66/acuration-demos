@@ -1,0 +1,253 @@
+VPP a natural fit for Echuca Regional Health
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Australia
+
+EN
+
+
+Explore
+Products & Services
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Resources
+LEARN MORE
+CONTACT US
+Australia
+
+EN
+
+
+Explore
+Products & Services
+LEARN MORE
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Australia
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Renewable Energy
+Energy Advisory
+Demand Response
+Electric Mobility
+You may be interested in
+Peaking Response
+LEARN MORE
+Workplace EV charging program
+LEARN MORE
+Resources
+VPP a natural fit for Echuca Regional Health
+The hospital protects its equipment, increases site resilience and earns revenue with Demand Response
+In conversation with Mark Hooper, Echuca Regional Health
+Echuca Regional Health is widely recognised throughout the region for its holistic and progressive approach to energy management and sustainability, with a proven innovation track record. As part of its energy strategy, the hospital has been utilising its backup generators to participate in our Virtual Power Plant (VPP) – a collection of distributed energy assets including backup generators, batteries, and flexible loads that work together to provide additional dispatchable capacity to the grid – since 2017. VPPs are called into operation for short durations when large power stations suddenly fail, when demand outweighs supply, or when climatic events threaten grid stability.
+
+Mark Hooper, Executive Project Manager at Echuca Regional Health said VPP participation is a natural fit for the hospital.
+"Participation helps us enhance site resilience in the face of a weakening grid, and earn significant new revenue which can be reinvested into backup power infrastructure to further enhance system reliability."
+Protection from unplanned grid disruptions
+The rapid uptake of renewable energy and retirement of coal fired power plants is impacting grid reliability. The grid needs additional flexible capacity from alternate sources such as VPPs to help stabilise the grid, reduce power prices and prevent broader power outages. VPP participation provides a unique benefit of advanced notification of potential grid disruptions.
+Hooper said, “
+We expect the grid to be reliable and clearly it’s not. We need to ensure our facility is available for its core purpose of providing primary healthcare 24-7-365. With participation we get advanced warning of grid instability, which is advantageous as we can prepare for a grid event and don’t have to experience a break in power if an outage occurs
+.”
+“We view VPP participation as another way of keeping our patients safe. If we know there’s a response request coming, it allows us to fire up our generator and get off the grid, preventing interruption to power.
+”
+
+“We have full site generator backup for the hospital and can synchronise with the grid to take ourselves offline. This means a seamless transition where the site doesn’t experience unscheduled interruptions during events. The fact that joining the VPP allows us to also get paid to respond to these events, it’s a win-win scenario,"
+he added.
+Achieving a new standard of emergency preparation
+By participating in a VPP, Echuca Regional Health is able to regularly test its backup power capabilities at times and in conditions when grid emergencies are most likely to occur, providing the truest test of emergency preparedness and resilience to grid disruptions.
+
+Hooper said,
+“A benefit is that you run your generators during a time you’re likely running a hefty load. The key is, you’re being asked to run your generator when the grid still has power. It’s an excellent tool for testing and ironing out any assumptions made around reliability at a time where you wouldn’t normally run your generator.”
+
+“The reality is that if the grid fails, it’s probably going to be on a hot summer day right when you don’t want it to. VPP participation gives us the strength of conviction to know on a hot day where we’re running a high load, that our generators can do the job.”
+“There have been events where through this program we’ve found some issues we didn’t know existed, and the consequence has been far less than had it occurred at a time when we’d lost power. So, ironing out those problems means that when you lose power and need to run your generator sets, you know the resilience is there, because all those issues are sorted.”
+
+“We’re required to run our generators on load anyway, so if we’re doing it already as part of VPP participation, then we can then defer our weekly test, because we’ve already met the requirements of the Australian standards to test them on load. Another benefit to us is that we also get a payment,”
+he added.
+Protecting sensitive equipment
+VPPs respond quickly to deviations in the grid’s frequency when a large power station or transmission network suddenly fail, to prevent cascading grid failures. Echuca Regional Health participate in this program, which also helps the hospital to protect its sensitive equipment.
+
+“When there’s a frequency event, the VPP automatically switches the site over to our generator. We have electronic equipment that’s sensitive to voltage spikes and frequency deviations. If the grid doesn’t meet it’s required parameters, then we trip off. This helps us because we don’t have groups of interruptions that destroy our sensitive electronic equipment, by short sharp interruptions to power. We were already doing something similar, so it made sense to join this program and get paid for it.”
+A new revenue stream to further enhance reliability
+Hooper said that VPP participation became a hand-in-glove approach for the hospital, where they could be paid for something they were already doing, which could be reinvested into ensuring they have best-in-class redundancy systems.
+
+“Our business model is based on continual improvement, and one element we always run short of is cash. We generate revenue, and engineering departments are not generally revenue generators. It’s nice to get revenue out of assets we already have in use.
+
+Participation allows us to meet all elements of continuous improvement, and generate cash, in a really nicely rounded program,”
+Hooper said.
+The hospital is now looking to further increase its
+demand response
+capacity by seeking approval from its network service provider to export the site’s excess generation capacity to the grid during VPP events.
+
+“We’re currently working on the grid export program. Exporting our generation capacity to the grid will create an income stream to support those assets. We have certain things we’re mandated to do with running our generators – so if we’re doing that anyway, and can be paid for it, we’ll certainly look at it,”
+Hooper said.
+VPPs are a win-win for hospitals and our transforming grid
+Echuca Regional Health is providing what the Australian Energy Market Operator (AEMO) has stated is an urgent need for new forms of capacity on the power grid. VPPs are an obvious and cost-effective solution, and using existing assets means they can be built quickly, providing for a more efficient use of resources and avoiding the need to build expensive new gas peaking power plants.
+
+Hooper said,
+“We’re a small user, the VPP is about a lot of one percenters coming together to help out. I’ve been encouraging my colleagues to participate because most of our sites have generators and have to test them anyway, so we might as well run them and get paid for it.”
+
+“I know some have used the income to increase the size of their fuel supply. Others have used it to install automatic switching or upgrade their PLCs. It’s a win-win because the reliable capacity that we can provide to the grid is improved by putting the money back into improving the reliability of our own backup systems.”
+Case study
+Demand Response
++3
+
+This article originally featured in the
+Institute of Healthcare Engineering Australia
+magazine.
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+Related Content
+ARENA RERT trial proves demand response fast reliable and effective
+ARENA RERT trial proves demand response fast reliable and effective
+Businesses can protect the grid, earn revenue and enhance sustainability with Demand Response
+
+Demand Response
+Article
++3
+Generate revenue from existing assets
+Generate revenue from existing assets
+The food chain is innovating to improve the bottom line with VPPs and Demand Response
+
+Demand Response
+Article
++3
+Backing up South Australia's generation capacity
+Backing up South Australia's generation capacity
+Enel X and the South Australian Government support businesses who want to participate in Demand Response
+
+Demand Response
+Media Release
++3
+A Transformative Opportunity for Circular Economy
+A Transformative Opportunity for Circular Economy
+Learn more about how Demand Response contributes to a more sustainable future in this Enel X global whitepaper.
+
+Demand Response
+Whitepaper
++3
+Enel X VPP FCAS market leadership
+Enel X VPP FCAS market leadership
+Keeping the electricity grid stable at all times with Frequency Control Ancillary Services
+
+Article
+Demand Response
++3
+Demand Response addresses the energy trilemma
+Demand Response addresses the energy trilemma
+How Virtual Power Plants address issues of energy security, affordability and sustainability
+
+Demand Response
+Article
++3
+Frequency grid support explained
+Frequency grid support explained
+Help to keep the grid stable at all times with frequency control ancillary services (FCAS) markets
+
+Demand Response
+Article
++3
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Oxford Cold Storage participates in Virtual Power Plant as part of its sustainability initiative
+
+Case study
+Demand Response
++3
+ESB stresses urgent need for secure electricity market
+ESB stresses urgent need for secure electricity market
+Virtual power plants are critical to providing system security with instant, dispatchable capacity
+
+Renewable Energy
+Article
++3
+✖
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+©Enel X Australia Pty Ltd. All rights reserved | ABN: 49 104 710 278
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+
+

@@ -1,0 +1,217 @@
+Physical PPA vs Virtual PPA | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Physical PPA vs Virtual PPA
+What’s the difference between a physical PPA and a virtual PPA? Find out how renewable energy PPAs help move you towards net-zero carbon emissions.
+April 2, 2021
+One way large commercial, industrial, and institutional energy buyers can quickly and effectively green their portfolios, reduce their carbon footprints, and move towards
+net-zero carbon emissions
+is by entering into either a physical power purchase agreement (PPA) or virtual power purchase agreement (VPPA) for clean energy. So what’s the difference between a physical PPA and a virtual PPA?
+
+What is a physical PPA?
+A physical
+power purchase agreement
+is a contract that a typically large energy buyer enters into with a project developer. (Note that in this article we are specifically concerned with renewable energy projects). The PPA is a contract that schedules the delivery of electricity to the buyer directly from the renewable project and sets its price.
+
+Companies and organizations enter into renewable energy PPAs for different reasons. For instance,
+a PPA contract
+enables them to run at least part of their operations on green power at a fixed, set price, which is great both for the environment and hedge against long-term power prices.  Along with the green power delivered, the energy buyer in a renewable energy PPA receives renewable energy certificates (RECs) for each MWh of energy produced.
+
+What is a virtual PPA?
+A virtual power purchase agreement is a purely financial instrument. No electricity flows to the buyer from the renewable energy project, whether the project is a solar power array or windfarm. Instead, the electricity produced from the project flows directly into its local grid.
+
+So, what’s in it for the buyer? A few things. First, a renewable energy VPPA produces RECs. The buyer owns those RECs, which it retires to reduce its
+scope 2 emissions
+.
+
+Second, a VPPA can often support
+claims of additionality
+. Additionality is a complicated concept, but implies the buyer’s investment is credited with creating new, clean sources of energy, an important distinction on sustainability reports and within the ESG community. Physical PPAs can also support claims of additionality.
+
+A VPPA establishes a fixed price for the electricity produced by the project, typically called the “strike price.” If the wholesale market price, i.e., the price the local grid pays the project developer for the power, exceeds the strike price, the VPPA buyer is paid the difference. If the market price is lower than the VPPA price, the buyer must make up the difference.
+
+So, in summary, physical PPA vs. virtual PPA:
+
+Physical Renewable Energy PPA
+Buyer receives and takes title to physical energy
+Project must be in same load zone as buyer
+Buyer agrees to pay fixed price through supplier or directly to seller
+Buyer receives the project RECs
+Project typically supports claims of additionality.
+Project reduces greenhouse gas emissions, shrinking buyer’s carbon footprint
+
+Virtual PPA
+Buyer does not receive or take title to energy, creating geographical flexibility
+Buyer enters contract-for-differences settled directly with the seller -- buyer is paid when wholesale market price of electricity exceeds the VPPA strike price, but must make up the difference when below the strike price
+Buyer receives the project RECs
+Project typically supports claims of additionality
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

@@ -1,0 +1,235 @@
+Scope 1, 2, 3 Emissions | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Scope 1, 2, 3 Emissions
+May 13, 2021
+Sustainability reporting
+, the public disclosure of a company’s environmental, social and governance (ESG) goals and its progress towards meeting them, is on the rise. For example, in a 2020 report, the Governance and Accountability Institute found that 90% of the S&P 500 were publishing annual sustainability reports. Two common elements of this reporting are Scope 1 and 2 emissions, the building blocks of a company’s greenhouse gas (GHG) footprint. In addition to Scope 1 and 2 emissions, reporting on Scope 3 emissions is now becoming more common, as well. But what exactly are Scope 1, 2, 3 emissions?
+
+The Greenhouse Gas (GHG) Protocol, the leading global accounting tool for GHG emissions, categorizes emissions into these three distinct groups or “scopes.” Together, Scope 1, 2, 3 emissions cast a wide net, describing a comprehensive set of greenhouse gas emissions that companies either emit directly or indirectly. By understanding total emissions, companies can then begin taking actions to mitigate them, perhaps ultimately aiming for a goal like
+net zero carbon
+.
+
+
+Scoping out Scope 1, 2, 3 Emissions
+
+According to GHG Protocol, Scope 1 emissions are direct GHG emissions -- those that
+emanate directly from resources controlled or owned by a company
+. As an example, GHG Protocol mentions emissions from combustion in owned furnaces.
+
+Scope 2 emissions are indirect emissions that come from the generation of purchased electricity consumed by the company, according to GHG Protocol. For example, these emissions could occur at sites like power plants that generate the electricity a company purchases.
+
+Scope 3 emissions are also indirect, and encompass all other indirect emissions. According to GHG Protocol, Scope 3 emissions are “a consequence of the activities of the company, but occur from sources not owned or controlled by the company”— for instance,
+value chain emissions
+like delivery of goods or end-of-life-treatment for goods sold.
+
+
+Scope 3 Emissions: It Takes a Supply Chain
+
+For any given company, the trail of Scope 3 emissions can literally lead around the world. That’s because Scope 3 emissions account for activity in a
+supply chain or value chain
+. That’s often harder to control than how you use energy within the four walls of your facilities, and more difficult to account for.
+
+GHG Protocol offers
+some helpful insights
+to Scope 3 emissions while discussing its Scope 3 Standard, first released more than a decade ago in 2011:
+
+Until recently, most companies have focused on measuring emissions from their own operations and electricity consumption. But what about all of the emissions a company is responsible for outside of its own walls – from the goods it purchases to the disposal of the products it sells? In fact, the majority of total corporate emissions come from Scope 3 sources, which means many companies have been missing out on significant opportunities for improvement.
+
+Released in 2011, the Scope 3 Standard is the only internationally accepted method for companies to account for these types of value chain emissions. Users of the standard can now account for emissions from 15 categories of Scope 3 activities, both upstream and downstream of their operations. The Scope 3 framework also supports strategies to partner with suppliers and customers to address climate impacts through the value chain.
+
+-Source:
+GHG Protocol Organization
+
+Scope 3 emissions are easier to understand once you break them down into their component parts, and as noted above GHG Protocol lists 15 discrete categories that comprise Scope 3 emissions. They include areas like purchased goods and services, capital goods, fuel-related activities, waste generated in operations, business travel, and more.
+
+
+Putting the Solutions in Place to Measure and Reduce Emissions
+
+When it comes to Scope 1, 2 and 3, many businesses are looking to reduce their emissions, but may not know where to start. Reducing emissions should be part of an
+integrated energy strategy
+. Below are six key elements for such a strategy; for a full discussion, read our eBook on
+Sustainable Energy Strategy
+.
+Set targets: Energy consumers should choose clear, concrete targets aligned with an organization’s goals. They should seek targets that have a larger context, as well—for example, some companies commit to 100% renewable power and join the Climate Group and CDP’s RE100 initiative.
+Make energy strategy governance an executive priority: To create the biggest impact, a sustainable energy strategy should be incorporated into the overall governance framework of your organization.
+Data collection and management: It’s crucial to have properly managed and tracked data to hit established targets and disclose your progress. This will require collecting and converting data from a variety of emissions sources.
+Mandatory and voluntary reporting: Transparency is crucial to the success of a sustainability strategy. Organizations should establish a disclosure framework based on goals and targets.
+Internal and external engagement: Organizations should work with investors, supply chain partners, customers and employees alike to ensure the success of a strategy.
+Solutions: Organizations can take advantage of a myriad of new technologies by right-sizing the solutions to their needs and footprint.
+PPAs and VPPAs, for instance, are one common way of decreasing scope 2 emissions.
+For Scope 1, using electric vehicles within your fleet can make a big difference.
+
+Find out more about how
+Enel X can help you to reduce your greenhouse gas emissions
+.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

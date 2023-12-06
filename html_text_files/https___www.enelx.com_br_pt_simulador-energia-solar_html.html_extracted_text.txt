@@ -1,0 +1,953 @@
+Calculadora solar online para empresas
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Pessoas
+Empresas
+Cidades
+Quem somos
+Corporativo
+Brasil
+
+PT
+
+
+Explorar
+Soluções inteligentes
+Gestão de energia
+Inteligência artificial na gestão de energia
+Histórias de sucesso
+Energia Solar
+Soluções inteligentes
+Sustentabilidade
+Alcance suas metas
+Gestão de energia 4.0
+SAIBA MAIS
+Produtos e serviços
+Gestão inteligente
+Energy management
+Eficiência energética
+Gestão Inteligente de Faturas de Utilities
+Consultoria e gestão de energia
+Redução voluntária de demanda de energia
+Estruturas eficientes
+Infraestrutura elétrica
+Energia solar
+App & tool
+Simulador de energia solar
+Seja um parceiro
+Cadastro de parceiros
+Cadastro de parceiro
+SAIBA MAIS
+Suporte
+Fale conosco
+Target
+Empresas
+
+Pessoas
+
+Empresas
+
+
+Cidades
+
+
+Brasil
+
+PT
+
+
+Explorar
+SAIBA MAIS
+Soluções inteligentes
+Gestão de energia
+Inteligência artificial na gestão de energia
+Histórias de sucesso
+Energia Solar
+Soluções inteligentes
+Sustentabilidade
+Alcance suas metas
+Produtos e serviços
+SAIBA MAIS
+Gestão inteligente
+Energy management
+Eficiência energética
+Gestão Inteligente de Faturas de Utilities
+Consultoria e gestão de energia
+Redução voluntária de demanda de energia
+Estruturas eficientes
+Infraestrutura elétrica
+Energia solar
+App & tool
+Simulador de energia solar
+Seja um parceiro
+Cadastro de parceiros
+Suporte
+Brasil
+Europa
+Itália
+Polônia
+UK
+Irlanda
+Espanha
+Portugal
+América do Norte
+USA
+Canadá
+LATAM
+Peru
+Chile
+Argentina
+Brasil
+Colômbia
+APAC
+Austrália
+Japão
+Coréia do Sul
+New Zealand
+Buscar
+Soluções inteligentes
+Empresas
+LED
+Eficiência
+Solar
+Gestão inteligente
+Isto pode te interessar
+Alcance metas
+SAIBA MAIS
+Intel. Artificial
+SAIBA MAIS
+Energia 4.0
+SAIBA MAIS
+Simulador
+SAIBA MAIS
+
+Simulador de placa solar para o seu negócio
+
+Simule quanto seu negócio pode economizar com um sistema fotovoltaico em termos de custos de energia e emissões de CO2.
+
+Step
+1
+/
+4
+A simulação possui apenas 3 passos e requer 4 informações simples:
+
+Local da Empresa
+Área para instalação
+Seus custos atuais de energia
+Seu consumo de energia
+
+Não se preocupe se a informação inserida não for exata. Graças à simulação, você ainda poderá obter resultado inicial e uma estimativa da economia que o sistema fotovoltaico pode gerar para sua empresa.
+Voltar
+Iniciar
+Próximo
+Insira o endereço do seu negócio
+
+Onde você gostaria de instalar seu sistema fotovoltaico?
+
+Etapa
+1
+/
+4
+Digite aqui seu endereço
+
+Satélite
+
+Mapa
+
+Escreva o endereço de onde você quer instalar os painéis solares e clique em Confirmar.
+
+Voltar
+Let's Start
+Confimar
+Superfície disponível
+
+Qual área com exposição solar você deseja usar para o sistema?
+
+Etapa
+1
+/
+4
+Digite aqui
+
+Satélite
+
+Mapa
+
+Clique no mapa para indicar o ponto de partida para desenhar a superfície que você gostaria de usar para a sua planta solar. Atenção: é necessário clicar no mapa para indicar os pontos e formar o desenho desejado. Você pode delinear várias áreas ao mesmo tempo (se seu local tiver mais de uma superfície disponível, por exemplo).
+
+Voltar
+Confirmar
+Próximo
+Custos de energia
+
+Quanto você gasta com energia elétrica?
+
+Etapa
+1
+/
+4
+Insira suas despesas energéticas
+
+Eu sei quanto gasto
+
+Despesa média
+Reais
+Período de referência
+Mensal
+Bimestral
+Anual
+Voltar
+Confirmar
+Próximo
+Consumo de energia
+
+Quanta energia você usa para conduzir os negócios da sua empresa?
+
+Etapa
+1
+/
+4
+Insira a quantidade de energia utilizada
+
+Eu sei meu consumo anual
+
+Voltagem
+Baixa tensão (Tensão inferior a 2.3KV)
+Média tensão  (Tensão superior ou igual a 2.3KV)
+Consumo anual de energia
+kWh
+Somando o consumo de todos os meses apresentados na sua conta você encontrará o consumo anual.
+Demanda contratada
+kW
+A demanda contratada só se aplica se você estiver conectado em média e alta tensão. Esta informação também pode ser encontrada na fatura (em kW), que seria a capacidade disponibilizada no sistema para que você pague pelo consumo (kWh).
+Dias de maior consumo:
+Seg a Sex
+Sábado
+Domingo
+Horário de  maior consumo:
+Manhã
+Tarde
+Noite
+Voltar
+Confirmar
+Próximo
+Sua solução feita sob medida
+
+Comece a economizar e gere um impacto positivo sobre o meio ambiente: obtenha uma estimativa gratuita da Enel X, sua parceira de confiança que oferece soluções completas e inovadoras para todas as suas necessidades de energia.
+
+ALTERE SUA SIMULAÇÃO
+Detalhes do seu sistema fotovoltaico e dos benefícios que pode obter
+
+
+kWp
+
+Potência da usina
+
+
+R$/ano
+
+Economia
+
+KWh/ano
+
+Energia produzida
+
+
+t/ano
+
+CO2 economizado
+
+Período de retorno
+
+Fora da escala
+
+Para quem é essa estimativa?
+Empresa
+
+Residencial
+
+SOLICITAR CONTATO
+Preencha abaixo:
+/content/enel-x/br/pt/empresas/obrigado.html
+Nome
+Campo obrigatório
+Sobrenome
+Campo obrigatório
+Empresa
+Campo obrigatório
+Email
+Campo obligatorio
+AD +376
+AE +971
+AG +1268
+AI +1264
+AM +374
+AO +244
+AR +54
+AT +43
+AU +61
+AW +297
+AZ +994
+BA +387
+BB +1246
+BD +880
+BE +32
+BF +226
+BG +359
+BH +973
+BI +257
+BJ +229
+BM +1441
+BN +673
+BO +591
+BR +55
+BS +1242
+BT +975
+BW +267
+BY +375
+BZ +501
+CA +1
+CF +236
+CG +242
+CH +41
+CK +682
+CL +56
+CM +237
+CN +86
+CO +57
+CR +506
+CS +381
+CU +53
+CV +238
+CY +357
+CY +90392
+CZ +42
+DE +49
+DJ +253
+DK +45
+DM +1809
+DO +1809
+DZ +213
+EC +593
+EE +372
+EG +20
+ER +291
+ES +34
+ET +251
+FI +358
+FJ +679
+FK +500
+FM +691
+FO +298
+FR +33
+GA +241
+UK +44
+GD +1473
+GE +7880
+GF +594
+GH +233
+GI +350
+GL +299
+GM +220
+GN +224
+GP +590
+GQ +240
+GR +30
+GT +502
+GU +671
+GW +245
+GY +592
+HK +852
+HN +504
+HR +385
+HT +509
+HU +36
+ID +62
+IE +353
+IL +972
+IN +91
+IQ +964
+IR +98
+IS +354
+IT +39
+JM +1876
+JO +962
+JP +81
+KE +254
+KG +996
+KH +855
+KI +686
+KM +269
+KN +1869
+KP +850
+KR +82
+KW +965
+KY +1345
+KZ +7
+LA +856
+LB +961
+LC +1758
+LI +417
+LK +94
+LR +231
+LS +266
+LT +370
+LU +352
+LV +371
+LY +218
+MA +212
+MC +377
+MD +373
+MG +261
+MH +692
+MK +389
+ML +223
+MM +95
+MN +976
+MO +853
+MP +670
+MQ +596
+MR +222
+MS +1664
+MT +356
+MV +960
+MW +265
+MX +52
+MY +60
+MZ +258
+NA +264
+NC +687
+NE +227
+NF +672
+NG +234
+NI +505
+NL +31
+NP +977
+NO +47
+NR +674
+NU +683
+NZ +64
+OM +968
+PA +507
+PE +51
+PF +689
+PG +675
+PH +63
+PL +48
+PR +1787
+PT +351
+PW +680
+PY +595
+QA +974
+RE +262
+RO +40
+RU +7
+RW +250
+SA +966
+SB +677
+SC +248
+SD +249
+SE +46
+SG +65
+SH +290
+SI +386
+SK +421
+SL +232
+SM +378
+SN +221
+SO +252
+SR +597
+ST +239
+SV +503
+SY +963
+SZ +268
+TC +1649
+TG +228
+TH +66
+TJ +7
+TM +993
+TM +7
+TN +216
+TO +676
+TR +90
+TT +1868
+TV +688
+TW +886
+UA +380
+UG +256
+US +1
+UY +598
+UZ +7
+VA +379
+VE +58
+VG +1284
+VI +1340
+VN +84
+VU +678
+WF +681
+YE +969
+YE +967
+YT +269
+ZA +27
+ZM +260
+ZW +263
+Celular DDDXXXXXXXX
+Campo obrigatório
+CNPJ
+Campo obrigatório
+Li e concordo com a
+política de privacidade
+Autorizo que a Enel X trate meus dados pessoais para
+atividades de marketing
+Autorizo que a Enel X e
+terceiros autorizados realizem atividades de marketing
+.
+Autorizo o
+perfilamento
+ENVIAR
+Address-Country
+ProductCategoryOfInterest
+IdentityType
+LeadType
+IdentityCountry
+ReceivingChannel
+GDPR.LegalEntity.LegalEntity
+Address-City
+Address-StreetType
+Address-Address
+Address-StreetNumber
+Location
+RoofType
+Available Surface
+Annual Billing Amount
+Annual Energy Consumption
+Voltage
+Contracted Power
+Weekly Behaviour
+DailyBehaviour
+Nominal Power
+Avg Producibility
+Cost Savings
+Payback Period
+co2Avoidance
+Plant Cost
+Autoconsumed Energy
+ExchangedEnergy
+CampaignProduct
+SegmentOfCountry
+Theatre
+SalesChannel
+Address-Region
+Address-Province
+Address-City
+Address-StreetType
+Address-Address
+Address-StreetNumber
+Address-ZipCode
+Location
+RoofType
+AvailableSurface
+AnnualBillingAmount
+AnnualEnergyConsumption
+Voltage
+ContractedPower
+WeeklyBehaviour
+DailyBehaviour
+NominalPower
+AvgProducibility
+CostSavings
+PaybackPeriod
+co2Avoidance
+PlantCost
+AutoconsumedEnergy
+ExchangedEnergy
+CampaignProduct
+Salutation
+CompanySectorLev1
+CompanySectorLev2
+Preencha abaixo
+/content/enel-x/br/pt/empresas/obrigado.html
+Nome
+Campo obrigatório
+Sobrenome
+Campo obrigatório
+Email
+Campo obrigatório
+AD +376
+AE +971
+AG +1268
+AI +1264
+AM +374
+AO +244
+AR +54
+AT +43
+AU +61
+AW +297
+AZ +994
+BA +387
+BB +1246
+BD +880
+BE +32
+BF +226
+BG +359
+BH +973
+BI +257
+BJ +229
+BM +1441
+BN +673
+BO +591
+BR +55
+BS +1242
+BT +975
+BW +267
+BY +375
+BZ +501
+CA +1
+CF +236
+CG +242
+CH +41
+CK +682
+CL +56
+CM +237
+CN +86
+CO +57
+CR +506
+CS +381
+CU +53
+CV +238
+CY +357
+CY +90392
+CZ +42
+DE +49
+DJ +253
+DK +45
+DM +1809
+DO +1809
+DZ +213
+EC +593
+EE +372
+EG +20
+ER +291
+ES +34
+ET +251
+FI +358
+FJ +679
+FK +500
+FM +691
+FO +298
+FR +33
+GA +241
+UK +44
+GD +1473
+GE +7880
+GF +594
+GH +233
+GI +350
+GL +299
+GM +220
+GN +224
+GP +590
+GQ +240
+GR +30
+GT +502
+GU +671
+GW +245
+GY +592
+HK +852
+HN +504
+HR +385
+HT +509
+HU +36
+ID +62
+IE +353
+IL +972
+IN +91
+IQ +964
+IR +98
+IS +354
+IT +39
+JM +1876
+JO +962
+JP +81
+KE +254
+KG +996
+KH +855
+KI +686
+KM +269
+KN +1869
+KP +850
+KR +82
+KW +965
+KY +1345
+KZ +7
+LA +856
+LB +961
+LC +1758
+LI +417
+LK +94
+LR +231
+LS +266
+LT +370
+LU +352
+LV +371
+LY +218
+MA +212
+MC +377
+MD +373
+MG +261
+MH +692
+MK +389
+ML +223
+MM +95
+MN +976
+MO +853
+MP +670
+MQ +596
+MR +222
+MS +1664
+MT +356
+MV +960
+MW +265
+MX +52
+MY +60
+MZ +258
+NA +264
+NC +687
+NE +227
+NF +672
+NG +234
+NI +505
+NL +31
+NP +977
+NO +47
+NR +674
+NU +683
+NZ +64
+OM +968
+PA +507
+PE +51
+PF +689
+PG +675
+PH +63
+PL +48
+PR +1787
+PT +351
+PW +680
+PY +595
+QA +974
+RE +262
+RO +40
+RU +7
+RW +250
+SA +966
+SB +677
+SC +248
+SD +249
+SE +46
+SG +65
+SH +290
+SI +386
+SK +421
+SL +232
+SM +378
+SN +221
+SO +252
+SR +597
+ST +239
+SV +503
+SY +963
+SZ +268
+TC +1649
+TG +228
+TH +66
+TJ +7
+TM +993
+TM +7
+TN +216
+TO +676
+TR +90
+TT +1868
+TV +688
+TW +886
+UA +380
+UG +256
+US +1
+UY +598
+UZ +7
+VA +379
+VE +58
+VG +1284
+VI +1340
+VN +84
+VU +678
+WF +681
+YE +969
+YE +967
+YT +269
+ZA +27
+ZM +260
+ZW +263
+Celular DDDXXXXXXXX
+Campo obrigatório
+Li e concordo com a
+política de privacidade
+Autorizo que a Enel X trate meus dados pessoais para
+atividades de marketing
+Autorizo que a Enel X e
+terceiros autorizados realizem atividades de marketing
+.
+Autorizo o
+perfilamento
+ENVIAR
+Address-Country
+ProductCategoryOfInterest
+IdentityType
+LeadType
+IdentityCountry
+ReceivingChannel
+GDPR.LegalEntity.LegalEntity
+Address-City
+Address-StreetType
+Address-Address
+Address-StreetNumber
+Location
+RoofType
+Available Surface
+Annual Billing Amount
+Annual Energy Consumption
+Voltage
+Contracted Power
+Weekly Behaviour
+DailyBehaviour
+Nominal Power
+Avg Producibility
+Cost Savings
+Payback Period
+co2Avoidance
+Plant Cost
+Autoconsumed Energy
+ExchangedEnergy
+CampaignProduct
+Theatre
+SalesChannel
+Address-Region
+Address-Province
+Address-City
+Address-StreetType
+Address-Address
+Address-StreetNumber
+Address-ZipCode
+Location
+RoofType
+AvailableSurface
+AnnualBillingAmount
+AnnualEnergyConsumption
+Voltage
+ContractedPower
+WeeklyBehaviour
+DailyBehaviour
+NominalPower
+AvgProducibility
+CostSavings
+PaybackPeriod
+co2Avoidance
+PlantCost
+AutoconsumedEnergy
+ExchangedEnergy
+CampaignProduct
+Salutation
+A simulação é baseada em
+
+O endereço da instalação
+Superfície disponível
+Custos anuais de energia
+Tipo de conexão
+Consumo anual de energia
+
+Potência contratada
+Esta é uma solução feita sob medida para você, com base nas informações fornecidas, como mostrado acima. O cálculo não leva em conta qualquer venda de energia ou incentivos que possam existir no Brasil. O cálculo é puramente indicativo: para números mais precisos, nossos consultores experientes podem entrar em contato com você para ajudar a verificar suas necessidades e requisitos específicos.
+
+Tente uma nova simulação
+
+Se você tiver outros locais nos quais deseja instalar um sistema, reinicie a calculadora e inicie outra simulação.
+
+NOVA SIMULAÇÃO
+
+Error
+✖
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Brasil S.A. | Todos os direitos reservados | CNPJ 08.317.250/0001-61
+Créditos
+|
+Declarações Legais
+|
+Privacidade
+|
+Aviso de privacidade
+|
+Política de cookies
+|
+Política integrada
+Text
+

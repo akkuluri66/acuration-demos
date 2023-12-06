@@ -1,0 +1,265 @@
+DER.OS Overview | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Brochures
+
+Overview: Distributed Energy Resource Optimization Software (DER.OS)
+DOWNLOAD PDF
+
+Enel X’s DER Optimization Software is a highly scalable, management software system delivered as a managed service on a subscription basis. Our DER Optimization Software enables you to monitor, communicate with and control your energy network. The system interfaces with distributed energy resources to monitor energy usage and production in real time.
+
+Our software is comprised of two components, one cloud-based and one site-based, that interface with other software systems and hardware devices in a holistic energy management ecosphere.
+
+1
+Cloud-Based Energy Management Platform
+Our cloud-based energy management platform controls system wide operations. It directs the activities of the hardware platform and integrated energy management devices. It monitors load, directs energy storage operations, and building energy management from a central user dashboard.
+Management across the entirety of the customer’s energy assets
+Manages automated decision making
+System wide analytics
+Network Optimization Engine (NOE) and automated decision making across the entire asset portfolio
+Adaptation layer provides integration to back office systems, power markets, grid tied renewables and metering systems for redundancy with the core and scalability
+Interconnects grid tied renewables, back office systems, metering systems and power market pricing schedules
+
+2
+Site Level Controls
+Our localized site control system directs DER storage and other DER operations at a specific site.
+Resides on the building/site premises
+Directs building and DER operations/management
+Provides for local real-time decision making and local management of the systems at a building or a site
+Site Optimization Engine (SOE) optimizes economics of site DER assets
+Interfaces with building energy management devices for integrated communications & controls
+Flexible adaption layer allows for the integration of a wide array of hardware devices and software systems, enabling data collection and management of these assets
+Local data store provides fault tolerance & data buffering to deliver a “lossless data stream” if connectivity to the internet is lost
+
+Description
+Our DER Optimization Software is delivered as a managed service.
+DER Optimization Software is a next generation energy management platform designed as a funda­mental building block for site energy management
+Intelligently adapts, interfaces and embraces emerging technologies & solutions
+No software upgrades to manage
+Minimizes IT infrastructure & OA&M costs
+Distributed architecture designed for scalability and reliability
+
+Our DER Optimization Software is a highly scalable management system with real-time reporting and service assurance capabilities.
+Next generation architecture
+Flexible / scalable / adaptable / secure
+Operations user interface (alarms, statics, history)
+Open and adaptable systems integration
+Interface provides a full, feature-rich browser-based GUI requiring no special plug-ins
+Open API for 3rd Party systems integration
+
+Interface Features Available
+Tiered Navigation
+Aggregation of tiered resources
+Account > Site > DER
+Manage all assets through one interface
+
+Device View
+Current operational status/mode
+Charge/Generate operations
+Communications heath check
+Battery State of Charge (SoC)
+
+Events & Alarms
+System operational events/alarms
+Environmental events/alarms
+I/O Events (O/U Voltage/Frequency; safety circuit, door alarm, etc)
+
+Statics
+Lifetime System and Battery Statics collection
+KW, KWH, PF, Voltage, Amperage, Temperature
+Statistical graphing engine
+Data/graph export options
+
+Scheduler
+Scheduled operation configuration
+One-time or recurring scheduled events
+Selectable operation modes: bulk power, variable demand capping, solar+storage, etc.
+Review current schedules, past events, edit existing, or create new schedules
+
+System Messages & Feedback
+Messaging about system outages and/or features enhancements
+Configuration and system user feedback
+
+Value and Benefits
+Reliable & Resilient
+No single point of failure as the system is fully distributed and fully clustered
+Ability to spread computing and storage resources worldwide based on disaster recovery plans and data locality needs
+
+Secure
+No single point to attack within the system
+Ability to extend customer’s LAN into the cloud with a VPN
+
+Flexible and Easy to Deploy
+System can utilize pre-configured virtual machine instances to bring additional resources online within minutes
+No software to install on client machines
+
+Reduced Capex & Operation, Administration and Maintenance (O&M) Costs
+CapEx for server infrastructure is completely eliminated
+Reduced IT staffing requirements, reduced operating expenses & facilities
+
+Extensible & Scalable
+Ability to integrate new resources and have them functioning in minutes
+System can easily be extended to manage new devices
+
+Services
+DER Optimization Software Managed Service
+DER Optimization Software (Cloud & Site) managed service; requires internet connection from customer network
+
+Dedicated DER Optimization Software Service
+Dedicated private managed service requires secure VPN to customer network
+
+Custom Back Office Application Integration
+Custom back office application integration is available from Enel X as a service
+
+Custom Device Integration
+Offers customer device integration for management of 3rd Party IED’s
+
+DER Optimization Software Licensed Solution
+Custom licensed solution for 3rd Party integration and DER Optimization
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

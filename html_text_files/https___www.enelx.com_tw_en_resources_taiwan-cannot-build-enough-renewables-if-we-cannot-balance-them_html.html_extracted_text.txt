@@ -1,0 +1,236 @@
+Taiwan's energy transformation challenge
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Taiwan
+
+EN
+
+Mandarin Chinese
+English
+Explore
+Product & Services
+Power Flexibility
+Demand Response
+APP & TOOL
+Demand response calculator
+Earn new revenue with Demand Response
+Demand Response Calculator
+START SIMULATION
+Support
+CONTACT US
+Taiwan
+
+EN
+
+Mandarin Chinese
+English
+Explore
+Product & Services
+START SIMULATION
+Power Flexibility
+Demand Response
+APP & TOOL
+Demand response calculator
+Support
+Taiwan
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Romania
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Demand Response
+Circular Economy
+Renewable Energy
+You may be interested in
+Demand Response
+Learn more
+Resources
+Taiwan's energy transition challenge
+Taiwan’s energy transition is accelerating-if we cannot balance them, we cannot build (enough) renewable energy
+2021 will be remembered as the year Taiwan began its race to carbon neutrality with the acceleration towards renewable power. The year began with an announcement on January 1
+st
+that Taiwanese enterprises need to commit to a new regulation which asked large energy users (with contracted capacities >5MW) to get serious about their renewable energy obligations by installing or using 10% of renewable power generation. Many businesses have already formed aggressive plans to achieve an even higher share of green energy consumption.
+
+Taiwan is a global design and manufacturing hub, and home to many major global supply chains, and as such is critical to global companies’ pledge to achieve Net Zero Emissions.  In fact, 38% of RE100 members depend on Taiwan to achieve 100% renewable energy use for their global operations
+1
+.
+
+1.
+RE100 Climate Group,
+Meeting demand with supply: renewable energy market briefing Taiwan
+, 10 December 2020.
+The positive trajectory of accelerated renewable growth in Taiwan sounds promising for a decarbonized future.
+Demand Response
+Join our Virtual Power Plant and support the energy transition
+LEARN MORE
+This will become a reality only if we are able to “consume” renewable energy at its full potential
+without
+compromising the grid’s stability.
+
+If we fail to balance energy consumption with power generation in real time at all times, the power grid will collapse, plunging energy users into blackout.  Higher penetration of intermittent renewable resources such as wind and solar power create more variability for the stability of supply on the grid.  When the sun stops shining or the wind stops blowing, the grid experiences an immediate drop in the available power generation which can also lead to blackouts. To solve this challenge, there is a growing need for “power flexibility” – resources that can be flexible with when they use grid power –to keep the lights on.
+
+In other words, we can’t build enough renewables if we can’t balance them.
+
+Net Zero depends on the successful integration of renewable resources. However, this isn't achievable without sufficient power flexibility or fast responding resources that can quickly balance power supply and demand at all times. Traditionally, these flexible resources are sourced from expensive “traditional peak-time generators” – usually oil or natural gas. These are used for <1% of the generation needed per year, while contributing approximately 10% of the power system’s overall cost.
+
+While costly, they are valued for quickly reacting to changing grid conditions to maintain grid balance. However, it's cost-prohibitive to build the additional peak generators needed to keep the grid stable, which would make it impossible to go green.
+Virtual Power Plants (VPPs) are a cheaper, quicker and greener alternative to building new peaking generators, and represent the best form of power flexibility available today.
+A VPP is a collection of distributed energy assets including batteries, generators and onsite equipment that are aggregated to support the grid with dispatchable capacity. The aggregation of these energy resources that sit within businesses in the community is what creates a “virtual power plant” by bringing the capacity of multiple energy users together, to offer as a single resource to balance the grid.
+
+Businesses contribute their capacity by being flexible with when they use grid power, they do this by powering down or switching to backup power sources in response to a grid signal. VPP participation enables more efficient use of energy infrastructure, while helping to guarantee power quality and grid security.  In competing against traditional peak generators, VPPs are lowering the cost of flexible resources (also known as Ancillary Services) to balance the grid, allowing for higher integration of renewables.
+The new protocol to ‘go green’ represents a new category of opportunity for businesses in Taiwan, which can be secured with VPP participation.
+VPP participation represents a new category of opportunity for businesses, allowing them to support Taiwan’s transition to renewable power, while increasing onsite resilience and earning a significant new revenue stream. For example, in Taiwan, the world’s leading independent aggregator Enel X has a wide range of commercial and industrial businesses across diverse industries including cold storage, food processing, manufacturing, industrial facilities, signed up to its VPP.
+
+Businesses offer their power flexibility as part of a VPP, which the grid treats as equal to traditional generation resources in the Ancillary Services market. This creates a new revenue stream for businesses, by turning sunk assets into a revenue generating resource in the energy market. Energy users earn both capacity payments for being available to respond, as well as an energy dispatch fee for when they do respond, and can also earn additional performance fees for providing a higher speed of response. In other words, the power flexibility of a company is an energy asset that can bring an ongoing source of revenue to the company. The identity of a user has changed from a consumer of electricity to a producer of electricity (Prosumer = Producer + Consumer).
+
+Keeping The Lights On
+
+Businesses need to harness this innovative way to keep the lights on, and to accelerate Taiwan’s transition to renewable power. This can be done with a partner aggregator, who removes financial and risk barriers to fully enable and integrate users’ flexible assets into the VPP’s IoT network. This allows businesses to maximize value from their energy assets through VPP participation.
+Enel X is the global independent leader in VPP and demand response services, dedicated to accelerating the renewable transition worldwide.
+Enel X became Taiwan’s first aggregator 5 years ago, delivering 138MW for Taipower Company’s demand response audit.  Enel X was the first aggregator to participate in Taiwan’s first open market, the Day-ahead Ancillary Service Market, which provides flexible capacity to keep the lights on. The company has participated in 43 dispatch events to date, delivering an average dispatch performance of 131.3%. This provides the support the grid needs, while earning customers a new revenue stream.
+
+Backed by Enel, the world’s largest private player in renewables (with over 49GW installed capacity), Enel X has 7.4 GW of flexible resources under management worldwide. We help businesses decarbonise, digitalise and electrify energy use to drive sustainability and reduce costs.
+
+Demand Response Calculator
+See how much revenue you can earn for reducing your energy consumption with Demand Response
+START SIMULATION
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+Related Content
+Echuca Regional Health Demand Response case study
+Echuca Regional Health Demand Response case study
+See how we helped Echuca Regional Health utilise Demand Response to secure their power supply..
+
+Case Study
+Demand Response
++3
+Enel X and Gogoro accelerate Taiwan's energy transition
+Enel X and Gogoro accelerate Taiwan's energy transition
+Gogoro and Enel X Accelerate Taiwan's Energy Transition with Integration of Virtual Power Plant and 2,500 Battery Swapping Stations Across 1,000+ Locations
+
+Media Release
+Demand Response
+Electric Mobility
+Sustainability
++5
+How Demand Response contributes to a more sustainable future
+How Demand Response contributes to a more sustainable future
+Find out how Demand Response contributes to a more sustainable future.
+
+Whitepaper
+Circular Economy
+Demand Response
++4
+Taipei 101 to accelerate Taiwan's energy transition with Enel X
+Taipei 101 to accelerate Taiwan's energy transition with Enel X
+Taipei 101 to participate in Enel X’s Virtual Power Plant.
+
+Media Release
+Demand Response
++3
+How V2G technology is accelerating Taiwan's path to decarbonizing
+How V2G technology is accelerating Taiwan's path to decarbonizing
+Enel X and Gogoro are driving the country’s energy transition with innovative electricity use.
+
+Article
+Electric Mobility
++3
+Enel X: New Global Record for Demand Response
+Enel X: New Global Record for Demand Response
+2022 was a record year for Enel X: more than 8GW of Capacity offered in markets
+
+Article
+Demand Response
++3
+How does sustainability help businesses save costs?
+How does sustainability help businesses save costs?
+When “Sustainability” come to mind, we often think about extra costs and efforts. But the truth is it can help you spend less
+
+Article
+Demand Response
+Circular Economy
+Renewable Energy
+Sustainability
++6
+What is Demand Response?
+What is Demand Response?
+Demand Response programs provide an opportunity for commercial, institutional, and industrial organizations to earn payments for supporting the grid to maintain reliable electricity...
+
+Demand Response
++2
+✖
+Enel X Taiwan
+
+
+Who We Are
+Contact Us
+Support
+Media
+
+
+Resources
+Press Releases
+FAQs
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+Enel X Taiwan
+
+
+Who We Are
+Contact Us
+Support
+Media
+
+
+Resources
+Press Releases
+FAQs
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Taiwan Co. Ltd All rights reserved
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy

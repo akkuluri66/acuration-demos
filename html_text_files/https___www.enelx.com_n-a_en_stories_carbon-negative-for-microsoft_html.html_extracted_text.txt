@@ -1,0 +1,214 @@
+What Does “Carbon Negative” Mean for Microsoft? | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+What Does “Carbon Negative” Mean for Microsoft?
+February 27, 2020
+Tech giant Microsoft made major headlines in 2020 by
+pledging to be “carbon negative” by 2030
+. As part of its commitment, Microsoft promised to remove greenhouse gases from the atmosphere until it had accounted for all emissions created by the company since its inception in 1975, a feat it expected to accomplish by 2050.
+
+The move undoubtedly raised the stakes for business-led climate goals, but what exactly does going carbon negative mean? And how does Microsoft plan to do it?
+
+What Is “Carbon-Negative”?
+For a business to call itself carbon negative, it must go beyond net-zero and actually begin removing more carbon dioxide from the atmosphere than it is emitting. First, it is important to understand what emissions Microsoft considers itself responsible for.
+
+As defined by the GHG Protocol
+, emissions fall into three major classifications, known as “scopes.” Scope 1 and 2 emissions are direct emissions from company assets as well as indirect emissions from electricity generation to power company-owned facilities. Microsoft estimates an annual production of approximately 4.1 million metric tons of Scope 1 and 2 emissions. (Note that Microsoft has claimed carbon-neutrality in Scope 1 and 2 since 2012.)
+
+The Complexity of Scope 3 Emissions
+Scope 3 emissions, however, encompass all emissions in the business value-chain from vendor emissions to emissions caused by the use of company products. For any organization, Scope 3 emissions pose the most daunting challenge, because these are emissions which occur outside of the organization’s direct control.
+
+For Microsoft, Scope 3 emissions make up roughly 75% of total emissions, or three times the amount of Scope 1 and 2 emissions combined. Nevertheless, Microsoft expects to cut them in half over the next 10 years.
+
+In order to drive down emissions across its supply chain, Microsoft will expand a carbon price program that it currently employs to incentivize emissions reductions from internal operations. The price of carbon, set at $15/metric-ton, will be phased in across its supply chain (at lower amounts increasing over time) and will impact profitability based on vendor operations. This may be the most impactful move of Microsoft’s pledge as it will not only require that suppliers understand their own carbon footprints, but it will also aim to influence its suppliers’ choices.
+
+While a move like this may not be realistic for companies without Microsoft’s resources, every business is capable of significant progress in energy sustainability as we recently covered
+in our guide to sustainable energy strategy
+.
+
+The Impact of Consumer Behavior
+While supplier behavior presents one challenge, on the other end of the value chain, Microsoft will be grappling with consumer behavior and use of its devices.
+
+The Microsoft Surface and Xbox One gaming-console both have intensive energy requirements and while Microsoft can try to improve the efficiency of these products, quantifying and subsequently reducing their impact once their products leave their factories will be a complex endeavor.
+
+Active CO2 Removal vs. “Avoided Emissions”
+Although Microsoft does expect to make significant reductions in all emissions across its value chain, there will still be a large chunk of emissions it will look to account for through carbon offset projects. In its pledge, Microsoft focuses on the idea of active CO2 removal as opposed to “avoided emissions.”
+
+For example, afforestation removes carbon from the atmosphere, whereas preventing deforestation avoids emissions that would have otherwise occurred. Both projects create types of “carbon offsets,” which most organizations rely on to meet their climate goals, but Microsoft will be favoring the former going forward.
+
+Climate Innovation Fund and the Future of Carbon Negative
+At the outset, Microsoft will rely primarily on available biological sinks for carbon, but acknowledges that the technologies required to achieve its goal of becoming carbon negative do not yet exist. For its part, Microsoft has unveiled a $1 billion Climate Innovation Fund in support of new technology as major advancements in the realm of carbon capture and sequestration will be necessary.
+
+It is important to recognize that although Microsoft has identified a pathway for reducing company associated emissions, there are many unknowns and the success of its pledge will hinge on its ability to influence the behavior of others. Despite these uncertainties, in first accounting for all associated emissions and then following a mixed strategy of investing in carbon removal technology, securing renewable power purchase agreements and deploying a carbon pricing scheme, Microsoft has taken a significant step toward meeting its lofty ambitions.
+
+While the Microsoft example does not present a one-size-fits-all solution, the aspirational nature of its pledge will likely further the importance of Environmental, Social and Governance (ESG) initiatives, and climate stewardship as a prominent feature among them.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

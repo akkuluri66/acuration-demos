@@ -1,0 +1,253 @@
+ESB stresses urgent need for secure electricity market
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Australia
+
+EN
+
+
+Explore
+Products & Services
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Resources
+LEARN MORE
+CONTACT US
+Australia
+
+EN
+
+
+Explore
+Products & Services
+LEARN MORE
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Australia
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Renewable Energy
+Energy Advisory
+Demand Response
+Electric Mobility
+You may be interested in
+Peaking Response
+LEARN MORE
+Workplace EV charging program
+LEARN MORE
+Resources
+ESB stresses urgent need for secure electricity market
+Virtual power plants are critical to providing system security with instant, dispatchable capacity
+The Energy Security Board (ESB) has given a damning assessment of the security of Australia’s electricity system. The ESB, which oversees energy reliability, security and affordability in the National Electricity Market (NEM), says that urgent action is needed to keep the lights on as the generation mix transitions from coal to renewables.
+
+According to the ESB’s Health of the NEM report “Security remains the most concerning issue in the NEM. Maintaining the electricity system within the required parameters for frequency, voltage, inertia and system strength becomes harder as variable renewable generation increases its presence in the NEM.”
+1
+
+Quick action is needed to minimise disruptions
+The Australian Energy Market Operator (AEMO) has been managing these issues by intervening in the market, giving directions to power generators to increase or decrease their output to firm up electricity supply. However, this approach distorts efficient market operations and is not sustainable.
+
+ESB Chairman Kerry Schott said, “What we have in place now is no longer fit for purpose for the energy transition and beyond. The Health of the NEM clearly shows the repercussions of rapid change in our electricity system and highlights the absolute urgency of addressing them."
+2
+
+The ESB says that AEMO will “need to ensure there is adequate
+system flexibility
+to cover increased variability across all times.”
+
+With the scheduled retirement of 16 GW of thermal power plants (61% of the current coal fleet in the NEM), and up to 50GW of large scale variable renewable energy forecast to come online, an additional 6 to 19 GW of flexible and dispatchable resources is needed to support this transition
+3
+.
+
+Quick action is needed to minimise disruptions
+There are different forms of “system flexibility” that help to balance the intermittency of renewable power sources and avoid widespread blackouts. One ideal solution is the use of Virtual Power Plants (VPPs).  A VPP is made up of distributed energy resources (generators, batteries, energy intensive equipment) at commercial and industrial sites across multiple locations, that work together to provide instant, dispatchable capacity that the grid needs, acting as a ‘virtual’ power plant.
+
+Enel X operates Australia’s largest VPP
+4
+with more than 100 commercial and industrial sites across the NEM that provide 250+ MW of system flexibility when called upon. Our customers temporarily power down site equipment or switch from grid power to a battery system or backup generator to take their load off the grid.
+
+Jeff Renaud
+, Head of Enel X Asia and Oceania said, “
+With flailing system security and disruptions to power supply, businesses can take matters into their own hands to ensure site reliability and in doing so, can become part of the broader solution. By participating in our VPP, businesses provide the flexibility the grid needs while enhancing site reliability, and receive regular payments which can offset electricity costs, or be reinvested into operations or other sustainability initiatives.
+"
+
+The ESB’s proposed solution represents new opportunities for businesses
+The ESB has proposed a range of reforms to address the shortcomings of the existing market design
+5
+. This includes the creation of new markets for the security services the system needs, which represent new opportunities for VPP participation.
+
+“
+We are seeing significant growth in opportunities for the demand side to further contribute to grid reliability and enable the growth of renewable energy in Australia, by participating in our VPP and providing the dispatchable capacity the grid so desperately needs. We are currently advocating for VPPs to participate in the proposed new markets and programs, such as operating reserves, fast-frequency response and primary frequency control, and are optimistic that they will soon open to demand side participation. With the upcoming market reforms, there has been no better time for a business to consider joining our VPP
+,” Renaud added.
+
+For more information on how you can join Enel X’s VPP,
+get in touch
+with our team.
+
+
+References
+Energy Security Board, 2020 Health of the NEM Report, 5 January 2021
+Australian Financial Review, Power fix ‘urgent’ as grid teeters, 5 January 2021
+Energy Security Board, Post 2025 Market Design Directions Paper, 5 January 2021
+Bloomberg New Energy Finance (BNEF), Australian VPPs move closer to real value, December 2019
+Energy Security Board, Post 2025Market Design Directions Paper, 5 January 2021
+
+Renewable Energy
+Media
+Demand Response
++4
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+Related Content
+Enel X VPP FCAS market leadership
+Enel X VPP FCAS market leadership
+Keeping the electricity grid stable at all times with Frequency Control Ancillary Services
+
+Article
+Demand Response
++3
+Central Irrigation Trust (CIT) Lowers Energy Costs with Battery Storage
+Central Irrigation Trust (CIT) Lowers Energy Costs with Battery Storage
+CIT partners with Enel X on one of Australia’s largest onsite battery storage projects
+
+Energy Storage
+Case study
++3
+Backing up South Australia's generation capacity
+Backing up South Australia's generation capacity
+Enel X and the South Australian Government support businesses who want to participate in Demand Response
+
+Demand Response
+Media Release
++3
+Ensure continuity of power during emergencies
+Ensure continuity of power during emergencies
+Elevate your backup generation practices to achieve a new standard of  preparation.
+
+Whitepaper
+Demand Response
++3
+Demand Response addresses the energy trilemma
+Demand Response addresses the energy trilemma
+How Virtual Power Plants address issues of energy security, affordability and sustainability
+
+Demand Response
+Article
++3
+University of Queensland monetises BESS with FCAS
+University of Queensland monetises BESS with FCAS
+Learn how we've helped integrate VPP participation through Frequency Control (FCAS)
+
+Demand Response
+Case study
+Renewable Energy
++4
+A Transformative Opportunity for Circular Economy
+A Transformative Opportunity for Circular Economy
+Learn more about how Demand Response contributes to a more sustainable future in this Enel X global whitepaper.
+
+Demand Response
+Whitepaper
++3
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Oxford Cold Storage participates in Virtual Power Plant as part of its sustainability initiative
+
+Case study
+Demand Response
++3
+Echuca Regional Health Demand Response case study
+Echuca Regional Health Demand Response case study
+See how we helped Echuca Regional Health utilise Demand Response to secure their power supply..
+
+Case study
+Demand Response
++3
+✖
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+©Enel X Australia Pty Ltd. All rights reserved | ABN: 49 104 710 278
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+
+

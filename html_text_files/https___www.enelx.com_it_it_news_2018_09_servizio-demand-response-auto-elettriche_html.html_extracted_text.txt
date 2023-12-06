@@ -1,0 +1,332 @@
+Demand Response: le auto elettriche ricaricano la rete | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+News
+In Enel X le auto elettriche ricaricano la rete
+Il progetto di Terna permette maggiori flessibilità e stabilità di rete
+Pubblicata il
+21 SETTEMBRE 2018
+Il progetto
+Ridurre costi
+Come funziona
+Il
+Demand Response
+è partito di slancio anche nel nostro Paese, grazie anche all’ultima asta pubblicata da Terna grazie alla quale Enel X si è attestata come primo aggregatore italiano. Il progetto pilota di Terna sulle Unità Virtuali Abilitate di Consumo (UVAC) coinvolge alcuni impianti industriali e le infrastrutture di ricarica presenti nei parcheggi delle sedi di Enel X.
+
+Demand Response
+Trasforma il consumo di energia in una fonte di profitto per la tua azienda.
+Il progetto
+Gestione flotte aziendali
+La risposta di Enel X alle esigenze delle aziende che hanno l’intenzione di convertirsi alla mobilità elettrica.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Il progetto sperimentale prevede, infatti, la partecipazione di parte della
+flotta di car sharing elettrico
+ad uso interno dell’azienda connessa alle
+infrastrutture di ricarica unidirezionali
+(V1G). In questo modo, le infrastrutture intelligenti di Enel X sono connesse ad una piattaforma di gestione e monitoraggio che permette l’aggregazione delle risorse e la variazione automatica, a seguito di input esterni, della potenza assorbita da ciascuna auto elettrica. Ed è qui che si accende la scintilla del Demand Response, ovvero la tecnologia che permette ai consumatori commerciali e industriali di rispondere ai segnali di mercato, aumentando o
+
+riducendo il proprio consumo energetico, con l'obiettivo di reagire ai picchi di offerta o domanda elettrica, consentendo una maggiore flessibilità e stabilità di rete ed un utilizzo più efficiente delle infrastrutture e delle risorse energetiche.
+Terna, in questo caso specifico, dà l’input esterno, necessario alla piattaforma di gestione cui sono interconnesse le colonnine di ricarica Enel X, per la riduzione del carico. Più precisamente la piattaforma riduce, nell’orario richiesto, la potenza assorbita durante i processi di ricarica attivi per poi ripristinare la situazione iniziale, rispondendo alle esigenze del gestore di rete.
+
+Ridurre costi
+Ma com’è possibile che un’auto possa contribuire alla rete elettrica? La tecnologia a bordo dei veicoli elettrici si integra con quella della rete VGI (Vehicle Grid Integration), sfruttando le
+batterie come uno storage di energia distribuito
+e aggregandole, tramite la piattaforma di gestione, con le diverse risorse flessibili. Un valore aggiunto per l’ecosistema elettrico, di rilevante valore per l’efficienza e la sostenibilità di cui questa tecnologia si fa portavoce. Questo circolo virtuoso può ridurre il costo complessivo di utilizzo delle auto elettriche per i clienti finali, partecipi in prima persona non
+
+solo al programma, che gli consente di ottenere una remunerazione per il contributo apportato alla rete, ma anche ad un nuovo paradigma della mobilità a impatto zero e alla diffusione della cultura elettrica.
+
+Fleet Electrification Management
+Un supporto per le aziende che vogliono convertirsi alla mobilità elettrica.
+SCOPRI DI PIÙ
+
+RICHIEDI INFO
+
+L’ingrediente irrinunciabile per questa rivoluzione innovativa sono le infrastrutture di ricarica, vere protagoniste di questa tecnologia, di cui Enel dispone due diverse macro categorie, le infrastrutture unidirezionali (V1G) e quelle bidirezionali (V2G).
+
+Come funziona
+Ma cosa succede tecnicamente? Una particolare apparecchiatura, viene installata, in modo che l’aggregatore sia in grado di rilevare le misure in un tempo reale, che saranno poi aggregate con altre misure e infine inviate a Terna. Il ruolo ricoperto da
+Enel X
+in questa sperimentazione è quello di soggetto “abilitante”, in grado di aggregare risorse diffuse o comunque di facilitare la partecipazione del potenziale di domanda esistente, intermediando
+l’offerta di servizi Demand Response con il sistema elettrico.
+È quindi davvero possibile contribuire alla stabilità della rete elettrica con la batteria della propria auto, partecipando alla salute del Pianeta mentre se ne ricava perfino un profitto?
+
+A questa domanda c’è una sola risposta. Ed è Enel X.
+Flusso
+Destinatari
+1
+Richiesta di Terna
+Richiesta di Terna
+Terna, in qualità di operatore di rete, responsabile della gestione ed equilibrio del sistema elettrico nazionale e quindi “utilizzatore” della flessibilità, a fronte di un problema di stabilità della rete notifica la necessità di un ordine di bilanciamento all’aggregatore.
+2
+Aggregatore BSP
+Aggregatore BSP
+L’aggregatore Enel X, in quanto BSP (Balance Service Provider) responsabile della prestazione del servizio offerto, notifica la richiesta di modulazione selezionando nel suo portafoglio le risorse idonee e disponibili alla richiesta.
+3
+Implementazione del cliente
+Implementazione del cliente
+I clienti che tramite i loro impianti, o parti di essi, possono mettere a disposizione del BSP la loro flessibilità, attuano (manualmente o automaticamente) i piani di modulazione.
+4
+Carico
+Carico
+La riduzione o l’incremento del carico viene utilizzato dall’operatore di rete.
+5
+Remunerazione
+Remunerazione
+I clienti ricevono una remunerazione per la modulazione effettuata e per la disponibilità alla prestazione del servizio.
+A chi è rivolto il servizio
+Il servizio di Demand Response offerto da Enel X è rivolto ai clienti commerciali e industriali appartenenti a diversi settori merceologici. Indifferentemente dalle dimensioni del sito, potranno infatti parteciparvi anche i clienti di taglia più piccola, gestiti sotto forma aggregata.
+
+Elettrificazione
++2
+Contenuti in evidenza
+Come funziona un'auto elettrica
+Come funziona un'auto elettrica
+Le auto elettriche non solo creano meno inquinamento delle auto a gas, ma spesso superano in partenza le auto MCI per quanto riguarda le prestazioni.
+
+Elettrificazione
++2
+Auto elettrica: il piacere di guidare
+Auto elettrica: il piacere di guidare
+È difficile guidare un’auto elettrica senza innamorarsene.
+
+Elettrificazione
++2
+L’auto elettrica? Facile e intelligente
+L’auto elettrica? Facile e intelligente
+Ricaricare un’auto elettrica oggi è molto semplice, più semplice che ricaricare un qualsiasi dispositivo elettronico a batteria.
+
+Elettrificazione
++2
+I falsi miti sull’auto elettrica
+I falsi miti sull’auto elettrica
+È vero che consuma molta energia? Che inquina come l’auto tradizionale? E che le batterie non si possono smaltire? Intervista con il professor Valerio Rossi Albertini.
+
+Elettrificazione
++2
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

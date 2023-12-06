@@ -1,0 +1,298 @@
+Guide to charging electric cars | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+People
+Companies
+Institutions
+Who we are
+Romania
+
+en
+
+Română
+English
+Explore
+SMART LIFE
+Sustainable mobility
+Smart home solutions
+Technical support services
+DISCOVER
+Products and services
+SMART HOME SOLUTIONS
+Technical support services
+Air conditioners
+Heating units
+Photovoltaic panels for residential use
+Technical support services
+DISCOVER
+Support
+CONTACT US
+People
+
+People
+
+Companies
+
+
+Institutions
+
+
+Romania
+
+en
+
+Română
+English
+Explore
+DISCOVER
+SMART LIFE
+Sustainable mobility
+Smart home solutions
+Products and services
+DISCOVER
+SMART HOME SOLUTIONS
+Technical support services
+Air conditioners
+Heating units
+Photovoltaic panels for residential use
+Support
+Romania
+Europe
+Romania
+Italy
+Spain
+Poland
+UK
+Ireland
+Portugal
+America
+USA
+Canada
+South America
+Peru
+Chile
+Argentina
+Brazil
+Columbia
+Asia-Pacific
+Australia
+Japan
+South Coreea
+New Zealand
+Taiwan
+Search here...
+Distributed energy
+Circular economy
+People
+Companies
+Energy efficiency
+Institutions
+Business solutions
+Inovation
+Jobs
+Financing opportunities
+Resources
+Smart cities
+Flexibility
+You could be interested in:
+Smart home
+DISCOVER
+Business solutions
+DISCOVER
+Smart cities
+DISCOVER
+People
+Support
+Guide to charging electric cars
+Where can I charge an electric car?
+Electric cars can be recharged at home, in a company car park or at the public charging stations.
+Recharging at home or private premises
+: if you want the comfort of having an electric car charging station that is always available, you can choose to install one at home, in your apartment block or in your workplace car park. The charging station is installed by a team of consultants and technicians from one of the specialist operators, who will guide you through the process, from choosing the most suitable electric home car charging station for your needs, to installing it. In many cases technical support for the charging station is also provided.
+Public charging
+: when you're on the move, you can rely on public charging stations, which are located in cities, on streets and roads. To use the charging stations, all you need is a card or the app of one of the recharging service operators.
+What do I need to charge my car?
+To charge your car at public charging stations, you need:
+a charging cable
+a charging point (public charging station)
+a payment device (charging can be paid by card or app, depending on the chosen service provider)
+
+To charge your car at a home charging station, you need:
+a charging cable
+a charging point (private charging station)
+card or app to activate the charging session (depending on the type of charging station: purchased or rented).
+Discover the
+JuicePass app
+for charging at Enel X public or private stations.
+
+Do I have to discharge the battery completely before charging?
+No, there is no need to completely discharge the battery and then fully charge it. For modern lithium batteries used in vehicles, the most useful charging sessions are short partial charges.
+Most electric cars allow partial charging in short bursts. The charging time in these cases can even be very short.
+
+
+How can I remotely monitor whether my car is charging?
+You can monitor your charging status with the operator's app you have chosen for charging, if available.
+
+Is it possible to book a charging station?
+Yes, some operators offer a booking service via the app to ensure that the charging station is available when a user arrives. Or you can go directly to a charging station to see if it's free and charge the car. In many cases, stations can be used by several cars at the same time.
+
+Where can I find a map of available charging stations?
+Charging services on public land are offered by different operators (mobility service providers). Each operator allows customers to view the charging infrastructure of their network on their website or on a dedicated app. It is usually possible to check the status of the columns, i.e. whether they are occupied, reserved, available or under repair.
+View the map of Enel X charging stations
+.
+
+How long it will take to finish a charging session?
+The charging time depends on the charging power (power in kWh of the socket at the charging station), the maximum power accepted by the vehicle's on-board charger, the type of cable used and, of course, the battery storage capacity and the level of charge.
+Typically, an average car with a 25 kWh battery needs:
+8 charging hours at home (with an average power of 3 kWh)
+2 charging hours at faster charging stations (between 7.4 and 22 kWh)
+30-minute charging at even faster charging stations (43 kWh to 50 kWh).
+
+Charging at home: which is better, a dedicated charging station or a wall outlet?
+A dedicated charging station ensures maximum safety and offers customers additional features compared to a simple outlet such as:
+
+tracking consumption and cost of tariffs
+the possibility to regulate the charging power used (e.g. by reducing the power to  ensure that other household appliances can be used at the same time)
+the ability to schedule remote charging based on hourly electricity costs or other needs where the regulatory system allows this
+Real-time information on charging status
+optimizing coordinated charging with electricity generated by the user's own photovoltaic installation, if any.
+Find out more about
+JuiceBox
+electric car charging station that you can install in your garage.
+
+Charging at home: do you need a new meter or more power?
+There is no need for a new meter when connecting to your home electricity system.
+If the meter's power supply is limited to a certain power (e.g. to 3 kWh), smart charging stations can be used to regulate the current or you can charge at night, when other energy-intensive devices are usually not in operation.
+If you have different needs, you will have to request a power supplementation.
+
+How many types of cables are there?
+The cable delivered with your electric car will have a connector that allows connection to the power socket or car socket and a connector of the given type that allows the customer to connect to the charging station socket in alternating current for connection to the charger's infrastructure sockets:
+Mode 1 and Mode 2 - "Shuko" plug
+Module 3 - type 2 and type 3 plugs
+
+Type 2 plug cable, also called "Mennekes", is now widely used in Europe, except in France. It charges vehicles with single-phase or three-phase AC current up to 22 kW at the charging socket and up to 43 kW via the connector on the cable attached to the charging infrastructure.
+
+The so-called "Scame" 3A plug and cord are now only used for light vehicles such as scooters and micro vehicles, and can be charged in single-phase mode to a maximum power of 3.7 kW.
+
+In the United States and Japan, AC charging is done via cables attached to the charging infrastructure. The cable will therefore have a connector that the customer will plug into the machine's inlet. The connector is a type 1, so called "Yazaki", and charges the vehicle in single-phase alternating current at a maximum charging power of 7.4 kW.
+
+For DC charging, cables are attached to the charging infrastructure and their connectors are as follows:
+Mode 4 - CHAdeMO connector
+Mode 4 - COMBO1 and CCS COMBO2 CCS connectors (combined charging system)
+
+The CHAdeMO connector cable is the most common standard for DC fast charging and is used, for example, in Nissan, Mitsubishi, Peugeot and Citroen vehicles. It currently charges on the international fast charging infrastructure at a maximum power of 50 kW, but could charge at even higher power rates.
+
+The CCS COMBO2 cable is used by some European car manufacturers such as BMW and Volkswagen, while the CCS COMBO1 cable is mainly used by Japanese and American car manufacturers. The CCS COMBO 2 cable allows both DC fast charging and AC slow charging and is currently installed on the international DC fast charging infrastructure at a maximum power of 50 kW, but can charge at even higher power levels. It charges AC at the same power levels as described above for the Type 2 standard. Car manufacturers choose the power limit to be applied.
+
+In addition, there is an ad-hoc standard used only by Tesla with a single Type 2 connector for both AC and DC charging. When used in DC, it charges exclusively with Tesla Superchargers based on a proprietary protocol.
+
+Public charging: how do you know where to charge your car depending on the connector?
+The first step is to check the compatibility of the car socket with the standard of the charging station. When buying a car, each manufacturer supplies one or two cables, which can be used for the corresponding sockets at the charging stations.
+
+
+Public charging: where to buy a charging cable?
+The purchased or rented electric car is always equipped with a charging cable. If the driver wants to buy a different cable, compatible with other sockets, he can buy it online or from the dealer. Costs vary depending on the power.
+
+Other frequently asked questions about electric transport
+Read more about electric cars.
+Guide to electric cars
+The advantages of driving an electric vehicle in Romania are both financial and practical.
+Find out more
+FAQ
+People
+Electric mobility
+JuiceBox: your personal charging station
+You can power your car or other electric vehicle right from home with our compact and intuitive station.
+SEE THE PRODUCT
+✖
+PPC Advanced Energy Services Romania
+
+
+Who we are
+Circular economy
+Contact us
+TARGETS
+
+
+People
+Companies
+Institutions
+MEDIA
+Stories
+Resources
+Press releases
+ENEL NETWORK
+
+
+PPC Energie
+PPC Renewables Romania
+Retele Electrice
+JOIN US
+
+
+Careers
+Innovation partner
+Development program for suppliers
+GOVERNANCE
+
+
+Code of ethics
+Corruption zero tolerance plan
+SUPPORT
+
+
+FAQs
+PPC Advanced Energy Services Romania
+
+
+Who we are
+Circular economy
+Contact us
+TARGETS
+
+
+People
+Companies
+Institutions
+MEDIA
+Stories
+Resources
+Press releases
+ENEL NETWORK
+
+
+PPC Energie
+PPC Renewables Romania
+Retele Electrice
+JOIN US
+
+
+Careers
+Innovation partner
+Development program for suppliers
+GOVERNANCE
+
+
+Code of ethics
+Corruption zero tolerance plan
+SUPPORT
+
+
+FAQs
+© PPC Advanced Energy Services Romania S.R.L. All Rights Reserved
+Credits
+|
+Legal
+|
+Privacy policy
+|
+Cookie policy
+|
+ANPC
+|
+Official regulations of commercial campaigns
+Credits
+Legal
+Privacy
+Cookie policy
+ANPC
+Official regulations of commercial campaigns

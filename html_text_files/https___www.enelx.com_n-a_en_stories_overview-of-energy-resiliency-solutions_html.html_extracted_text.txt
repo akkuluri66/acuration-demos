@@ -1,0 +1,342 @@
+An Overview of Energy Resiliency Solutions | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+An Overview of Energy Resiliency Solutions
+by Suraj Patel
+February 24, 2022
+Suraj Patel is a solutions engineer for distributed energy resources at Enel X. He has extensive experience with behind-the-meter DERs like battery energy storage, solar+storage, microgrids and more, and today he’s sharing his perspective on how organizations can make the right decisions in energy resiliency.
+
+As disruptive events ranging from cyberattacks to climate disasters become increasingly normal, businesses are shifting their focus towards energy resiliency to combat progressively more unpredictable and frequent power outages. In 2020, extreme weather events alone were responsible for an
+unprecedented $22 billion in damages.
+
+Yet surprisingly, most companies have been slow to react and adopt resiliency solutions despite this imminent threat to their bottom line. Part of the problem is that many companies are simply unaware of their energy resiliency options and the associated costs. But even more broadly, the reality is that most companies are not equipped with the necessary tools to evaluate the benefits of resiliency. Without these resources, it can be overwhelming and difficult to decide on the appropriate technologies and capabilities.
+
+What do we really mean by resiliency?
+Energy resiliency is defined as the ability for facilities to continue their energy-reliant processes despite a grid outage. Energy resiliency is more important than ever, as evident in the graph. The rate at which the electric grid has experienced disruptions over the past twenty years has dramatically increased.
+
+While sectors such as health care and data centers were initially the main players in implementing resiliency solutions, the increasing frequency of disruptions and the ensuing impact on the bottom line has forced other industries and companies to begin taking a closer look at their own positioning.
+Solar + Storage and Resiliency
+Traditional methods of resiliency primarily relied on diesel or natural gas generators for back-up power. But now, solar-plus-storage is becoming a popular option for resilience as the cost of these systems decrease.
+
+In order to provide resiliency, traditional solar-plus-storage systems need additional resiliency hardware and controls (islanding relays, microgrid controllers, switchgear panel, etc.) to isolate from the grid and provide critical power to a facility during an outage. This hardware allows the solution to provide bill savings and participate in revenue generating market services when the grid is present and provide the required resiliency during an outage.
+
+Microgrids vs simple back-up: which one is better for you?
+Microgrids are the most well-known solutions for resiliency. They usually consist of solar, storage, resiliency hardware and controls, and a generator. In some cases, microgrids can power an entire facility for several days.
+
+While microgrids might be an applicable use case for some customers, not all commercial and industrial customers require that amount of backup power to maintain operations during brief power outages. An organization's specific circumstances and exposure to prolonged outages will determine the optimal solution.
+
+A simple back-up system is an alternative to a full microgrid. These systems consist of solar, storage, and resiliency hardware and controls (islanding relays, microgrid controllers, switchgear panel, etc.) to back up only the critical loads of a facility, offering the most economical system and requiring significantly less engineering than a traditional microgrid.
+
+Table 1: Comparison of resiliency solutions
+
+Solar + Storage
+Solar + Storage + Simple Backup
+Microgrid
+Complexity
+
+Medium
+
+Medium
+
+High
+
+Backup Power Duration
+
+None
+
+< 4 hours
+
+Up to several days
+
+Loads Backed-Up
+
+None
+
+Only critical loads
+
+Typical critical loads up to entire site
+
+Additional Resiliency Controls Cost
+
+$0
+
+$50,000 - $200,000
+
+$500,000+
+
+
+Though companies are often deterred from resiliency systems due to the perceived high upfront costs, companies may be referencing microgrid systems that are overengineered to their actual needs. The true costs and processes required to augment energy resilience may be much lower and more straightforward than expected.
+
+How much will it cost?
+The widespread adoption of distributed energy resources such as solar and storage have led to lower costs. Solar-plus-storage systems can also reduce energy bills and generate value by participating in grid service programs, creating a strong business case with an attractive return on investment.
+
+The additional costs of the resiliency hardware and controls (islanding relays, microgrid controllers, switchgear panel, etc.) have decreased over time while the engineering cost (design, commissioning, etc.) varies greatly depending on the complexity of the site and solution. Augmenting resiliency controls for a simple back-up system can cost typically around $50,000 - $200,000, while microgrids can be upwards of a half a million dollars in additional isolating hardware and controls.
+
+The true value of resiliency
+After understanding the associated costs of resiliency, businesses grapple with the means to justify the added expense. When presented with a solar-plus-storage system with and without resiliency, companies see the better financial metrics for the non-resilient option and often defer investing in their energy independence.
+
+The “true” value of resiliency can be thought of as a function of the avoided cost of business per time and the time disrupted each year. The time disrupted each year has historically increased, and companies should account for the future value of resilience as the frequency of climate change-related disasters increases. By incorporating this, companies will be able to accurately capture the cumulative value of resilience over its lifetime. And by quantifying the value, the decision-makers at the companies can understand the urgency to build a resiliency solution.
+
+Assessing the costs of the lost business due to an outage is difficult. Online resources such as the
+ICE Calculator
+and
+FEMA Benefit-Cost Analysis
+provide simplified methods to help quantify the lost value.
+
+The example below outlines how a food-packaging facility in Sonoma County, California can calculate their value of resilience. Note that these numbers are only intended as an illustration, not a guarantee of what’s typical, as these numbers can vary significantly from company to company:
+
+Table 2: Framework to quantify the value of resilience
+
+Value Category
+Questions to Ask
+Examples
+Loss of Sales
+
+What is your hourly rate of sales?
+The facility sells $8,000 of produce during an average 8 hour workday. The hourly rate of sales is $1,000.
+
+Damage Costs
+
+Did any equipment get damaged?
+Did any materials get spoiled?
+Do any products need re-processing?
+The facility loses $3,000 of food inventory for every outage over an hour due to spoilage.
+
+Opportunity Costs
+
+How much lost time gets made up through overtime or extra shifts?
+Do operations slow?
+Are there any material costs to restart the facility?
+The company loses approximately three hours of productivity for an hour of outage. The company requires 30 employees to work overtime to recover the lost time. The overtime bill rate is $25/hour resulting in a cost of about $2,000 per hour.
+
+Intangibles
+
+How many customers were dissatisfied?
+What inconveniences were felt?
+The facility’s frequent power outages have caused them to repeatedly miss their delivery targets, estimating an impact of $1,000 in customer dissatisfaction per hour.
+
+
+Adding together the hourly losses in the right-hand column, the food-packaging company lost approximately $7,000 per hour of outage in this example. Sonoma County had a total of
+3 multi-day PSPS events
+resulting in a total of
+78 hours of outage during work hours
+in 2020, causing an annual loss of $550,000 in business operations.
+
+The additional cost of the resiliency hardware and controls for a simple backup is significantly less than quantified losses occurred in 2020 alone.
+
+These numbers are not universal, and every company will have different situations and different calculations. Even so, they help to illustrate how organizations must think about calculating the true value of resiliency.
+
+Table 3: Sample solar + storage project economics with and without resiliency
+
+Scenarios
+Net CapEx (after incentives)
+Avg Ann. Benefits (Savings + Revenue)
+Payback
+IRR
+Solar + Storage
+
+$1,800,000
+
+$310,000
+
+4.0
+
+21%
+
+Solar + Storage + Simple Backup
+
+$1,950,000
+
+$310,000
+
+4.2
+
+20%
+
+Solar + Storage + Simple Backup + Quantified Resiliency Benefits
+
+$1,950,000
+
+$856,000
+
+1.7
+
+49%
+
+
+Table 3 shows the pro forma associated with a solar-plus-storage project for the food packaging facility in the previous example. Accounting for the resiliency benefits significantly enhanced the original solar plus storage project economics. Ultimately, the quantified analysis of the value of resiliency can be the deciding factor for implementing a resiliency solution.
+
+Bottom Line
+Calculating the value of resiliency can seem like a daunting and elusive task, but the right framework and tools can empower businesses to understand the effects of outages on their bottom line. Only after measuring the lost value can companies work to address the issue. While climate change-related disasters will not subside in the future, companies can fight back and invest in resiliency to combat its effects.
+
+Suraj Patel is a Solutions Engineer, Distributed Energy Resources at Enel X.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

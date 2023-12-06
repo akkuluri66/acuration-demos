@@ -1,0 +1,432 @@
+City Analytics: soluzioni digitali basate sui Big Data | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-service-local
+City Analytics
+Smart City
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Istituzioni
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti
+Città 2.0
+SCOPRI DI PIÙ
+Sostenibilità
+SCOPRI DI PIÙ
+Istituzioni
+Prodotti e servizi
+
+Città digitale
+City Analytics
+Per capire e gestire meglio le città del futuro.
+GUARDA IL VIDEO
+
+Hai bisogno di informazioni?
+CONTATTACI
+Che cos’è
+Come funziona
+Che cos’è?
+City Analytics è una famiglia di soluzioni digitali, basate sull’elaborazione dei Big Data, che consente alle città di gestire l’ingente mole di dati e informazioni disponibili e in continuo mutamento al fine di pianificare i servizi pubblici e ottimizzare le infrastrutture urbane in base alle reali necessità dei cittadini. Le analisi si basano su dati anonimizzati e aggregati che provengono da veicoli, infrastrutture connesse, mappe, sistemi di navigazione e geolocalizzazione provenienti da applicazioni mobili e Open Data.  Con City Analytics le Pubbliche Amministrazioni possono:
+Pianificare
+In base alla domanda reale di servizi e infrastrutture.
+Visualizzare
+I dati raccolti attraverso mappe e grafici interattivi.
+Decidere
+Sulla scorta di serie storiche, dati in tempo reale e statistiche aggiornate.
+Come funziona?
+Mobilità persone
+Traffico veicolare
+Qualità manto stradale
+Mobilità delle persone
+Funzionalità che permette di visualizzare la distribuzione delle presenze nelle diverse aree della città, studiare origini e destinazioni dei flussi, stimare il numero di residenti, pendolari e turisti per ottimizzare la pianificazione in ambiti quali:
+il trasporto pubblico;
+il turismo;
+il posizionamento delle infrastrutture;
+la sicurezza;
+la comunicazione mirata.
+Traffico veicolare
+Dati storici e in tempo reale sull’intera rete stradale urbana, suddivisi tra veicoli commerciali e privati, dati di velocità medie e presenza di eventi straordinari. Il tutto per pianificare e monitorare il trasporto di persone e merci per:
+identificare punti critici nei flussi di traffico;
+prevedere comportamenti futuri in base a dati storici;
+riconoscere condizioni di traffico intenso in tempo reale e mettere in campo le misure necessarie.
+Qualità manto stradale
+Geolocalizzazione di buche e dossi, rilevazione delle irregolarità del manto stradale e misurazione dell’International Roughness Index (IRI), che classifica il livello di asperità delle strade al fine di supportare le pubbliche amministrazioni nel:
+identificare i tratti stradali che più necessitano di interventi;
+incrociare i dati con gli indici del traffico per definire gli interventi prioritari;
+migliorare le mappe dei sistemi di navigazione satellitare.
+City Analytics - Mobilità delle persone
+City Analytics - Mobilità delle persone è disponibile su MePA con pacchetti applicabili a centri urbani con un bacino di almeno 50.000 abitanti. I pacchetti si differenziano per durata del periodo di analisi (6 o 12 mesi) e tipologia di pacchetto (Light o Premium).
+Pacchetto Light: fornisce il database dei dati necessari per le analisi.
+Pacchetto Premium: fornisce, oltre al database dei dati, anche le APIs e una dashboard interattiva per visualizzare i risultati delle analisi.
+Ricerca i codici sotto indicati su MePA e inizia fin da subito a pianificare meglio la tua città.
+PACCHETTI DISPONIBILI SU MEPA
+6 MESI
+1 ANNO
+Paccheti su aree geografiche con popolazione tra 50.000 e 250.000 persone
+
+PACCHETTO LIGHT
+database
+
+City Analytics 1
+City Analytics 3
+PACCHETTO PREMIUM
+database + API + dashboard
+City Analytics 2
+City Analytics 4
+Progetti su aree geografiche con popolazione > 250.000 persone
+
+PACCHETTO LIGHT
+database
+City Analytics 5
+City Analytics 7
+PACCHETTO PREMIUM
+database + API + dashboard
+City Analytics 6
+City Analytics 8
+City Analytics - Traffico veicolare
+I pacchetti di City Analytics - Traffico veicolare presenti su MePA offrono 6 o 12 mesi di dati storici e near-real-time sulle condizioni del traffico di veicoli leggeri e pesanti.
+Ricerca i codici sotto indicati su MePA e inizia fin da subito a pianificare al meglio la tua città.
+PACCHETTI DISPONIBILI SU MEPA
+6 MESI (RICHIEDENDOLO TRAMITE RDO)
+1 ANNO
+Paccheti su aree geografiche con popolazione inferiore a 50.000 persone
+
+Traffico Veicolare 1
+Traffico Veicolare 1
+Progetti su aree geografiche con popolazione compresa tra 50.000 e 100.000 persone
+
+Traffico Veicolare 2
+Traffico Veicolare 2
+Progetti su aree geografiche con popolazione compresa tra 100.000 e 1.000.000 di persone
+
+Traffico Veicolare 3
+Traffico Veicolare 3
+Progetti su aree geografiche con popolazione superiore a 1.000.000 di persone
+
+Traffico Veicolare 4
+Traffico Veicolare 4
+City Analytics - Qualità manto stradale
+I pacchetti di City Analytics - Qualità manto stradale presenti su MePA forniscono informazioni sulla presenza di buche o dossi e offrono una vista dell’International Roughness Index (IRI) per singolo tratto stradale per classificare il livello di irregolarità del manto su una scala universalmente riconosciuta. Inoltre, entro 12 mesi dalla sottoscrizione del servizio, riceverai un aggiornamento delle rilevazioni.
+Ricerca i codici sotto indicati su MePA e inizia fin da subito a pianificare al meglio la tua città.
+PACCHETTI DISPONIBILI SU MEPA
+Paccheti su aree geografiche con popolazione inferiore a 50.000 persone
+
+Qualità Manto 1
+Progetti su aree geografiche con popolazione compresa tra 50.000 e 100.000 persone
+
+Qualità Manto 2
+Progetti su aree geografiche con popolazione compresa tra 100.000 e 1.000.000 di persone
+
+Qualità Manto 3
+Progetti su aree geografiche con popolazione superiore a 1.000.000 di persone
+
+Qualità Manto 4
+City Analytics - Mappa di mobilità
+Scopri gratuitamente come varia la mobilità nel tuo Comune durante l’emergenza e in fase di ritorno alla normalità.
+SCOPRI DI PIÙ
+Scopri gli altri servizi
+La gamma dell’offerta di Enel X per la pubblica amministrazione.
+Sistemi di videoanalisi
+Per capire e gestire meglio le città del futuro.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Edifici pubblici efficienti
+Enel X supporta la pubblica amministrazione nella transizione verso la sostenibilità.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Città sostenibile: significato e caratteristiche
+Città sostenibile: significato e caratteristiche
+Caratteristiche, requisiti e casi virtuosi di smart city in Italia e nel mondo.
+
+e-City
+Economia circolare
+Elettrificazione
++4
+Indicatore della circolarità urbana per i Comuni italiani
+Indicatore della circolarità urbana per i Comuni italiani
+Enel X lancia il Circular City Index per i Comuni italiani: uno strumento gratuito e innovativo in grado di misurare il livello di circolarità urbana. Scopri di più!
+
+e-City
+Innovazione
+Economia circolare
++2
+Esistono degli incentivi per l’installazione di lampadine a LED?
+Esistono degli incentivi per l’installazione di lampadine a LED?
+Eliano Russo, Head of e-Industries, la business line di Enel X dedicata alle soluzioni per le imprese, parteciperà come speaker ai principali congressi e forum dedicati alle questioni energetiche
+
+Soluzioni Business
++1
+Elettrificazione
+Città più moderne e sicure con l’illuminazione adattiva a LED
+Città più moderne e sicure con l’illuminazione adattiva a LED
+Il primo pacchetto strutturato di servizi energetici dedicati a un partner operativo nel settore primario. Abbiamo realizzato con Bonifiche Ferraresi il primo smart district agricolo d'Europa. Il progetto si aggiudica la Best in Class del premio Sodalitas
+
+Innovazione
++3
+Soluzioni Business
+Elettrificazione
+Azienda
+Illuminazione stradale a LED: i principali vantaggi
+Illuminazione stradale a LED: i principali vantaggi
+Enel X interverrà come main sponsor all’Assemblea annuale dell’associazione dei comuni italiani: quest’anno al centro le risposte al Covid-19
+
+e-City
++1
+Elettrificazione
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

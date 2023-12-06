@@ -1,0 +1,199 @@
+JuiceNet Manager
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+A propos de nous
+Corporate
+France
+
+FR
+
+English
+French
+Explorer
+Débloquer des opportunités
+Decarbonation
+Une solution digitale complète à votre stratégie énergétique.
+Enel X Connect
+EN SAVOIR PLUS
+Conseil et Decarbonation
+CONSEIL ET DECARBONATION
+Conseil En Energie
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Découvrez l'ensemble des opportunités offertes par les énergies renouvelables.
+Conseil en énergies renouvelab
+EN SAVOIR PLUS
+Support
+CONTACTEZ-NOUS
+France
+
+FR
+
+English
+French
+Explorer
+EN SAVOIR PLUS
+Débloquer des opportunités
+Decarbonation
+Conseil et Decarbonation
+EN SAVOIR PLUS
+CONSEIL ET DECARBONATION
+Conseil En Energie
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Support
+FRANCE
+L'Europe
+Espagne
+Irlande
+Italie
+Roumanie
+Royaume-Uni
+Amérique du Nord
+États-Unis
+Canada
+LATAM
+Argentine
+Brésil
+Chili
+Colombie
+Pérou
+APAC
+Australie
+Corée du Sud
+Japon
+Nouvelle-Zélande
+Taïwan
+Cherche ici
+Utility Bill Management
+Enel X Connect
+Conseil En Energie
+Decarbonation
+Energy Exchange
+Vous pourriez être intéressé par
+Conseils en énergie
+EN SAVOIR PLUS
+Entreprise
+Mobilité électrique
+
+JuiceNet Manager
+Le tableau de bord dynamique pour un contrôle total de votre mobilité électrique.
+Besoin de plus d'informations?
+CONTACTEZ-NOUS
+Qu'est-ce que c'est?
+Comment cela fonctionne-t-il?
+Principaux avantages
+Qu'est-ce que c'est?
+Conçu pour la gestion des flottes de véhicules électriques, le JuiceNet Manager est une plateforme intelligente qui offre une visibilité totale de vos bornes de recharge privées, de votre gestion des autorisations des utilisateurs et des données relatives aux sessions de recharge.  Le tableau de bord, auquel on accède via un portail dédié sur le site web d'Enel X, peut être utilisé pour gérer les bornes de recharge sur le lieu de travail ou dans un cadre commercial ainsi que la recharge à domicile des employés de la flotte. Il est compatible avec la JuiceBox, la JuicePole et la JuicePump.
+Surveillance
+Surveillez toutes les sessions de recharge. Accédez aux données complètes de chaque borne de recharge.
+Load optimization
+Optimisez la puissance disponible sur le site pour les recharges grâce à l'équilibrage de la charge entre les sessions simultanées.
+Contrôle
+Autorisez l'accès des utilisateurs de VE via l'application JuicePass. Activez et désactivez les cartes RFID pour le covoiturage et la locati
+Comment cela fonctionne-t-il?
+Sessions de recharge
+Conducteur
+Cartes
+Points de recharge
+Coupons
+Load Optimization Plus
+Charging sessions
+Le tableau de bord fournit un résumé de toutes les charges effectuées dans les secteurs public et privé, avec des données détaillées sur les sessions de recharge individuelles.  Appliquez des filtres et téléchargez des rapports personnalisés pour une gestion complète des données.
+
+Driver
+Sélectionnez qui a accès à votre service via la page Conducteur.  À partir de cette page, il est possible d'ordonner les codes d'entreprise pour la configuration et l'activation des utilisateurs Conducteur sur la JuicePass, de les suspendre si nécessaire et de visualiser un historique complet des charges.
+
+Cards
+La carte RFID est l'outil idéal pour la gestion de votre flotte de véhicules électriques.  Chaque carte peut être achetée pour un usage opérationnel et gérée sur cette page, ou bien elle peut être associée à un conducteur spécifique - l'employé - qui associe la carte à son code d'entreprise sur la JuicePass.  Dans l'espace Cartes, il est possible d'activer, de suspendre ou de bloquer les cartes RFID achetées.
+
+Charging points
+Chaque JuiceBox, JuicePole et JuicePump achetée peut être configurée sur le JuiceNet Manager pour une recharge privée, avec un suivi constant de l'utilisation et du statut.
+
+Ajoutez et modifiez de nouveaux bureaux en plus du lieu de votre bureau principal.  Votre gestionnaire de flotte peut également affecter les infrastructures de charge dans un lieu et spécifier un gestionnaire local.
+Coupons
+Créez des coupons pour des sessions de recharge gratuites à distribuer à vos conducteurs de VE ou à vos clients pour augmenter l'attractivité de votre entreprise.
+
+Load Optimization
+Notre logiciel Load Optimization maximise la recharge des véhicules dans les limites de la charge électrique disponible sur votre site en équilibrant la charge électrique disponible entre plusieurs bornes de recharge.
+
+Principaux avantages
+Facile à gérer
+La plateforme intelligente du JuiceNet Manager vous permet de gérer la flotte de VE de votre entreprise, de surveiller la recharge des employés de votre entreprise ainsi que les bornes publiques et domestiques, de gérer les utilisateurs Conducteur et de cartes, de vérifier l'état des points de recharge que vous détenez et de demander de l'aide.
+CONTACTEZ-NOUS
+Contrôle total
+Avec le JuiceNet Manager, le monde entier de la recharge électrique est au service de votre entreprise. Gérez toute vos recharges de VE via une plateforme unique.
+CONTACTEZ-NOUS
+Qu'est-ce que la mobilité électrique?
+Vous envisagez de passer à l'électrique mais ne savez pas par où commencer ? Initiez-vous rapidement grâce à notre guide
+EN SAVOIR PLUS
+Découvrez d’autres solutions
+D'autres solutions pour VE conçues par Enel X pour faire avancer votre entreprise.
+JuicePump
+Des solutions de recharge haute performance sans compromis.
+EN SAVOIR PLUS
+JuicePole
+Optimisez le temps de fonctionnement avec notre borne de recharge à sortie double.
+EN SAVOIR PLUS
+JuiceBox
+La solution de recharge de VE intelligente et évolutive pour votre entreprise.
+EN SAVOIR PLUS
+✖
+Enel X France
+
+
+A propos de nous
+QHSE
+SUPPORT
+
+
+FAQ
+MÉDIAS
+
+
+Communiques de presse
+REJOIGNEZ-VOUS
+
+
+Carrieres
+Devenir fournisseur
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+Enel X France
+
+
+A propos de nous
+QHSE
+SUPPORT
+
+
+FAQ
+MÉDIAS
+
+
+Communiques de presse
+REJOIGNEZ-VOUS
+
+
+Carrieres
+Devenir fournisseur
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+© Enel X Way France Tous Droits Réservés VAT No. FR96841151145
+Crédits
+|
+Affaires juridiques
+|
+Politique de confidentialité
+|
+Politique de cookies

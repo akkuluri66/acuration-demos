@@ -1,0 +1,227 @@
+Lancaster Schools Save on Energy with Enel X’s DER.OS | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Case Studies
+
+How Lancaster School District Saves on Energy with Battery Storage and Enel X’s DER.OS
+DOWNLOAD PDF
+
+Location:
+Lancaster, California
+Solution:
+Battery energy storage with Enel X DER.OS
+Optimization:
+Strategic integration with existing on-site solar
+Financial Benefit:
+Energy savings through lower demand charges
+
+The Customer
+Lancaster School District offers K-8 education to more than 15,000 students in the city of Lancaster, California, located in Los Angeles County’s Antelope Valley. The District includes one alternative education school, one grades 6-8 magnet school, four middle schools, and fourteen elementary schools.
+
+The Background:
+Prop 39 and Clean Energy Funds for Schools
+After 2012’s Proposition 39 created funds for California K-12 schools and community colleges to use on clean energy and energy efficiency projects, Lancaster School District began to explore its options.
+
+For many Districts, Prop 39 funds presented a strong opportunity to deploy solar panels at their school campuses. However, Lancaster School District had already previously installed solar on their schools through a partnership with the City of Lancaster. To find the best use of the Prop 39 funds, Larry Freise, the Assistant Superintendent of Business Services for the district, worked with the district’s energy advisor, TerraVerde Energy, and settled on energy storage.
+
+“TerraVerde had an idea about smart battery storage, and it was very intriguing,” he said. “There were enough grants available, and the pricing had come down enough to make it work.”
+
+The Solution:
+Battery Storage With Optimization Software
+Lancaster School District engaged Enable Energy, a BayWa r.e solar and storage EPC company, to develop, engineer, and install batteries for 10 school sites, while Enel X contributed its DER Optimization Software (DER.OS) to the project and is providing ongoing maintenance and operations services for the District.
+
+Enel X has partnered with Enable Energy on several
+solar-plus-storage
+projects. Todd Lindstrom, COO of Enable Energy, noted that, “Enel X’s reach and resources greatly enhanced our ability to execute this exciting project for the Lancaster School District, making it a successful installation at 10 sites simultaneously.”
+
+DER.OS automates battery operations
+to maximize energy savings by using predictive algorithms to forecast future energy needs and prices, while managing participation in any energy programs. Freise said he’s been impressed with Enel X’s software so far.
+
+“It’s cool software,” Freise said. “I can’t wait to show the School Board how it graphs everything. It shows how, as the sun’s rising, our solar generation is rising. Then when students arrive, the usage is rising, but then the graph shows how usage gets shaved off [by the battery]. I can point to that and say ‘There’s the battery right there – the battery kicked in and is saving us money.’”
+
+Enable installed the batteries just as remote learning was going into effect during the coronavirus pandemic.  They were able to leverage the absence of staff and students to install the batteries with minimal disruptions to the facilities. “The installation of the batteries was pretty seamless at the school sites,” Freise said. “Right as Enable started installing the batteries, we shut down for COVID. We didn’t have students or most of the staff on campus—I don’t even think most of the teachers know what’s inside the box. Yet it creates this huge capability for battery storage.”
+
+Freise noted that TerraVerde Energy had been “fantastic” to work with as well—“they’ve been very responsive and represented us well.”
+
+The Benefits:
+Energy Savings Through Lower Demand Charges
+At its simplest, battery storage creates energy bill savings by allowing facilities to store energy when it is cheapest, then use that energy later when prices on the grid are high. One important way that batteries lower bills is by reducing demand charges, which utilities typically charge based on the maximum amount of power used (in kW) during a given month.
+
+Batteries paired with solar can do this even more effectively, by storing excess solar energy when it’s most abundant. Lancaster School District’s batteries use Enel X’s DER.OS to optimize this process—DER.OS takes into account a variety of different inputs and forecasts to ensure the batteries store solar energy at the best time, and then discharge that energy later when the highest demand would otherwise occur.
+
+Even during coronavirus shutdowns, with no students on campus, the batteries were able to save the District money, Freise noted.
+
+“When we get to the point where demand from air conditioners coming on outweighs the solar generation, those batteries kick on automatically and shave the peaks,” he said.
+
+Because Lancaster School District has batteries across multiple sites, Enel X is helping them explore a variety of innovative ways to use those batteries to earn more revenue in the hours of the day after school has concluded. But for now, using the batteries to minimize demand charges is already a worthwhile use of their Prop 39 funds.
+
+Related Resources
+Explore other resources within this category.
+Eaton Arecibo: A Post-Maria Microgrid Story
+Eaton Arecibo: A Post-Maria Microgrid Story
+How Enel X and Eaton are Teaming Up to Deploy Resilient Microgrid Solutions in Puerto Rico
+
+Case Studies
+Solar-Plus-Storage
++3
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+
+Case Studies
+Solar-Plus-Storage
++3
+Thinking Big with Battery Energy Storage
+Thinking Big with Battery Energy Storage
+Imperial Oil partners with Enel X on one of the largest battery energy storage systems in North America
+
+Case Studies
+Energy Storage
++3
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

@@ -1,0 +1,464 @@
+Big Data Analytics: cos’è e i suoi vantaggi | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+FAQ
+Big Data: cosa sono e perché sono così importanti?
+Ogni volta che usiamo il computer, accendiamo lo smartphone o apriamo una App sul tablet, lasciamo una nostra
+impronta digitale
+– decisamente consistente – fatta di dati. A differenza di molte mode tecnologiche, i
+Big Data
+non sono un trend, ma una necessità gestionale per tutte le aziende. Questi enormi data set sono infatti un elemento chiave dal punto di vista della competitività, dell’innovazione e della crescita del business. Vediamo dunque
+perché sono importanti i Big Data
+.
+
+Analisi Open Data e indici per le PA
+Strumenti data-driven, accessibili gratuitamente a tutti i Comuni italiani, a supporto della sostenibilità urbana.
+SCOPRI DI PIù
+RICHIEDI INFO
+Big Data Analytics: cosa significa?
+Se cerchiamo di risalire all’etimologia di
+Big Data
+, il termine può essere rintracciato intorno alla metà degli Anni 90, utilizzato per la prima volta da
+John Mashey
+, Chief Scientist alla Silicon Graphics, per riferirsi alla gestione e all’analisi di grosse moli di dati. Nel 2001
+Doug Laney
+, allora Vice Presidente e Service Director dell’azienda Meta Group, in un report scese nel dettaglio e descrisse quello che ora è detto
+Modello delle 3V
+. I Big Data sarebbero caratterizzati da tre tratti:
+Volume:
+i dati provengono da innumerevoli fonti, tra cui transazioni commerciali, dispositivi intelligenti, apparecchiature industriali, video e social media.
+Velocità:
+i flussi di dati devono essere gestiti in modo tempestivo.
+Varietà:
+per ottenere informazioni dettagliate, vanno catturati tutti i tipi di dati, anche se eterogenei.
+
+Nel corso del tempo, le 3V sono poi diventate
+le 5V dei Big Data
+, aggiungendo:
+Veridicità:
+la fonte dei dati dev’essere affidabile.
+Valore:
+i dati devono avere un valore per i processi aziendali.
+
+Avere a che fare con i
+Big Data
+, però, non significa soltanto disporre di grandi moli di dati: computer e algoritmi ci permettono di analizzare sempre meglio e più velocemente la quantità crescente di dati che produciamo, rivelando percorsi e connessioni tra le molte attività umane. Ecco che si parla allora di
+Big Data Analytics
+, cioè l’analisi automatizzata di grandi quantità di dati per estrarne informazioni utili.
+Come e perché utilizzare i Big Data Analytics?
+City Analytics
+Per capire e gestire meglio le città del futuro.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Nell’era dei Big Data, la capacità di
+organizzare, elaborare e comprendere
+la grande mole di informazioni disponibili è un elemento chiave nei processi decisionali. I
+Big Data Analytics
+possono infatti aiutare a capire le
+reazioni dei mercati
+e la percezione che questi hanno dei brand, abilitano
+nuovi modelli di business
+, sono in grado di identificare i
+fattori chiave
+che spingono le persone ad acquistare un certo servizio o un determinato prodotto e di segmentare la popolazione per
+personalizzare
+quanto più possibile le strategie d’azione. Inoltre, proprio questa disponibilità di dati inediti consente nuove
+sperimentazioni
+, oltre a permettere di guadagnare in
+predittività
+, grazie a uno storico di informazioni così puntuale e ad ampio raggio da consentire simulazioni sempre più verosimili.
+
+L’
+analisi dei Big Data
+può essere di grande aiuto per le
+città
+nel miglioramento dei servizi offerti, per aumentare la qualità di vita e la sicurezza degli ambienti urbani. La raccolta dei dati anonimizzati provenienti da fonti diverse e la loro aggregazione ed elaborazione consentono di
+ottimizzare i servizi in base alla domanda reale
+, fornendo soluzioni in linea con i
+bisogni dei cittadini
+.
+
+Big Data e smart city: quali sono i vantaggi?
+La popolazione mondiale continua ad aumentare, concentrandosi sempre più nelle aree urbane. Riuscire a gestire l’affollamento diventa un tema centrale per il traffico, l’inquinamento, i consumi e la sicurezza. Ecco perché è importante il connubio tra
+Big Data e
+smart city
+. Grazie all’Internet of Things (IoT) e all’intelligenza artificiale, ogni oggetto può diventare uno “smart object” in grado di raccogliere informazioni, dialogare con altri dispositivi e alimentare
+analisi capaci di migliorare processi e servizi urbani
+. Nel concreto, quest’idea può tradursi nei seguenti ambiti:
+
+Gestione del traffico:
+ogni mezzo di trasporto può essere monitorato, individuando le aree e gli orari di massima congestione e i possibili percorsi alternativi, oltre a favorire un funzionamento più efficace dei semafori, a implementare una segnaletica intelligente e a migliorare la qualità del manto stradale.
+Trasporti pubblici:
+l’analisi dei dati può indicare il posizionamento migliore di fermate e stazioni, in grado di intrecciare mezzi di trasporto differenti, e consigliare quali linee pubbliche rafforzare e quali alleggerire.
+Trasporto intelligente:
+ogni automobilista può ricevere informazioni in tempo reale su ingorghi, incidenti e parcheggi e, in futuro, usufruire di auto a guida autonoma ancora più affidabili.
+Sicurezza:
+la creazione di mappe dei reati può consentire di concentrare le forze di polizia nelle zone più a rischio, oltre a individuare metodi di prevenzione che possono essere testati e, se necessario, migliorati.
+Salute:
+mappe intelligenti e semafori sincronizzati permettono ai mezzi di soccorso di arrivare a destinazione più rapidamente. Eventuali pericoli per la salute pubblica possono essere identificati e bloccati tempestivamente.
+lluminazione pubblica:
+nuove infrastrutture intelligenti possono
+adattare l’illuminazione stradale
+in base alla presenza di veicoli, alla luminosità ambientale e al meteo, evitando sprechi e rendendo la mobilità più sicura.
+Inquinamento e sostenibilità:
+le città possono raccogliere in tempo reale miliardi di dati sulle fonti di inquinamento e di spreco, ottimizzando le risorse e i consumi.
+Cosa sono gli Open Data: significato
+Con il diffondersi dei Big Data ne sentiamo parlare sempre più spesso: vediamo dunque cosa sono gli
+Open Data
+, il loro significato e le caratteristiche. Il significato di “
+Open Data
+”, letteralmente, è “
+dati aperti
+”: si tratta di
+informazioni digitali
+(numeriche e non solo) rese disponibili a tutti, distribuite e utilizzabili liberamente, nel rispetto delle normative in vigore. Grazie all’utilizzo di questi dati in maniera combinata e intelligente, diventa possibile rispondere alle esigenze della comunità. Infatti, se esaminare un singolo insieme di dati può essere utile in alcuni casi, molto più spesso l’interesse e il valore emergono davvero solo analizzando insieme più dataset contemporaneamente.
+
+Città circolari
+Applicare i principi dell’economia circolare alle realtà urbane.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Tra le caratteristiche degli Open Data ci sono, oltre all’
+accessibilità
+, anche la possibilità di
+riutilizzo
+e la loro
+ridistribuzione
+. Così i dati diventano veramente
+aperti
+a tutti e sempre open: chiunque può scaricare, utilizzare e condividere gli Open Data, senza discriminazioni di alcun genere.
+
+La normativa relativa alla gestione e all’utilizzo dei Big Data è in continua evoluzione e aggiornamento, sia a livello europeo sia nazionale e locale. L’ultimo Decreto Legislativo in merito agli open data in Italia è il
+numero 102 del 18 maggio 2015
+e riguarda l’attuazione della direttiva 2013/37 dell’Unione Europea, che delinea le regole sull’utilizzo degli open data per le aziende italiane e per la Pubblica Amministrazione.
+Enel X, Big Data e Open Data
+Illuminazione adattiva
+Il sistema intelligente che regola la luce in base alle condizioni stradali.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Adesso che abbiamo dato una definizione e spiegato che cosa si intende per Open Data, andiamo a vedere come essi si integrano nell’ecosistema di soluzioni innovative e sostenibili di Enel X, concepite per sfruttare appieno il valore dei
+Big Data urbani
+attraverso progetti integrati abilitati da ecosistemi digitali – che includono
+piattaforme IoT, Control Room, City Analytics, sensoristica
+e
+componentistica smart
+– volti a generare e a raccogliere dati che vengono elaborati per migliorare i servizi pubblici attuali e abilitarne di nuovi.
+
+Impiegando algoritmi studiati specificatamente, è possibile fornire gratuitamente Big Data sempre aperti e sfruttare così tutte le potenzialità degli Open Data per la
+Pubblica Amministrazione
+, ricavandone per esempio indicazioni utili per definire l’attuale livello di sostenibilità del Comune. Allo stesso modo, diventa possibile avere supporto nell’identificazione degli interventi chiave da realizzare sul territorio, anche per rispondere nella maniera più adeguata alle
+sfide ambientali
+e alle esigenze dei suoi abitanti. Dal
+CO
+2
+City Index
+per stimare le emissioni di anidride carbonica alle
+soluzioni data driven
+per migliorare la mobilità urbana, Enel X ricava il meglio dall’innovazione tecnologica per promuovere l’
+elettrificazione
+e il miglioramento delle infrastrutture e dei servizi.
+
+Proprio perché uno dei principali campi di applicazione degli Open Data sono le città, un utilizzo intelligente di queste informazioni pone le basi per la realizzazione di
+Smart City
+, centri urbani in grado di bilanciare aspetti di sostenibilità ambientale, sociale ed economica. Enel X supporta le pubbliche amministrazioni nel compiere le scelte più vantaggiose ed efficienti per le loro comunità, e di avere il controllo dei propri asset energetici. Al rispetto dell’ambiente si uniscono vantaggi socioeconomici e benefici per la qualità di vita dei cittadini: per raggiungere questi obiettivi, Enel X promuove un modello di
+pianificazione cittadino-centrica
+e volta alla decarbonizzazione, mettendo a disposizione delle Pubbliche Amministrazioni specifici
+strumenti di analisi
+realizzati in collaborazione con università e centri di ricerca, per soddisfare le esigenze delle comunità e contribuendo a costruire città più sostenibili, vivibili e smart.
+
+Scopri gli altri servizi
+Le soluzioni pensate da Enel X per privati, aziende e Pubblica Amministrazione.
+Circular City Index
+Scopri gratuitamente quanto è pronto il tuo Comune a diventare circolare.
+Scopri di più
+REGISTRATI E NAVIGA LA MAPPA
+15 Minute City Index
+Scopri quanto il tuo Comune si avvicina al modello della “Città a 15 minuti”.
+Scopri di più
+REGISTRATI E NAVIGA LA MAPPA
+CO₂ City Index
+Scopri gratuitamente il livello di emissioni di CO₂ nel territorio del tuo Comune.
+SCOPRI DI PIù
+REGISTRATI E NAVIGA LA MAPPA
+Domande correlate
+Quali sono i vantaggi di un’infrastruttura di rete in fibra ottica?
+SCOPRI DI PIÙ
+FAQ
+e-City
+Cos’è il trasporto pubblico green?
+SCOPRI DI PIÙ
+FAQ
+e-City
+Che cos’è l’illuminazione pubblica e quali sono i vantaggi dello smart lighting?
+SCOPRI DI PIÙ
+FAQ
+e-City
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Elettrificazione e Transizione Energetica
+Elettrificazione e Transizione Energetica
+Elettrificazione dei consumi e transizione energetica: come raggiungere la carbon neutrality entro il 2050 e limitare il cambiamento climatico. Scopri di più!
+
+Azienda
+Economia circolare
+Elettrificazione
+e-City
+Privato
+Soluzioni Business
+Smart Home
+Pubblica Amministrazione
++9
+La smart city, un modello per la città del futuro
+La smart city, un modello per la città del futuro
+Le città intelligenti promuovono sostenibilità ed economia circolare, rendendo le persone protagoniste dell’innovazione tecnologica.
+
+Elettrificazione
+e-City
+Economia circolare
++4
+Città sostenibile: significato e caratteristiche
+Città sostenibile: significato e caratteristiche
+Caratteristiche, requisiti e casi virtuosi di smart city in Italia e nel mondo.
+
+e-City
+Economia circolare
+Elettrificazione
++4
+City Analytics - Mappa di Mobilità: così è cambiata la mobilità nel 2020
+City Analytics - Mappa di Mobilità: così è cambiata la mobilità nel 2020
+L’analisi della mobilità in Italia nel primo anno del COVID-19, messa a disposizione delle Pubbliche Amministrazioni
+
+Elettrificazione
+e-City
+Innovazione
+Privato
+Pubblica Amministrazione
++6
+Scopri le nostre soluzioni
+Compila il form e ti ricontatteremo senza impegno.
+Contattaci
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

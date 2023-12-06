@@ -1,0 +1,202 @@
+Reflecting on EPRI and the Challenges Ahead | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Reflecting on EPRI and the Challenges Ahead
+August 30, 2022
+David Rodriguez is Director of Innovation for Enel X. His work focuses on supporting sustainable growth for customers by developing new business models that combine different technologies and solutions in creative ways.  In today’s blog post, he reflects on his time at the EPRI’s Electrification 2022 Conference and how that experience fits into the future of the industry.
+
+I had the pleasure of attending the EPRI’s Electrification 2022 Conference at the end of June, and I noticed a recurring concern in the venue about one specific topic: our industry’s collective ability to secure the energy infrastructure necessary for a massive EV roll-out by the end of this decade.
+
+Need a new transformer for your EV charging infrastructure project? Developers, manufacturers, OEMs, and anyone else you ask will tell you that lead times will be at least a year. Should we have started strengthening the grid years ago in order to support the type of scale-up needed for the 50% EV sales by 2030 target?
+
+At the conference, I had a chance to hold a Megawatt Charging System (MCS) plug. This single plug and cable has enough capacity to deliver 1 MW to 3.75 MW (enough to power hundreds of homes), driving home the transformative impact that the electrification of heavy-duty vehicles will have on the grid.
+
+As the Director of Innovation at Enel X, I know this challenge all too well. On one hand, we hear from organizations and businesses eager for zero-carbon strategies – they feel that things are not moving fast enough. On the other hand, current regulatory and planning frameworks don’t yet account for and compensate distributed energy resources (DERs) like
+energy storage
+for the multitude of flexibility benefits they provide, which stalls progress for both grid strengthening and energy flexibility efforts.
+
+In a way, it’s a chicken-and-egg problem:
+We need the charging infrastructure to enable EV scale-ups, but we need EVs on the road to justify the investments in the infrastructure.
+We can’t build electrical infrastructure ahead of time because utilities can’t do that without regulatory approval.
+Most utilities will say that it’s not really practical for them to buy a stock of transformers before they receive the interconnection requests; but by the time they receive all the interconnection/new-service requests, it might be too late.
+Utilities can’t pursue a “capitalized emergency” to release funds for investments, because there are there are concerns about the legitimacy of such an approach and about investing too early in technology that may become obsolete soon.
+
+Moving forward, demand for EVs is expected to almost double. So the question is: How do we reach that milestone smoothly? Do we really need to double our grid infrastructure to meet EV roll out requirements? Or could we instead utilize our existing grid infrastructure more efficiently?
+
+In his plenary address at EPRI, Jigar Shah of the Department of Energy (and formerly Generate Capital) focused on one approach to the problem: “smart grid” and grid flexibility solutions including load flexibility, DERs, storage, etc. These behind-the-meter solutions can improve the utilization of the grid and enable transmission and distribution investment deferral (or Non-Wire Alternatives) wherever it makes sense. And because this method can rely on existing load flexibility, it doesn’t face the same issues with long capital investment timelines as traditional grid expansion solutions would.
+
+“The [Enel X’s] (formerly EnerNOC) of the world have been doing it for decades,” said Jigar. And indeed, Enel X has pioneered demand response aggregation in the U.S. and Canada for over 20 years – now
+enhancing that flexibility with distributed generation and storage solutions
+like standalone storage, solar + storage, and storage + microgrid solutions. All of these solutions are built around the idea that a negative MWh of demand is just as valuable as a positive MWh of supply.
+
+Despite the challenges ahead, I walked away from EPRI with a renewed sense of belief in our collective ability to find creative solutions to enable EV growth in the coming years. And Shah’s speech reconfirmed the importance of my work – and all of our work – at Enel X.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

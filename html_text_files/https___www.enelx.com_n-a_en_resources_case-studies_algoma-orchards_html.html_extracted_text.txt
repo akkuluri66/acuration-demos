@@ -1,0 +1,213 @@
+Algoma Orchards | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Case Studies
+
+Algoma Orchards' Energy Storage Solution
+Algoma Orchards Reduces Global Adjustment Charges, Earns Demand Response Payments with Enel X’s Energy Storage Solution
+DOWNLOAD PDF
+
+watch video
+
+Algoma Orchards, a family-owned commercial orchard in the Durham region of Ontario, is dedicated to serving its community with quality produce and products. With a state-of-the-art apple cider facility processing thousands of gallons of cider and juice and an apple-packing center shipping products to grocery stores and its own retail locations across Canada, the company needs to ensure that any effort to reduce energy costs does not disrupt production or compromise the quality of its products.
+
+The Challenge
+Businesses in Ontario face some of the highest electricity costs in North America, thanks largely to the Global Adjustment (GA) charge, which energy providers pass onto customers’ electricity bills to cover their costs of generating capacity and conservation programs. GA charges have risen in recent years and are now the largest item on most Ontario customers’ electricity bills—up to 70% for some.
+
+In 2017, Ontario’s Independent Electricity System Operator (IESO) expanded eligibility for the Industrial Conservation Initiative (ICI), a program through which customers pay monthly GA charges based on their facility’s demand at the five intervals throughout the year when grid demand is at its highest. As a result of the expansion, all customers with an average peak demand of 1 MW or higher—as well as those in select industries whose average peak demand is 500 kW or higher—are eligible to opt into the ICI.
+
+For Algoma Orchards, participating in the ICI created an opportunity to reduce annual electricity costs significantly. If they could predict when the grid is at peak demand and reduce their demand at the right time, they could reduce their GA charges significantly for the entire following year.
+
+Since 2010, Algoma Orchards has partnered with Enel X to earn payments through demand response (DR) programs—which provide financial incentives to large energy users that voluntarily reduce their demand when called upon by grid operators. As a result, the company is keenly aware of both the financial opportunity of strategic demand management and the positive impact it can have on grid reliability. While Algoma Orchards receives payments for its participation, the company has long seen DR as a way to help support the local economy and environment. By reducing demand at the times when the grid needs it the most, the company helps to support the grid’s reliability and reduces its reliance on fossil fuels.
+
+Expanding its demand-side management practices to address GA charges would enable Algoma Orchards to have a greater impact on the community while also significantly reducing its annual energy costs. However, any effort to accomplish this would need to prevent disruption to production in its facilities or the quality of the company’s products.
+
+The Solution
+Predicting System Peak Events
+The first step to reducing GA charges is predicting when the IESO is most likely to experience peak demand. To accomplish this, Algoma Orchards participates in Enel X’s system peak predictor program, which uses a complex predictive model to assess the daily likelihood of a system peak event on the grid based on an analysis of weather information and market data. Through the program, which currently provides insight to more than 1,100 sites located in different markets across North America, Enel X develops a custom demand reduction plan for each customer and delivers daily notifications of the likelihood of a system peak event in their region. On the occasions when the likelihood is high, customers enact their load curtailment plan to reduce their GA charges.
+
+Enel X customers in Ontario saved a combined $15M on GA charges alone last year through Enel X’s system peak predictor program.
+
+Leveraging Energy Storage to Reduce Demand, Maintain Facility Uptime
+To maximize the potential savings through this program, Enel X worked with Algoma Orchards to select, finance, and install an energy storage system that could further reduce the company’s grid demand while still powering key equipment in its facilities.
+
+The system consists of 520 kW/1,040 kWh of capacity in Tesla lithium-ion batteries and is equipped with Enel X’s DER Optimization Software. The software analyzes all relevant energy information for the facility and the energy storage system—including operational schedules, tariffs, demand response programs, incentives, GA and other demand charges, and battery life—and automatically shifts the building’s load on and off the grid to deliver the most value possible.
+
+For Algoma Orchards, the system automatically charges the battery system when electricity prices are the lowest on the market and then seamlessly transitions the building’s load onto the battery system when system peak events are most likely—as well as when the sites are called upon to curtail load as part of DR programs.
+
+Additionally, the agreement with Enel X enabled Algoma Orchards to install the energy storage system with no upfront costs and without taking on any risk in the investment.
+
+The Future
+Going forward, the solution will enable Algoma Orchards to reduce GA costs and other demand charges significantly while also earning DR payments without shutting down key equipment in its facilities.
+
+In addition to the financial impact, this approach equips Algoma Orchards to take a stronger role in supporting its community. If demand on the grid outpaces supply—which could create the risk of a blackout or other interruption to power supply in the province—the IESO’s only options are to ramp up production from power generators that rely on fossil fuels or turn to its large energy users to curtail their load from the grid. By reducing its reliance on the grid when demand is at its highest, Algoma Orchards simultaneously contributes to efforts to maintain grid reliability in its community and helps the IESO reduce its reliance on emissions-heavy infrastructure—all without impacting product quality or production at its sites.
+Related Resources
+Explore other resources within this category.
+Eaton Arecibo: A Post-Maria Microgrid Story
+Eaton Arecibo: A Post-Maria Microgrid Story
+How Enel X and Eaton are Teaming Up to Deploy Resilient Microgrid Solutions in Puerto Rico
+
+Case Studies
+Solar-Plus-Storage
++3
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+
+Case Studies
+Solar-Plus-Storage
++3
+Thinking Big with Battery Energy Storage
+Thinking Big with Battery Energy Storage
+Imperial Oil partners with Enel X on one of the largest battery energy storage systems in North America
+
+Case Studies
+Energy Storage
++3
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

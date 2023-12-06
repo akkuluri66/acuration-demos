@@ -1,0 +1,419 @@
+Demand Response per le imprese | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-service-local
+Demand Response
+Business Solutions
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+Scopri le opportunità
+Energia come servizio
+Condominio
+Telemedicina
+Innovazione & sostenibilità
+Innovazione
+Net Zero
+Mobilità elettrica
+Soluzioni di ricarica per le aziende
+Storie di successo
+Servizio di interrompibilità: il caso Henkel
+Omikron: innovazione sostenibile nelle termoplastiche
+In evidenza
+Cessione del credito d’imposta e sconto in fattura
+Circular Economy Factbook
+Flessibilità, la strada verso la sostenibilità energetica
+Servizi di telemedicina
+SCOPRI DI PIÙ
+Prodotti e servizi
+Riqualificazione immobili
+Vivi Meglio
+Tutte le soluzioni
+Gestione dell'energia
+Generazione distribuita
+Efficienza energetica
+Flessibilità
+APP & TOOL
+Simulatore fotovoltaico
+Simulatore Demand Response
+Telemedicina
+Smart Axistance e-Well
+NET ZERO
+Misurazione e Reporting
+Strategie di decarbonizzazione
+Strumenti e incentivi
+Economia circolare
+Storie sostenibili e circolari
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Acquisto impianti esistenti
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Aziende
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+Scopri le opportunità
+Energia come servizio
+Condominio
+Telemedicina
+Innovazione & sostenibilità
+Innovazione
+Net Zero
+Mobilità elettrica
+Soluzioni di ricarica per le aziende
+Storie di successo
+Servizio di interrompibilità: il caso Henkel
+Omikron: innovazione sostenibile nelle termoplastiche
+In evidenza
+Cessione del credito d’imposta e sconto in fattura
+Circular Economy Factbook
+Flessibilità, la strada verso la sostenibilità energetica
+Servizi di telemedicina
+SCOPRI DI PIÙ
+Prodotti e servizi
+Riqualificazione immobili
+Vivi Meglio
+Tutte le soluzioni
+Gestione dell'energia
+Generazione distribuita
+Efficienza energetica
+Flessibilità
+APP & TOOL
+Simulatore fotovoltaico
+Simulatore Demand Response
+Telemedicina
+Smart Axistance e-Well
+NET ZERO
+Misurazione e Reporting
+Strategie di decarbonizzazione
+Strumenti e incentivi
+Economia circolare
+Storie sostenibili e circolari
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Acquisto impianti esistenti
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti
+Vivi Meglio
+SCOPRI DI PIÙ
+Energia come servizio
+SCOPRI DI PIÙ
+Aziende
+Prodotti e servizi
+
+Flessibilità
+Demand Response
+Trasforma il consumo di energia in una fonte di profitto per la tua azienda.
+GUARDA IL VIDEO
+
+Hai bisogno di informazioni?
+CONTATTACI
+Che cos’è
+Come funziona
+Perché conviene
+Circolarità
+Che cos'è il Demand Response?
+È un servizio innovativo, promosso dall’Arera (Autorità di regolazione per energia reti e ambiente) e gestito da Terna, che consente ai consumatori commerciali e industriali di accedere al Mercato dei Servizi di Dispacciamento (MSD), modulando il proprio consumo energetico o la propria produzione in sito con l’obiettivo di rispondere ai picchi di offerta o domanda elettrica e consentendo in questo modo una maggiore flessibilità e stabilità di rete e un uso più efficiente delle risorse. In cambio di questa disponibilità, la tua azienda riceve una remunerazione.
+Esperienza globale
+Enel X è un operatore mondiale di Demand Response, presente in 16 nazioni e con più di 7.700 MW di capacità flessibile gestita.
+Squadra dedicata
+Un team di esperti è dedicato a supportarti nell’individuazione dei processi industriali più adatti a una modulazione di potenza.
+Piattaforma intelligente
+Algoritmi evoluti permettono di massimizzare i ricavi per la tua azienda e la sicurezza per il gestore di rete.
+Assistenza continua
+Il nostro centro operativo è disponibile 7 giorni su 7, 365 giorni l’anno, con applicazioni dedicate e servizi di notifica automatizzati.
+Tipologia di offerta
+L’offerta commerciale di Enel X è personalizzata sulla base delle caratteristiche di ogni singolo cliente. Attualmente lo schema remunerativo previsto dal progetto pilota UVAM (Unità virtuali aggregate miste) istituito da Terna prevede due voci:
+Componente fissa
+Una remunerazione fissa, direttamente proporzionale alla capacità resa disponibile alla modulazione, aggiudicata tramite asta.
+Componente variabile
+Una remunerazione variabile, proporzionale alla richiesta di energia durante gli eventi di modulazione.
+RICHIEDI INFO
+Come funziona?
+Flusso
+Destinatari
+1
+Richiesta di Terna
+Richiesta di Terna
+Terna, in qualità di operatore di rete, responsabile della gestione ed equilibrio del sistema elettrico nazionale e quindi “utilizzatore” della flessibilità, a fronte di un problema di stabilità della rete notifica la necessità di un ordine di bilanciamento all’aggregatore.
+2
+Aggregatore BSP
+Aggregatore BSP
+L’aggregatore Enel X, in quanto BSP (Balance Service Provider) responsabile della prestazione del servizio offerto, notifica la richiesta di modulazione selezionando nel suo portafoglio le risorse idonee e disponibili alla richiesta.
+3
+Implementazione del cliente
+Implementazione del cliente
+I clienti che tramite i loro impianti, o parti di essi, possono mettere a disposizione del BSP la loro flessibilità, attuano (manualmente o automaticamente) i piani di modulazione.
+4
+Carico
+Carico
+La riduzione o l’incremento del carico viene utilizzato dall’operatore di rete.
+5
+Remunerazione
+Remunerazione
+I clienti ricevono una remunerazione per la modulazione effettuata e per la disponibilità alla prestazione del servizio.
+A chi è rivolto il servizio
+Il servizio di Demand Response offerto da Enel X è rivolto ai clienti commerciali e industriali appartenenti a diversi settori merceologici. Indifferentemente dalle dimensioni del sito, potranno infatti parteciparvi anche i clienti di taglia più piccola, gestiti sotto forma aggregata.
+
+Perché conviene?
+Simulatore di Demand Response
+Scopri in pochi click i guadagni realizzabili dalla tua azienda modulando il consumo o la produzione energetica.
+Inizia la simulazione
+Accesso a una nuova voce remunerativa
+Potendo ora partecipare in forma aggregata al Mercato dei servizi di dispacciamento (MSD) attraverso i progetti pilota, la tua azienda ha accesso a una nuova voce remunerativa, prima inesistente.
+CONTATTACI
+Partecipazione attiva
+Con l’adesione al Demand Response diventi un attore attivo all’interno del sistema elettrico nazionale, valorizzando il tuo impianto di autoproduzione di energia attraverso l’aumento dell’immissione in rete o la riduzione del consumo.
+CONTATTACI
+Maggiore consapevolezza
+Il servizio ti permette di acquisire una maggiore consapevolezza delle flessibilità intrinseche del tuo processo industriale. Per partecipare al programma di Demand Response, infatti, non è necessario interrompere i propri consumi, ma è sufficiente garantire un certo grado di modulazione.
+CONTATTACI
+Sostenibilità ambientale
+Con il Demand Response supporti la decarbonizzazione dell’economia partecipando a un sistema maggiormente sostenibile da un punto di vista ambientale, in quanto il Demand Response consente l’inserimento di nuove risorse rinnovabili salvaguardando la stabilità della rete elettrica.
+CONTATTACI
+1
+2
+3
+4
+5
+/5
+Circular Economy Score
+Il nostro servizio di Demand Response consente una maggiore flessibilità e stabilità della rete e rispetta 2 dei 5 business model della Circular Economy.
+Sustainable inputs
+
+Sharing platform
+
+Product as a service
+
+Life extension
+
+Recycle and reuse
+
+Sustainable Inputs
+Gestisce l’imprevedibilità e l’intermittenza delle energie rinnovabili, aumentando l’integrazione e garantendo flessibilità e affidabilità della rete.
+Sharing platform
+Demand Response consente di regolare la domanda di energia anziché l’offerta. In tal modo i clienti possono condividere la propria riserva di capacità e renderla disponibile alla rete.
+Scopri gli altri servizi
+Le soluzioni pensate da Enel X per le aziende.
+Simulatore di Demand Response
+Il servizio innovativo per la tua impresa.
+Inizia la simulazione
+RICHIEDI INFO
+Peak Management
+Il servizio che aiuta a ridurre i picchi di carico e i costi di spesa energetica.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+GEO - Generation Energy Optimization
+Il servizio di gestione delle eccedenze energetiche e ottimizzazione della produzione.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Interrompibilità
+Aiuta la rete elettrica a fronteggiare le emergenze guadagnando.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Flessibilità
+Contribuisci con la tua azienda alla stabilità della rete elettrica e monetizza la tua disponibilità.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Flessibilità energetica: soluzioni e vantaggi per le aziende
+Flessibilità energetica: soluzioni e vantaggi per le aziende
+L’offerta di Enel X per il mondo business, dai programmi di Demand Response al Peak Management.
+
+Innovazione
+Business solutions
++1
+Elettrificazione e Transizione Energetica
+Elettrificazione e Transizione Energetica
+Elettrificazione dei consumi e transizione energetica: come raggiungere la carbon neutrality entro il 2050 e limitare il cambiamento climatico. Scopri di più!
+
+Azienda
+Economia circolare
+Elettrificazione
+e-City
+Privato
+Soluzioni Business
+Smart Home
+Pubblica Amministrazione
++9
+Flessibilità, la strada verso la sostenibilità energetica
+Flessibilità, la strada verso la sostenibilità energetica
+Flessibilità e nuove tecnologie: gli strumenti per raggiungere il traguardo della decarbonizzazione
+
+Soluzioni Business
++2
+Innovazione
+Azienda
+Accumulo energetico intelligente: la rivoluzione di Enel X
+Accumulo energetico intelligente: la rivoluzione di Enel X
+Le soluzioni di Enel X per la gestione intelligente dello storage permettono di trasformare la necessità di una maggiore flessibilità in una opportunità di crescita, rivoluzionando le modalità di produzione e consumo di energia.
+
+Soluzioni Business
++2
+Elettrificazione
+Azienda
+Revamping fotovoltaico: cos’è e come funziona
+Revamping fotovoltaico: cos’è e come funziona
+La maggior parte degli impianti fotovoltaici italiani, installati tra il 2001 e il 2014 per godere dei vantaggi del Conto Energia, richiede interventi di “revamping”, cioè di rinnovamento. Il GSE indica modalità e parametri a cui queste migliorie devono rispondere per conservare gli incentivi e contribuire a uno sviluppo ecosostenibile
+
+Soluzioni Business
++2
+Elettrificazione
+Azienda
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

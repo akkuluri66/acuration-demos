@@ -1,0 +1,121 @@
+booking-option
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Piano tariffario Pay per Use Premium: al termine di ogni sessione di ricarica il costo del servizio è calcolato moltiplicando i kWh prelevati per il corrispettivo unitario stabilito per il servizio. Il corrispettivo unitario è differenziato fra punti di ricarica:
+Punti di ricarica in Italia: 0,58€/kWh per i punti di ricarica AC, 0,68€/kWh per punti di ricarica DC fino a 100 kW,  0,75€/kWh per punti di ricarica DC fino a 150 kW e 0,79€/kWh per punti di ricarica DC oltre 150 kW (HPC)
+Punti di ricarica non in Italia: 0,70€/kWh per i punti di ricarica AC, 0,75€/kWh per punti di ricarica DC fino a 100 kW, 0,80€/kWh per punti di ricarica DC fino a 150 kW e 0,85€/kWh per punti di ricarica DC oltre 150 kW (HPC)
+Tutti gli importi indicati sono Iva e imposte incluse.
+
+La fattura viene emessa inviata al cliente al termine di ogni sessione di ricarica.
+
+Il Piano tariffario prevede l’opzione del servizio di prenotazione attraverso il pagamento di un corrispettivo/canone annuale pari a 25,00€/anno (IVA imposte incluse) che dà accesso al servizio di prenotazione della presa illimitato, per un anno a partire dalla data di sottoscrizione. La fattura viene emessa inviata alla mezzanotte del giorno nel quale si effettua l’acquisto. Allo scadere del periodo di validità (un anno) l'opzione verrà automaticamente rinnovata.
+Verifica sempre sull'App i punti di ricarica compatibili con il servizio di prenotazione. È possibile prenotare la stessa presa per un massimo di 3 (tre) volte consecutive: al tentativo successivo il servizio di prenotazione sarà inibito per 20 minuti.
+Il cambio piano da un piano tariffario “Pay per Use” ad un piano tariffario “Flat”, si applicherà dopo 24 ore successive alla richiesta.
+Il cambio da piano tariffario “Pay per Use Premium” a piano tariffario “Pay per Use Basic”, si applicherà partire dal giorno successivo a quello in cui è stata effettuata la scelta. A partire dal giorno successivo alla scelta, quindi, non sarà più possibile effettuare la prenotazione della presa prevista dal piano “Pay per Use Premium”.
+La tariffa a “Pay per Use Premium” non include ulteriori addebiti per l’occupazione della presa al termine della ricarica. Infatti, per le Stazioni di Ricarica Pubblica espressamente segnalate sull’App, è prevista l’applicazione di un addebito aggiuntivo per la mancata liberazione della presa una volta decorsi 60 (sessanta) minuti dal termine della ricarica stessa. L’importo è indicato nella scheda di dettaglio della singola presa della Stazione di Ricarica Pubblica interessata ed è pari a:
+- 0,09€/min per le Prese AC (Tipo2 e Tipo3a), con potenza massima fino a 22 kW;
+- 0,09€/min per le Prese AC (Tipo2 e Tipo3a), con potenza massima fino a 43 kW;
+- 0,18€/min per le Prese DC (CHAdeMO e CCS Combo 2), con potenza massima fino a 50 kW;
+- 0,18€/min per le Stazioni HPC (CHAdeMO e CCS Combo 2), con potenza massima fino a 350 kW
+
+Gli importi sono da intendersi “Escluso IVA Art.15” e saranno fatturati, ove previsto, al termine della sessione di ricarica.
+
+Proseguendo accettando le presenti condizioni aderisce al Piano tariffario “Pay per Use Premium”.
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

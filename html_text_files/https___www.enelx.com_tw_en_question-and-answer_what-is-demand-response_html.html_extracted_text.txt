@@ -1,0 +1,316 @@
+What is Demand Response?
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Taiwan
+
+EN
+
+Mandarin Chinese
+English
+Explore
+Product & Services
+Power Flexibility
+Demand Response
+APP & TOOL
+Demand response calculator
+Earn new revenue with Demand Response
+Demand Response Calculator
+START SIMULATION
+Support
+CONTACT US
+Taiwan
+
+EN
+
+Mandarin Chinese
+English
+Explore
+Product & Services
+START SIMULATION
+Power Flexibility
+Demand Response
+APP & TOOL
+Demand response calculator
+Support
+Taiwan
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Romania
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Demand Response
+Circular Economy
+Renewable Energy
+You may be interested in
+Demand Response
+Learn more
+FAQ
+What is Demand Response?
+Demand Response
+programs are management measures used by power companies to guide electricity users to adjust their electricity consumption habits. It is done by reducing peak demand or shifting it to off-peak periods by providing incentives such as price or tariff reductions. This is a common practice in the electricity industry worldwide to suppress peak demand,
+similar to buying insurance for power supply and unrelated to power rationing
+.
+
+When the electricity demand on the consumer side is too high or there is an excess of supply on the supplier side, it will lead to an imbalance between supply and demand, affecting the stability of the power system. Generally speaking, what often happens is that the electricity demand from the consumers’ side exceeds the supply, leading to blackouts. At this point, if energy users can temporarily reduce their energy consumption, the power grid will be able to get back into a balance between supply and demand and maintain power stability.
+
+In response to net-zero carbon emissions and energy transition, properly implementing Demand Response can avoid the high cost of building additional power plants
+, making it an increasingly important resource in the power system.
+
+Demand Response
+Join our Virtual Power Plant and support the energy transition
+LEARN MORE
+Taiwan Power Company pointed out that “Peak load hours account for only about 2% of the total 8,760 hours per year. Instead of continuously building peak-load units for these 200 hours, Demand Response can be promoted as a more economical and environmentally friendly measure for managing this demand shift.”
+
+According to a report by the
+International Energy Agency
+, “the milestone for net-zero scenarios has 500GW of demand response brought onto the market by 2030, corresponding to a tenfold increase in deployment levels in 2020”. Therefore, we need more flexible power resources for demand response.
+
+Demand Response provides a brand new opportunity for commercial, institutional, and industrial organizations in face of the energy transition. Businesses can earn a brand new revenue stream by using flexible energy resources to support the grid and maintain reliable electricity.
+Effectively utilizing existing assets while improving energy efficiency is a practical action toward sustainability and adopting a
+circular economy
+business model.
+What is the relationship between Demand Response and Virtual Power Plants?
+Demand response contributes to part of a Virtual Power Plant(VPP). A VPP aggregates various distributed energy resources, including battery storage systems, generators, and energy flexibility used by businesses to participate in Demand Response programs. When these resources are aggregated, they can support the grid and provide dispatchable power capacity.
+
+What are the benefits of participating in Demand Response Ancillary Service Programs?
+New revenue stream
+: Unlock brand new revenue stream with existing assets. Enel X manages your participation from start to finish, ensuring you earn the highest possible financial reward.
+Improve your facilities’ resilience
+: In addition to the payments, demand response participants also receive advanced notification of grid stability issues, enabling them to proactively protect their facilities from potential power outages.
+Activate your assets
+: As an electricity user, you are no longer just a consumer but also a “prosumer” with dual identities of power producer and consumer. Therefore, besides its original purpose, your equipment can also become the best asset for generating additional income.
+Achieve energy-saving goals
+: Participating in Demand Response and the capacity curtailed during a dispatch is recognized by the Energy Bureau as effective energy-saving measures.
+Support your community:
+Your participation helps maintain reliable electricity in your community, and helps to keep the lights on.
+Accelerate the Energy Transition:
+The flexibility you contribute can assist the development of Renewable Energy and accelerate Taiwan’s Energy Transition.
+Italgrani USA Enrolls in Demand Response
+Learn how Italgrani USA, the largest semolina and durum flour miller in North America, is taking action on ESG issues.
+Read more
+Who is suitable for participating in Demand Response?
+If you meet any of the following conditions, you have the opportunity to use your power flexibility and participate in Taiwan Power Company’s (Taipower)
+Demand Response Ancillary Service programs
+through us:
+Major energy users with a contracted capacity of over 5,000kW with Taipower
+Owns equipment that is able to participate in reducing the energy load by 100kW or more. Significant benefits will be seen if able to curtail more than 100kW
+Owns a generator
+Businesses that expect to increase the bottom line
+Businesses with energy-saving needs
+Businesses that aim to adopt circular economy and sustainable operating models
+How can I join the Demand Response Program?
+Enel X makes participation easy. We take care of the complex details so you can stay focused on running your business. The process of participation is as follows:
+
+Free advisory
+- Our expert team will consult with you and, if necessary, conduct on-site surveys to determine your energy-saving potential.
+Strategy planning
+- Our expert team will create a strategy that delivers maximum value with minimum impact to your operations while signing the contract.
+Registration and installation
+- We will assist you in completing the qualification review and registration process with Taiwan Power Company. In some cases, we may install necessary metering devices at your facility to establish communication with our Network Operations Center (NOC), so we can monitor your energy consumption levels in real-time.
+Onboarding training
+- Our expert team provides training to assist you in being fully prepared. Our team remains on standby to support you at all times.
+Capacity test
+- We will assist you in communicating with Taipower and conducting load reduction tests so that you are ready to respond to dispatch events.
+Officially online
+- Be on standby, ready to respond to dispatch, and start to generate revenue.
+Demand Response Calculator
+See how much revenue you can earn for reducing your energy consumption with Demand Response
+Start simulation
+What types of energy reductions can I make to participate in Demand Response?
+Enel X has extensive experience creating energy reduction strategies that work within the operational limitations of a wide variety of facilities, including cold storage, manufacturing, food processing, data centers and technology companies, universities, shopping centres, office buildings and more. Common reduction examples include:
+Switch from electricity grid usage to onsite generation (BESS or backup generator)
+Modify manufacturing processes
+Adjust HVAC equipment
+Turn down pumps
+Change settings in industrial freezers
+Reduce non-essential lighting
+Customers often facilitate dispatch participation by simply shifting many of their energy-intensive processes by a few hours.
+What can I expect during a dispatch event when participating in Demand Response programs?
+Notification
+: When Taipower anticipates high demand on the grid, it dispatches the Enel X network into action. Enel X will notify you via email, phone or SMS, depending on your preferences, to inform you when the dispatch will begin.
+Response
+: At the start of the dispatch, your facility will reduce its electricity usage according to your predetermined plan - either manually or automatically through our Network Operations Center (NOC).
+Support
+: Before, during, and after a dispatch, our NOC remains in communication with your facility. Our staff is available 24x7x365, supporting you to ensure that you achieve the highest possible levels of performance and payments.
+What are the Demand Response Ancillary Service programs in the Energy Trading Platform?
+Categories
+Spinning Reserve
+Supplemental Reserve
+Response time
+10 min.
+30 min.
+Dispatch duration
+1 hour
+2 hours
+Source of resources
+Demand Response
+Battery Energy Storage System
+Self-use power generation equipment
+Demand Response
+Self-use power generation equipment
+Source: Taiwan Power Company
+Energy Trading Platform
+6 advantages of participating in the Demand Response Ancillary Service programs through the Enel X VPP
+Zero additional cost
+- providing you with professional installation and integration of automatic control.
+Clear and easy-to-understand dispatch platform
+- track real-time electricity information, dispatch performance, and energy load status.
+Monthly performance statement
+- clear revenue calculation.
+24/7 Network Operations Center
+- providing you with professional support.
+Enhance business resilience
+- Receive grid alert messages in advance and be fully prepared.
+Flexible participation
+- you own the autonomy to participate in the market.
+Demand Response
+Circular Economy
+Sustainability
++3
+Related questions
+What is the energy transition and why is it important?
+Learn more
+FAQ
+Sustainability
+What is Net Zero and how to achieve zero emissions?
+Learn more
+FAQ
+Sustainability
+What does Enel X and Gogoro's latest partnership involve?
+Learn more
+FAQ
+Demand Response
+Related Content
+Enel X and Gogoro accelerate Taiwan's energy transition
+Enel X and Gogoro accelerate Taiwan's energy transition
+Gogoro and Enel X Accelerate Taiwan's Energy Transition with Integration of Virtual Power Plant and 2,500 Battery Swapping Stations Across 1,000+ Locations
+
+Media Release
+Demand Response
+Electric Mobility
+Sustainability
++5
+Taipei 101 to accelerate Taiwan's energy transition with Enel X
+Taipei 101 to accelerate Taiwan's energy transition with Enel X
+Taipei 101 to participate in Enel X’s Virtual Power Plant.
+
+Media Release
+Demand Response
++3
+Enel X: New Global Record for Demand Response
+Enel X: New Global Record for Demand Response
+2022 was a record year for Enel X: more than 8GW of Capacity offered in markets
+
+Article
+Demand Response
++3
+Taiwan cannot build enough renewables if we cannot balance them
+Taiwan cannot build enough renewables if we cannot balance them
+Learn more about the need for renewable energy planning in Taiwan
+
+Article
+Demand Response
++3
+How Demand Response contributes to a more sustainable future
+How Demand Response contributes to a more sustainable future
+Find out how Demand Response contributes to a more sustainable future.
+
+Whitepaper
+Circular Economy
+Demand Response
++4
+How V2G technology is accelerating Taiwan's path to decarbonizing
+How V2G technology is accelerating Taiwan's path to decarbonizing
+Enel X and Gogoro are driving the country’s energy transition with innovative electricity use.
+
+Article
+Electric Mobility
++3
+How does sustainability help businesses save costs?
+How does sustainability help businesses save costs?
+When “Sustainability” come to mind, we often think about extra costs and efforts. But the truth is it can help you spend less
+
+Article
+Demand Response
+Circular Economy
+Renewable Energy
+Sustainability
++6
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+✖
+Enel X Taiwan
+
+
+Who We Are
+Contact Us
+Support
+Media
+
+
+Resources
+Press Releases
+FAQs
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+Enel X Taiwan
+
+
+Who We Are
+Contact Us
+Support
+Media
+
+
+Resources
+Press Releases
+FAQs
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Taiwan Co. Ltd All rights reserved
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy

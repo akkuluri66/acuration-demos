@@ -1,0 +1,228 @@
+Equity Office Management | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Case Studies
+
+Equity Office Properties Optimizes Operations, Slashes Energy Costs
+DOWNLOAD PDF
+
+Equity Office Management LLC owns a portfolio of approximately 45 million square feet of Class A office space throughout the United States. Over its 25 years of operation, its holdings have included some of the country’s most recognizable buildings, including the iconic San Francisco Ferry Building.
+
+Equity Office is dedicated to responsible investment and ownership, and energy efficiency plays a significant role in maintaining that standard. Currently, Equity Office uses Enel X to collect and analyze real-time energy data from more than 40 properties in California Colorado, Nevada, and Florida, many of which are LEED certified.
+
+The Challenge
+With 45 million square feet of property under management, establishing best practices for energy management and ensuring those practices are upheld can be daunting. Many different variables, including the cost of electricity, varying utility contract structures, and big temperature swings region by region add further complexity.
+
+The Equity Office team works diligently to keep their buildings operating optimally, but like most building managers they often find their time and resources weighted towards reactive fixes, not proactive energy management. In addition, the team was expending valuable resources entering data into the government-run ENERGY STAR® database.
+
+The Solution
+Equity Office began using real-time energy data to better manage their energy spend in 2005. They enrolled several New York and New England properties in local demand response (DR) programs, giving them access to streaming usage data at each site. Although the DR payments were a much-welcomed revenue stream, they realized the potential for far greater savings.
+
+In 2012, they deployed Enel X’s full energy intelligence software (EIS) package across 40+ sites, enabling them to zero in on operational best practices and find and correct unnecessary waste.
+
+After initial success, Equity Office and Enel X are now deploying utility bill management software at 45 facilities in Southern California. Having a utility bill management system will dramatically streamline ENERGY STAR® reporting practices by centralizing utility invoices and automatically pushing new bill data to the company’s ENERGY STAR® Portfolio Manager accounts.
+
+The Results
+To date, Enel X has identified energy efficiency measures (EEMs) that will total more than $800,000 in annual savings across Equity Office’s portfolio. Equity Office’s team has already implemented an impressive $300,000 of these identified savings, recognizing that they maximize return on investment (ROI) by maximizing operational efficiency.
+
+More than $300,000 of the total savings opportunities identified can be traced back to unnecessary nighttime usage. By optimizing their overnight consumption (see graph on next page), Equity Office derived immediate, lasting savings without incurring any capital expense.
+
+Optimizing startup protocols—ensuring that facilities are meeting their contractual heating and cooling obligations without starting up too early—accounts for another $250,000 in identified savings. Similarly, starting shutdown earlier in the day while still maintaining occupant comfort also led to over $150,000 in identified savings. Although weekend waste represents the smallest portion of the overall savings, the team was quick to act, realizing approximately $30,000 in annual savings simply by ensuring that buildings were properly shut down over unoccupied weekends.
+
+In addition to direct cost savings, energy intelligence software has helped Equity Office develop a competitive advantage in several key ways:
+
+Preventing Waste Before it Occurs
+Equity Office actively uses the alerting feature in the Enel X platform to get notified of waste before it occurs. Equity Office presets alerts to be pushed via email or text any time a building’s consumption exceeds its baseload during an unoccupied period, allowing the facilities staff to address the problem before costs are incurred. This feature is especially useful during holidays and other periods where buildings are scheduled to be unoccupied, and staff wouldn’t necessarily be doing building walkthroughs.
+
+Guarding Against “Drift”
+As Equity Office implements new EEMs, they want to make sure each generates maximum returns and none are inadvertently overridden or reversed. EIS allows them to easily guard against buildings “drifting” back towards pre-investment consumption levels.
+
+With a portfolio of over 40 sites and energy efficiency projects constantly being carried out across the portfolio, EIS makes an otherwise cumbersome task extremely simple. Rather than inputting utility bills into a spreadsheet and comparing them to previous months site-by-site, EIS delivers periodical reports comparing energy consumption for each site to consumption in previous periods. Equity Office can specify the comparison period to make sure they’re seeing how much energy a building used prior to a specific energy efficiency measure and how much less it’s using now.
+
+Better yet, Equity Office can set alerts to be sent automatically if a building exceeds its expected baseload post-implementation. When a building is shut down, the baseload should reflect the influence of an EEM. If not, or if the baseload jumps back to pre-EEM levels, they receive an immediate alert they can act on.
+
+If consumption levels have remained the same, or gone up, Equity Office can use the software to scrutinize whether factors like weather might be masking the actual effects of the EEM.
+
+More Nuanced Tenant Pricing
+With EIS, Equity Office’s portfolio manager can assess the costs of running a building beyond standard hours of operation. This helps them determine how much to quote tenants who need fully serviced offices after hours as well. Equity Office uses the software to calculate how many kWh an occupied building is over its baseline during after-hours use. Enel X then calculates how much that overage is costing Equity Office using the company’s blended tariff rate. This proves invaluable for accurately calculating revenue generation at each property and ensuring profitability.
+
+Seasonality Adjustment
+Equity Office maintains a sizeable building maintenance and operations staff across their portfolio. The staff rotates among buildings, and regularly make new hires, so maintaining consistent operations across their portfolio can be a challenge from season to season. New facilities staff don’t necessarily know how a particular building should be optimally operating; they often need clarification or reminders from someone who understands the building’s operations inside out. Enel X’s energy analysts provide Equity Office with that expertise, persistently advising Equity Office’s team on how to keep energy consumption at its ideal for each building as weather conditions and occupancy change.
+
+Incentivizing Energy Efficiency
+The executives at Equity Office understand that operational changes require buy in from up and down the organization. EIS gives them the ability to compare and rank a portfolio of facilities based on the percent of daytime demand reduced during the night. Likewise, individual building managers with the greatest reduction levels are rewarded for running the tightest ship. Enel X’s software gives managers the ability to track and report on performance in real time at a high level of granularity, monitoring how they’re doing, and simplifying reporting.
+
+Incentivizing Energy Efficiency
+Equity Office and Enel X just completed an energy supply management analysis for a group of sites in California, unearthing significant savings opportunities. Enel X’s energy supply management advisors carefully reviewed tariff data and utility bills from several years back, searching for general savings opportunities and state-specific nuances that may have been overlooked.
+
+The advisors discovered that these properties had inadvertently fallen back to their default tariff between contract terms, and as a consequence were being over-charged nearly 50% on peak demand charges and 20% on energy supply management charges. When their energy supply management contract is next up for renewal, Equity Office will partner with Enel X to secure a more accurately priced contract.
+Related Resources
+Explore other resources within this category.
+Eaton Arecibo: A Post-Maria Microgrid Story
+Eaton Arecibo: A Post-Maria Microgrid Story
+How Enel X and Eaton are Teaming Up to Deploy Resilient Microgrid Solutions in Puerto Rico
+
+Case Studies
+Solar-Plus-Storage
++3
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+
+Case Studies
+Solar-Plus-Storage
++3
+Thinking Big with Battery Energy Storage
+Thinking Big with Battery Energy Storage
+Imperial Oil partners with Enel X on one of the largest battery energy storage systems in North America
+
+Case Studies
+Energy Storage
++3
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

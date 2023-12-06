@@ -1,0 +1,367 @@
+Gestione energetica degli edifici pubblici | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-service-local
+Efficiency Lighting Heating And Cooling
+Smart City
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Istituzioni
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti
+Città 2.0
+SCOPRI DI PIÙ
+Sostenibilità
+SCOPRI DI PIÙ
+Istituzioni
+Prodotti e servizi
+
+Edifici pubblici efficienti
+Gestione energetica
+La gamma di sistemi di monitoraggio e gestione energetica che aiuta la Pubblica Amministrazione a ottimizzare i propri consumi.
+Hai bisogno di informazioni?
+CONTATTACI
+Che cos’è
+Come funziona
+Perché conviene
+Che cos’è?
+Per supportare i processi decisionali nella Pubblica Amministrazione, Enel X fornisce piattaforme per la gestione energetica in grado di aggregare dati e informazioni per elaborarli in un’unica interfaccia web che restituisce analisi e report.
+Riduzione degli sprechi
+Controllo in tempo reale degli impianti in funzione dell’energia assorbita.
+Monitoraggio dei costi
+Riscontro continuo dei costi energetici, identificazione di eventuali errori in bolletta e analisi delle voci di dettaglio di ogni edificio.
+Impianti integrati
+Integrazione degli asset installati nell’edificio in un’unica interfaccia che, tramite intelligenza artificiale, incrocia i dati di consumo.
+Come funziona?
+Offerta
+Energy Management System
+Utility Billing Management
+Comfort Management System
+L’offerta
+Enel X aiuta le Pubbliche Amministrazioni a ottimizzare, gestire e comprendere i propri consumi energetici grazie a una serie di sistemi digitali di monitoraggio. Le piattaforme messe a disposizione sono basate su cloud e aggregano diversi flussi di dati, file e informazioni per elaborarli in un’unica interfaccia web in grado di restituire analisi, evidenze e report utili a supportare i processi decisionali.
+
+Energy Management System
+Il software pensato per migliorare le prestazioni energetiche degli impianti installati negli edifici:
+Rileva, monitora e controlla in tempo reale i consumi energetici degli impianti in funzione e il relativo costo dell’energia assorbita.
+Permette di monitorare il singolo contatore e di analizzare la performance a confronto tra più edifici.
+Offre la possibilità di sub-monitorare i carichi di ogni singolo dispositivo (fotovoltaico, illuminazione, ascensore ecc.) per qualsiasi tipo di vettore energetico: acqua, gas, luce, termico.
+Utility Billing Management
+Il software che accentra la gestione della spesa energetica per le utenze:
+Raccoglie automaticamente tutte le bollette di luce, gas, acqua e rifiuti.
+Identifica eventuali errori in bolletta investigando le cause direttamente con i relativi fornitori, in completa autonomia.
+Analizza le voci di dettaglio e le performance di ciascun edificio.
+Quantifica i potenziali risparmi conseguibili.
+Comfort Management System
+Il software di gestione remota degli impianti di condizionamento che integra tutti gli asset installati nell’edificio in una sola interfaccia.
+Analizza in tempo reale i fattori meteorologici esterni e la qualità dell’aria all’interno dei locali.
+Autoregola accensione, temperatura e spegnimento in funzione delle condizioni di comfort ottimale.
+Ottimizza le operazioni di manutenzione preventiva e predittiva riducendo le tempistiche di gestione dell’impianto.
+
+Questa soluzione è adattabile alle esigenze della Pubblica Amministrazione: non prevede modifiche all’impianto esistente né interferenze con i sistemi già esistenti.
+Perché conviene?
+Dati in tempo reale
+La raccolta delle informazioni sulle prestazioni energetiche degli impianti installati negli edifici avviene in diretta. In questo modo viene garantito il controllo continuo dell’assorbimento energetico degli impianti e il relativo costo associato. È possibile monitorare il singolo contatore, analizzare la performance a confronto tra più edifici o sub-monitorare i carichi di ogni dispositivo per qualsiasi vettore energetico.
+CONTATTACI
+Gestione semplificata
+I sistemi digitali assicurano la diminuzione del tempo da dedicare alla gestione dell’impianto. La gestione viene inoltre facilitata dall’interfaccia web e dal cruscotto di navigazione personalizzato intuitivo e versatile. Per i tecnici e i funzionari amministrativi sono inoltre previsti avvisi personalizzabili a loro indirizzabili in caso di disservizi o mancato raggiungimento delle performance attese dell’impianto.
+CONTATTACI
+Miglioramento non invasivo
+Senza modificare l’impianto esistente né interferire con i sistemi già esistenti, è possibile apportare un miglioramento non invasivo delle performance di efficienza degli impianti mediante logiche automatiche di controllo, personalizzate sulla base delle variabili prescelte che influenzano i consumi per il singolo edificio.
+CONTATTACI
+Quanto è circolare questo prodotto?
+Enel X offre agli enti pubblici un solido strumento di misura, il Circular Economy Report, che individua il livello di circolarità del prodotto e propone una roadmap di soluzioni innovative per poterlo incrementare.
+SCOPRI DI PIÙ
+Scopri gli altri servizi
+Le soluzioni pensate da Enel X per la pubblica amministrazione.
+Fotovoltaico per la PA
+Una soluzione per rendere scuole, ospedali, centri sportivi e uffici pubblici più sostenibili, integrati ed efficienti.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Illuminazione interna
+Le soluzioni di “relamping” degli impianti di illuminazione.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Edifici pubblici efficienti
+Enel X supporta la pubblica amministrazione nella transizione verso la sostenibilità.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Esistono degli incentivi per l’installazione di lampadine a LED?
+Esistono degli incentivi per l’installazione di lampadine a LED?
+Eliano Russo, Head of e-Industries, la business line di Enel X dedicata alle soluzioni per le imprese, parteciperà come speaker ai principali congressi e forum dedicati alle questioni energetiche
+
+Soluzioni Business
++1
+Elettrificazione
+Città più moderne e sicure con l’illuminazione adattiva a LED
+Città più moderne e sicure con l’illuminazione adattiva a LED
+Il primo pacchetto strutturato di servizi energetici dedicati a un partner operativo nel settore primario. Abbiamo realizzato con Bonifiche Ferraresi il primo smart district agricolo d'Europa. Il progetto si aggiudica la Best in Class del premio Sodalitas
+
+Innovazione
++3
+Soluzioni Business
+Elettrificazione
+Azienda
+Illuminazione stradale a LED: i principali vantaggi
+Illuminazione stradale a LED: i principali vantaggi
+Enel X interverrà come main sponsor all’Assemblea annuale dell’associazione dei comuni italiani: quest’anno al centro le risposte al Covid-19
+
+e-City
++1
+Elettrificazione
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

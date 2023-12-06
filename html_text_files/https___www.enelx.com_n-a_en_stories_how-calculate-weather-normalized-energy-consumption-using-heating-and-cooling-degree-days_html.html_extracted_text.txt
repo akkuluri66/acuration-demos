@@ -1,0 +1,210 @@
+How to Calculate Weather-Normalized Energy Consumption | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+How to Calculate Weather-Normalized Energy Consumption Using Heating and Cooling Degree Days
+June 30, 2015
+Heating and cooling degree days are essential knowledge for anyone involved in daily operations. But the terms really become actionable when you use them to determine which buildings to focus your energy efficiency efforts on by comparing energy consumption at two very similar buildings in regions with different weather.
+
+Whether you're a retailer comparing two branches, or a REIT comparing two buildings, the only way to get an apples-to-apples comparison is to correct—or "normalize"—for weather differences.
+
+Here's how:
+
+1. Sum the total heating and cooling degree days for one building for whatever period of time you choose
+
+2. Divide the total kWh used at that building during the same period of time by the total number of heating and cooling degree days
+
+3. Repeat the same calculation for a second building
+
+For example, let's say that over one month at one building you had 500 heating degree days and 15 cooling degree days, totaling 515 degree days. Over that same month, your building used 50,000 kWh. 50,000 kWh divided by 515 degree days equals 97 kWh/degree day.
+
+Say a second building of comparable size consumed 100,000 kWh over the same period. Seemingly a much bigger energy user than the first building. But it had 1,100 heating degree days and 80 cooling degree days. 100,000 kWh divided by 1,180 degree days equals just 84 kWh/degree day, significantly less than the first building. You could reasonably infer that the 84 kWh/degree day building is actually operating more efficiently than the 97 kWh/degree day building when you account for the influence of weather.
+
+Using historical HDD/CDD info coupled with real-time energy data will enable you to track your projects and evaluate any investments you’ve made, and also help accurately forecast budgets for operating costs, among other activities.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for February 2023
+Energy Market Insights for February 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for March 2023
+Energy Market Insights for March 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for January 2023
+Energy Market Insights for January 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

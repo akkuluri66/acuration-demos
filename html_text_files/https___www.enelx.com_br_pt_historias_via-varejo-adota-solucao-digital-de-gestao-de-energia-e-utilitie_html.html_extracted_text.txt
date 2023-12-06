@@ -1,0 +1,285 @@
+Via Varejo Adota Solução Digital de Gestão de Energia e Utilities da Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Pessoas
+Empresas
+Cidades
+Quem somos
+Corporativo
+Brasil
+
+PT
+
+
+Explorar
+Soluções inteligentes
+Gestão de energia
+Inteligência artificial na gestão de energia
+Histórias de sucesso
+Energia Solar
+Soluções inteligentes
+Sustentabilidade
+Alcance suas metas
+Gestão de energia 4.0
+SAIBA MAIS
+Produtos e serviços
+Gestão inteligente
+Energy management
+Eficiência energética
+Gestão Inteligente de Faturas de Utilities
+Consultoria e gestão de energia
+Redução voluntária de demanda de energia
+Estruturas eficientes
+Infraestrutura elétrica
+Energia solar
+App & tool
+Simulador de energia solar
+Seja um parceiro
+Cadastro de parceiros
+Cadastro de parceiro
+SAIBA MAIS
+Suporte
+Fale conosco
+Target
+Empresas
+
+Pessoas
+
+Empresas
+
+
+Cidades
+
+
+Brasil
+
+PT
+
+
+Explorar
+SAIBA MAIS
+Soluções inteligentes
+Gestão de energia
+Inteligência artificial na gestão de energia
+Histórias de sucesso
+Energia Solar
+Soluções inteligentes
+Sustentabilidade
+Alcance suas metas
+Produtos e serviços
+SAIBA MAIS
+Gestão inteligente
+Energy management
+Eficiência energética
+Gestão Inteligente de Faturas de Utilities
+Consultoria e gestão de energia
+Redução voluntária de demanda de energia
+Estruturas eficientes
+Infraestrutura elétrica
+Energia solar
+App & tool
+Simulador de energia solar
+Seja um parceiro
+Cadastro de parceiros
+Suporte
+Brasil
+Europa
+Itália
+Polônia
+UK
+Irlanda
+Espanha
+Portugal
+América do Norte
+USA
+Canadá
+LATAM
+Peru
+Chile
+Argentina
+Brasil
+Colômbia
+APAC
+Austrália
+Japão
+Coréia do Sul
+New Zealand
+Buscar
+Soluções inteligentes
+Empresas
+LED
+Eficiência
+Solar
+Gestão inteligente
+Isto pode te interessar
+Alcance metas
+SAIBA MAIS
+Intel. Artificial
+SAIBA MAIS
+Energia 4.0
+SAIBA MAIS
+Simulador
+SAIBA MAIS
+
+Empresas
+Histórias
+Via Varejo Adota Solução Digital de Gestão de Energia e Utilities da Enel X
+Com cerca de mil unidades espalhadas pelo país, a empresa, líder no varejo de eletrodomésticos e eletroeletrônicos no Brasil, está inovando com economia
+PUBLICADO NO DIA:
+01/04/2020
+A tecnologia 4.0 vem proporcionando resultados expressivos em toda cadeia de valor, seja no ponto de vista operacional, financeiro, estratégico e até mesmo ambiental.
+
+É neste contexto que a Via Varejo, empresa líder no segmento, responsável pela administração das lojas físicas e do e-commerce das marcas Casas Bahia, Pontofrio, Extra.com.br e Bartira, firmou uma parceria estratégica com a Enel X.
+
+Para garantir uma visão completa, estratégica e analítica de suas bases de custo e consumo, agora a Via Varejo conta com a ferramenta
+UBM – Utility Bill Management da Enel X
+, que usa tecnologia para agregar em uma única plataforma, o gerenciamento de faturas de utilities, como gás, água e saneamento entre outras.
+
+Além da gestão de faturas, por meio da centralização, padronização e visibilidade de dados a solução completa, composta por software e consultores especializados, realiza pagamentos das faturas, acompanhamento de KPIs (Indicadores de Desempenho) e ainda monitora créditos que podem ser recuperados, tendo em vista erros de faturamento, tornando visíveis custos evitáveis como multas por fator de potência e atrasos de pagamento.
+Gestão do Pagamento de Faturas
+A gestão das faturas mensais é um desafio para empresas dos mais diversos portes e segmentos, ainda mais para aquelas com operações distribuídas por todo país, como é o caso da Via Varejo, que está presente em mais de 400 municípios brasileiros, 20 estados e no Distrito Federal, com cerca de 1.000 lojas físicas, 26 centros de distribuição e entrepostos.
+
+Historicamente, a empresa utilizava um sistema adaptado para gestão de faturas de utilities, sem uma validação sistêmica dos dados, identificação de anomalias e distorções no padrão de consumo.
+
+O recebimento das faturas, em sua maioria, acontecia por meio de malotes enviados pelas filiais, um método que, em tempos de digitalização, precisava ser revisto.
+Infraestrutura Elétrica
+Tenha um projeto elétrico customizado de acordo com as necessidades das sua empresa.
+SAIBA MAIS
+"Com a troca para o UBM e a utilização da base de dados gerada, foi possível aumentar significativamente a habilidade em Gestão de Energia e Utilities, gerando um processo de relato muito mais confiável, além de tornar a coleta das faturas mais digital e eficiente."
+Thiago Hagui
+Coordenador de gestão de energia e eficiência energética da Via Varejo.
+Gestão de Faturas (UBM)
+Otimize tempo e recursos com uma plataforma inteligente de gestão centralizada de faturas.
+SAIBA MAIS
+Além dessas facilidades, o UBM compara gastos entre as unidades da empresa, detecta cobranças indevidas de tarifas e evidencia claramente as oportunidades de redução de custos.
+
+Diante dos resultados positivos obtidos até o momento, a Via Varejo está planejando adicionar à plataforma o gerenciamento do consumo de água de suas unidades, além do serviço de contas a pagar, que integrará os dados de pagamento da plataforma UBM diretamente ao SAP da companhia.
+Gerenciamento de Eficiência Energética
+Com o uso do UBM, a empresa agora tem condições de comparar o desempenho energético das filiais, incluindo variáveis como área da loja ou até mesmo as condições climáticas do local. Além disso, é possível acompanhar o resultado de iniciativas desenvolvidas pela Via Varejo com foco na redução do consumo de energia, como a modernização da iluminação das unidades, a instalação de sistemas de geração distribuída e a compra de energia no mercado livre, o que permite ter uma visão geral sobre a energia compensada, injetada e os custos evitados.
+
+A ferramenta possui um perfil bastante analítico e estratégico
+. Isso possibilitou a elaboração de um Reporting Interno no PowerBI, utilizando a massa de dados disponibilizada pelo UBM, estreitando os laços com as diversas áreas da companhia e tornando a Gestão de Energia, bem como todos os projetos desenvolvidos, mais transparentes, com resultados e ganhos disponibilizados para toda companhia.
+
+O UBM também garante conformidade com todas as leis de aferição de energia locais, presentes e futuras, regulamentos de transparência e muito mais benefícios:
+"Queremos cada vez mais atuar como parceiros dos nossos clientes, oferecendo soluções digitais e de consultoria customizadas de acordo com o perfil e os objetivos de cada empresa. A implementação do UBM para a Via Varejo é um dos exemplos em que o uso de uma solução digital e inovadora está contribuindo para tornar o gerenciamento dos custos ainda mais estratégico, além de oferecer oportunidades para aumentar a competitividade do negócio e auxiliar na transição energética."
+Leandro Marins de Abreu
+Diretor de e-Industries da Enel X Brasil
+Gerenciamento de Indicadores de Sustentabilidade
+Atualmente, uma gestão com pilares fortes de sustentabilidade tem tornado empresas muito mais competitivas no mercado.
+
+Isso pode ser explicado pelo fato de que companhias com práticas ESG (índice que avalia as operações das empresas conforme seus impactos em três pilares da sustentabilidade — o Meio Ambiente, o Social e a Governança)  possuem melhor desempenho frente a momentos de instabilidade, pois cuidam bem dos colaboradores e de toda a cadeia de valor, o que traz mais confiança para investidores e stakeholders.
+
+O monitoramento de indicadores de sustentabilidade tem papel fundamental nesse contexto.
+Automação de métricas de sustentabilidade e monitoramento de emissões de CO2 com fatores de emissões regionais ou personalizados são possíveis com a implementação do UBM, agilizando o gerenciamento de metas, consumos e emissões, como por exemplo, cálculo e relatórios de pegada de carbono a nível local e global.
+
+Na jornada da transição energética, que é a troca de modelos altamente poluentes de geração de energia por fontes renováveis e de menor impacto ambiental, a decisão certa é mudar a mentalidade sobre como a energia é gerenciada em um nível corporativo, por uma abordagem mais digital, holística e sustentável.
+"Inovação e sustentabilidade são dois importantes pilares de atuação da Enel no Brasil. Ao oferecer uma solução que integre esses dois atributos, fortalecemos nosso compromisso com o desenvolvimento sustentável e nosso empenho em impulsionar a inovação nas mais diversas frentes."
+Márcia Massotti
+Diretora de Sustentabilidade da Enel no Brasil
+Diferencial competitivo
+Soluções integradas
+Empresas
++4
+Acompanhe as transformações do mundo
+Acesse os conteúdos Enel X e descubra como a nova energia está tornando o mundo mais inteligente e sustentável.
+IR PARA CONTEÚDOS
+Mais conteúdos
+Estabilidade para o shopping com gasto energético industrial
+Estabilidade para o shopping com gasto energético industrial
+Para atender a demanda de 70 mil pessoas por dia, o Shopping Iguatemi, em Fortaleza, no estado do Ceará, precisa estar funcionado perfeitamente.
+
+Eficiência
+Gestão de energia
++3
+Melicidade e a maior usina de energia solar privada no Brasil
+Melicidade e a maior usina de energia solar privada no Brasil
+A Enel X concluiu a construção da maior usina solar do Brasil instalada em telhado e com geração distribuída na nova sede do Mercado Livre.
+
+Geração solar
+Estação de energia solar
+Empresas
++4
+Iluminação Pública Inteligente em Angra
+Iluminação Pública Inteligente em Angra
+O projeto Luz de Angra está sendo viabilizado por meio de PPP. Estamos preparados para auxiliar o poder público desde a fase de criação dos projetos, através da nossa expertise global em soluções de Iluminação Pública Inteligente, Iluminação Artística, Mobilidade Elétrica, Eficiência Energética e Solar.
+
+Iluminação pública
+Cidades
++3
+✖
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Brasil S.A. | Todos os direitos reservados | CNPJ 08.317.250/0001-61
+Créditos
+|
+Declarações Legais
+|
+Privacidade
+|
+Aviso de privacidade
+|
+Política de cookies
+|
+Política integrada
+Text
+

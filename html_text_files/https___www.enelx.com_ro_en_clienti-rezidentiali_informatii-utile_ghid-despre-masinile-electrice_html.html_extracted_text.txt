@@ -1,0 +1,302 @@
+Guide to electric cars | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+People
+Companies
+Institutions
+Who we are
+Romania
+
+en
+
+Română
+English
+Explore
+SMART LIFE
+Sustainable mobility
+Smart home solutions
+Technical support services
+DISCOVER
+Products and services
+SMART HOME SOLUTIONS
+Technical support services
+Air conditioners
+Heating units
+Photovoltaic panels for residential use
+Technical support services
+DISCOVER
+Support
+CONTACT US
+People
+
+People
+
+Companies
+
+
+Institutions
+
+
+Romania
+
+en
+
+Română
+English
+Explore
+DISCOVER
+SMART LIFE
+Sustainable mobility
+Smart home solutions
+Products and services
+DISCOVER
+SMART HOME SOLUTIONS
+Technical support services
+Air conditioners
+Heating units
+Photovoltaic panels for residential use
+Support
+Romania
+Europe
+Romania
+Italy
+Spain
+Poland
+UK
+Ireland
+Portugal
+America
+USA
+Canada
+South America
+Peru
+Chile
+Argentina
+Brazil
+Columbia
+Asia-Pacific
+Australia
+Japan
+South Coreea
+New Zealand
+Taiwan
+Search here...
+Distributed energy
+Circular economy
+People
+Companies
+Energy efficiency
+Institutions
+Business solutions
+Inovation
+Jobs
+Financing opportunities
+Resources
+Smart cities
+Flexibility
+You could be interested in:
+Smart home
+DISCOVER
+Business solutions
+DISCOVER
+Smart cities
+DISCOVER
+People
+Support
+Guide to electric cars
+The advantages of driving an electric vehicle
+The advantages of driving an electric car in Romania are both financial and practical. First of all, the Romanian government offers a generous €10,000 subsidy to those who want to buy a 100% electric car with zero pollutant emissions and join the group of drivers who contribute to improving air quality. Electric cars are quiet and perfectly suited to urban environments, as the battery charges when braking and city traffic gives drivers too many opportunities to slow down. As the infrastructure of electric car charging stations develops, electric car owners will have more freedom of movement, allowing them to travel the country without worry.
+
+
+What are the main figures of the EV market?
+Sales of electric cars are taking off worldwide. Until a few years ago, electric cars were considered a niche product, but now almost all car makers are launching new models of electric vehicles with an increasing range in km.
+By the end of 2020, the number of electric cars in the world has reached 10 million, according to the "Global Electric Vehicle Outlook 2021" study by the International Energy Agency. Although this represents an extremely low percentage of the total number of vehicles on the road worldwide, the total number of electric vehicles is expected to increase by 41% in 2020, according to the same source.
+The areas of the world with the highest penetration of electric cars are China, Europe and North America. According to Bloomberg New Energy Finance, the market will continue to grow at a very fast pace.
+
+
+What is the difference between a hybrid and an electric car?
+We often hear about different models of electric or hybrid cars, so let us explain:
+Fully electric vehicles
+(so-called BVEs or "Battery Electric Vehicles") have an electrochemical storage system (a battery) and are the only energy storage system on board. One or more electric motors generate mechanical energy (and braking energy is recovered). They are chargeable from the electricity grid.
+Chargeable Hybrid Vehicles
+(PHVEs or ”Plug-in Electric Vehicles”) have both a battery storage system, which can also be charged from the grid, and a conventional petrol engine (with fuel tank). The combustion engine and electric motor provide mechanical energy (braking energy is recovered).
+Conventional hybrid vehicles
+(so-called "Full Hybrids"), which have both a battery storage system, which cannot be charged from the grid, and a conventional petrol engine (with fuel tank). The combustion engine and electric motor provide mechanical power (braking energy is recovered).
+
+Why buy an electric car?
+For many, electric mobility is still a distant, almost futuristic world, about which all sorts of things have been said and written. The truth is that the electric car is destined to become the car of the future.
+
+Electric cars offer many advantages:
+
+They are environmental friendly
+More efficient than conventional vehicles
+Have adequate autonomy for normal daily journeys
+They bring benefits to the electricity system
+The range of models is constantly growing
+They are becoming increasingly affordable as their price falls
+They are fun and interesting.
+
+What factors should be considered when buying an electric car?
+There are four main elements to consider:
+
+Battery capacity
+: corresponds to the equivalent tank capacity of a combustion engine car and is indicated in kWh.
+Autonomy
+: depends on battery capacity. Range also varies depending on a number of factors, including personal driving style, road conditions, outside temperature, heating/air conditioning and pre-heating.
+Maximum on-board charger power
+: the power of a battery charger is determined by the voltage, which can be 230 V (single-phase) or 400 V (three-phase) and the charging current (e.g. 10 A, 16 A, 24 A, 32 A, etc.) and ranges from 2.3 kW (slow charging via a cable with an internal socket) to 50 kW (fast DC charging). This determines how fast the battery can be charged.
+Vehicle charging cable: each vehicle is compatible with one or two types of charging cables that are supplied when the car is purchased or leased. These can be used at public charging stations or at home.
+
+How much does it cost to maintain an electric car and who can do it?
+An electric car costs less to maintain than a conventional internal combustion engine car. Electric motors have far fewer moving parts subject to wear (such as the clutch) and no consumable fluids, unlike conventional vehicles. Consequently, they are cheaper and easier to maintain. Brake pad wear is also reduced due to the use of energy recovery systems during braking. Finally, the lifetime of a battery is comparable to that of the car and therefore maintenance-free.
+
+Maintenance of electric vehicles can be carried out by mechanics authorised by the car manufacturer.
+
+
+What is the autonomy of an electric car?
+When it comes to commuting to and from work and school, going out with friends or even delivering goods, the distances travelled in most countries average between 40 and 60 km per day (Data source: Goldman Sachs "Journal of Modern Power Systems and Clean Energy, 2015.") In any case, 95% of car journeys do not exceed 200 km, according to a study by the US National Travel Travel Survey (NHTS). Regardless of the route, with an electric car it makes no difference: these distances can easily be covered by electric cars currently on the market.
+
+The average range of electric cars is enough to cover 95% of everyday journeys.
+
+How much does an electric car pollute?
+Today, electric cars already have a better environmental performance than all alternatives on the market in terms of both CO2 and pollutant emissions, as they are the only technology that allows total elimination of local nitrogen oxide (NOx) and fine particulate matter (PM) while driving.
+
+In addition, in order to generate carbon-free energy in the future, an electrified and CO2-free transport system will be sustainable.
+
+For example, given Italy's current electricity generation facilities (where renewables contribute 33% of the total), it is estimated that the “well-to-wheel” emissions of an electric vehicle are about 70% lower than those of a gasoline vehicle and about half those of a methane vehicle.
+
+However, as electricity generation becomes almost completely carbon-free - a scenario projected to become reality by 2050 - "well-to-wheel" emissions for electric cars will be close to zero.
+
+Electric vehicles improve air quality. This makes it possible, especially in large cities, to reduce the direct impact on people's health, leading to lower medical and healthcare costs.
+
+Finally, let us not forget another kind of pollution: the traffic noise and engine emissions we have to put up with every day. Electric cars are quiet, and their use allows significant improvements in people's quality of life.
+
+
+Do electric cars need to produce more energy?
+False! To travel the same distance, an electric vehicle requires 3 times less energy than a conventional combustion engine vehicle. Or, in other words, electric cars travel three times as far as a petrol-powered car with the same amount of energy used.
+
+In a 'well-to-wheel' energy analysis, petrol cars require the following steps:
+Refining crude oil into gasoline
+Delivery
+Conversion of petrol into mechanical energy by the engine
+The overall efficiency of this process is about 18-19%.
+
+Phases related to electric vehicles, however, include:
+Electricity generation
+Network transmission
+The conversion of electrical energy stored in batteries into mechanical energy by the motor.
+In this case, the overall efficiency is about 52%.
+
+With greater energy efficiency and savings, electric mobility contributes to achieving the emission reduction targets set in the Paris Agreement (COP21), the 21st annual conference between the signatories of the United Nations Framework Convention on Climate Change, on energy efficiency and emission reductions.
+
+In addition, if we consider a scenario of 1,000,000 electric vehicles, the increase in national electricity consumption to charge them would be only 0.3%. This figure can be obtained by considering an average consumption of 0.15 kWh/km for an electric car and 0.25 kWh/km for a plug-in vehicle, with an average annual distance of 10,000 km per year for all electric cars and 5,000 km per year for plug-in cars with 60% charging at public charging stations. Given these assumptions, the additional consumption for 1 million electric vehicles would be equal to 1.3 TWh each year.
+
+
+Can the electricity grid support a large number of electric cars?
+Electric cars help the network because, in addition to using electricity, they can also serve as 'batteries on wheels'.
+
+Thanks to smart charging systems, when an electric car is not charging, it can return the electricity stored in its battery to serve the network or charge itself when electricity prices are lower. These flexible services - in countries where there is already a regulatory system in place to allow these technologies - generate economic benefits not only for the grid operator, but also for end-users whose electric cars can be charged when prices are lower and can provide energy back to the network when prices are higher.
+
+Other frequently asked questions about electric transport
+Read more about charging electric cars.
+Guide to charging electric cars
+Guide for charging electric cars. Find out how you can charge your electric car with a charging station at home or using public charging stations.
+FIND OUT MORE
+FAQPage
+07 OCTOBER 2021
+JuiceBox, your personal charging station
+You can power your car or other electric vehicle right from home with our compact and intuitive station.
+SEE THE PRODUCT
+✖
+PPC Advanced Energy Services Romania
+
+
+Who we are
+Circular economy
+Contact us
+TARGETS
+
+
+People
+Companies
+Institutions
+MEDIA
+Stories
+Resources
+Press releases
+ENEL NETWORK
+
+
+PPC Energie
+PPC Renewables Romania
+Retele Electrice
+JOIN US
+
+
+Careers
+Innovation partner
+Development program for suppliers
+GOVERNANCE
+
+
+Code of ethics
+Corruption zero tolerance plan
+SUPPORT
+
+
+FAQs
+PPC Advanced Energy Services Romania
+
+
+Who we are
+Circular economy
+Contact us
+TARGETS
+
+
+People
+Companies
+Institutions
+MEDIA
+Stories
+Resources
+Press releases
+ENEL NETWORK
+
+
+PPC Energie
+PPC Renewables Romania
+Retele Electrice
+JOIN US
+
+
+Careers
+Innovation partner
+Development program for suppliers
+GOVERNANCE
+
+
+Code of ethics
+Corruption zero tolerance plan
+SUPPORT
+
+
+FAQs
+© PPC Advanced Energy Services Romania S.R.L. All Rights Reserved
+Credits
+|
+Legal
+|
+Privacy policy
+|
+Cookie policy
+|
+ANPC
+|
+Official regulations of commercial campaigns
+Credits
+Legal
+Privacy
+Cookie policy
+ANPC
+Official regulations of commercial campaigns

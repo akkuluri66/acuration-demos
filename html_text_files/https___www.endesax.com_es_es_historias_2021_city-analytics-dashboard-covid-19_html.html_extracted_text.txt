@@ -1,0 +1,188 @@
+Emergencia COVID-19. Endesa X está a tu lado con City Analytics – Mapa de Movilidad
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Sobre nosotros
+Corporativo
+España
+
+ES
+
+
+CONTÁCTANOS
+España
+
+ES
+
+
+Elegir país
+Europa
+España
+Italia
+Polonia
+UK
+Irlanda
+Portugal
+Norte America
+USA
+Canada
+LATAM
+Perú
+Chile
+Argentina
+Brasil
+Colombia
+APAC
+Australia
+Japón
+Corea del Sur
+New Zealand
+Taiwan
+Buscar en este sitio
+Medio ambiente
+Smart Home
+Autoconsumo
+Eficiencia
+Tal vez te interese:
+Hogares
+Ver más
+Empresas
+Ver más
+Ciudades
+Ver más
+Historias
+2021
+
+Emergencia COVID-19. Endesa X está a tu lado con City Analytics – Mapa de Movilidad
+¿Cuáles son los efectos de las medidas de limitación de movimientos adoptadas en respuesta a la emergencia de COVID-19? ¿Cómo se ven afectados los viajes en el territorio nacional? ¿Cómo han cambiado desde los últimos decretos gubernamentales y ministeriales? ¿Y cómo seguirán evolucionando cuando volvamos a la normalidad?
+
+City Analytics - Mapa de Movilidad es una nueva versión de
+City Analytics
+, una herramienta de software desarrollada por Enel X en asociación con
+HERE Technologies
+para facilitar la gestión de las medidas de contención del brote de COVID-19 y que ponemos de forma gratuita a disposición de las administraciones públicas, instituciones, empresas y ciudadanos hasta el 30 de septiembre de 2021 en vista de la actual situación de emergencia.
+
+¿Qué información puedo obtener con City Analytics – Mapa de Movilidad sobre la COVID-19?
+
+Con esta herramienta puedes acceder a un mapa interactivo que, respetando el derecho a la protección de la privacidad de las personas, le permite visualizar de forma sencilla:
+La variación de movimientos (%) en comparación con el mismo día de la semana anterior y en comparación con un período de referencia anterior a la emergencia.
+La variación de la distancia media recorrida (%) en comparación con el mismo día de la semana anterior y en comparación con un período de referencia anterior a la emergencia.
+Los flujos de entrada y salida en la zona de referencia.
+
+Los datos están disponibles a escala de Comunidad Autónoma y provincial y se actualizan cada día antes de las 12:00 del mediodía. Para más información sobre los análisis, puedes
+pinchar aquí
+.
+Mapa de movilidad
+Acceso al mapa interactivo
+¿Quién es HERE?
+Nuestro socio tecnológico, HERE, es una empresa que ofrece soluciones avanzadas de cartografía y geolocalización para clientes públicos y privados, con una presencia global de más de 9.000 empleados comprometidos con el desarrollo y la mejora de la localización en sus infinitas aplicaciones, a través de la representación digital del mundo en el que vivimos.
+
+Para aprovechar todo el potencial de la inmensa cantidad de datos que se generan cada día y para que las personas, las empresas y las administraciones públicas puedan tener un acceso ininterrumpido a los servicios ofrecidos, HERE responde con un enfoque colaborativo y sinérgico donde la privacidad, la transparencia y la seguridad de los datos son valores indiscutibles.
+
+HERE basa en estos valores todas sus soluciones. Con la Plataforma HERE, Endesa X responde a numerosas necesidades cotidianas del sector público, la cadena de suministro y la seguridad de las personas para una movilidad cada vez más eficiente y sostenible.
+
+A los Usuarios Registrados además de los indicadores anteriores, también se les ofrece la posibilidad de acceder a la vista agregada de los flujos semanales de movimiento entre las 50 mayores ciudades españolas.
+
+Esta información también está disponible de forma gratuita y estará disponible hasta el 30 de Septiembre de 2021, con el fin de apoyar a todas las administraciones públicas, centrales y locales en la gestión del estado de emergencia.
+
+Endesa X está contigo, siempre.
+
+"Enel X s.r.l. en asociación con Here Technologies pone a disposición gratuitamente un servicio de análisis de la movilidad a nivel nacional, con el fin de ayudar a los ciudadanos y a las administraciones públicas a orientar mejor las acciones contra la difusión de COVID-19 durante el período de emergencia. El mapa interactivo de la web contiene información estadística y datos procesados sobre la base de datos transmitidos por parte de Here Europe BV, de forma anonimizada y agregada, - información que es publicada anónimos y agregados publicados únicamente con fines informativos, sin que, en ningún caso, se traten datos de carácter personal. Enel X y Here Europe B.V. no son responsables del uso que hagan los usuarios de esos datos e información y no se responsabilizan de los costos, gastos, pérdidas o daños resultantes del uso de los datos y/o de la confianza en la información contenida en ellos. Toda la información y los datos facilitados en los informes de vigilancia de la movilidad se han elaborado con el propósito mencionado, en estricto cumplimiento de las normas vigentes de protección de datos. En particular y como ha sido indicado, Here Europe B.V. no facilita ningún dato de carácter personal utilizado para la presentación de informes, como la posición, los contactos o los movimientos de una persona, en una sola forma, es decir, asociado a la persona individual identificada o identificable. Todos los datos se gestionarán de forma anónima y agregada, de manera que no sea posible en modo alguno identificar remontarse a las personas físicas cuyos datos básicos se estén procesando y que hayan manifestado su voluntad de procesar sus datos después de haber sido debidamente informadas. Enel Europe B.V. garantiza, a tal efecto, que la información recabada se realiza de conformidad a las exigencias previstas en el Reglamento 2016/679, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales. Por su parte, Endesa Energía S.A.U., en calidad de prestador de servicios de la sociedad de la información, únicamente facilita la posibilidad a las citadas empresas de ubicar la información en los términos y condiciones antes descritos, cuya responsabilidad en relación a los mismos corresponderá en todo momento a Enel X s.r.l. y Here Europe B.V.".
+Nuestras iniciativas:
+Accede al blog de Endesa X y ponte al día de nuestras iniciativas.
+City Analytics de Endesa X: así se mueven los españoles durante la Covid-19
+City Analytics de Endesa X: así se mueven los españoles durante la Covid-19
+¿Cómo se mueve la población en estos tiempos de incertidumbre causados por el coronavirus? ¿Se corresponden sus desplazamientos con las medidas sanitarias que están adoptando las comunidades autónomas en las últimas semanas? La respuesta está en City Analytics, una solución que, gracias a la colaboración entre Endesa X y HERE Technologies, se ha adaptado a la nueva normalidad para ayudar a entender los hábitos de desplazamiento de los españoles durante la pandemia.
+
+e-City
++2
+Farolas que alumbran de forma inteligente según el tránsito de personas y vehículos
+Farolas que alumbran de forma inteligente según el tránsito de personas y vehículos
+El uso de tecnología LED con control Smart ofrece ahorros de hasta el 70% en la iluminación de ciudades y grandes infraestructuras. Es el nuevo alumbrado público inteligente, que permite graduar la luz en función del tránsito de personas y vehículos.
+
+e-City
++2
+La vivienda del futuro tras la Covid-19
+La vivienda del futuro tras la Covid-19
+Si hace solo unos meses nos hubieran dicho que nuestras casas iban a convertirse en prácticamente nuestro único espacio vital, nadie lo hubiese creído. Actividades tan variadas como trabajar, hacer la compra, practicar ejercicio o ver los últimos estrenos cinematográficos han tenido lugar entre las cuatro paredes que antes solo veíamos como sitio de recogida y descanso.
+
+e-Home
++2
+Viajando por los pueblos más bonitos de España
+Viajando por los pueblos más bonitos de España
+Conocer un país significa disfrutar de sus paisajes, sus carreteras, sus pueblos, sus costumbres… Sin embargo, viajar en un coche de combustión nos priva, debido al traqueteo constante de su motor, de otro de los grandes placeres de un road trip: escuchar el sonido de la naturaleza.
+
+e-City
++3
+✖
+Endesa X
+Quienes sómos
+Endesa X Store
+Contacto
+HSEQ
+Soluciones
+
+
+Hogares
+Empresas
+Ciudades
+SOPORTE
+
+
+Preguntas frecuentes
+Media
+
+
+Historias
+Comunicados de prensa
+ÚNETE
+
+
+Trabaja con nosotros
+Innovation hubs
+Hazte partner
+ENEL NETWORK
+
+
+Enel X Global
+Endesa
+Enel Group
+Endesa X
+Quienes sómos
+Endesa X Store
+Contacto
+HSEQ
+Soluciones
+
+
+Hogares
+Empresas
+Ciudades
+SOPORTE
+
+
+Preguntas frecuentes
+Media
+
+
+Historias
+Comunicados de prensa
+ÚNETE
+
+
+Trabaja con nosotros
+Innovation hubs
+Hazte partner
+ENEL NETWORK
+
+
+Enel X Global
+Endesa
+Enel Group
+© Copyright 2023 ENDESA X SERVICIOS S.L. Todos los derechos reservados | CIF número: B01788041
+Créditos
+|
+Legal
+|
+Privacidad
+|
+Cookies

@@ -1,0 +1,225 @@
+Your Definitive Guide to (PJM) Capacity Auctions | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Your Definitive Guide to (PJM) Capacity Auctions
+January 28, 2015
+Whether your enterprise uses 8,000 MWh per month or 8, there’s a good chance that the price you pay for that energy is largely determined by a capacity auction.
+
+Most of us have no idea what a capacity auction is, let alone how it works. There are loads of hairy politics involved in the auction process, but I'll avoid them for this guide and focus on explaining the process, plain and simple.
+
+To that end, this guide uses the example of the PJM capacity auction, and features two fictional power generators, called PowerOne and PowerTwo, and two fictional demand response providers, called DemandOne and DemandTwo.
+
+Facts and Assumptions for This Example
+PowerOne owns about 18,000 MW of generation across the East Coast.
+PowerOne operates in the PJM grid operator area.
+PJM is organized by zone; this is important to note because that’s how PJM procures megawatts. PJM says “I need 100,000 MW” across the entire service territory, but then it says “I need 10,000 MW in zone A, 12,000 MW in zone B, 25,0000 in zone C,” and so on.
+Let’s use the zone ATSI for this example. ATSI comprises northeast Ohio, with a peak load of about 12,000 MW, and almost all of it is PowerOne territory.
+The big auction for PJM, where it procures megawatts for a given delivery year, is called a Base Residual Auction (BRA). It happens every May. PJM’s BRA is a “forward capacity auction” because it’s planning future capacity. The BRA works three years in advance.
+For the purposes of this example, let’s say it’s May 2015 and the rules are all the same as last year. We’re looking to see how PJM runs an auction to procure 12,000 MW for the ATSI zone.
+
+Capacity Auction Mechanics
+1. Think of the PJM capacity auction as building blocks.
+Different resources bid in at different prices. The bids are then organized from lowest to highest price. Wherever supply and demand meet on the quantity axis (see graph at right), that’s the “clearing price” and every megawatt below that clearing price gets that set dollar amount per megawatt-year (MWY).
+
+This uniform clearing price is intended to keep the market more competitive and has been proven to keep prices lower for end users.
+
+2. The auction is regulated by a third party market monitor.
+Every auction hires an Independent Market Monitor to set ground rules for the auction. They ensure certain resources clear, specifically resources like nuclear plants. (If you don’t know conceptually how “clearing” works,
+here’s one diagram from the Energy Collective
+that I found helpful.)
+
+By governmental regulation, nuclear plants must make it into the pool of resources used to provide power, so they get bid in at a price of $1 per MWY.
+
+3. Generators decide what resources to bid at which prices.
+PowerOne, for example, looks at its portfolio of 18,000 MW, understands that about 12,000 of those are in the ATSI zone, and determines how it wants to bid in its various nuclear, coal, natural gas, or other assets, and how many MW it wants to bid in for each plant.
+
+PowerOne looks at its plants, both baseload and peaking plants (that only fire up when demand across the grid is dangerously high), and thinks about prices per MWY for each one. The idea is to bid in cheaper baseload resources first, and then bid in more costly peaking plants at higher prices.
+
+PowerOne likely starts with its nuclear facility, which has about 5,000 MW of capacity. As I said, nuclear has to clear—it’s too expensive a resource not to be fully utilized. Which is why it bids in at $1/MWY. But you’ll see below how they get paid
+far
+more than $1/MWY. This plant is known as a “price taker.”
+
+Alternative energy and demand-side sources like DemandOne also simultaneously look at their portfolios. Their energy markets team does the math on how many MW they can rely on customers to curtail when called upon—and what it will cost them to secure and manage those customers.
+
+4. And then the auction happens!
+(Note: bids aren’t visible to auction participants as the auction is happening, but for our purposes I’m outlining them from lowest to highest bid as if the process were transparent.)
+PowerOne’s nuclear plant bids in 5,000 MW for $1/MWY. The first 5,000 MW has been procured.
+Then PowerOne bids in a few baseload plants together—let’s say 3,000 MW at $1,000 so they can recoup some operating costs. Now we’re at 8,000 MW of a total 12,000 MW needed.
+PowerTwo (another generator in Ohio) comes in next, bidding in 2,000 MW. It’s generating those from its expensive peakers, so those get bid in at $5,000/MWY. We’re now at 10,000 MW procured.
+Next, DemandOne enters the auction with 1,000 MW at $15,000/MWY. The auction now has 11,000 of the 12,000 MW it needs. The auction is getting close to procuring all of the resources it needs, so the next few bids are critical to determining what the price will be.
+DemandTwo, another demand response provider, is at bat now. DemandTwo bids in 1,000 MW of its own DR resources at a higher-priced $20,000/MWY. Other much more expensive resources are also bidding into the market at higher prices—take that second $50,000 bid from PowerOne, for example—but the auction is completed and PJM gets the resources it said it needed, all at a much lower price with DR as a participant.
+
+12,000 MW at $20,000/MWY is the clearing price. This means that every megawatt in the auction at this point is now paid $20,000/MWY—even that nuclear plant that bid into the auction at $1/MWY. DemandTwo's DR bid “set the price,” as they say.
+
+Click here
+to read the second part of our series on capacity auctions.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

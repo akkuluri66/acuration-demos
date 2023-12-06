@@ -1,0 +1,335 @@
+¿Qué es un sistema de gestión de edificios o Building Management System (BMS)?
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Hogares
+Empresas
+Ciudades
+Sobre nosotros
+Corporativo
+España
+
+ES
+
+
+Explora
+SOLUCIONES
+Análisis de Huella de Carbono
+Soluciones de Descarbonización
+Monitorización
+HISTORIAS DE ÉXITO
+Energía solar
+Sostenibilidad
+Comfort Management
+VER MÁS
+Productos y servicios
+Análisis y Estudio de Huella de Carbono
+Auditorias energéticas
+Diagnóstico energético
+Estudio de huella de carbono
+Soluciones de Descarbonización y Electrificación
+Solar Fotovoltaica
+Instalaciones Térmicas
+Infraestructura Eléctrica
+APP & TOOL
+Calculadora Solar
+MONITORIZACIÓN Y CONTROL INTELIGENTE
+Servicio de Gestión Energética
+Comfort Management
+FLEXIBILIDAD ENERGÉTICA
+Demand Response
+SERVICIOS DE MANTENIMIENTO
+Centros de transformación
+Mantenimientos de BT hasta 200kW
+Solar fotovoltaica
+Calcula tu instalación solar
+VER MÁS
+Soporte
+Recursos
+Nuestros Proyectos
+Historias
+Noticias
+Videos
+Casos de éxito
+Descubre las últimas historias de Endesa X empresas.
+VER MÁS
+CONTÁCTANOS
+Empresas
+
+Hogares
+
+Empresas
+
+
+Ciudades
+
+
+España
+
+ES
+
+
+Explora
+VER MÁS
+SOLUCIONES
+Análisis de Huella de Carbono
+Soluciones de Descarbonización
+Monitorización
+HISTORIAS DE ÉXITO
+Energía solar
+Sostenibilidad
+Productos y servicios
+VER MÁS
+Análisis y Estudio de Huella de Carbono
+Auditorias energéticas
+Diagnóstico energético
+Estudio de huella de carbono
+Soluciones de Descarbonización y Electrificación
+Solar Fotovoltaica
+Instalaciones Térmicas
+Infraestructura Eléctrica
+APP & TOOL
+Calculadora Solar
+MONITORIZACIÓN Y CONTROL INTELIGENTE
+Servicio de Gestión Energética
+Comfort Management
+FLEXIBILIDAD ENERGÉTICA
+Demand Response
+SERVICIOS DE MANTENIMIENTO
+Centros de transformación
+Mantenimientos de BT hasta 200kW
+Solar fotovoltaica
+Soporte
+Recursos
+VER MÁS
+Nuestros Proyectos
+Historias
+Noticias
+Videos
+Casos de éxito
+Elegir país
+Europa
+España
+Italia
+Polonia
+UK
+Irlanda
+Portugal
+Norte America
+USA
+Canada
+LATAM
+Perú
+Chile
+Argentina
+Brasil
+Colombia
+APAC
+Australia
+Japón
+Corea del Sur
+Taiwan
+Nueva Zelanda
+Buscar en este sitio
+Medio ambiente
+Smart Home
+Autoconsumo
+Eficiencia
+Tal vez te interese:
+Eficiencia Energética
+VER MÁS
+Historias
+¿Qué es un sistema de gestión de edificios o Building Management System (BMS)?
+Los sistemas de gestión de edificios, conocidos también como Building Management System (BMS) sirven para controlar y automatizar las distintas instalaciones
+
+Los
+sistemas de gestión de edificios
+, conocidos también como
+Building Management System (BMS)
+sirven para controlar y automatizar las distintas instalaciones y mecanismos del edificio, como son la climatización, la iluminación, la megafonía, los suministros, los ascensores...
+Los sistemas BMS más avanzados son los denominados
+Integrated Building Management System (iBMS),
+a través de los cuales se
+pueden gestionar de manera integrada no solo los sistemas de producción y gestión de agua, electricidad o gas
+, sino también otros como los sistemas de control de accesos, circuitos cerrados de videovigilancia o protección contra incendios.
+
+Los
+BMS
+e
+iBMS
+ofrecen múltiples ventajas para los usuarios de los edificios, ya que facilitan el control centralizado, lo que se traduce en un uso más eficiente de los recursos, tanto humanos, como energéticos y económicos.
+
+Además de estos sistemas, existen opciones complementarias como el
+Comfort Management
+, de Endesa X, un servicio digital de gestión energética activa que ayuda a optimizar el funcionamiento del edificio.
+
+
+Una decisión eficiente, que será obligatoria en algunos casos
+Tal y como se recoge en el vigente Reglamento de Instalaciones Térmicas en los Edificios (RITE), los edificios no residenciales con una potencia nominal útil para instalaciones de calefacción, para instalaciones de refrigeración, para instalaciones combinadas de calefacción y ventilación o para instalaciones combinadas de calefacción y ventilación de más de 290 kW deberán estar equipados, a más tardar en 2025, con sistemas de automatización y control de edificios.
+
+Por encima de 290 kW, será por tanto obligatorio disponer de un sistema de gestión de edificios.
+
+¿Qué debe monitorizar el sistema de gestión del edificio?
+La energía eléctrica consumida por sistema de climatización.
+La producción de energía renovable.
+El consumo de energía de los equipos individuales con una potencia superior a 12 kW.
+La energía térmica y eléctrica de las unidades generadoras con una potencia nominal superior a 70 kW para calcular su rendimiento.
+El consumo individual de combustible para cada equipo de generación con una potencia superior a 100 kW.
+La lectura de los contadores correspondientes para desglosar la energía asociada a cada una de las diferentes funciones, como el calentamiento del agua caliente sanitaria o el calentamiento del agua de las piscinas.
+La medición general del sistema de iluminación y de climatización, por fuente de energía.
+La medición general de energía eléctrica, térmica o de otros tipos.
+
+Ventajas de utilizar un sistema de gestión de edificios o BMS
+La principal ventaja de recurrir a un sistema de estas características es la reducción del consumo
+energético, de hasta un 30%
+, lo que se traduce en una
+reducción de la huella de carbono
+de los edificios.
+
+Además del ahorro energético, estos sistemas ayudan a aumentar el confort para sus usuarios, ya que permiten controlar mejor la temperatura ambiente y otros indicadores de la calidad del aire en tiempo real.
+
+Los sistemas BMS también generan ahorros al mejorar la gestión del mantenimiento, ya que, al disponer de toda la información sobre la operación y uso, se gestionan mejor todos los activos del edificio.
+
+
+¿Cómo funcionan los sistemas de gestión de edificios?
+De forma sintetizada, un sistema de gestión de edificio o BMS está compuesto por:
+Los
+puntos de recogida de información:
+son los sensores capaces de captar los datos que necesita el sistema para dar servicio. Por ejemplo, los sensores que miden la temperatura, la humedad, la luz y la ocupación, los detectores de fuego o monóxido de carbono; o los contadores de energía situados en elementos estratégicos.
+Controladores:
+son el “cerebro” del sistema y reciben la información de los puntos de recogida de información, la analizan y se encargan de enviar órdenes a los sistemas conectados, para su gestión.
+Protocolo de comunicación:
+son los lenguajes de comunicación para conectar todos los componentes del sistema.
+
+
+Comfort Management (CM), gestión inteligente para tu empresa.
+Comfort Management
+es la solución de
+Endesa X
+para
+la gestión y control inteligente de la climatización de tu negocio.
+
+Comfort Management es mucho más que un BMS.
+Es un servicio digital de gestión energética activa mediante el cual desde Endesa X optimizamos la operación y funcionamiento de tus instalaciones de climatización. Este sistema te
+permite conseguir importantes ahorros de energía sin renunciar a los más altos niveles de confort
+, gestionando los equipos de forma remota
+mediante el uso de técnicas de Inteligencia Artificial
+como la inyección de
+algoritmos de Machine Learning.
+
+Además, nuestro servicio de Comfort Management integra las funcionalidades del BMS actual de cliente, y en aquellos casos en los que no exista BMS, o este sea muy antiguo y no funcione correctamente, Comfort Management puede llegar a sustituirlo.
+
+No esperes a que sea obligatorio y benefíciate del ahorro y la reducción de tu huella de carbono que supone instalar un sistema de gestión de edificios. En Endesa X, contamos con expertos que pueden ofrecerte diversas soluciones para tu negocio, de acuerdo con tus necesidades.
+
+
+Eficiencia
+Servicio de Gestión Energética
+Comfort Management
++1
+e-Industries
+Nuestras iniciativas:
+Accede al blog de Endesa X y ponte al día de nuestras iniciativas.
+Silken Hoteles ahorrará unos 54.000€ anuales en su consumo energético gracias a Comfort Management
+Silken Hoteles ahorrará unos 54.000€ anuales en su consumo energético gracias a Comfort Management
+La cadena hotelera Silken Hoteles ha conseguido ahorrar un 25,5% en el consumo energético de su hotel en Indautxu y un 10,4% en su sede de Puerta Valencia, gracias al servicio Comfort Management de Endesa X, lo que supone un ahorro económico de más de 50.000 €, pero sobre todo un avance hacia una gestión más respetuosa con el medioambiente.
+
+Servicio de Gestión Energética
+Comfort Management
+e-Industries
++4
+Energía solar: ahorro y sostenibilidad para las empresas
+Energía solar: ahorro y sostenibilidad para las empresas
+El alza de los precios de la electricidad está sometiendo a las empresas a un auténtico desafío, ya que la factura de la luz está alcanzando cotas insólitas entre los gastos fijos de las empresas.
+
+Eficiencia
+Autoconsumo
+Solar Fotovoltaica
+e-Industries
++5
+Recuperar el calor para impulsar la Descarbonización
+Recuperar el calor para impulsar la Descarbonización
+Endesa X ha diseñado para Resonac un sistema de recuperación de calor para su planta de producción coruñesa, que logrará reducir un 70% el consumo de las calderas a gas y un 30% del consumo eléctrico de las estufas.
+
+Eficiencia
+Instalaciones Eléctricas
+e-Industries
++4
+Luz verde para que PortAventura y Endesa X hagan realidad  la mayor planta solar instalada en un resort español
+Luz verde para que PortAventura y Endesa X hagan realidad  la mayor planta solar instalada en un resort español
+La mayor planta solar instalada en un resort español será realidad muy pronto, porque PortAventura World (Vila-seca y Salou, Tarragona) ya dispone de la licencia para el inicio de sus obras. El resultado será la espectacular planta PortAventura Solar, cuyo proyecto ha sido diseñado por Endesa X y contempla la instalación de 11.102 paneles solares para la generación de energía limpia.
+
+e-Industries
+Medio ambiente
++3
+✖
+Endesa X
+Quienes sómos
+Endesa X Store
+Contacto
+HSEQ
+Soluciones
+
+
+Hogares
+Empresas
+Ciudades
+SOPORTE
+
+
+Preguntas frecuentes
+Media
+
+
+Historias
+Comunicados de prensa
+ÚNETE
+
+
+Trabaja con nosotros
+Innovation hubs
+Hazte partner
+ENEL NETWORK
+
+
+Enel X Global
+Endesa
+Enel Group
+Endesa X
+Quienes sómos
+Endesa X Store
+Contacto
+HSEQ
+Soluciones
+
+
+Hogares
+Empresas
+Ciudades
+SOPORTE
+
+
+Preguntas frecuentes
+Media
+
+
+Historias
+Comunicados de prensa
+ÚNETE
+
+
+Trabaja con nosotros
+Innovation hubs
+Hazte partner
+ENEL NETWORK
+
+
+Enel X Global
+Endesa
+Enel Group
+© Copyright 2023 ENDESA X SERVICIOS S.L. Todos los derechos reservados | CIF número: B01788041
+Créditos
+|
+Legal
+|
+Privacidad
+|
+Cookies

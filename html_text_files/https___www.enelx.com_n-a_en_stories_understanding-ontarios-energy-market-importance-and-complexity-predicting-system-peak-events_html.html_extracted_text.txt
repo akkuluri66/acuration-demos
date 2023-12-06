@@ -1,0 +1,210 @@
+Ontario's Energy Market: Predicting System Peak Events | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Understanding Ontario's Energy Market: The Importance and Complexity of Predicting System Peak Events
+November 14, 2018
+Ontario has seen electricity prices reach historic lows in recent years. Since 2015, monthly average Hourly Ontario Energy Prices (HOEP) have not exceeded $0.033/kWh, and in one month fell as low as $0.0032/kWh.
+Unfortunately, these all-time lows in power prices have not translated into savings for energy consumers. Since 2015, most in the province have paid an average of $0.11/kWh for electricity—more than three times the average HOEP in that period.
+
+By now, it’s no secret that the
+Global Adjustment (GA) is the largest component of electricity costs in Ontario
+, accounting for more than 70% of supply-related electricity charges on average. In 2018, Ontario customers are projected to pay nearly $12.8 billion in GA charges alone.
+
+However, based on the way these charges are calculated, the GA actually presents an enormous opportunity for large energy users to avoid costs. A program in the province called the Industrial Conservation Initiative (ICI) creates incentive for large energy users to reduce consumption when the grid is at peak demand. Any facility with at least 1 MW in average peak demand—as well as those in select industries with an average peak demand of 500 kW or higher—can opt in to the ICI and pay GA charges based on their consumption levels at the five hour-long intervals when the grid sees its highest demand levels throughout the year. Energy users that can anticipate when these system peak hours are going to occur and reduce demand proactively can reduce GA charges by more than over $500K per megawatt per year.
+
+While this sounds simple enough, accurately predicting when these peaks will occur has become a daunting task in Ontario. For those looking to take this approach to manage GA costs, it’s important to understand what makes predicting system peak events so complex.
+
+Weather
+Weather drives peak demand in all major power-consuming regions, and Ontario is no exception. As temperatures rise in the summer and air-conditioners run full-tilt, demand can spike significantly.
+
+While the relationship between temperatures and load is relatively straightforward, Ontario summers are often subject to severe humidity, which complicates the picture. Humidity not only amplifies high temperatures—making 30oC days feel like 35oC—but also increases the likelihood of thunderstorms. Rainfall can rapidly drop temperatures, which in turn can send electric demand plummeting and cause a disconnect between demand projections and actual demand levels on the grid.
+
+While rainfall typically does not occur on peak days, it is not unprecedented. Precipitation has been a factor in three peaks over the past six years (10%), and has essentially shifted peaks earlier in the day than the typical peak period (5 – 7 PM).
+
+Unfortunately, it is still difficult to predict exactly when and where these kinds of weather events will occur. While Ontario is a sprawling province, significant load centers are located in small areas, which means the impact of precipitation on demand trends will vary based on how it affects precise locations within the province.
+
+Industrial Conservation Initiative
+The ICI was launched nearly a decade ago to reduce peak demand levels in Ontario by providing incentive for large industrial facilities to reduce consumption at these times. Since energy systems still do not have viable ways of storing electricity long-term, system operators must maintain the grid with sufficient resources to meet the highest demand hours, even if much of that generating capacity remains idle most of the time. Lowering peak demand, therefore, reduces the need for new peaking power plants.
+
+As of 2017, the IESO estimates that the ICI has reduced peak demand by 1,400 MW, which is roughly 5% of total peak demand in Ontario. However, the amount of peak demand reduced by the ICI is not a consistent figure, and the uncertainty in the magnitude and timing of load curtailment can make peak prediction difficult. The IESO’s model, which much of the province relies on for guidance on system peak, missed two of the top five peaks this past summer. While algorithmic approaches can attempt to predict these events based on the IESO’s forecast and the historical behavior of ICI participants, certain scenarios will remain unpredictable.
+
+Allocated Quantity of Energy Withdrawn
+A lesser-known factor complicating peak prediction is the allocated quantity of energy withdrawn (AQEW). While the IESO releases real-time system demand figures, it actually uses Verified Ontario demand, which comes out 20 business days after a potential peak event, to determine which peak days and hours will be used to calculate customers’ GA charges.
+
+The Verified Ontario Demand is more accurate than real-time data, and it is also adjusted for the AQEW, or the amount of energy used by hydro stations like Becks PGS and Fort Frances as well as other ancillary services. Since 2013, the AQEW adjustment has shifted load during peak periods by 300 MW to 900 MW on average. For context, in 2018, the difference between the 4th- and 10th-largest peaks was roughly 700 MW. The AQEW shifted the peak hour from its real-time placement for each of the top three peaks this past summer.
+
+Together, these trends mean that predicting system peak events in Ontario will become increasingly complex going forward. With growing uncertainty around system peak events, energy users will need to curtail grid demand more frequently and for longer durations to have the best chance of capturing all peak hours. The ability to predict system peak events accurately—as well as access valuable resources like
+demand response
+and
+energy storage
+to maximize the value of curtailment—will be critical to keeping GA costs in control.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

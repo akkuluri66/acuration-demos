@@ -1,0 +1,205 @@
+California's Utility Rates are Disrupting the Economics of Solar | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Changes to California's Utility Rates are Disrupting the Economics of Commercial and Industrial Solar
+December 19, 2018
+This article is an excerpt from the new whitepaper published by Microgrid Knowledge and Enel X North America, California’s Changing Time-of-Use Rates: Calculating the Impact on Behind-the-Meter Solar PV and Energy Storage.
+
+For utilities, electricity is generally more expensive and complex to deliver when demand is high. To help cover these costs, California’s utilities have traditionally imposed time-of-use (TOU) rates, which created a daily schedule that applies different prices for power based on demand trends on the grid. When demand is highest, prices are highest under TOU rates.
+
+In the past, daily grid demand ramped up in the morning, peaked from noon into the early afternoon as temperatures and air conditioning usage increased, and then gradually decreased as the day progressed. Though there is some additional nuance to the scheduling, California’s utilities have long scheduled on-peak hours— during which rates were the highest—from around 11 am to about 6 pm. Off-peak hours, meanwhile, were generally applied through the other hours of the day.
+
+For utilities, TOU rates helped increase revenue to cover the high costs of delivering power when demand was high. For energy consumers, this created an incentive to minimize reliance on the grid for power during on-peak hours. This has long been a significant part of the value of on-site solar photovoltaics (PV) for the state’s large energy consumers. The hours when solar generation is at its highest levels happen to coincide with the on-peak hours, enabling large energy users to rely on their on-site solar power and avoid exposure to several hours of high on-peak rates every day.
+
+However, the rise of solar power generation in the state— both behind-the-meter and at the utility scale—has disrupted the dynamics of the supply mix supporting California’s electric grid. Utilities are adapting to these new realities with changes to their TOU rate schedules, which will have a significant impact on the business case for behind-the-meter solar PV and energy storage systems.
+
+California's Utilities Respond to the 'Duck Curve'
+From 2007 to 2017, utility-scale solar power generation in California grew from 557 GWh to 24,353 GWh, according to the US Energy Information Administration (EIA).
+
+This rapid increase has created a number of serious challenges for the state’s utilities, which rely largely on natural gas generation to supply the majority of power on the grid.
+
+Solar production increases in the late morning hours and peaks around noon before tailing off in the late afternoon and early evening. This reduces demand for natural gas during the midday hours, when utilities traditionally imposed higher, on-peak TOU rates. Then, as solar power generation diminishes in the late afternoon hours, utilities face a spike in demand for power from natural gas.
+
+California’s Independent System Operator (CAISO) illustrated this trend in the graph below, which is now commonly known as the “duck curve.”
+
+The duck curve creates several challenges for utilities. The first is accommodating the late-afternoon spike in demand. This often requires a reliance on natural gas peaker plants, which can generate power quickly but are expensive to operate on a regular basis. Compounding the cost problem is that much of this early evening spike in demand falls outside of the traditional on-peak hours when utilities could expect to make up the high cost of delivering power.
+
+In addition to the high costs, the reduction in midday demand has depressed a traditional source of revenue for natural gas generators, while high levels of solar production have decreased electricity prices, sometimes leading to negative prices.
+
+In response, California’s utilities have begun adjusting their TOU rate schedules to account for the duck curve.
+
+San Diego Gas & Electric (SDG&E) shifted on-peak hours for its summer season to 4 pm-9 pm, from its previous schedule of 11 am-6 pm. Pacific Gas & Electric (PG&E) and Southern California Edison (SCE) are expected to implement the same schedule for on-peak hours in 2019.
+
+Under these new schedules, the utilities apply on-peak rates when demand for natural gas spikes in the late afternoon to early evening hours, helping them adapt to the economic realities of the duck curve. For the state’s large energy consumers, meanwhile, the shift disrupts the economics of behind-the-meter solar PV and energy storage.
+
+For additional insight into how these changes affect the business case for standalone solar PV and combined solar-plus-storage systems, download the whitepaper from Microgrid Knowledge.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

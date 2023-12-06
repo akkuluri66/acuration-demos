@@ -1,0 +1,218 @@
+United States Cold Storage Earns Payments in PJM’s SRM | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Case Studies
+
+United States Cold Storage Earns Significant Payments in PJM’s Synchronized Reserve Market
+DOWNLOAD PDF
+
+Industry:
+Cold Storage
+Location:
+Two facilities in Illinois
+Program:
+PJM Synchronized Reserve Market
+DR Strategy:
+Temporarily reduce connected load of refrigeration equipment
+
+United States Cold Storage is a leading cold storage logistics company which aims to advance, innovate, and serve companies seeking the best service, facilities, and logistics in the cold chain industry. Originally founded in 1899, the company has its headquarters in Camden, New Jersey, with 43 cold storage facilities located throughout the continental United States.
+
+As a large energy user, US Cold Storage is a great candidate for demand response (DR). Mike Lynch, Vice President of Engineering at United States Cold Storage, first started working with Enel X to enroll in demand response programs 15 years ago, and remains happy after his decade and a half of experience with Enel X.
+
+“I’d definitely recommend Enel X,” Lynch said. “I have a good relationship with my Enel X team. We’ve set a goal of generating $1 million dollars in demand response revenue and we’re knocking on the door—I’m hoping we’ll hit it in the next year or two.”
+
+How Demand Response (DR) Works
+Demand response programs provide payments to energy users that agree to reduce their energy demand during times of grid stress. There are a wide variety of programs available across America with different requirements—some, for instance, require faster response times when energy users are asked to curtail energy use.
+
+Synchronized Reserve Market: A Lucrative Opportunity
+As demand response programs have increased throughout the United States, US Cold Storage has continued to enroll in new programs. Jim Duffy, Regional Chief Engineer for United States Cold Storage’s central region, said Enel X’s team has been very comprehensive in keeping them on top of all possible opportunities.
+
+“Enel X is very knowledgeable in the programs that are available. They’ve really helped us maximize our savings—they do a really good job of keeping us on our toes.”
+
+Recently, two warehouses in Illinois joined a “fast” demand response program called the Synchronized Reserve Market (SRM). SRM supports the PJM electric grid during unexpected system disruptions that only last for a short period of time, such as unplanned generator outages or spikes in energy demand. SRM events last 9 minutes on average, and no more than 30.
+
+These sudden disruptions to the grid require participating sites reduce their demand from the grid within 10 minutes of being notified. In return, participants can earn significant payments for helping to stabilize the grid during these critical periods.
+
+These two Illinois facilities already participated in some demand response, but Duffy said they decided to enroll in Synchronized Reserves when they saw the large earnings potential.
+
+How US Cold Storage Responds to a Synchronized Reserves Event
+When a demand response event occurs and they have to turn down their electricity usage, US Cold Storage is notified by text and email, and they also have a strobe light that automatically turns on in their warehouse.
+
+They then focus primarily on reducing the connected load of refrigeration equipment, which Duffy notes is about 80% of their energy usage, while continuously monitoring room temperatures. Because there are so many frozen products in the freezers, there is large thermal inertia—a decrease in refrigeration for the length of an SRM event has no significant effect on the temperature in the freezers.
+
+Much of these processes are automated—US Cold Storage has put in place capabilities to automatically shut down certain systems, and different facilities adjust these processes to fit their circumstances.
+
+Recommending Sync Reserves
+Duffy has found SRM to be a simple program, and one that’s helpful to their bottom line. In fact, he’s been very surprised that participation isn’t far more widespread.
+
+“These programs are out there to help you save substantial amounts of money,” Duffy said. “To me it’s surprising that participation is not greater across the industrial sector. It’s not an extremely difficult thing to do—in our industry especially—to participate.”
+Related Resources
+Explore other resources within this category.
+Eaton Arecibo: A Post-Maria Microgrid Story
+Eaton Arecibo: A Post-Maria Microgrid Story
+How Enel X and Eaton are Teaming Up to Deploy Resilient Microgrid Solutions in Puerto Rico
+
+Case Studies
+Solar-Plus-Storage
++3
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+
+Case Studies
+Solar-Plus-Storage
++3
+Thinking Big with Battery Energy Storage
+Thinking Big with Battery Energy Storage
+Imperial Oil partners with Enel X on one of the largest battery energy storage systems in North America
+
+Case Studies
+Energy Storage
++3
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

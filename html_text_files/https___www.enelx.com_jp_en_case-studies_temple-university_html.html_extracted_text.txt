@@ -1,0 +1,212 @@
+Temple University case study | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Who We Are
+Corporate
+Japan
+
+EN
+
+Japanese
+English
+Explore
+Products & Services
+Energy Solution
+Demand Response
+Solar-Plus Storage
+Onsite Battery Energy Storage
+Energy Advisory
+Energy Advisory Service
+Utility Bill Management
+Case Studies
+LEARN MORE
+Support
+CONTACT US
+Japan
+
+EN
+
+Japanese
+English
+Explore
+Products & Services
+LEARN MORE
+Energy Solution
+Demand Response
+Solar-Plus Storage
+Onsite Battery Energy Storage
+Energy Advisory
+Energy Advisory Service
+Utility Bill Management
+Support
+Japan
+Asia Pacific
+Australia
+New Zealand
+South Korea
+Taiwan
+Europe
+Ireland
+Italy
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+Canada
+United States
+Latin America
+Argentina
+Brazil
+Chile
+Colombia
+Peru
+Search here
+Demand Response
+Solar-Plus-Storage
+Battery Storage
+You might be interested in...
+Demand Response
+Learn more
+Resources
+Temple University Earns Millions by Stacking Demand Response Programs
+The need
+The solution
+The benefits
+Location
+Philadelphia, the USA
+Customer
+Temple University
+Sector
+Educational Institutes
+Customer information
+This Temple University case study is based on a project developed in Enel X North America.
+
+Temple University
+Temple University is an American state university founded in 1884. The University offers bachelor's, master's, and doctoral degrees in several fields of study through its multiple campuses in Pennsylvania, as well as branch campuses in Rome and Tokyo.
+
+
+The need
+Temple University is a role model for strategic energy management with on-site natural gas generation resources, a strong push towards renewable energy, and a staff focused on sustainability and conservation. As part of its energy management and sustainability efforts, they have prioritized opportunities to offset its energy costs and improve the resilience of its campus while contributing to the local community.
+
+In Pennsylvania, the largest electric grid operator in North America, PJM provides various different services.
+Services include multiple Demand Response (DR) programs. However, while access to these programs represents an opportunity for Temple University to increase its DR earnings, capitalizing on this opportunity can be complex.
+
+Participating in multiple DR programs requires in-depth visibility into both grid-level demand activity and facility-level energy performance and needs, as well as the ability to reduce demand at the right times for each program without disrupting operations in the school’s facilities.
+The solution
+For more than 10 years, Temple University has partnered with the Enel X team to maximize performance in all available DR programs while minimizing disruption in its facilities. It is possible to participate in several different DR programs available and maximize revenue while minimizing the impact on school operations.
+
+Enel X notifies Temple University of these events across all requested channels of communication (email, text, phone) and remotely toggles its facilities’ energy consumption via a remote dashboard, allowing university staff to streamline the process and cost of its participation.
+
+Synchronized Reserve Market(SRM)： The program requires fast-response participation during brief power systems disruptions, such as transmission line or power plant outages.　These pre-planned reductions last only 10 minutes. In some cases, SRM is cost-effective and beneficial; in others, it is not. Enel X provides support in deciding whether to participate or not for each dispatch.
+Emergency Load Response Program (ELRP)： The ELRP is intended to reduce the risk of power outages by rewarding large electricity consumers for voluntarily reducing their consumption temporarily when electricity demand exceeds supply to the point of emergency. It is ideal for organizations like Temple University, which also uses energy reduction plans to manage its capacity charges and provide a source of revenue when it cannot reduce consumption during peak periods.
+Economic Demand Response： This DR program, which is also offered in Japan, is triggered in response to high wholesale electricity prices and is a mechanism for supplying demand-side resources owned by large electricity users through retail electric utilities or the wholesale electricity market. Economic DR allows participants to choose whether they want to participate in response to a dispatch. As part of its campus-wide energy strategy, Temple University boasts on-site natural gas and solar power generation resources, central chilled water plant optimization, and direct digital control of all HVAC systems. The university has decided to use this unique infrastructure to participate in economic DR as well. During Economic DR dispatches, Temple University reduces grid demand by shifting energy-intensive machinery such as chillers to operate during off-peak hours, as well as leveraging its on-site power generation assets to power other energy-intensive equipment while removing capacity from the grid.
+PECO Act 129 Demand Response： This Turn Down DR program is designed to improve energy efficiency and reduce peak demand in Pennsylvania with 24-hour advance notice. Temple University participates in the program by lowering consumption and activating its on-site power generation facilities.
+
+(Note) In Japan, Enel X does not control electricity consumption but instead turns equipment power on and off.
+The benefits
+In just over a decade, Temple University’s demand response participation has earned nearly
+$4.1M in gross revenue as of Q1 2018,
+in addition to approximately
+$1.5M in cost savings
+through strategic energy supply management and over
+$9M in avoided capacity costs
+through targeted demand management practices.
+
+In addition to the financial benefits, the Temple University team has also improved the efficiency of the campus, maintaining a consistent electric load of 300,000 MWh despite a surge in student population and the construction of new facilities.
+
+Kurt Bresser, Director of Utilities and Energy Management, at Temple University, commented
+"This program has not only resulted in increased income potential for the university, but has allowed me the freedom to deliver on
+Temple’s commitment to conservation, sustainability, and efficiency.
+"
+With an approach that maximizes all available energy opportunities, Temple University has demonstrated the full benefits of a comprehensive energy strategy across supply, consumption, and demand.
+Note: In Japan, Enel X supports global and local customers to help them to save on energy costs, earn a new revenue stream and achieve carbon neutral targets with customized products and services.
+Contact us
+to learn more.
+
+Demand Response
++1
+Case Study
++1
+Related Resources
+Explore other resources within this category.
+Monitor for Circular Fashion
+Monitor for Circular Fashion
+An overview of the circular maturity level of the Italian fashion industry
+
+Circular Economy
++2
+Data-driven tools to help build circular cities using Open Data
+Data-driven tools to help build circular cities using Open Data
+Read full case study
+
+Circular Economy
+Case Study
++3
+EV Batteries Start a Second Life at Airports in Rome
+EV Batteries Start a Second Life at Airports in Rome
+Read full case study
+
+Renewable Energy
+Battery Storage
+Solar-Plus-Storage
++4
+✖
+Enel X Japan
+
+
+Who We Are
+Circular Economy
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Case studies
+FAQs
+Join Us
+
+
+Work With Us
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+Enel X Japan
+
+
+Who We Are
+Circular Economy
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Case studies
+FAQs
+Join Us
+
+
+Work With Us
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Japan All Rights Reserved | Tax ID: 101000115-7738
+Credits
+|
+Legal
+|
+Privacy Policy
+|
+Cookie Policy

@@ -1,0 +1,217 @@
+NYISO Lowers New York City Summer Load Forecast | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+NYISO Lowers New York City Summer Load Forecast
+Lower forecast likely to impact capacity prices, demand response earnings
+March 24, 2021
+This week the New York Independent System Operator (NYISO) released system forecast information for the upcoming Summer 2021 season. The information includes finalized Peak Load Forecasts, Transmission Security Limit (TSL) and Locational Minimum Installed Capacity (LCR) numbers.
+
+These new numbers reflect a significant decrease from 2020 levels for the New York City (NYC) zone. The Peak Load Forecast for NYC decreased around 2%, the TSL 1.6% and the LCR decreased 6.3%. While a variety of factors can influence NYISO’s forecasts – including changes to the overall economy, energy efficiency efforts, etc. – one notable cause influencing this latest forecast comes from NYC’s demographic shifts from the COVID-19 pandemic.
+
+
+2020
+2021
+Peak Load
+11.477 GWs
+11.199 GWs
+Transmission Security Limit
+80.2%
+78.7%
+Locational Minimum Installed Capacity
+86.6%
+80.3%
+
+In combination, these new market fundamentals point toward a likely decrease in capacity pricing for the NYC zone this upcoming summer season – which impacts demand response customers participating in the SCR program.
+
+The Basics of NYISO Auctions
+The NYISO procures its capacity in three types of auctions.
+
+The Strip Auction, taking place this upcoming March 29
+th
+, occurs once a season and secures capacity for the entirety of the season.
+
+The monthly and spot auctions happen on a monthly basis and are subject to short-term supply and demand changes. Each of these three auctions clear at independent price points.
+
+Enel X’s Auction Strategy
+Enel X has a proprietary, blended auction strategy achieved through active portfolio management and real-time capacity allocation across all three auctions, month by month. Because this approach to auction participation allows for greater flexibility, Enel X can take advantage of any mid-season price increases that may materialize.
+
+Potential COVID Impacts
+As mentioned earlier, the likely culprit of the lower capacity needs for NYC is the effect of COVID restrictions and behavioral changes. As NYC became one of the worst-hit cities going into Summer 2020, electricity demand patterns shifted significantly and by April of 2020, demand was already 16% lower than initially predicted by the NYISO.
+
+It is possible that once COVID restrictions are lifted – perhaps in the upcoming months – NYC loads and capacity pricing could return to previous levels. Enel X is well-positioned to capture any potential price increase due to our blended auction strategy.
+
+—
+
+In the interim, with prices lower demand response participants located in NYC could see a reduction in earnings for the 2021 summer season. Enel X will continue to evaluate the situation as more information becomes available and actively manage our auction strategy to deliver the highest possible pricing to our customers.
+Contact Enel X
+if you would like to discuss your energy strategy or learn more about how you may be affected by these changes.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

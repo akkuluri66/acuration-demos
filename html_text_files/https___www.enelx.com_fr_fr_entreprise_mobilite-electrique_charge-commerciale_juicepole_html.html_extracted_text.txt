@@ -1,0 +1,225 @@
+JuicePole
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+A propos de nous
+Corporate
+France
+
+FR
+
+English
+French
+Explorer
+Débloquer des opportunités
+Decarbonation
+Une solution digitale complète à votre stratégie énergétique.
+Enel X Connect
+EN SAVOIR PLUS
+Conseil et Decarbonation
+CONSEIL ET DECARBONATION
+Conseil En Energie
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Découvrez l'ensemble des opportunités offertes par les énergies renouvelables.
+Conseil en énergies renouvelab
+EN SAVOIR PLUS
+Support
+CONTACTEZ-NOUS
+France
+
+FR
+
+English
+French
+Explorer
+EN SAVOIR PLUS
+Débloquer des opportunités
+Decarbonation
+Conseil et Decarbonation
+EN SAVOIR PLUS
+CONSEIL ET DECARBONATION
+Conseil En Energie
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Support
+FRANCE
+L'Europe
+Espagne
+Irlande
+Italie
+Roumanie
+Royaume-Uni
+Amérique du Nord
+États-Unis
+Canada
+LATAM
+Argentine
+Brésil
+Chili
+Colombie
+Pérou
+APAC
+Australie
+Corée du Sud
+Japon
+Nouvelle-Zélande
+Taïwan
+Cherche ici
+Utility Bill Management
+Enel X Connect
+Conseil En Energie
+Decarbonation
+Energy Exchange
+Vous pourriez être intéressé par
+Conseils en énergie
+EN SAVOIR PLUS
+Entreprise
+Mobilité électrique
+
+Charge commerciale
+JuicePole
+Optimisez le temps de fonctionnement avec notre borne de recharge à sortie double.
+Besoin de plus d'informations?
+CONTACTEZ-NOUS
+Qu'est-ce que c'est?
+Ce qu’il faut savoir
+Principaux avantages
+Qu'est-ce que c'est?
+La JuicePole est une borne de recharge à courant alternatif à double prise conçue pour un usage fréquent.  Fournissant jusqu'à 22 kW par prise et compatible avec tous les principaux modèles de VE en Europe, la JuicePole convient parfaitement aux centres commerciaux, aux parcs d'activités, aux immeubles d'habitation et à toute entreprise ayant des besoins de recharge de VE.
+Sécurisée
+Équipée de deux systèmes de verrouillage et d'une protection anti-vandalisme.
+Personnalisable
+La coque de la JuicePole peut être personnalisée avec le logo et les couleurs de votre entreprise.
+Pratique
+Un écran couleur haute définition de 10" et une interface intuitive assurent une interaction facile.
+Double prise
+Rechargez deux véhicules électriques en même temps, avec un courant de charge alternatif jusqu'à 22 kW.
+Tout ce que vous devez savoir
+JuiceNet Manager
+JuiceNet Enterprise
+Compteurs intelligents
+Decarbonation
+JuiceNet Manager
+Gérez et contrôlez votre JuicePump via notre tableau de bord web JuiceNet Manager.  Il offre un accès complet à toutes les données sur vos bornes de recharge, sessions de recharge et utilisateurs.
+Autorisez l'accès des utilisateurs à des bornes de recharge spécifiques avec l'application JuicePass.
+Activez et désactivez les cartes RFID (pour le covoiturage et la location) directement depuis le tableau de bord.
+Notre logiciel Load Optimization maximise la recharge des véhicules dans les limites de la charge électrique disponible sur votre site en équilibrant la charge électrique disponible entre plusieurs bornes de recharge.
+JuiceNet Enterprise
+Alimentez vos JuicePole avec le JuiceNet Enterprise.  Il s'agit de la solution clé en main pour ouvrir votre réseau privé à tous les utilisateurs publics, créer et gérer la tarification des sessions de recharge, et recueillir des informations sur votre consommation d'énergie grâce à la gestion des données et aux rapports.
+Invitez les conducteurs à utiliser votre réseau privé via l'application JuicePass.  Gérez facilement les rôles et les autorisations.
+Définissez votre ou vos bornes de recharge comme « publiques » ou « privées » ainsi que le prix pour les utilisateurs finaux.
+Notre logiciel Load Optimization maximise la charge des véhicules dans le cadre de la charge électrique disponible sur votre site en équilibrant la charge électrique disponible entre plusieurs bornes de recharge.
+Smart metering
+La JuicePole peut être intégrée dans des logiques de recharge intelligente, en utilisant des algorithmes spécifiques et des fonctions avancées de comptage intelligent.
+
+Sustainability
+La JuicePole est conçue pour répondre à notre vision de la decarbonation.
+
+Nous avons identifié la possibilité de prolonger la durée de vie des infrastructures de recharge des VE - y compris la JuicePole - grâce au remanufacturage et à la régénération des pièces détachées à des fins de maintenance et de réparation.  La régénération réduit le besoin de pièces de rechange neuves, ce qui réduit notre impact environnemental et nos coûts d'approvisionnement.
+
+Des caractéristiques comme celles-ci font partie du Programme de stimulation de l'économie circulaire d'Enel X, une démarche à l'échelle de l'entreprise visant à évaluer et à augmenter le niveau de circularité de notre portefeuille de solutions et la maturité de l'économie circulaire de nos clients.  Le Programme de stimulation identifie les nouvelles technologies, les modèles commerciaux et les innovations à appliquer et à intégrer dans les portefeuilles, les projets et les processus.
+Principaux avantages
+Accessible
+La JuicePole permet de recharger deux voitures électriques en même temps.  L'accès de l'utilisateur est accordé via l'application mobile JuicePass ou une carte RFID.  La JuicePole peut être installée dans des espaces publics ou privés et est ouverte à tous les types de clients ou limitée à un groupe restreint.
+CONTACTEZ-NOUS
+Fonctionnelle
+Un écran couleur LCD TFT de 10 pouces offre une interface utilisateur intuitive pour guider le client tout au long du processus de recharge.  Le design moderne et élégant comprend une LED dynamique indiquant l'état de charge.
+CONTACTEZ-NOUS
+1
+2
+3
+Score d’économie circulaire
+Selon l'échelle de la circularité des solutions Enel X, la JuicePole obtient un score de niveau 3 : la solution garantit des méthodes plus durables même dans la phase de consommation et de récupération du produit ; les principes de l'économie circulaire caractérisent également - bien que partiellement - la manière dont le service est fourni.  La JuicePole respecte en fait 4 des 5 modèles économiques de l'économie circulaire.
+Intrants durables
+
+Plateforme de partage
+
+Produit en tant que service
+
+Extension de la durée de vie
+
+Recycle and reuse
+
+Sustainable inputs
+Environ 90% de l'énergie utilisée pour construire la JuicePole provient de sources renouvelables.
+Sharing platform
+Comme tout bien public, la JuicePole peut être partagé avec tous les utilisateurs du service de recharge.
+Product as a service
+Enel X met ses infrastructures à la disposition d'autres opérateurs, qui peuvent les utiliser pour une recharge via des cartes RFID et leurs applications.
+Life extension
+Pour le renouvellement technologique de ses points de recharge, Enel X récupère et réutilise toutes les pièces encore fonctionnelles pour les utiliser dans les activités de maintenance.
+Life extension
+Pour le renouvellement technologique de ses points de recharge, Enel X récupère et réutilise toutes les pièces encore fonctionnelles pour les utiliser dans les activités de maintenance.
+Qu'est-ce que la mobilité électrique?
+Vous envisagez de passer à l'électrique mais ne savez pas par où commencer ? Initiez-vous rapidement grâce à notre guide
+EN SAVOIR PLUS
+Découvrez d’autres solutions
+Enel X conçoit les outils qui vous permettent de vous déplacer.
+JuicePump
+Des solutions de recharge haute performance sans compromis.
+EN SAVOIR PLUS
+JuicePole
+Optimisez le temps de fonctionnement avec notre borne de recharge à sortie double.
+EN SAVOIR PLUS
+JuiceBox
+La solution de recharge de VE intelligente et évolutive pour votre entreprise.
+EN SAVOIR PLUS
+✖
+Enel X France
+
+
+A propos de nous
+QHSE
+SUPPORT
+
+
+FAQ
+MÉDIAS
+
+
+Communiques de presse
+REJOIGNEZ-VOUS
+
+
+Carrieres
+Devenir fournisseur
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+Enel X France
+
+
+A propos de nous
+QHSE
+SUPPORT
+
+
+FAQ
+MÉDIAS
+
+
+Communiques de presse
+REJOIGNEZ-VOUS
+
+
+Carrieres
+Devenir fournisseur
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+© Enel X Way France Tous Droits Réservés VAT No. FR96841151145
+Crédits
+|
+Affaires juridiques
+|
+Politique de confidentialité
+|
+Politique de cookies

@@ -1,0 +1,401 @@
+Circular City Index: indice di circolarità urbana | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-service-local
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Istituzioni
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti
+Città 2.0
+SCOPRI DI PIÙ
+Sostenibilità
+SCOPRI DI PIÙ
+Istituzioni
+Prodotti e servizi
+
+Enel X Circular City Index
+Scopri gratuitamente quanto è pronto il tuo Comune a diventare circolare. Se sei già registrato come PA accedi subito agli indici, altrimenti clicca sotto per registrarti al portale Enel X YoUrban.
+REGISTRATI E NAVIGA LA MAPPA
+
+
+Che cos’è
+Come funziona
+Perché è utile
+Naviga i dati
+Che cos’è?
+È un indicatore gratuito sviluppato da Enel X in collaborazione con l’Università di Siena, unico nel panorama italiano in quanto completamente basato su dati open e in grado di valutare il livello di circolarità urbana di partenza di tutti i Comuni italiani – bilanciando al meglio le diversità presenti sul territorio in termini di numero di abitanti ed estensione territoriale.
+Il modello è costruito a valle di un’analisi massiva di Open Data da fonti nazionali, rendendo quindi possibile estendere lo studio all’intero territorio italiano.
+Per definire il livello di maturità circolare vengono analizzati quattro ambiti chiave: digitalizzazione, ambiente ed energia, mobilità e rifiuti. Per ciascuno di essi vengono attribuiti punteggi – definiti in base a confronti con normative o linee guida nazionali ed europee - che valutano il grado di implementazione di politiche e infrastrutture che abilitano il territorio ad avviare una transizione in ottica di circolarità urbana.
+Gratuito
+Disponibile in forma completamente gratuita e interamente basato su Open Data.
+Per tutti i Comuni
+L’indicatore è disponibile per tutti i Comuni italiani, anche quelli di piccole e medie dimensioni.
+Validato scientificamente
+Sviluppato insieme all’Università di Siena, garantisce rigore scientifico e replicabilità dei casi virtuosi.
+Premiato da
+Ecohitech Award
+Il “Programma Open Data per città smart e sostenibili” di Enel X premiato nella categoria “Transizione ecologica".
+Come funziona?
+Alcuni risultati
+Come viene calcolato
+Open Data
+Lo sapevi che...
+Il Comune con il Circular City Index più alto è Calderara di Reno (BO – 13.400 abitanti)
+Le 3 regioni con il maggior livello di maturità circolare sono nel Nord Est Italia: Veneto, Trentino Alto Adige, Emilia Romagna
+I Comuni grandi (>100.000 abitanti) registrano i livelli più alti in termini di digitalizzazione, ma i più bassi per quanto riguarda la gestione dei rifiuti
+Come si calcola il Cirular City Index
+È interamente calcolato a partire da Open Data raccolti da fonti pubbliche nazionali al fine di garantire la massima copertura e consistenza per tutti i Comuni italiani.
+Alle singole sottodimensioni è stato dato un punteggio che ne valuta l’oggettiva aderenza a normative, linee guida o le buone pratiche correlate in vigore a livello Nazionale ed Europeo e la media pesata di queste contribuisce a definire il Circular City Index.
+Il modello è stato costruito dall’unità di Innovazione e Sostenibilità di Enel X in collaborazione con l’Università di Siena, e viene aggiornato annualmente.
+Sul portale Enel X YoUrban potrai scaricare l’articolo scientifico che descrive nel dettaglio il modello e la tipologia di dati utilizzati.
+
+Open Data per città sempre più sostenibili
+Lo sviluppo di questo indicatore fa parte di un programma avviato dall’unità di Innovazione di Enel X per  valorizzare gli Open Data, risorsa preziosa quanto frammentata, e restituirli alle Pubbliche Amministrazioni tramite indicatori - ottenuti grazie a modelli sviluppati ad hoc. L’obiettivo dell’iniziativa è supportare al meglio la transizione sostenibile delle città tramite dati oggettivi e scientifici.
+
+Perché è utile?
+Aree di miglioramento
+L’indicatore consente di identificare le principali aree di miglioramento. Ogni amministrazione potrà fare una valutazione data-driven del proprio grado di preparazione in termini di circolarità urbana e identificare le principali aree di miglioramento.
+Confrontabile
+È confrontabile, in quanto costruito su Open Data disponibili a livello nazionale: permette di identificare casi virtuosi che possono essere presi ad esempio dalle altre realtà territoriali, e di valutare le aree di miglioramento e priorità a livello nazionale, regionale o territoriale.
+Disponibile per tutti i Comuni
+Disponibile per tutti i Comuni italiani, anche quelli di piccole e medie dimensioni. La maggior parte degli studi relativi alla sostenibilità urbana e alle smart cities si sono focalizzati, ad oggi, sulle grandi città, in cui vive solo il 23% della popolazione italiana. È necessario integrare le conoscenze sviluppate finora con analisi più granulari, per evitare che le strategie e le politiche centrali e locali siano poco adatte alle prevalenti realtà territoriali di piccole e medie dimensioni.
+Validità scientifica
+È trasparente e sviluppato insieme all’Università di Siena, per garantire rigore scientifico e replicabilità.
+Naviga gratis la mappa interattiva e scopri punteggi e dettagli per il tuo Comune
+Se sei già registrato come PA accedi subito agli indici, altrimenti clicca sotto per registrarti
+REGISTRATI AL PORTALE ENEL X YOURBAN
+Webinar sviluppo urbano a zero emissioni: scopriamo il CO
+2
+City Index di Enel X
+Un’opportunità per i comuni italiani di accrescere la consapevolezza sulle proprie emissioni e come ridurle.
+Guarda la videoregistrazione
+Scopri di più
+Se sei un Comune interessato a scoprire di più sui principi dell’economia circolare applicati al contesto urbano visita le pagine dedicate.
+Città circolari
+Applicare i principi dell’economia circolare alle realtà urbane.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Sostenibilità per le istituzioni
+Soluzioni di economia circolare per città più sostenibili, vivibili e smart.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Webinar Sviluppo urbano a zero emissioni: scopriamo il CO₂ City Index di Enel X
+Webinar Sviluppo urbano a zero emissioni: scopriamo il CO₂ City Index di Enel X
+Un webinar gratuito sulla decarbonizzazione delle città, alla scoperta del nuovo CO₂ City Index
+
+e-City
+Innovazione
++1
+L’arcipelago della sostenibilità
+L’arcipelago della sostenibilità
+Enel X e Unione Industriale Biellese insieme per lo sviluppo delle comunità energetiche e della mobilità elettrica
+
+e-City
+Economia circolare
+Elettrificazione
++2
+Che cos’è l’economia circolare? Significato e definizione
+Che cos’è l’economia circolare? Significato e definizione
+L’economia circolare cos’è? Significa reintegrare al proprio interno le risorse materiali ed energetiche già impiegate, così da eliminare il concetto di “rifiuto” per sostituirlo con termini quali “recupero”, “riciclo” e “condivisione”.
+
+Economia circolare
++0
+Indicatore della circolarità urbana per i Comuni italiani
+Indicatore della circolarità urbana per i Comuni italiani
+Enel X lancia il Circular City Index per i Comuni italiani: uno strumento gratuito e innovativo in grado di misurare il livello di circolarità urbana. Scopri di più!
+
+e-City
+Innovazione
+Economia circolare
++2
+Colonnine di ricarica elettrica nei negozi Leroy Merlin
+Colonnine di ricarica elettrica nei negozi Leroy Merlin
+Enel X doterà di Infrastrutture di Ricarica Veloce per le Auto Elettriche i punti vendita della catena di articoli per il bricolage Leroy Merlin. Scopri il progetto!
+
+Elettrificazione
++1
+Soluzioni Business
+Monitor for Circular Fashion: i risultati del primo report
+Monitor for Circular Fashion: i risultati del primo report
+Il Monitor for Circular Fashion annuncia i risultati del primo Report sulla circolarità del settore moda italiano e le nuove sfide che lo attendono. Scopri di più.
+
+Economia circolare
++3
+Innovazione
+Smart Home
+Soluzioni Business
+In Sicilia la prima comunità energetica agricola
+In Sicilia la prima comunità energetica agricola
+Enel X partner del progetto di installazione di un impianto fotovoltaico da 200 kW.
+
+Economia circolare
++3
+Soluzioni Business
+Elettrificazione
+Innovazione
+Nuovo impianto fotovoltaico per l'azienda Fiordo
+Nuovo impianto fotovoltaico per l'azienda Fiordo
+Enel X ha realizzato per lo stabilimento grafico Fiordo di Romentino (NO) un impianto fotovoltaico da 200 kW che permetterà di risparmiare 81 tonnellate di CO2 all’anno.
+
+Economia circolare
+Soluzioni Business
+Elettrificazione
++2
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

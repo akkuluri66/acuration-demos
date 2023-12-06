@@ -1,0 +1,236 @@
+Enel X Finds Creative Storage Solution for Solar Project | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Case Studies
+
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+DOWNLOAD PDF
+
+Location
+Mauna Loa manufacturing plant in Kea’au, Hawai’i
+Challenge
+Capture excess on-site solar generation for later use
+Solution
+Battery energy storage system with DER.OS optimization software
+Benefit
+Site powered by 100% renewable energy, avoiding 1000+ tons of CO2e/year
+The Partner:
+DSD Renewables
+DSD Renewables (DSD) is a renewable energy company that pushes the potential for solar forward by making it more accessible to forward-thinking commercial, industrial, and municipal organizations. They work on large-scale, custom solar PV, energy storage, and electric vehicle charging infrastructure solutions.
+
+The Challenge:
+Capture Benefits of Excess Solar Generation
+In 2019, DSD began developing a large solar project with Hawaiian Host Group for Mauna Loa, a leading macadamia nut brand. Mauna Loa wanted a cleaner way to power its manufacturing plant in Kea’au, Hawai’i.
+
+We chose Enel X because they pair their hardware solutions with industry-leading software. Their software platform creates flexibility for any typical asset integration, but this project showed the power of that software. And it was unique in that Enel X is also able to help control existing generators at the site that needed a response platform.
+Matt Kaufmann
+VP of Energy Storage and EV Charging, DSD
+But Hawai’i is a unique energy market, and that created complications. The state ended net-metering in 2015, a process by which grid operators reward customers for exporting excess generation back to the grid. Because of this, at times Mauna Loa’s large solar generation would exceed their energy demands, and they would have to curtail solar.
+
+Without capturing value from that excess solar generation, they would not be unlocking the full benefits of their solar installation.
+
+The Solution:
+Adding Storage with Enel X
+Finding Creative Solutions for Unique Problems
+
+Enel X has extensive experience in energy markets across North America, having pioneered demand response aggregation in the early 2000s and enrolled electric customers in wholesale markets for the past two decades. This experience allows Enel X to find creative solutions for partners with unique problems.
+
+In Hawai’i, Enel X partnered with DSD to ensure Mauna Loa could maximize the benefits of their system. Enel X customized a storage and optimization software solution that easily integrated with Mauna Loa’s existing electric infrastructure and the new solar asset. Because the project required long-term monitoring, Enel X also provided continued monitoring and operating services to maximize the benefits of the solar-plus-storage package.
+
+“We chose Enel X because they pair their hardware solutions with industry-leading software,” said Matt Kaufmann, VP of Energy Storage and EV Charging, DSD. “Their software platform creates flexibility for any typical asset integration, but this project showed the power of that software. And it was unique in that Enel X is also able to help control existing generators at the site that needed a response platform.”
+
+Storage for a Larger Renewable Offset
+
+DSD first looked to Enel X to add storage to the solar system. By adding energy storage, instead of needing to curtail excess generation, Mauna Loa could store that solar energy for later use to further reduce emissions with affordable clean energy. The customer would have a greater renewable energy offset.
+
+Enel X has extensive experience in energy storage—as of March 2022, Enel X has completed over 130 storage projects in North America. The Enel X solution (hardware+software) easily integrated with DSD Renewables’ solar system, making this a winning partnership.
+
+Long-Term, Ongoing Optimization with DER.OS
+
+Enel X’s intelligent storage solution, DER.OS, leverages best-in-class forecasting and optimization to automate storage operations. DER.OS learns consumption behaviors and uses information like customer tariffs, available value streams, and battery degradation costs to determine the best strategy for employing the storage asset.
+
+Enel X works with partners and customers to tailor the optimization criteria to achieve the customer’s primary objectives. For Mauna Loa, the battery system will maximize self-consumption of solar and create bill savings for the customer through demand charge management and energy arbitrage.
+
+Adding Existing Assets to DER.OS
+
+Mauna Loa already had generators at their facility to ensure resiliency in the face of any grid disruption. The company wanted to be sure that these would be able to be smoothly integrated with the solar and storage additions.
+
+With DER.OS, the generators, solar and storage are now all controlled in one place. The operations of these assets are automated, but if the customer wants to manually toggle between the solar and their generator, they have the flexibility to do that.
+
+The Result:
+Powered 100% by Renewable Energy
+As a result, Mauna Loa’s processing plant in Kea’au will now be powered by 100% renewable energy. By using this solar-plus-storage system, Mauna Loa will avoid over 1,000 tons of carbon dioxide equivalent each year.
+This project was a great opportunity for DSD and Enel X to apply our expertise in solar and storage development. It’s exciting to be a part of this momentous project, and Enel X was a great partner to help Mauna Loa more effectively leverage solar and further reduce its environmental footprint.
+Eric Pollock
+Chief Commercial Officer at DSD
+Related Resources
+Explore other resources within this category.
+Eaton Arecibo: A Post-Maria Microgrid Story
+Eaton Arecibo: A Post-Maria Microgrid Story
+How Enel X and Eaton are Teaming Up to Deploy Resilient Microgrid Solutions in Puerto Rico
+
+Case Studies
+Solar-Plus-Storage
++3
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+
+Case Studies
+Solar-Plus-Storage
++3
+Thinking Big with Battery Energy Storage
+Thinking Big with Battery Energy Storage
+Imperial Oil partners with Enel X on one of the largest battery energy storage systems in North America
+
+Case Studies
+Energy Storage
++3
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

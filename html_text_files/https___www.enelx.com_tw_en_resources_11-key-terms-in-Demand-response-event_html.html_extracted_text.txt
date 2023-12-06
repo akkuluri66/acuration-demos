@@ -1,0 +1,230 @@
+11 Key terms you must know to participate in a Demand Response event | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Taiwan
+
+EN
+
+Mandarin Chinese
+English
+Explore
+Product & Services
+Power Flexibility
+Demand Response
+APP & TOOL
+Demand response calculator
+Earn new revenue with Demand Response
+Demand Response Calculator
+START SIMULATION
+Support
+CONTACT US
+Taiwan
+
+EN
+
+Mandarin Chinese
+English
+Explore
+Product & Services
+START SIMULATION
+Power Flexibility
+Demand Response
+APP & TOOL
+Demand response calculator
+Support
+Taiwan
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Romania
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Demand Response
+Circular Economy
+Renewable Energy
+You may be interested in
+Demand Response
+Learn more
+Resources
+11 key terms you must know to participate in a Demand Response event
+Are you ready to respond to a demand response dispatch event? Before getting into dispatch-ready mode, here’s a quick list of key terms to share with everyone on your team who’s on tap to help make your demand response dispatches a success.
+Curtailment
+: The act of reducing electricity consumption.
+Energy Reduction Plan
+: A facility’s predetermined strategy for reducing electricity consumption during a demand response dispatch. Sample energy reduction measures
+for a commercial property facility
+may include dimming lights, adjusting HVAC set points, etc.
+For an industrial facility
+, measures may include temporarily halting production or cycling off certain energy-intensive pieces of equipment. Some facilities like
+hospitals or data centers
+can also curtail by relying on a back-up generator for a short period of time (in certain regions only).
+Baseline:
+Currently, according to Taiwan Power Company’s calculation, the baseline is the average energy consumption in the five minutes before the dispatch notification.
+Nominated Amount:
+The predetermined amount of energy a facility is
+expected
+to reduce during a dispatch from its baseline, i.e. the reduction “target.” Nominated amounts are estimated by past dispatch performance, or in the case of new program participants, an Energy Reduction Test.
+Test or Audit:
+A dispatch (scheduled in some markets) held in order to establish nomination amounts for participating facilities. They are usually called in the absence of an emergency dispatch. Performance during tests and audits is taken as reference to future demand response payment estimationss.
+Demand Response Dispatch
+: The period of time in which a grid operator or utility (in Taiwan it is the Taiwan Power Company) calls upon its participants to reduce electricity consumption.
+Dispatch Notifications:
+The notifications sent to program participants (via phone/email/SMS) alerting them to the details of an upcoming demand response dispatch.
+Dispatch Performance
+: The amount of energy
+reduction
+(as measured by the baseline) compared to the
+nominated amount
+(see above).
+Performance Dashboard
+: The real-time view of your overall performance during a demand response dispatch, as seen in Enel X’s software application. The Performance Dashboard provides real-time energy reduction information and performance.
+Capacity Payment
+: The payment received in exchange for being on call to reduce energy when needed. Capacity payment rates vary from program to program.
+Energy Payment:
+The payment received in exchange for the actual amount of energy reduced during a dispatch. Energy payments are only available in certain programs.
+Demand Response Calculator
+See how much revenue you can earn for reducing your energy consumption with Demand Response
+START SIMULATION
+Article
+Demand Response
++2
+Demand Response
+Join our Virtual Power Plant and support the energy transition
+LEARN MORE
+Related Content
+Taiwan cannot build enough renewables if we cannot balance them
+Taiwan cannot build enough renewables if we cannot balance them
+Learn more about the need for renewable energy planning in Taiwan
+
+Article
+Demand Response
++3
+Enel X and Gogoro accelerate Taiwan's energy transition
+Enel X and Gogoro accelerate Taiwan's energy transition
+Gogoro and Enel X Accelerate Taiwan's Energy Transition with Integration of Virtual Power Plant and 2,500 Battery Swapping Stations Across 1,000+ Locations
+
+Media Release
+Demand Response
+Electric Mobility
+Sustainability
++5
+How Demand Response contributes to a more sustainable future
+How Demand Response contributes to a more sustainable future
+Find out how Demand Response contributes to a more sustainable future.
+
+Whitepaper
+Circular Economy
+Demand Response
++4
+Taipei 101 to accelerate Taiwan's energy transition with Enel X
+Taipei 101 to accelerate Taiwan's energy transition with Enel X
+Taipei 101 to participate in Enel X’s Virtual Power Plant.
+
+Media Release
+Demand Response
++3
+How V2G technology is accelerating Taiwan's path to decarbonizing
+How V2G technology is accelerating Taiwan's path to decarbonizing
+Enel X and Gogoro are driving the country’s energy transition with innovative electricity use.
+
+Article
+Electric Mobility
++3
+Enel X: New Global Record for Demand Response
+Enel X: New Global Record for Demand Response
+2022 was a record year for Enel X: more than 8GW of Capacity offered in markets
+
+Article
+Demand Response
++3
+How does sustainability help businesses save costs?
+How does sustainability help businesses save costs?
+When “Sustainability” come to mind, we often think about extra costs and efforts. But the truth is it can help you spend less
+
+Article
+Demand Response
+Circular Economy
+Renewable Energy
+Sustainability
++6
+What is Demand Response?
+What is Demand Response?
+Demand Response programs provide an opportunity for commercial, institutional, and industrial organizations to earn payments for supporting the grid to maintain reliable electricity...
+
+Demand Response
++2
+✖
+Enel X Taiwan
+
+
+Who We Are
+Contact Us
+Support
+Media
+
+
+Resources
+Press Releases
+FAQs
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+Enel X Taiwan
+
+
+Who We Are
+Contact Us
+Support
+Media
+
+
+Resources
+Press Releases
+FAQs
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Taiwan Co. Ltd All rights reserved
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy

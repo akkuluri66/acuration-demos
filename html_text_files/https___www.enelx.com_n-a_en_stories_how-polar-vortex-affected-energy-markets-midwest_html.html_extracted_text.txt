@@ -1,0 +1,198 @@
+How the Polar Vortex Affected Energy Markets in the Midwest | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+How the Polar Vortex Affected Energy Markets in the Midwest
+February 5, 2019
+In recent years, extremely cold weather has severely disrupted the natural gas and electricity markets, causing reliability issues and sending prices skyrocketing. As a deadly polar vortex brought prolonged sub-zero temperatures to the Midwestern US last week, the region’s energy infrastructure showed some signs of progress in its ability to withstand these kinds of conditions.
+
+In the past decade, natural gas has usurped coal as the primary power generation source in many states across the US, due largely to favorable economics. Cheaper natural gas means lower costs for power generators, which has also led to low power prices in many major markets.
+
+However, an increased reliance on natural gas for power generation has created the potential for volatility in the energy markets. Extreme cold not only increases demand for power, but also for natural gas for heating. If energy providers lack access to sufficient gas to supply demand, energy consumers see increased risk for power outages and extreme spikes in energy prices.
+
+These challenges were made clear in 2014, when a similar polar vortex struck the Midwestern US. During that event, PJM, the operator of North America’s largest electric grid serving 65 million customers over parts of the Midwest and Mid-Atlantic, saw peak demand reach levels that were 25% higher than those typically see in that time of year. To put the increase in context, PJM estimated that the additional load on its grid was “equivalent to the electricity demand of Chicago, Washington, D.C. and Baltimore combined.”
+
+In preparation for last week’s polar vortex, PJM at one point projected demand levels to set new winter records. This was followed by extensive preparation to maintain grid reliability, which included an elevated alert for demand response (DR) participants in the region. In 2014, DR played a valuable role in PJM’s ability to maintain access to power by temporarily reducing power demand at critical moments—and would be an equally valuable resource if the grid encountered emergency conditions once again.
+
+As the polar vortex settled in last week, energy providers saw their share of challenges. According to the US Energy Information Administration (EIA), several utilities in the Midwest suffered power outages and loss of natural gas service. Others requested commercial and industrial customers to curtail natural gas consumption and urged residential customers to limit home heating.
+
+Still, PJM’s electric grid and the Midwest natural gas market demonstrated progress in their ability to withstand extreme cold weather. PJM was able to maintain access to power without issuing an emergency DR dispatch, though Enel X’s DR network was ready to perform if needed. And while energy prices still spiked in response to elevated demand, these increases were relatively mild when compared to the volatility seen under similar conditions in recent years.
+
+Last week, the EIA reported that natural gas prices at the Chicago Citygate trading hub reached a weekly high of $7.46/MMBtu on January 29, up from $3.11/MMBtu on January 23. During the 2014 polar vortex, Chicago gas prices reached $13.97/MMBtu in Chicago, up from about $4.30/MMBtu.
+
+Similarly, PJM’s power market demonstrated significantly more stability last week. In 2014, the polar vortex sent power prices in the PJM Western Hub to nearly $1,800/MWh. Last week, PJM Western Hub prices peaked at just over $160/MWh.
+
+These improvements are a result of two major developments that have improved the resilience and market stability for PJM territory. The first is the addition of natural gas capacity from the Rover, Nexus, Atlantic Sunrise, and Leach Xpress pipelines, which have improved supply availability for gas-fired power generators in the region. The second is PJM’s overhaul of its Capacity Performance rules, which were implemented following the 2014 polar vortex to improve reliability by offering incentives to power generators that can deliver capacity in emergency situations and penalizing those that are not capable of performing in those conditions. In a
+report published in June
+, PJM reported that “overall generator performance has improved from the inception of Capacity Performance.” For example, PJM reported only 5.5% resource outage rates during a cold snap from late December 2017 to early January 2018, compared to a rate of 12.4% among the same resources during the 2014 polar vortex.
+
+While these improvements may be cause for optimism around energy market stability, they do not necessarily mean that the energy markets are immune to the kinds of challenges that PJM saw in 2014. For large energy consumers, risk management is still key to protecting against these challenges and keeping energy costs in control.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

@@ -1,0 +1,408 @@
+에넬엑스 | 지원
+/apps/enel-x-digital-ecosystem/templates/page-support
+Skip to Content
+Enel X란?
+기업
+대한민국
+
+KO
+
+English
+Korean
+둘러보기
+솔루션
+전력계통 유연성
+전력수요반응(DR)
+APP & TOOL
+전력수요반응(DR)  예상정산금  계산기
+e-모빌리티
+전기버스
+신재생에너지
+분산에너지
+DR제도를 통해 수익을 창출하세요
+DR제도 예상정산금 계산기
+계산하기
+고객지원
+CONTACT
+대한민국
+
+KO
+
+English
+Korean
+둘러보기
+솔루션
+계산하기
+전력계통 유연성
+전력수요반응(DR)
+APP & TOOL
+전력수요반응(DR)  예상정산금  계산기
+e-모빌리티
+전기버스
+신재생에너지
+분산에너지
+고객지원
+한국
+아시아 태평양
+호주
+뉴질랜드
+일본
+한국
+대만
+북미 (북아메리카)
+미국
+캐나다
+남미 (남아메리카)
+브라질
+페루
+칠레
+아르헨티나
+콜롬비아
+유럽
+이탈리아
+폴란드
+영국
+아일랜드
+스페인
+포르투갈
+검색
+둘러보기
+전력수요반응(DR)
+알아보기
+고객 지원
+FAQ
+동영상
+자주 묻는 질문
+어떻게 DR제도에 참여하나요?
+Enel X를 통한 참여는 매우 간단합니다. Enel X는 복잡한 세부 사항을 처리해 고객은 비즈니스 운영에 계속 집중할 수 있습니다...
+LEARN MORE
+faq
+17/11/2021
+수요감축요청이 발령나면 어떻게 되나요?
+Enel X는 고객이 에너지 절감 계획을 이행할 수 있도록 연중무휴 운영되는 솔루션을 통해 고객을 지원합니다...
+LEARN MORE
+faq
+01/09/2021
+수요반응제도(DR) 참여 기업은 어떤 설비로 전력을 감축하나요?
+Enel X는 다양한 시설의 에너지 절감 전략을 수립한 글로벌 경험을 보유하고 있습니다...
+LEARN MORE
+faq
+01/09/2021
+수요반응제도(DR)의 이점은 무엇인가요?
+Enel X는 고객이 최고의 금전적 보상을 받을 수 있도록 고객 참여를 운영 및 관리합니다...
+LEARN MORE
+faq
+01/09/2021
+수요반응제도(DR)는 무엇인가요?
+DR 제도는 기업이 안정적인 전력을 유지하고 국가 전력망을 지원하는 것에 대한 보상을 받는 제도입니다...
+LEARN MORE
+faq
+01/09/2021
+영상 가이드 보기
+영상 시청 및 YouTube 방문을 통해 더 자세히 알아보세요.
+YouTube 방문
+궁금한게 있으신가요?
+문의하기
+/content/enel-x/kr/ko/thank-you.html
+사업분야 선택
+e-모빌리티
+비즈니스 솔루션
+항목을 선택하십시오.
+제품/서비스
+전력수요관리(DR)
+분산에너지
+대중교통 및 전기버스
+항목을 선택하십시오.
+이름
+필수 항목입니다.
+성
+이 필드는 필수입니다
+AD +376
+AE +971
+AG +1268
+AI +1264
+AM +374
+AO +244
+AR +54
+AT +43
+AU +61
+AW +297
+AZ +994
+BA +387
+BB +1246
+BD +880
+BE +32
+BF +226
+BG +359
+BH +973
+BI +257
+BJ +229
+BM +1441
+BN +673
+BO +591
+BR +55
+BS +1242
+BT +975
+BW +267
+BY +375
+BZ +501
+CA +1
+CF +236
+CG +242
+CH +41
+CK +682
+CL +56
+CM +237
+CN +86
+CO +57
+CR +506
+CS +381
+CU +53
+CV +238
+CY +357
+CY +90392
+CZ +42
+DE +49
+DJ +253
+DK +45
+DM +1809
+DO +1809
+DZ +213
+EC +593
+EE +372
+EG +20
+ER +291
+ES +34
+ET +251
+FI +358
+FJ +679
+FK +500
+FM +691
+FO +298
+FR +33
+GA +241
+UK +44
+GD +1473
+GE +7880
+GF +594
+GH +233
+GI +350
+GL +299
+GM +220
+GN +224
+GP +590
+GQ +240
+GR +30
+GT +502
+GU +671
+GW +245
+GY +592
+HK +852
+HN +504
+HR +385
+HT +509
+HU +36
+ID +62
+IE +353
+IL +972
+IN +91
+IQ +964
+IR +98
+IS +354
+IT +39
+JM +1876
+JO +962
+JP +81
+KE +254
+KG +996
+KH +855
+KI +686
+KM +269
+KN +1869
+KP +850
+KR +82
+KW +965
+KY +1345
+KZ +7
+LA +856
+LB +961
+LC +1758
+LI +417
+LK +94
+LR +231
+LS +266
+LT +370
+LU +352
+LV +371
+LY +218
+MA +212
+MC +377
+MD +373
+MG +261
+MH +692
+MK +389
+ML +223
+MM +95
+MN +976
+MO +853
+MP +670
+MQ +596
+MR +222
+MS +1664
+MT +356
+MV +960
+MW +265
+MX +52
+MY +60
+MZ +258
+NA +264
+NC +687
+NE +227
+NF +672
+NG +234
+NI +505
+NL +31
+NP +977
+NO +47
+NR +674
+NU +683
+NZ +64
+OM +968
+PA +507
+PE +51
+PF +689
+PG +675
+PH +63
+PL +48
+PR +1787
+PT +351
+PW +680
+PY +595
+QA +974
+RE +262
+RO +40
+RU +7
+RW +250
+SA +966
+SB +677
+SC +248
+SD +249
+SE +46
+SG +65
+SH +290
+SI +386
+SK +421
+SL +232
+SM +378
+SN +221
+SO +252
+SR +597
+ST +239
+SV +503
+SY +963
+SZ +268
+TC +1649
+TG +228
+TH +66
+TJ +7
+TM +993
+TM +7
+TN +216
+TO +676
+TR +90
+TT +1868
+TV +688
+TW +886
+UA +380
+UG +256
+US +1
+UY +598
+UZ +7
+VA +379
+VE +58
+VG +1284
+VI +1340
+VN +84
+VU +678
+WF +681
+YE +969
+YE +967
+YT +269
+ZA +27
+ZM +260
+ZW +263
+항목을 선택하십시오.
+필수 항목입니다.
+전화번호 (-) 제외
+필수 항목입니다.
+회사명
+필수 항목입니다.
+이메일
+필수 항목입니다.
+문의사항
+필수 항목입니다.
+개인정보보호 정책에 동의합니다.
+필수 항목입니다.
+마케팅 수집 및 이용에 동의합니다.
+프로파일링에 동의합니다.
+제출
+LeadType
+ReceivingChannel
+Source
+IdentityCountry
+GDPR.LegalEntity.LegalEntity
+✖
+Enel X Korea
+
+
+Who We Are
+고객지원
+문의
+Media
+
+
+자료실
+미디어룸
+자주 묻는 질문
+Join Us
+
+
+커리어
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+Enel X Korea
+
+
+Who We Are
+고객지원
+문의
+Media
+
+
+자료실
+미디어룸
+자주 묻는 질문
+Join Us
+
+
+커리어
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+Enel X Korea - 사업자등록번호: 120 88 08323
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy

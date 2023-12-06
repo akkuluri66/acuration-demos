@@ -1,0 +1,293 @@
+Via Varejo é a primeira empresa do país a receber sistema de Gestão de Contas da Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Pessoas
+Empresas
+Cidades
+Quem somos
+Corporativo
+Brasil
+
+PT
+
+
+Explorar
+Soluções inteligentes
+Gestão de energia
+Inteligência artificial na gestão de energia
+Histórias de sucesso
+Energia Solar
+Soluções inteligentes
+Sustentabilidade
+Alcance suas metas
+Gestão de energia 4.0
+SAIBA MAIS
+Produtos e serviços
+Gestão inteligente
+Energy management
+Eficiência energética
+Gestão Inteligente de Faturas de Utilities
+Consultoria e gestão de energia
+Redução voluntária de demanda de energia
+Estruturas eficientes
+Infraestrutura elétrica
+Energia solar
+App & tool
+Simulador de energia solar
+Seja um parceiro
+Cadastro de parceiros
+Cadastro de parceiro
+SAIBA MAIS
+Suporte
+Fale conosco
+Target
+Empresas
+
+Pessoas
+
+Empresas
+
+
+Cidades
+
+
+Brasil
+
+PT
+
+
+Explorar
+SAIBA MAIS
+Soluções inteligentes
+Gestão de energia
+Inteligência artificial na gestão de energia
+Histórias de sucesso
+Energia Solar
+Soluções inteligentes
+Sustentabilidade
+Alcance suas metas
+Produtos e serviços
+SAIBA MAIS
+Gestão inteligente
+Energy management
+Eficiência energética
+Gestão Inteligente de Faturas de Utilities
+Consultoria e gestão de energia
+Redução voluntária de demanda de energia
+Estruturas eficientes
+Infraestrutura elétrica
+Energia solar
+App & tool
+Simulador de energia solar
+Seja um parceiro
+Cadastro de parceiros
+Suporte
+Brasil
+Europa
+Itália
+Polônia
+UK
+Irlanda
+Espanha
+Portugal
+América do Norte
+USA
+Canadá
+LATAM
+Peru
+Chile
+Argentina
+Brasil
+Colômbia
+APAC
+Austrália
+Japão
+Coréia do Sul
+New Zealand
+Buscar
+Soluções inteligentes
+Empresas
+LED
+Eficiência
+Solar
+Gestão inteligente
+Isto pode te interessar
+Alcance metas
+SAIBA MAIS
+Intel. Artificial
+SAIBA MAIS
+Energia 4.0
+SAIBA MAIS
+Simulador
+SAIBA MAIS
+
+Empresas
+Histórias
+Via Varejo é a primeira empresa do país a receber sistema de Gestão de Contas da Enel X
+Solução da Enel X agrega em uma plataforma única dados de consumo de gás, energia e água, além de digitalizar a gestão de pagamentos da companhia
+PUBLICADO NO DIA:
+14/10/2020
+Solução da Enel X agrega em uma plataforma única dados de consumo de gás, energia e água, além de digitalizar a gestão de pagamentos da companhia e permitir acompanhamento de indicadores de sustentabilidade
+
+Niterói, 05 de Outubro de 2020
+A Enel X, linha de negócio do Grupo Enel dedicada a produtos inovadores e soluções digitais, acaba de consolidar a implementação do sistema UBM (Utility Bill Management) para a Via Varejo, maior empresa de varejo de eletroeletrônicos e móveis do país. A solução implementada pela Enel X digitaliza a gestão de pagamentos da companhia, organizando em uma plataforma única todas as informações sobre contas de prestadoras de serviços, além de permitir o acompanhamento de consumo de energia, água e gás de todas as unidades da empresa e monitorar indicadores de sustentabilidade. A Via Varejo é a primeira companhia do Brasil a receber a solução de UBM da Enel X.
+
+A gestão das faturas mensais é um desafio para empresas dos mais diversos portes e segmentos e se torna ainda mais trabalhosa para aquelas com operações distribuídas em regiões variadas, como é o caso da Via Varejo. Atualmente, o UBM da Enel X monitora por mês contas de energia de cerca de mil unidades da Via Varejo espalhadas pelo país. No total, são 46 distribuidoras de energia diferentes. Diante dos resultados positivos obtidos até o momento, a Via Varejo está planejando adicionar à plataforma o gerenciamento do consumo de água de suas unidades, além do serviço de contas a pagar, que integrará os dados de pagamento da plataforma UBM diretamente ao SAP da companhia.
+
+“Queremos cada vez mais atuar como parceiros dos nossos clientes, oferecendo soluções digitais e de consultoria customizadas de acordo com o perfil e os objetivos de cada empresa. A implementação do UBM para a Via Varejo é um dos exemplos em que o uso de uma solução digital e inovadora está contribuindo para tornar o gerenciamento dos custos ainda mais estratégico, além de oferecer oportunidades para aumentar a competitividade do negócio e auxiliar na transição energética”, comenta Leandro Marins de Abreu, Diretor de e-Industries da Enel X Brasil.
+
+Gestão de Faturas (UBM)
+Otimize tempo e recursos com uma plataforma inteligente de gestão centralizada de faturas.
+SAIBA MAIS
+A plataforma do UBM também permite o acompanhamento do resultado de iniciativas desenvolvidas pela Via Varejo com foco na redução do consumo de energia, como a modernização da iluminação das unidades, a instalação de sistemas de geração distribuída e a compra de energia no mercado livre, o que permite ter uma visão geral sobre a energia compensada, injetada e os custos evitados.
+
+“Com a plataforma, temos condições de comparar o desempenho energético das filiais, incluindo variáveis como área da loja ou até mesmo as condições climáticas do local. Além disso, é possível acompanhar o desempenho dos projetos que visam o uso eficiente da energia, bem como a redução do custo da sua aquisição. A próxima etapa da implantação da Plataforma UBM consiste no desafio de coletar, de forma digital, as faturas de mais de mil unidades consumidoras, em mais de 140 concessionárias de saneamento básico em todo Brasil, além da integração da ferramenta com o SAP da Via Varejo, que visa aperfeiçoar o processo de validação, aprovação, pagamento e conciliação das faturas de energia e água”, afirma Thiago Hagui, Coordenador de gestão de energia e eficiência energética da Via Varejo.
+Case Via Varejo
+Historicamente, a Via Varejo utilizava um sistema adaptado para gestão de faturas de utilidades, sem uma validação sistêmica dos dados, identificação de anomalias e distorções no padrão de consumo. O recebimento das faturas, em sua maioria, era por via física por meio de malotes enviados pelas filiais, o que era um método que, em tempos de digitalização e modernização, precisava ser revisto. “Com a troca para o UBM e a utilização da base de dados gerada, foi possível aumentar significativamente a habilidade em Gestão de Energia e Utilidades, gerando um processo de relato muito mais confiável, além de tornar a coleta das faturas mais digital e eficiente”, explica Hagui.
+
+Para a Gestão de Utilidades, a Via Varejo sempre buscou ter uma visão completa, estratégica e analítica de suas bases de custo e consumo, o que é desafiador considerando a grande variedade de distribuidoras espalhadas em todo Brasil e a dificuldade no processamento dos dados.
+
+Devido ao perfil analítico e estratégico da área, foi possível elaborar um Reporting Interno no PowerBI, utilizando a massa de dados disponibilizada pelo UBM, estreitando os laços com as diversas áreas da companhia e tornando a Gestão de Energia, bem como todos os projetos desenvolvidos, mais transparentes, com resultados e ganhos disponibilizados para toda companhia.
+Sustentabilidade
+Gestão de Energia
+Monitore em tempo real o consumo energético da sua empresa e reduza custos, por meio de um sistema inteligente de gestão.
+SAIBA MAIS
+Outros benefícios do UBM são o monitoramento de indicadores de sustentabilidade, aprimorando e agilizando o gerenciamento de metas, consumos e emissões. Além de concentrar as informações sobre gasto de água e energia, por exemplo, a plataforma agrega dados de uso de emissões e recursos para calcular e reportar a pegada de carbono a nível local e global.
+
+“Inovação e sustentabilidade são dois importantes pilares de atuação da Enel no Brasil. Ao oferecer uma solução que integre esses dois atributos, fortalecemos nosso compromisso com o desenvolvimento sustentável e nosso empenho em impulsionar a inovação nas mais diversas frentes”, ressalta Márcia Massotti, Diretora de Sustentabilidade da Enel no Brasil.
+
+O UBM também garante conformidade com todas as leis de aferição de energia locais, presentes e futuras, e regulamentos de transparência. A organização analítica dos dados já permitiu avanços na gestão e na organização de processos e dados da Via Varejo, como a criação de plataformas internas com dados e relatórios acessíveis a diversas áreas da empresa.
+Sobre a Enel X
+A Enel X é a linha de negócios globais da Enel dedicada ao desenvolvimento de produtos inovadores e soluções digitais em setores em que a energia está mostrando o maior potencial de transformação: cidades, residências, indústrias e mobilidade elétrica. No Brasil, a Enel X está comprometida em fornecer soluções tecnológicas inovadoras e serviços de valor agregado com o objetivo de impulsionar a mobilidade elétrica, o consumo consciente e eficiente de energia e a transição para um sistema energético global mais sustentável em benefício de clientes residenciais, empresas e cidades
+
+Consultoria e gestão de energia
+Gerenciamento de energia para redução de custos e otimização do consumo energético.
+SAIBA MAIS
+Sobre a Via Varejo
+Infraestrutura Elétrica
+Tenha um projeto elétrico customizado de acordo com as necessidades das sua empresa.
+SAIBA MAIS
+A Via Varejo é líder no varejo de eletrodomésticos e eletroeletrônicos no Brasil e há décadas está presente na mente, no coração e na casa dos brasileiros com a administração das lojas físicas e do e-commerce das marcas Casas Bahia, Pontofrio, Extra.com.br e Bartira. Fundada em 2010 como Globex Utilidades S/A e oficializada com a razão social de Via Varejo S.A em 2012, a empresa possui capital aberto na B3 desde 2013 e está presente em mais de 400 municípios brasileiros, 20 estados e no Distrito Federal, com cerca de 1 mil lojas físicas, 26 centros de distribuição e entrepostos – que equivalem a 138 campos de futebol – e aproximadamente 50 mil colaboradores em todo o país.
+
+Informações Enel X para a Imprensa:
+Lissandra Torres – lissandra.torres@enel.com
+
+Informações Via Varejo para a Imprensa | Loures (viavarejo@loures.com.br)
+Amanda Trolese – amanda.trolese@loures.com.br – (11) 98011-7763 Leonardo Nascimento – leonardo.nascimento@loures.com.br – (11) 99637-9958
+
+Case Via Varejo
+Via Varejo é a primeira empresa do país a receber sistema de Gestão de Contas da Enel X
+Filename
+VIA VAREJO É PRIMEIRA EMPRESA DO PAÍS A RECEBER SISTEMA DE GESTÃO DE CONTAS DA ENEL X _Out 2020 (1).pdf
+Size
+133 KB
+Format
+application/pdf
+Fazer download
+Eficiência energética
+Diferencial competitivo
+Gestão de qualidade
++4
+Acompanhe as transformações do mundo
+Acesse os conteúdos Enel X e descubra como a nova energia está tornando o mundo mais inteligente e sustentável.
+IR PARA CONTEÚDOS
+Mais conteúdos
+Estabilidade para o shopping com gasto energético industrial
+Estabilidade para o shopping com gasto energético industrial
+Para atender a demanda de 70 mil pessoas por dia, o Shopping Iguatemi, em Fortaleza, no estado do Ceará, precisa estar funcionado perfeitamente.
+
+Eficiência
+Gestão de energia
++3
+Melicidade e a maior usina de energia solar privada no Brasil
+Melicidade e a maior usina de energia solar privada no Brasil
+A Enel X concluiu a construção da maior usina solar do Brasil instalada em telhado e com geração distribuída na nova sede do Mercado Livre.
+
+Geração solar
+Estação de energia solar
+Empresas
++4
+Iluminação Pública Inteligente em Angra
+Iluminação Pública Inteligente em Angra
+O projeto Luz de Angra está sendo viabilizado por meio de PPP. Estamos preparados para auxiliar o poder público desde a fase de criação dos projetos, através da nossa expertise global em soluções de Iluminação Pública Inteligente, Iluminação Artística, Mobilidade Elétrica, Eficiência Energética e Solar.
+
+Iluminação pública
+Cidades
++3
+✖
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Brasil S.A. | Todos os direitos reservados | CNPJ 08.317.250/0001-61
+Créditos
+|
+Declarações Legais
+|
+Privacidade
+|
+Aviso de privacidade
+|
+Política de cookies
+|
+Política integrada
+Text
+

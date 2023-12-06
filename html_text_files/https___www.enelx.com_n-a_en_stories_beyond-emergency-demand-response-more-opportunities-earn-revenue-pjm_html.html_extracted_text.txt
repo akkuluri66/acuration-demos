@@ -1,0 +1,231 @@
+Demand Response: Opportunities to Earn Revenue in PJM | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Stories
+Beyond Emergency Demand Response: More Opportunities to Earn Revenue in PJM
+November 16, 2017
+Say “demand response” or “DR” anywhere in the mid-Atlantic region and most folks will think of PJM’s Emergency Load Response Program (ELRP). That’s not surprising—it’s the largest DR program in the world, and a lucrative one at that. Each year, the program pays participants hundreds of millions (
+about $650 MM in 2016
+) for their willingness to help ensure grid stability.
+
+However, while ELRP carries the lion’s share of capacity and revenue, PJM is no one-trick pony when it comes to maintaining grid stability and working to keep electricity prices low. There is a wide spectrum of demand response programs available from PJM and local utilities that each serve different grid needs, and some can be layered (i.e. you can participate in multiple programs at the same time).
+
+It can be challenging to figure out which program—or programs—are worth your effort. With the largest portfolio in PJM, Enel X is uniquely positioned to help you navigate and maximize your DR participation in one of more of these programs, always balancing effort required with reward potential. So join us on a quick review of opportunities where you can earn revenue while helping to keep the mid-Atlantic grid reliable:
+
+PJM Emergency Load Response Program (ELRP)
+What’s it for:
+Preventing blackouts when electricity demand outstrips available supply, such as during severe weather spikes.
+You’re a good candidate if…
+Your site can reduce at least 100 kW with 30 minutes to 2 hours notice. ELRP attracts a wide variety of facilities, including manufacturing sites, hospitals, cold storage, retail, and universities, to name a few.
+How you participate:
+When notified of an impending grid emergency, reduce your demand by either curtailing use, switching to on-site generation, or a combination of the two.
+Your earnings potential:
+Earnings are based on the load you can curtail in an emergency, but you are paid even if there are no emergencies called. Businesses that can reduce 1 MW of demand can earn $30,000 to $70,000 annually, depending on their zone.
+
+PJM Economic DR
+What's it for:
+Keeping electricity prices stable throughout the region.
+You’re a good candidate if…
+Your site has large processes (greater than 1 MW) that can be reduced frequently or shifted to off-peak hours. Pumps, chillers, grinders, melters, and other energy-intensive machinery are often well-suited for participation, as are sites with on-site generation and storage capabilities.
+How you participate:
+Reduce your demand when wholesale prices spike to earn the same rate per kW that traditional generators earn. Participants on dynamic pricing tariffs may find particular value as they are also reducing their exposure to the highest-priced hours.
+Your earnings potential:
+Earnings vary greatly as they are based on several factors, including how often you curtail, how many kW you reduce, and the hourly energy prices. Businesses that can reduce 10 MW of demand for up to 20 hours a year can earn $20,000 or more, based on energy prices.
+
+PJM Synchronized Reserve Market
+What’s it for:
+Restoring grid stability during sudden system disruptions that last, on average, 10 minutes.
+You’re a good candidate if…
+Your site has energy-intensive load (at least 500 kW) running more than 12 hours per day (e.g. melters, pumps, cold storage, and wood-product processing). Your site’s load is stable and predictable and can be reduced within 10 minutes, either by curtailing or switching to permitted back-up generation.
+How you participate:
+You bid into the market, choosing the schedule and price point for your availability. If your offer is accepted, you are on standby and available for dispatch, should grid instability occur.
+Earnings potential:
+Earnings depend on several factors, including your zone and number of hours you are on standby, and energy market conditions. A solid strategy balancing your schedule and bid commitments is critical to ensuring you see a good return. Businesses that are on standby 24x7x365 to reduce 1 MW of demand can earn $15,000 to $30,000 annually.
+
+PA Act 129 Commercial and Industrial Demand Response Programs (FirstEnergy and PECO)
+What’s it for:
+Managing peak load to reduce overall power costs within specific utility territories.
+You’re a good candidate if…
+Your site is located within Pennsylvania’s FirstEnergy or  PECO utility service areas and can reduce at least 500 kW load with day-ahead notice, by either curtailing use, switching to permitted back-up generation, or a combination of the two.
+How you participate:
+Reduce your demand with day-ahead notices when the grid is approaching peak demand.
+Earnings potential:
+Earnings are based on the load you can curtail. Businesses that can reduce 1 MW of demand can earn $10,000 to $15,000 annually, depending on their utility.
+
+Fully capitalizing on these kinds of opportunities requires more than just evaluating the available programs. Based on your organization’s current capabilities, you could be in a good position to create or enhance value earned in other ways, including:
+Upgrading Your Backup Generator
+: In some cases, this can vastly increase your ability to participate in DR without affecting your normal day-to-day operations. While generator upgrade projects can be costly upfront, Enel X can deduct the cost from your future DR earnings. Yes, you’re reading correctly—a new/expanded revenue stream, $0 out-of-pocket costs.
+
+Managing Peak Load Contribution (PLC) Charges:
+While some organizations could see more cost savings by managing PLC charges than they would earn in demand response, they need to be prepared to respond to more dispatches: 8-12 dispatches each year versus the 0-2 dispatches typical of ELRP. We’ve found that many businesses in PJM that try to manage their peak demand strategically one year tend to sacrifice DR revenue the following year as their baseline erodes. Determining which strategy, or what combination of the two, is best for your business requires thoughtful consideration of operational flexibility, savings/earnings opportunity, and DR program rules.
+
+You may be wondering which program(s) will drive the most benefit for your organization. The truth is that it just doesn’t make sense for every business to participate in every program. Understanding the available options—and how they apply to your organization—is the first step to unlocking the full value of demand response. Our teams are always on the lookout for ways customers can maximize revenue, and we bring these opportunities to customers who are likely to be a good fit. Talk to an expert today to start understanding how your organization can capitalize on these opportunities.
+Related Stories
+Explore other recent stories within this category.
+Energy Market Insights for June 2023
+Energy Market Insights for June 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for May 2023
+Energy Market Insights for May 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Energy Market Insights for April 2023
+Energy Market Insights for April 2023
+Find out more about the big stories in regional energy markets.
+
+Energy Markets
++2
+Stay Informed
+Get daily, weekly or monthly notifications when new stories are posted.
+SUBSCRIBE NOW
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

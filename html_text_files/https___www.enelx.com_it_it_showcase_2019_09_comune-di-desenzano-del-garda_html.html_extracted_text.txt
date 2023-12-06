@@ -1,0 +1,415 @@
+Riqualificazione energetica per Desenzano del Garda | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+Showcase
+Comune di Desenzano del Garda
+Riqualificazione ed efficientamento energetico nella cittadina bresciana
+Cosa stiamo facendo per il Comune
+Desenzano del Garda è oggi una vivace cittadina di circa 28.000 abitanti collocata all'estremità sud-ovest del Lago di Garda. Il territorio comunale di Desenzano del Garda appartiene alla Provincia di Brescia e alla Regione Lombardia; la sua estensione è pari a 60,10 Km quadrati con una altitudine media di 67 m sul livello del mare e si trova in una posizione geografica privilegiata dalla quale si può ammirare il più bel lago europeo nella sua massima estensione. Il territorio è quasi interamente pianeggiante ad esclusione di alcune colline di interesse paesaggistico locale fra le quali spicca il Monte Corno considerato attualmente zona protetta.
+
+Per mezzo di un approccio metodologico dettato dalla naturale predisposizione alla gestione dei temi legati alla riqualificazione ed all’efficientamento energetico, stiamo realizzando nella città di Desenzano del Garda interventi sul sistema edificio-impianti, sulla rete di pubblica illuminazione e stiamo introducendo un sistema di monitoraggio e telecontrollo, creando una rete intelligente diffusa sul territorio in grado di raccogliere informazioni dall’insieme degli impianti gestiti che, oltre a garantire un’adeguata gestione e ottimizzazione energetica, favorisce la realizzazione e la successiva gestione di interventi di efficientamento energetico a seguito dell’analisi dei dati messi a disposizione. La rete dati predisposta sull’intero territorio urbanizzato di Desenzano del Garda, ci consente un monitoraggio “real time” e una gestione da remoto capillare su ciascun punto luce della rete di pubblica illuminazione e su tutte le utenze termiche del perimetro di servizio.
+Obiettivi:
+Riqualificazione degli impianti, ovvero l’adeguamento degli stessi alle normative vigenti in termini di sicurezza, tecnologie impiegate e performance;
+Efficientamento degli impianti, ovvero la riduzione dei consumi di energia in relazione al rispetto dei livelli di confort previsti.
+Dati:
+6 Edifici efficientati
+Emissioni CO² evitate 390,00 tonn./anno
+Alberi piantati 10000
+TEP Evitate 190,00
+Scopri i dettagli dei nostri progetti di riqualificazione ed efficientamento energetico
+Municipio - Complesso Via Carducci
+Municipio - Complesso Via Carducci
+ANALISI DELLO STATO DI FATTO
+La centrale termica generale del "Complesso via Carducci" alimenta le sottocentrali del Municipio, Scuole Superiori, Auditorium, Palestra, Villa Manenti, ex ITC Ragioneria ed è ubicata in un locale dedicato all'interno del cortile di quest'ultimo edificio. Lo stato di conservazione risulta adeguato e la centrale verrà mantenuta ad esclusivo servizio dell'edificio ex ITC Ragioneria.
+A valle della centrale principale è ubicata la sottocentrale del Municipio; il locale si trova al piano terra dell’edificio stesso con accesso diretto dall’esterno. All’interno della sottocentrale trovano posto due scambiatori di calore che alimentano poi i circuiti di utenza interni alla struttura. L’impianto dispone di commutazione estate/inverno e di accumulo del freddo da 500 litri. Quasi tutti i circuiti dispongono di regolazione climatica della temperatura di mandata. Una parte dell’edificio è condizionata mediante impianto VRV dedicato in versione caldo/freddo. Il quadro elettrico in carpenteria metallica ospita sia la sezione di potenza sia la sezione di regolazione.
+Rispetto alle disposizioni legislative e normative vigenti, sono state riscontrate le seguenti difformità:
+D.P.R. 59/09 Rendimento energetico in edilizia
+- Manca il disconnettore
+- Manca idoneo sistema di trattamento acqua di carico
+HIGHLIGHTS DEL PROGETTO
+Alla luce delle difformità riscontrate sono stati previsti conseguenti interventi di risanamento:
+- installazione di nuovi componenti per il trattamento ed il condizionamento dell’acqua di carico e dell’acqua di impianto.
+A seguito di un'analisi energetica condotta sullo stato di fatto sono stati programmati gli interventi di riqualificazione ed efficientamento energetico così suddivisi:
+- Installazione di un nuovo generatore di calore in armadio da esterno con potenza di circa 380 kW costituita da più generatori in parallelo.
+- Installazione di scambiatore di calore a protezione del nuovo generatore.
+- Installazione di defangatore magnetico per la pulizia del circuito.
+- Installazione di contabilizzatori di calore.
+- Sostituzione di una valvola a tre-vie sul circuito servito dalla pompa P3 con una nuova elettrovalvola comandata in climatica in funzione della temperatura esterna rilevata.
+- Installazione di nuovo sistema di telecontrollo e supervisione che consentirà il puntuale controllo di tutti i principali parametri e di tutti i principali componenti influenti ai fini della massimizzazione dell’efficienza energetica dell’impianto.
+Scuole Superiori e Auditorium - Complesso Via Carducci
+Scuole Superiori e Auditorium - Complesso Via Carducci
+ANALISI DELLO STATO DI FATTO
+La centrale termica generale del "Complesso via Carducci" alimenta le sottocentrali del Municipio, Scuole Superiori, Auditorium, Palestra, Villa Manenti, ex ITC Ragioneria ed è ubicata in un locale dedicato all'interno del cortile di quest'ultimo edificio. Lo stato di conservazione risulta adeguato e la centrale verrà mantenuta ad esclusivo servizio dell'edificio ex ITC Ragioneria.
+A valle della centrale principale è ubicata la sottocentrale delle Scuole superiori; il locale si trova al piano interrato della scuola con accesso diretto dall’esterno mediante scala dedicata. All’interno della sottocentrale trova posto lo scambiatore di calore che alimenta i vari circuiti di utenza caratterizzati dalla termoregolazione climatica mediante valvola a tre-vie di miscelazione. Tra i circuiti è presente anche quello dedicato all’alimentazione dell’auditorium. Il quadro elettrico in carpenteria metallica ospita sia la sezione di potenza sia la sezione di regolazione.
+Rispetto alle disposizioni legislative e normative vigenti, sono state riscontrate le seguenti difformità:
+D.P.R. 59/09 Rendimento energetico in edilizia
+- Manca il disconnettore
+- Manca idoneo sistema di trattamento acqua di carico
+
+HIGHLIGHTS DEL PROGETTO
+Alla luce delle difformità riscontrate sono stati previsti conseguenti interventi di risanamento:
+- installazione di nuovi componenti per il trattamento ed il condizionamento dell’acqua di carico e dell’acqua di impianto.
+A seguito di un'analisi energetica condotta sullo stato di fatto sono stati programmati gli interventi di riqualificazione ed efficientamento energetico così suddivisi:
+- Installazione di un nuovo generatore di calore in armadio da esterno con potenza di circa 480 kW costituita da più generatori in parallelo.
+- Installazione di scambiatore di calore a protezione del nuovo generatore.
+- Installazione di defangatore magnetico per la pulizia del circuito.
+- Installazione di contabilizzatori di calore.
+- Installazione di nuovo sistema di telecontrollo e supervisione che consentirà il puntuale controllo di tutti i principali parametri e di tutti i principali componenti influenti ai fini della massimizzazione dell’efficienza energetica dell’impianto.
+Palestra e Villa Manenti - Complesso Via Carducci
+Palestra e Villa Manenti - Complesso Via Carducci
+ANALISI DELLO STATO DI FATTO
+La centrale termica generale del "Complesso via Carducci" alimenta le sottocentrali del Municipio, Scuole Superiori, Auditorium, Palestra, Villa Manenti, ex ITC Ragioneria ed è ubicata in un locale dedicato all'interno del cortile di quest'ultimo edificio. Lo stato di conservazione risulta adeguato e la centrale verrà mantenuta ad esclusivo servizio dell'edificio ex ITC Ragioneria.
+A valle della centrale principale sono ubicate le sottocentrali della Palestra e di Villa Manenti; il locale tecnico della Palestra si trova al piano terra con accesso diretto dall’esterno e ospita, oltre che lo scambiatore di calore, anche una caldaia murale a gas metano con potenza < 35kW dedicata alla produzione di acqua calda sanitaria durante la stagione estiva e dotata di proprio contatore gas. I due circuiti pannelli a pavimento sono termoregolati mediante valvola a tre-vie mentre il circuito spogliatoi è diretto. La produzione di ACS è demandata ad un bollitore da 1.000 litri alimentato sia dallo scambiatore a piastre sia dalla caldaia murale. Il quadro elettrico è demandato, sia all’alimentazione di potenza, sia alla regolazione dell’impianto.
+Il locale tecnico invece di Villa Manenti si trova al piano interrato dell’edificio con accesso da un androne posto sul lato accessibile dal piazzale delle palestre. All’interno della sottocentrale trova posto lo scambiatore di calore che alimenta l’unico circuito di riscaldamento caratterizzato dalla termoregolazione climatica mediante valvola a tre-vie di miscelazione. Le tubazioni primarie di alimentazione della sottocentrale corrono per tutto il tratto terminale aeree staffate alla parete di contenimento del terrapieno. Risulta inoltre presente un bollitore elettrico per la produzione di acqua calda sanitaria tuttavia scollegato.
+Rispetto alle disposizioni legislative e normative vigenti, sono state riscontrate le seguenti difformità:
+D.P.R. 59/09 Rendimento energetico in edilizia
+- Manca il disconnettore
+- Manca idoneo sistema di trattamento acqua di carico
+HIGHLIGHTS DEL PROGETTO
+Alla luce delle difformità riscontrate sono stati previsti conseguenti interventi di risanamento:
+- installazione di nuovi componenti per il trattamento ed il condizionamento dell’acqua di carico e dell’acqua di impianto.
+A seguito di un'analisi energetica condotta sullo stato di fatto sono stati programmati gli interventi di riqualificazione ed efficientamento energetico così suddivisi:
+- Installazione di un nuovo generatore di calore in armadio da esterno con potenza di circa 230 kW costituita da più generatori in parallelo che andrà ad alimentare entrambi le utenze.
+- Installazione di scambiatore di calore a protezione del nuovo generatore.
+- Installazione di defangatore magnetico per la pulizia del circuito.
+- Installazione di contabilizzatori di calore.
+- Installazione di una nuova pompa di circolazione a servizio del circuito Villa Manenti e sostituzione di una valvola a tre-vie sul circuito servito dalla pompa P2 con una nuova elettrovalvola comandata in climatica in funzione della temperatura esterna rilevata.
+- Installazione di nuovo sistema di telecontrollo e supervisione che consentirà il puntuale controllo di tutti i principali parametri e di tutti i principali componenti influenti ai fini della massimizzazione dell’efficienza energetica dell’impianto.
+Scuola Materna Rivoltella
+Scuola Materna Rivoltella
+ANALISI DELLO STATO DI FATTO
+La scuola materna Rivoltella è sviluppata su di un piano e presenta un volume riscaldato di 3.943 mc.
+La centrale termica è ubicata in un locale dedicato e distinto dall’edificio al piano terra con accesso diretto dall’esterno. Il quadro elettrico è costituito da tre armadietti metallici nei quali sono contenute le apparecchiature elettriche di potenza e di regolazione. L’alimentazione della centrale termica è gas metano di rete: al di fuori della centrale si trovano le valvola di intercettazione manuale (una per generatore).
+I 2 generatori di calore presenti si interfacciano su un collettore di distribuzione dal quale partono due circuiti miscelati a servizio dei sistemi di riscaldamento e un circuito diretto a servizio del boiler per la produzione di acqua calda sanitaria. La potenzialità complessiva è di 158 kW e il sistema di espansione del circuito è a vaso chiuso.
+Rispetto alle disposizioni legislative e normative vigenti, sono state riscontrate le seguenti difformità:
+D.M. 12/04/96 Regola tecnica prevenzione incendi impianti alimentati a gas
+- Manca il giunto dielettrico in uscita dal terreno
+- Manca il dispositivo di autochiusura alla porta
+D.P.R. 59/09 Rendimento energetico in edilizia
+- Manca il disconnettore
+- Manca idoneo sistema di trattamento acqua di carico
+HIGHLIGHTS DEL PROGETTO
+Alla luce delle difformità riscontrate sono stati previsti conseguenti interventi di risanamento:
+- Installazione di giunto dielettrico sulla tubazione gas in uscita dal terreno;
+- Installazione di sistema di autochiusura della porta di accesso alla centrale termica;
+- installazione di nuovi componenti per il trattamento ed il condizionamento dell’acqua di carico e dell’acqua di impianto.
+A seguito di un'analisi energetica condotta sullo stato di fatto sono stati programmati gli interventi di riqualificazione ed efficientamento energetico così suddivisi:
+- Installazione di nuovo gruppo termico a condensazione ad elevato rendimento e basse emissioni inquinanti con potenzialità di circa 140 kW.
+- Installazione di scambiatore di calore a protezione del nuovo generatore.
+- Installazione di defangatore magnetico per la pulizia del circuito.
+- Installazione di contabilizzatori di calore.
+- Installazione di nuovo bollitore per la produzione di acqua calda sanitaria.
+- Sostituzione di una valvola a tre-vie manuale sul circuito servito dalla pompa P1 con una nuova elettrovalvola comandata in climatica in funzione della temperatura esterna rilevata.
+- Installazione di nuovo sistema di telecontrollo e supervisione che consentirà il puntuale controllo di tutti i principali parametri e di tutti i principali componenti influenti ai fini della massimizzazione dell’efficienza energetica dell’impianto.
+Scuola elementare e materna Michelangelo
+Scuola elementare e materna Michelangelo
+ANALISI DELLO STATO DI FATTO
+La centrale termica è ubicata in un locale dedicato e distinto dall’edificio al piano terra con accesso diretto dall’esterno. In centrale sono installati due generatori di calore alimentati a gas metano. I generatori si interfacciano su un collettore di distribuzione dal  quale partono 6 circuiti. La regolazione è effettuata da una valvola tre vie montata a monte del collettore di distribuzione collegata ad apposito quadro di termoregolazione. L’alimentazione della centrale termica è gas metano di rete: al di fuori della centrale termica si trova la valvola d’intercettazione manuale in posizione però poco accessibile. Lo stato di conservazione degli impianti risulta insufficiente mostrando evidenti e gravi criticità.
+Rispetto alle disposizioni legislative e normative vigenti, sono state riscontrate le seguenti difformità:
+D.M. 12/04/96 Regola tecnica prevenzione incendi impianti alimentati a gas
+- È presente un unico estintore
+- Non è presente il dispositivo di autochiusura
+- Non è presente il giunto dielettrico
+D.Lgs. 81/08 Sicurezza sul luogo di lavoro
+- Non è presente il sistema di illuminazione di emergenza
+- La cartellonistica di centrale non è completa
+D.P.R. 59/09 Rendimento energetico in edilizia
+- Non è presente il disconnettore
+- Non è presente il sistema di trattamento acqua di carico
+HIGHLIGHTS DEL PROGETTO
+Alla luce delle difformità riscontrate sono stati previsti conseguenti interventi di risanamento:
+- Installazione di giunto dielettrico sulla tubazione gas in uscita dal terreno.
+- Adeguamento del numero di estintori.
+- Installazione di sistema di autochiusura della porta di accesso alla centrale termica.
+- Installazione di apparecchio di illuminazione di emergenza.
+- Completamento della cartellonistica di sicurezza.
+- Installazione di nuovi componenti per il trattamento ed il condizionamento dell’acqua di carico e dell’acqua di impianto.
+A seguito di un'analisi energetica condotta sullo stato di fatto sono stati programmati gli interventi di riqualificazione ed efficientamento energetico così suddivisi:
+- Installazione di 2 nuovi gruppi termici a condensazione ad elevato rendimento e basse emissioni inquinanti della potenza di 185 kW.
+- Installazione di scambiatore di calore a protezione dei nuovi generatori.
+- Installazione di defangatore magnetico per la pulizia del circuito.
+- Installazione di contabilizzatore di calore.
+- Sostituzione delle elettropompe di circolazione di tutti i circuiti.
+- Installazione di nuovo sistema di telecontrollo e supervisione che consentirà il puntuale controllo di tutti i principali parametri e di tutti i principali componenti influenti ai fini della massimizzazione dell’efficienza energetica dell’impianto.
+Scuola elementare e materna Mazzini
+Scuola elementare e materna Mazzini
+ANALISI DELLO STATO DI FATTO
+La centrale termica è ubicata in un locale dedicato e distinto dall’edificio al piano terra con accesso diretto dall’esterno. L’alimentazione della centrale termica è gas metano di rete: al di fuori della centrale termica si trova la valvola di intercettazione manuale. I generatori di calore s’interfacciano in sottocentrale su due collettori dai quali si staccano i vari circuiti di riscaldamento.
+Rispetto alle disposizioni legislative e normative vigenti, sono state riscontrate le seguenti difformità:
+D.M. 12/04/96 Regola tecnica prevenzione incendi impianti alimentati a gas
+- Manca il dispositivo di autochiusura
+D.Lgs. 81/08 Sicurezza sul luogo di lavoro
+- La cartellonistica non è completa
+D.P.R. 59/09 Rendimento energetico in edilizia
+- Manca il disconnettore
+- Manca idoneo sistema di trattamento acqua di carico
+HIGHLIGHTS DEL PROGETTO
+Alla luce delle difformità riscontrate sono stati previsti conseguenti interventi di risanamento:
+- Installazione di sistema di autochiusura della porta di accesso alla centrale termica.
+- Completamento della cartellonistica di sicurezza.
+- Installazione di nuovi componenti per il trattamento ed il condizionamento dell’acqua di carico e dell’acqua di impianto.
+A seguito di un'analisi energetica condotta sullo stato di fatto sono stati programmati gli interventi di riqualificazione ed efficientamento energetico così suddivisi:
+- Installazione di 2 nuovi gruppi termici a condensazione ad elevato rendimento e basse emissioni inquinanti della potenza di 230 kW.
+- Installazione di scambiatore di calore a protezione dei nuovi generatori.
+- Installazione di defangatore magnetico per la pulizia del circuito.
+- Installazione di contabilizzatore di calore.
+- Sostituzione delleelettropompe di circolazione di tutti i circuiti.
+- Installazione di nuovo sistema di telecontrollo e supervisione che consentirà il puntuale controllo di tutti i principali parametri e di tutti i principali componenti influenti ai fini della massimizzazione dell’efficienza energetica dell’impianto.
+e-City
+Showcase
++3
+Contenuti in evidenza
+Nuova illuminazione architetturale per Bari vecchia
+Nuova illuminazione architetturale per Bari vecchia
+La Muraglia e il Fortino del capoluogo pugliese tornano a splendere grazie alla nuova illuminazione architetturale realizzata da Enel X
+
+e-City
+Showcase
++3
+Il progetto di Enel X a Bologna
+Il progetto di Enel X a Bologna
+L’illuminazione pubblica di Bologna è diventata smart
+
+e-City
+Showcase
++3
+Illuminiamo la Provincia di Cremona
+Illuminiamo la Provincia di Cremona
+Comuni coinvolti e gli interventi di Enel X
+
+e-City
+Showcase
++3
+Nuova luce per Santa Maria Maggiore
+Nuova luce per Santa Maria Maggiore
+La più grande basilica mariana della capitale è stata protagonista di un intervento di riqualificazione energetica che ne valorizza l’architettura apportando un risparmio energetico dell’80%
+
+e-City
+Showcase
++3
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

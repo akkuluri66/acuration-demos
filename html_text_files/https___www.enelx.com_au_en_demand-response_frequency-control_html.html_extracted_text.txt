@@ -1,0 +1,436 @@
+Frequency Control Ancillary Services
+/apps/enel-x-digital-ecosystem/templates/page-product-local
+Skip to Content
+Who We Are
+Corporate
+Australia
+
+EN
+
+
+Explore
+Products & Services
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Resources
+LEARN MORE
+CONTACT US
+Australia
+
+EN
+
+
+Explore
+Products & Services
+LEARN MORE
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Australia
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Renewable Energy
+Energy Advisory
+Demand Response
+Electric Mobility
+You may be interested in
+Peaking Response
+LEARN MORE
+Workplace EV charging program
+LEARN MORE
+Products & Services
+
+Demand Response
+Frequency Control Ancillary Services
+Protect the grid’s frequency with instantaneous response
+What is FCAS?
+How does it work?
+Why Enel X
+What is Frequency Control?
+Power plants and transmission network lines suddenly fail from time to time. When they do, it impacts the grid’s frequency, and the system needs resources that can respond quickly to prevent cascading power failures. Enel X led the charge in opening up the frequency control markets to demand-side energy users in 2017, and again in October 2023 when a new, “Very fast” frequency control market was launched.
+Enel X is now the largest C&I player in the frequency markets.
+Support the grid
+Support the grid and the uptake of renewables by providing an instantaneous response to balance electricity supply with demand.
+Reduce energy demand
+Provide additional capacity to the grid by instantly reducing onsite power usage or switching to a backup power source for up to 10 minutes.
+Participation is flexible
+You have the ability to opt-in and opt-out of participation at any time to suit your operational needs.
+Earn regular payments
+Earn a recurring new revenue stream with DR participation. Get paid to be on standby to protect the grid when grid frequency deviates.
+How does it work?
+1
+Grid need
+Grid need
+The Australian Energy Market Operator (AEMO) balances the supply and demand of electricity in real-time. When the grid’s frequency deviates, AEMO calls on Virtual Power Plant & Demand Response aggregators indicating that there is an urgent need for dispatchable capacity to support the system.
+Frequency control services are procured in the Frequency Control Ancillary Services (FCAS) market and prices are determined every 5 minutes based on the real-time balance of supply and demand in the market.  You receive the highest-priced offer that successfully cleared in each 5-minute interval, and earn revenue for each megawatt your site is available for, even if your services aren’t needed for that interval.
+2
+VPP is called
+VPP is called
+Enel X’s Virtual Power Plant (VPP) is called on, who aggregates its customer’s energy load or distributed energy assets made up of onsite equipment, backup generation assets, and battery energy storage solutions across businesses in Australia. Enel X offers its portfolio’s capacity to AEMO as a new source of power supply during these critical times.
+3
+Customer responds
+Customer responds
+Customers either switch to backup power sources (BESS, backup generation) or reduce or modify energy usage when called on. This makes their power flexibility available to AEMO, and we are able to automate the process our customers.
+There are four frequency control services businesses can provide (Very Fast, Fast, Slow, Delayed), and each offers different revenue earning potential. Based on your technical capability, we confirm which categories you can participate in.
+We can adjust your level of participation at any time, and you can opt out if needed for operational reasons
+The revenue earned from your participation is proportional to the average kW you offer
+The revenue you can earn will be highest if you can provide all four services, including the Very Fast frequency control service, which requires your equipment to respond in less than one second
+An FCAS event last up to 10 minutes
+4
+Earn regular payments
+Earn regular payments
+Businesses enrolled in our VPP are paid to respond automatically to deviations in the grid’s frequency to help to restore it to its normal operating range.
+5
+Advance Australia’s renewable future
+Advance Australia’s renewable future
+DR allows independent aggregators like Enel X to provide additional, dispatchable capacity to support the grid. This new capacity is essential to supporting the renewable energy transition, because dispatchable resources help to integrate variable renewable energy sources onto the grid.
+Leading the charge with DR
+We’ve had a long history working in Demand Response and frequency control services. We entered New Zealand’s Instantaneous Reserves market in 2008, their equivalent to the FCAS markets. Today, we’re one of the biggest market participants, representing on average 65% of the interruptible load in the market.
+Our experience and expertise offshore enabled us to become the first third-party aggregator in the NEM in 2017. Our VPP has grown rapidly, and is now the largest C&I supplier in the FCAS contingency raise markets.
+Last summer saw unprecedented network conditions across the NEM with bushfires and extreme weather events. With Enel X we provided instant capacity to support the grid’s frequency throughout. Our battery responds in less than 1 second, making it an ideal technology for participation in FCAS to support the grid.
+Andrew Wilson, Energy and Sustainability Manager
+University of Queensland
+Want to know more?
+Get in touch with our team today
+Contact us
+/content/enel-x/au/en/thank-you.html
+Choose business area
+Business Solutions
+Electric Mobility
+Select an item from this list.
+Product/ Service
+Demand Response
+Retail Energy Solutions
+Battery Storage
+Solar-Plus-Storage
+Workplace EV charging
+Select an item from this list.
+Name
+Fill in your first name
+Last name
+Fill in your last name
+AD +376
+AE +971
+AG +1268
+AI +1264
+AM +374
+AO +244
+AR +54
+AT +43
+AU +61
+AW +297
+AZ +994
+BA +387
+BB +1246
+BD +880
+BE +32
+BF +226
+BG +359
+BH +973
+BI +257
+BJ +229
+BM +1441
+BN +673
+BO +591
+BR +55
+BS +1242
+BT +975
+BW +267
+BY +375
+BZ +501
+CA +1
+CF +236
+CG +242
+CH +41
+CK +682
+CL +56
+CM +237
+CN +86
+CO +57
+CR +506
+CS +381
+CU +53
+CV +238
+CY +357
+CY +90392
+CZ +42
+DE +49
+DJ +253
+DK +45
+DM +1809
+DO +1809
+DZ +213
+EC +593
+EE +372
+EG +20
+ER +291
+ES +34
+ET +251
+FI +358
+FJ +679
+FK +500
+FM +691
+FO +298
+FR +33
+GA +241
+UK +44
+GD +1473
+GE +7880
+GF +594
+GH +233
+GI +350
+GL +299
+GM +220
+GN +224
+GP +590
+GQ +240
+GR +30
+GT +502
+GU +671
+GW +245
+GY +592
+HK +852
+HN +504
+HR +385
+HT +509
+HU +36
+ID +62
+IE +353
+IL +972
+IN +91
+IQ +964
+IR +98
+IS +354
+IT +39
+JM +1876
+JO +962
+JP +81
+KE +254
+KG +996
+KH +855
+KI +686
+KM +269
+KN +1869
+KP +850
+KR +82
+KW +965
+KY +1345
+KZ +7
+LA +856
+LB +961
+LC +1758
+LI +417
+LK +94
+LR +231
+LS +266
+LT +370
+LU +352
+LV +371
+LY +218
+MA +212
+MC +377
+MD +373
+MG +261
+MH +692
+MK +389
+ML +223
+MM +95
+MN +976
+MO +853
+MP +670
+MQ +596
+MR +222
+MS +1664
+MT +356
+MV +960
+MW +265
+MX +52
+MY +60
+MZ +258
+NA +264
+NC +687
+NE +227
+NF +672
+NG +234
+NI +505
+NL +31
+NP +977
+NO +47
+NR +674
+NU +683
+NZ +64
+OM +968
+PA +507
+PE +51
+PF +689
+PG +675
+PH +63
+PL +48
+PR +1787
+PT +351
+PW +680
+PY +595
+QA +974
+RE +262
+RO +40
+RU +7
+RW +250
+SA +966
+SB +677
+SC +248
+SD +249
+SE +46
+SG +65
+SH +290
+SI +386
+SK +421
+SL +232
+SM +378
+SN +221
+SO +252
+SR +597
+ST +239
+SV +503
+SY +963
+SZ +268
+TC +1649
+TG +228
+TH +66
+TJ +7
+TM +993
+TM +7
+TN +216
+TO +676
+TR +90
+TT +1868
+TV +688
+TW +886
+UA +380
+UG +256
+US +1
+UY +598
+UZ +7
+VA +379
+VE +58
+VG +1284
+VI +1340
+VN +84
+VU +678
+WF +681
+YE +969
+YE +967
+YT +269
+ZA +27
+ZM +260
+ZW +263
+Select an item from this list.
+This field is required
+Phone number
+Fill in a valid phone number
+Company
+Fill in your company's name
+Email
+Fill in a valid email address
+Message
+I have read and accept the
+privacy policy
+This field is mandatory.
+I give my consent for the
+processing of my data for marketing purposes
+I give my consent for
+profiling operations
+SEND
+LeadType
+ReceivingChannel
+Source
+IdentityCountry
+GDPR.LegalEntity.LegalEntity
+Contact an Enel X team member to learn more about our products and services.
+Contact us
+✖
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+©Enel X Australia Pty Ltd. All rights reserved | ABN: 49 104 710 278
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+
+

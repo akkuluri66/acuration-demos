@@ -1,0 +1,356 @@
+Indicatore della circolarità urbana per i Comuni italiani | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+News
+Circular City Index: l’indicatore della circolarità urbana
+Enel X supporta i Comuni nella transizione sostenibile con un indicatore basato su dati oggettivi e rigorosi modelli scientifici.
+Pubblicato il:
+8 OTTOBRE 2021
+Hai bisogno di informazioni?
+CONTATTACI
+Come funziona
+Come viene calcolato
+Open Data
+Si chiama
+Circular City Index
+
+e serve a calcolare il “livello di circolarità urbana” dei Comuni italiani. Perché per migliorare la
+sostenibilità dei centri abitati
+, le Amministrazioni devono innanzitutto conoscere la loro condizione di partenza. Sinora poteva sembrare un’impresa, tra una moltitudine di dati da selezionare e analizzare. Adesso è addirittura semplice: dal 30 settembre il Circular City Index è disponibile gratuitamente per tutte le Pubbliche Amministrazioni registrate su
+Enel X
+YoUrban
+, il portale dedicato alle municipalità.
+
+Il Circular City Index rappresenta una tappa ulteriore nel percorso avviato da Enel X per lo sviluppo di soluzioni digitali per le città. Già nel 2020, in partnership con HERE Technologies, Enel X ha lanciato
+“City Analytics - Mappa di Mobilità”
+, strumento per le analisi delle misure di lockdown realizzato per agevolare la gestione delle misure di contenimento dell’epidemia da Covid-19 e messo a disposizione di pubbliche amministrazioni, istituzioni, imprese e cittadini a titolo gratuito.
+Sviluppato dall’unità di Innovazione e Sostenibilità di Enel X  in collaborazione con il dipartimento di Economia e Statistica dell’Università di Siena, l’indice di circolarità urbana misura – sulla base degli Open Data disponibili a livello nazionale –  quanto una città abbia attivato strumenti e predisposto infrastrutture e servizi che la preparino all’adozione del paradigma dell’
+economia circolare
+. Oggi le città consumano oltre il 75% delle risorse naturali, producendo il 50% dei rifiuti. Applicare i
+principi dell’economia circolare ai centri urbani
+permette di rompere l’insostenibile flusso
+make-sell-waste
+dell’economia lineare in favore di modelli di produzione e consumo che considerano il loro impatto non solo in termini economici ma anche
+ambientali e sociali
+. La città del futuro è infatti una città in cui sostenibilità ambientale, economica e sociale si bilanciano. Una
+smart city
+che gestisce le risorse in modo intelligente, che mira a diventare energicamente autosufficiente e è attenta alla qualità della vita e ai bisogni dei propri cittadini.
+
+Città circolari
+Applicare i principi dell’economia circolare alle realtà urbane.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Come viene calcolato il Circular City Index
+Per ogni Comune sono quattro gli ambiti che vengono presi in considerazione:
+digitalizzazione, ambiente ed energia, mobilità, rifiuti
+. Per ciascuno di questi, vengono attribuiti dei punteggi che valutano il grado di implementazione di politiche e infrastrutture che possono aiutare il territorio ad avviare un processo di
+transizione
+in ottica di circolarità urbana. A differenza della maggior parte degli studi sulla sostenibilità, che riguardano le città sopra i 100.000 abitanti (dove in Italia vive solo un quarto della popolazione), la forza del Circular City Index di Enel X è dettata dal numero di Comuni cui si rivolge: tutti, indipendentemente dalla loro dimensione. Per un’Amministrazione è quindi facile individuare i
+casi virtuosi
+e confrontarli con la propria realtà, in modo da replicare soluzioni che si sono già mostrate efficaci e applicarle alle aree di miglioramento.
+
+Ecco qualche esempio dei risultati emersi:
+Il Comune italiano con il Circular City Index più alto è
+Calderara di Reno
+, una cittadina in provincia di Bologna con poco più di 13mila abitanti
+I grandi Comuni (quelli con più di 100mila abitanti) sono i più digitalizzati, ma sono mediamente meno efficaci degli altri comuni nella gestione dei rifiuti. In questo ambito emergono invece i Comuni di piccole dimensioni (con meno di 5mila abitanti).
+Valorizzare gli Open Data nazionali
+15 Minute City Index
+Scopri quanto il tuo Comune si avvicina al modello della “Città a 15 minuti”.
+SCOPRI DI PIù
+RICHIEDI INFO
+A dar forza a questi risultati è la trasparenza  del metodo applicato, che «valorizza gli Open Data,
+risorsa preziosa quanto frammentata
+, e li restituisce alle Pubbliche Amministrazioni tramite indicatori ottenuti grazie a modelli sviluppati
+ad hoc
+» evidenzia
+Francesco Venturini
+, amministratore delegato di Enel X. «In questo modo supportiamo le città a diventare sempre più sostenibili, fornendo strumenti di analisi basati sul
+metodo scientifico
+».
+
+e-City
+Innovazione
+Economia circolare
++4
+Contenuti in evidenza
+La smart city, un modello per la città del futuro
+La smart city, un modello per la città del futuro
+Le città intelligenti promuovono sostenibilità ed economia circolare, rendendo le persone protagoniste dell’innovazione tecnologica.
+
+Elettrificazione
+e-City
+Economia circolare
++2
+L’arcipelago della sostenibilità
+L’arcipelago della sostenibilità
+Enel X e Unione Industriale Biellese insieme per lo sviluppo delle comunità energetiche e della mobilità elettrica
+
+e-City
+Economia circolare
+Elettrificazione
++2
+Che cos’è l’economia circolare? Significato e definizione
+Che cos’è l’economia circolare? Significato e definizione
+L’economia circolare cos’è? Significa reintegrare al proprio interno le risorse materiali ed energetiche già impiegate, così da eliminare il concetto di “rifiuto” per sostituirlo con termini quali “recupero”, “riciclo” e “condivisione”.
+
+Economia circolare
+Autobus elettrici, la scelta più conveniente per il trasporto urbano
+Autobus elettrici, la scelta più conveniente per il trasporto urbano
+I dati contenuti in uno studio realizzato dall’Università Bocconi con Enel Foundation.
+
+e-City
++2
+Economia circolare
+Elettrificazione
+Monitor for Circular Fashion: i risultati del primo report
+Monitor for Circular Fashion: i risultati del primo report
+Il Monitor for Circular Fashion annuncia i risultati del primo Report sulla circolarità del settore moda italiano e le nuove sfide che lo attendono. Scopri di più.
+
+Economia circolare
+Innovazione
+Smart Home
+Soluzioni Business
++5
+In Sicilia la prima comunità energetica agricola
+In Sicilia la prima comunità energetica agricola
+Enel X partner del progetto di installazione di un impianto fotovoltaico da 200 kW.
+
+Economia circolare
+Soluzioni Business
+Elettrificazione
+Innovazione
++5
+L’algoritmo di Enel X per Novartis, alleate per la qualità dell’aria
+L’algoritmo di Enel X per Novartis, alleate per la qualità dell’aria
+La collaborazione tra le due aziende a fianco delle amministrazioni locali per sostenerle nell’affrontare i problemi causati dall’epidemia di Covid-19 e non solo
+
+Economia circolare
+Elettrificazione
++3
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

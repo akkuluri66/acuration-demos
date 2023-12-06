@@ -1,0 +1,176 @@
+Search
+/apps/enel-x-digital-ecosystem/templates/page-search
+Skip to Content
+Who we are
+Corporate
+France
+
+EN
+
+French
+English
+Explore
+UNLOCK OPPORTUNITIES
+Sustainability
+A complete digital solution to your energy strategy.
+Enel X Connect
+LEARN MORE
+Advisory & Insights
+ADVISORY & SUSTAINABILITY
+Energy Consulting Services
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Discover the full range of opportunities from renewable energy.
+Renewables Advisory
+LEARN MORE
+Support
+CONTACT US
+France
+
+EN
+
+French
+English
+Explore
+LEARN MORE
+UNLOCK OPPORTUNITIES
+Sustainability
+Advisory & Insights
+LEARN MORE
+ADVISORY & SUSTAINABILITY
+Energy Consulting Services
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Support
+FRANCE
+Europe
+Ireland
+Italy
+Poland
+Romania
+Spain
+United Kingdom
+North America
+United States
+Canada
+LATAM
+Argentina
+Brazil
+Chile
+Colombia
+Peru
+APAC
+Australia
+Japan
+New Zealand
+South Korea
+Taiwan
+Search here
+Utility Bill Management
+Enel X Connect
+JuiceNet Manager
+Energy Consulting Services
+Sustainability
+Energy Exchange
+You might be interested in
+Energy Consulting Services
+LEARN MORE
+Search results
+SHOW FILTERS
+Order by
+Most recent
+Less recent
+sort
+Filters
+Apply
+Categories
+
+Reset
+Companies
+
+Electric mobility
+
+JuiceNet Manager
+
+How do I access the JuiceNet dashboards?
+The JuiceNet is the backend to which the JuiceBox connects to. The JuiceNet provides a Dashboard from which the JuiceBox can be monitored and configured.
+LEARN MORE
+faq
+Electric mobility
+Companies
+JuiceNet Manager
+06 JANUARY 2022
+If the charging station goes into an offline state, does it operate in a fail-safe mode?
+If data connectivity is lost the JuiceBox will not enter a fail-safe mode, the JuiceBox will continue to operate/charge at the selected current value previously set within JuiceNet dashboard or the JuicePass App.
+LEARN MORE
+faq
+Electric mobility
+Companies
+11 JANUARY 2022
+What should I do if the Enel X server goes down?
+You will still be able to charge your EV normally, but your Time of Use and amperage settings will be unavailable.
+LEARN MORE
+faq
+Electric mobility
+Companies
+05 JANUARY 2022
+3
+✖
+Enel X France
+
+
+Who we are
+HSEQ
+SUPPORT
+
+
+FAQ
+MEDIA
+
+
+Press releases
+JOIN US
+
+
+Careers
+Become a supplier
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+Enel X France
+
+
+Who we are
+HSEQ
+SUPPORT
+
+
+FAQ
+MEDIA
+
+
+Press releases
+JOIN US
+
+
+Careers
+Become a supplier
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+© Enel X Way France All Rights Reserved VAT No. FR96841151145
+Credits
+|
+Legal Statement
+|
+Privacy Policy
+|
+Cookie Policy

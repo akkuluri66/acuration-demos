@@ -1,0 +1,441 @@
+Flessibilità, la chiave per un futuro sostenibile | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+Storie
+Flessibilità, la strada verso la sostenibilità
+L’industria energetica mira alla decarbonizzazione con le nuove tecnologie
+Pubblicata il
+11 GENNAIO 2021
+Hai bisogno di informazioni?
+CONTATTACI
+Approccio alla decarbonizzazione
+Un nuovo modello
+Soluzioni di flessibilità
+Immagazzinare energia
+La
+decarbonizzazione
+, l'
+elettrificazione
+e la
+digitalizzazione
+sono i grandi trend globali che stanno guidando la transizione del mercato dell'energia verso un
+futuro sostenibile
+. I tre processi sono anche al centro del nuovo programma di azione della Commissione europea, che ne ha fatto gli assi portanti del
+Green New Deal
+e del
+Next Generation EU
+, i programmi con cui intende perseguire gli obiettivi dell’
+Agenda 2030
+e rilanciare l'economia dopo la crisi legata alla
+pandemia
+.
+Le trasformazioni in atto, insieme all'implementazione di queste politiche, richiedono al sistema elettrico l'impiego di
+nuove tecnologie
+utili a garantire una sempre maggiore
+flessibilità
+. L'uso crescente di fonti come l'
+eolico
+e il
+solare
+, non programmabili in quanto dipendenti dalla variabilità delle condizioni meteorologiche, ha infatti un significativo impatto sulle attività dei
+gestori di rete
+, in primis sui Transmission System Operator (TSO) che devono assicurare in ogni istante il bilanciamento tra produzione e consumi di energia elettrica, per garantire ai consumatori finali una fornitura sicura, costante e affidabile.
+Un approccio strutturato alla decarbonizzazione
+Per questa ragione, anche in Italia, come nel resto dell'Europa, l'Arera (Autorità di Regolazione per Energia Reti e Ambiente) ha aperto il mercato dei servizi di dispacciamento (MSD) a nuove risorse innovative, quali il consumo, gli storage e la
+generazione distribuita
+, prevalentemente da fonti rinnovabili non programmabili. Si può fornire flessibilità intervenendo sul modo in cui l'elettricità viene generata, sviluppare nuove soluzioni di stoccaggio dell'energia, modulare in tempo reale la domanda e la produzione in base alle necessità della rete.
+
+Generazione distribuita
+Produrre autonomamente energia per aumentare l’efficienza e ridurre i costi.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Un nuovo modello di flessibilità
+La flessibilità è
+tradizionalmente ottenuta dal TSO
+regolando la quantità di elettricità immessa nella rete in modo che l'offerta corrispondesse alla domanda, modificando, fino al tempo reale, il programma di produzione richiesto alle centrali convenzionali (grandi impianti termoelettrici ed idroelettrici programmabili).
+
+Con l’
+aumento del ricorso alla produzione da fonti rinnovabili non programmabili
+si riduce sempre più la presenza in servizio di impianti convenzionali che fino ad oggi hanno garantito l’esercizio in sicurezza della rete e dei relativi servizi di dispacciamento. Ciò determina un
+aumento dei costi di dispacciamento
+con l’esigenza, nei casi peggiori, di ridurre la produzione rinnovabile non programmabile per fare spazio alla capacità modulabile necessaria a gestire il sistema. In questo contesto si rende dunque sempre più
+necessario ottenere servizi di flessibilità anche da risorse innovative
+diverse da quelle tradizionali al fine di garantire elevati livelli di sicurezza e qualità del servizio a costi efficienti e senza ridurre forzatamente la produzione rinnovabile.
+Per garantire la
+flessibilità
+necessaria a mantenere l'equilibrio della rete, il nuovo contesto richiede una partecipazione più attiva di clienti C&I che mettono a disposizione i loro asset lavorando in maniera sinergica con i Balancing Service Provider (BSP). I BSP possono svolgere il compito di aggregare un determinato numero di risorse distribuite e di offrire unitariamente la flessibilità resa disponibile da tali risorse all’operatore di rete. La digitalizzazione favorisce questo processo, rendendo le
+reti sempre più flessibili
+, grazie alla possibilità di combinare sinergicamente la gestione di flussi di dati e di elettricità, e agevolando il
+decentramento
+della produzione, con i clienti che diventano sia produttori che consumatori di energia e si impegnano per contribuire alla transizione energetica.
+
+Le soluzioni di flessibilità di Enel X
+Soluzioni di flessibilità
+Contribuisci con la tua azienda alla stabilità della rete elettrica e monetizza la tua disponibilità
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Enel X
+ha messo la digitalizzazione, l'elettrificazione e la decarbonizzazione al centro della propria strategia di innovazione aperta e orientata alla sostenibilità, con l'obiettivo di
+guidare la trasformazione dell'energia
+in tutto il mondo. Siamo impegnati nel perseguimento dei traguardi dell'
+Agenda 2030
+, a partire dall'obiettivo di sviluppo sostenibile numero 7 per garantire a tutti l'accesso a un'energia che sia economica, affidabile e sostenibile. Mettiamo a disposizione dei nostri clienti commerciali e industriali soluzioni all'avanguardia che garantiscono loro la massima
+flessibilità
+, consentendo a ciascuno di fare la propria parte nella trasformazione in atto.
+
+Oggi la flessibilità della rete viene garantita da Terna: Enel X
+fornisce un servizio di flessibilità al TSO anche attraverso l'impiego
+di tre strumenti importanti, quali la
+modulazione della domanda
+, lo
+stoccaggio dell'energia
+e la
+generazione distribuita
+. In particolare, Enel X gestisce 6,3 GW di offerta aggregata nei servizi di
+Demand Response
+,
+programma che remunera le aziende disponibili a ridurre il proprio
+consumo o ad aumentare la produzione di energia rispondendo agli ordini
+di dispacciamento del TSO. Mettiamo inoltre a disposizione dei nostri
+clienti anche altri servizi, quali la possibilità di accedere al
+servizio di
+Interrompibilità
+e di
+Generation and Energy Optimization (GEO)
+.
+
+Immagazzinare energia
+In un mondo che fa sempre più affidamento su fonti intermittenti come le rinnovabili, i sistemi di
+stoccaggio dell'energia
+rappresentano una risposta efficace alle sfide poste dalla gestione dei consumi energetici. Lo storage consente infatti di sfruttare al meglio queste fonti, immagazzinando l’energia quando sono disponibili e rilasciandola nella rete quando ce n’è bisogno.
+Enel X
+si pone all'avanguardia, con un’offerta completa che include
+fotovoltaico
+e soluzioni come
+GEO
+(Generation and Energy Optimization), progettata per i clienti B2B che possiedono un asset di produzione energetica behind-the-meter per consentire loro di mettere a disposizione il surplus di energia prodotta sul mercato elettrico senza dover diventare un operatore di mercato.
+
+Impianti fotovoltaici
+Accompagniamo la tua azienda nel percorso di sostenibilità.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Efficienza energetica
+Tecnologie d’avanguardia per sfruttare l’energia nel miglior modo possibile.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+In questo modo, Enel X offre al cliente la possibilità di mettere a disposizione il surplus di energia prodotta senza dover diventare un operatore di mercato oppure senza dover accedere ai regimi di ritiro previsti dal GSE.
+Abbiamo, infine, una lunga esperienza nella realizzazione di impianti di
+generazione distribuita
+che consentono alle aziende di
+ridurre i costi
+energetici,
+produrre autonomamente l’energia
+di cui hanno bisogno, rendere
+più efficienti i consumi.
+Un
+portafoglio completo
+di soluzioni innovative che fa di
+Enel X
+un partner energetico di riferimento ideale per le imprese intenzionate a beneficiare al massimo delle possibilità che oggi la flessibilità mette a disposizione per stabilizzare la rete, rendere più efficienti i consumi, migliorare l’impatto del sistema energetico sul nostro pianeta.
+Soluzioni Business
+Innovazione
+Azienda
++4
+Scopri gli altri servizi
+Le soluzioni pensate da Enel X per privati, aziende e Pubblica Amministrazione.
+Demand Response
+Il servizio innovativo per un uso più efficiente delle risorse energetiche.
+Inizia la simulazione
+SCOPRI DI PIÙ
+GEO - Generation Energy Optimization
+Il servizio di gestione delle eccedenze energetiche e ottimizzazione della produzione.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Contenuti in evidenza
+Enel X e Magaldi insieme per la ricerca e l’innovazione
+Enel X e Magaldi insieme per la ricerca e l’innovazione
+Sviluppato l'innovativo sistema di accumulo di energia rinnovabile.
+
+Soluzioni Business
+Elettrificazione
+Efficienza energetica
++2
+Che cos’è l’economia circolare? Significato e definizione
+Che cos’è l’economia circolare? Significato e definizione
+L’economia circolare cos’è? Significa reintegrare al proprio interno le risorse materiali ed energetiche già impiegate, così da eliminare il concetto di “rifiuto” per sostituirlo con termini quali “recupero”, “riciclo” e “condivisione”.
+
+Economia circolare
+Le comunità energetiche rinnovabili: energia pulita per l’autoconsumo
+Le comunità energetiche rinnovabili: energia pulita per l’autoconsumo
+Anche in Italia vedranno la luce a breve le cosiddette “comunità energetiche rinnovabili”, associazioni di cittadini, attività commerciali o imprese per la produzione e la condivisione di energia elettrica da fonti pulite. Una possibilità che apre la strada a nuove opportunità di sviluppo per la transizione energetica del nostro Paese
+
+Economia circolare
+Soluzioni Business
+Elettrificazione
+e-City
+Smart Home
+Innovazione
+Privato
+Azienda
+Pubblica Amministrazione
++10
+Dopla, più ecosostenibile con il report di circolarità
+Dopla, più ecosostenibile con il report di circolarità
+Con il Circular Economy Report aiutiamo le aziende a migliorare la loro circolarità. Scopri di più sul Report e sull'esperienza dell'azienda trevigiana DOpla.
+
+Economia circolare
+Soluzioni Business
+Innovazione
+Azienda
++5
+Phygiwork, abilitatore di spazi “phygital” (e sostenibili)
+Phygiwork, abilitatore di spazi “phygital” (e sostenibili)
+L’analisi di circolarità di Enel X come prezioso strumento di miglioramento della sostenibilità ambientale anche nei servizi
+
+Economia circolare
+Azienda
++3
+Nuovo impianto fotovoltaico per l'azienda Fiordo
+Nuovo impianto fotovoltaico per l'azienda Fiordo
+Enel X ha realizzato per lo stabilimento grafico Fiordo di Romentino (NO) un impianto fotovoltaico da 200 kW che permetterà di risparmiare 81 tonnellate di CO2 all’anno.
+
+Economia circolare
+Soluzioni Business
+Elettrificazione
++4
+Genagricola, il circolo virtuoso della terra
+Genagricola, il circolo virtuoso della terra
+La più estesa azienda agricola italiana coniuga sostenibilità e innovazione: la collaborazione virtuosa con Enel X è diventata una best practice in un report del World Economic Forum
+
+Economia circolare
+Soluzioni Business
+Innovazione
+Privato
+Azienda
++6
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

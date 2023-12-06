@@ -1,0 +1,143 @@
+What should I do if the Enel X server goes down?
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+A propos de nous
+Corporate
+France
+
+FR
+
+English
+French
+Explorer
+Débloquer des opportunités
+Decarbonation
+Une solution digitale complète à votre stratégie énergétique.
+Enel X Connect
+EN SAVOIR PLUS
+Conseil et Decarbonation
+CONSEIL ET DECARBONATION
+Conseil En Energie
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Découvrez l'ensemble des opportunités offertes par les énergies renouvelables.
+Conseil en énergies renouvelab
+EN SAVOIR PLUS
+Support
+CONTACTEZ-NOUS
+France
+
+FR
+
+English
+French
+Explorer
+EN SAVOIR PLUS
+Débloquer des opportunités
+Decarbonation
+Conseil et Decarbonation
+EN SAVOIR PLUS
+CONSEIL ET DECARBONATION
+Conseil En Energie
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Support
+FRANCE
+L'Europe
+Espagne
+Irlande
+Italie
+Roumanie
+Royaume-Uni
+Amérique du Nord
+États-Unis
+Canada
+LATAM
+Argentine
+Brésil
+Chili
+Colombie
+Pérou
+APAC
+Australie
+Corée du Sud
+Japon
+Nouvelle-Zélande
+Taïwan
+Cherche ici
+Utility Bill Management
+Enel X Connect
+Conseil En Energie
+Decarbonation
+Energy Exchange
+Vous pourriez être intéressé par
+Conseils en énergie
+EN SAVOIR PLUS
+FAQ
+Que dois-je faire si le serveur Enel X tombe en panne ?
+Notre serveur reçoit des mises à niveau de temps en temps et nous pouvons rencontrer des pannes de serveur lorsque cela se produit. Nous ferons toujours de notre mieux pour minimiser les temps d'arrêt et nous nous excusons si vous êtes affecté négativement en raison d'un temps d'arrêt.
+
+Vous pourrez toujours recharger votre VE normalement, mais vos paramètres de durée d'utilisation et d'ampérage ne seront pas disponibles.
+Si vous utilisez TOU et que vous avez besoin d'outrepasser, mais que les commandes ne sont pas disponibles, veuillez débrancher votre borne de recharge pour effacer la mémoire temporaire de l'horaire. Il se chargera ensuite jusqu'à ce qu'il soit plein, débranché ou lorsque les serveurs redémarreront. Lorsque les serveurs reviennent en ligne, vous devrez alors passer outre pour facturer.
+Si vous aviez précédemment configuré un groupe de charge ou une valeur nominale de fil sur le tableau de bord pour votre courant admissible de fil actuel, ce paramètre sera mémorisé par l'appareil JuiceNet quel que soit le cycle d'alimentation du boîtier.
+
+Nous nous efforçons toujours d'améliorer nos capacités côté serveur pour vous offrir l'expérience de recharge de véhicules électriques la plus intelligente. Encore une fois, nous nous excusons sincèrement pour les désagréments causés par les temps d'arrêt.
+✖
+Enel X France
+
+
+A propos de nous
+QHSE
+SUPPORT
+
+
+FAQ
+MÉDIAS
+
+
+Communiques de presse
+REJOIGNEZ-VOUS
+
+
+Carrieres
+Devenir fournisseur
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+Enel X France
+
+
+A propos de nous
+QHSE
+SUPPORT
+
+
+FAQ
+MÉDIAS
+
+
+Communiques de presse
+REJOIGNEZ-VOUS
+
+
+Carrieres
+Devenir fournisseur
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+© Enel X Way France Tous Droits Réservés VAT No. FR96841151145
+Crédits
+|
+Affaires juridiques
+|
+Politique de confidentialité
+|
+Politique de cookies

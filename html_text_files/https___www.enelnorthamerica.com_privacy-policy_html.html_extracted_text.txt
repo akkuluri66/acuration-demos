@@ -1,0 +1,223 @@
+Privacy Policy | Enel North America
+
+
+
+Homepage
+{{ item.label }}
+
+
+Selected item
+{{ contactUsCta.label }}
+
+{{ navigationCta.text }}
+
+{{currentSuggestions.title}}
+{{item}}
+{{item.text}}
+{{ navigationCta.text }}
+
+{{ item.label }}
+
+
+Selected item
+{{ secondLevelCta.label }}
+
+{{ jsonLinks.section }}
+
+{{ jsonLinks.section }}
+
+{{ item.label }}
+{{ jsonLinks.section }}
+
+{{ jsonLinks.section }}
+
+{{ item.label }}
+{{ jsonLinks.section }}
+
+{{ jsonLinks.section }}
+
+{{ item.label }}
+{{ jsonLinks.section }}
+
+{{ jsonLinks.section }}
+
+{{ item.label }}
+{{ jsonLinks.section }}
+
+{{ jsonLinks.section }}
+
+{{ item.label }}
+{{ jsonLinks.section }}
+
+{{ jsonLinks.section }}
+
+{{ item.label }}
+Enel group
+{{ contactUsCta.label }}
+
+{{ secondLevelCta.label }}
+
+Privacy Policy
+
+When you use our website, you’re trusting us with your information. We understand this is an important responsibility and work to protect your information.
+Our privacy policy sets out how we process the personal information we collect via our websites and services as described therein in the United States and Canada. It is meant to help you understand what information we collect, why we collect it, and address any question or concern you may have about the use of your personal information.
+We may change this Privacy Policy from time to time and therefore we always indicate the date the last changes were published.
+See below our privacy statements and policies for the United States and Canada.
+
+United States
+California Consumer Privacy Act (CCPA)
+Click here
+to read privacy statements required under the California Consumer Privacy Act.
+Click here
+to read  our Notice at Collection for California Residents.
+
+Canada
+Canada Privacy Policy
+Click here
+to read our Privacy Policy for Canada.
+
+General Information
+USA Headquarters
+100 Brickstone Square, Suite 300
+Andover, MA 01810
+
+Solutions
+
+Solutions
+Energy Solutions
+Our Integrated Approach
+Case Studies
+Insights
+
+Insights
+All Insights
+Blogs
+eBooks
+Videos
+Infographics
+Resource Centers
+Sustainability
+
+Sustainability
+Our Approach
+Sustainable Energy
+Value for Communities
+Circular Economy
+Innovation
+Goals and Progress
+Reporting and Resources
+About Us
+
+About Us
+Enel in North America
+Our Purpose
+Our Story
+Leadership Team
+Corporate Governance
+Careers
+
+Careers
+Life at Enel
+Works at Enel
+Diversity & Inclusion
+Apply at Enel
+Newsroom
+
+Newsroom
+All News
+Stories
+Press Releases
+Media Resources
+Videos
+Photos
+Contact Us
+
+Contact Us
+Contact Us
+Find a Solution
+Other Enel Websites
+Enel Group
+Enel X Way
+Enel Global
+Trading
+Enel Open
+Innovability
+Enel Global Procurement
+Legal Disclaimer
+Privacy Policy
+Cookie Policy
+English
+English
+© Enel Spa All Rights Reserved Enel Spa VAT code 15844561009
+Facebook Icon
+Desktop Icon
+Twitter Icon
+Youtube Icon
+Messenger Icon
+Linkedin Icon
+Instagram Icon
+Shared Link Icon
+Checkmark Icon
+Chevron Icon
+Close Icon
+Add Icon
+Increase Icon
+Arrow Oblique Icon
+Arrow Down Icon
+Search Icon
+icons.alternativeSearch.title
+icons.alternativeSearch.desc
+Share Icon
+Filter Icon
+Email icon
+Icon Email Outline
+Icon Phone Outline
+Icon Fax OutlineFax outline icon
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Print icon
+User icon
+An icon representing a user
+icons-info-outline-title
+icons-info-outline-desc
+Icon Thumb Up
+Icon Thumb Down Up
+Icon Thumb Down Outline
+Icon Phone
+Icon Emergency
+Icon Thumb Down
+icons-list-view-title
+Icon Map View
+Icon Pause
+Pause button icon
+An icon representing a Pause button
+Pause button icon
+Pause button icon
+Pause button icon
+Pause button icon
+Shape blue circle icon
+An icon representing a blue circle
+Shape green triangle icon
+An icon representing a green triangle
+Shape red square icon
+An icon representing a red square
+Logout button icon
+An icon representing a Logout button
+Eye Outline icon
+An icon for show password
+Eye icon
+An icon for show password
+Dark site banner icon
+An icon representing a dark site banner
+Lamp icon
+An icon representing a something new inside aria banner
+Time icon
+An icon representing time
+Bulb icon
+An icon representing a bulb
+
+World icon
+An icon representing world
+
+Person icon
+An icon representing a person
+

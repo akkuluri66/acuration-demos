@@ -1,0 +1,254 @@
+O que fazer quando disjuntores desarmam e a energia cai
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Pessoas
+Empresas
+Cidades
+Quem somos
+Corporativo
+Brasil
+
+PT
+
+
+Explorar
+Smart life
+Sua casa conectada
+Sustentabilidade
+Para você e o planeta
+Acessibilidade e conforto na rotina
+Casas inteligentes:
+EXPLORAR
+Produtos e serviços
+Smart life
+Assistências
+Smart home
+Smart Home
+Smart Home
+EXPLORAR
+Suporte
+Fale conosco
+Target
+Pessoas
+
+Pessoas
+
+Empresas
+
+
+Cidades
+
+
+Brasil
+
+PT
+
+
+Explorar
+EXPLORAR
+Smart life
+Sua casa conectada
+Sustentabilidade
+Para você e o planeta
+Produtos e serviços
+EXPLORAR
+Smart life
+Assistências
+Smart home
+Suporte
+Brasil
+Europa
+Itália
+Polônia
+UK
+Irlanda
+Espanha
+Portugal
+América do Norte
+USA
+Canadá
+LATAM
+Peru
+Chile
+Argentina
+Brasil
+Colômbia
+APAC
+Austrália
+Japão
+Coréia do Sul
+New Zealand
+Taiwan
+Buscar
+Pessoas
+Casa conectada
+LED
+Mobilidade Elétrica Urbana
+Homix
+Isto pode te interessar
+Smart Home
+SAIBA MAIS
+Economia circular
+SAIBA MAIS
+Casa conectada
+SAIBA MAIS
+Assistências
+SAIBA MAIS
+Pessoas
+Conteúdos
+O que fazer quando disjuntores desarmam e a energia cai
+Entenda como eles funcionam e os riscos de um funcionamento instável.
+PUBLICADO NO DIA:
+08/12/2020
+Você está tomando um banho mais demorado e, do nada, a eletricidade cai.
+
+Antes de entrar em pânico, primeiramente abra o quadro de luz e confira se todos os disjuntores estão no modo “on”. Caso não esteja, para restabelecer a energia imediatamente, basta religar sua chave.
+
+Mas, para garantir a segurança da instalação e evitar riscos futuros, é preciso identificar e resolver o problema o quanto antes. A sobrecarga, especialmente em instalações mais antigas, que não foram planejadas para a demanda dos eletrônicos atuais, é a causa mais comum para os disjuntores se auto desligarem, ou “desarmarem”, apesar de outros fatores também influenciarem no aparelho.
+
+Quer entender mais sobre essas causas do mau funcionamento dos disjuntores e os riscos que isto pode causar para a rede elétrica da sua casa? Separamos algumas informações que você precisa saber sobre o tema e dicas para evitar surpresas e, claro, acidentes.
+Afinal, o que são os disjuntores?
+Os disjuntores são equipamentos fundamentais em qualquer instalação elétrica e servem para interromper a corrente de energia em condições atípicas, como superaquecimento, evitando queima de aparelhos elétricos e até mesmo princípios de incêndio.
+
+O disjuntor é uma evolução do fusível. Ele queimava quando a rede elétrica apresentava problemas e precisava ser trocado para a energia ser retomada. As pessoas costumavam ter fusíveis reserva, porque as instalações eram precárias e as “quedas” mais constantes. Mas, com a chegada do disjuntor, guardar fusíveis virou coisa do passado, uma vez que o dispositivo somente desconecta da rede ao sinal de anormalidades e só precisa ser substituído em caso de danos.
+Existem diversos modelos de disjuntores para diferentes tipos de uso. O disjuntor unipolar atende circuitos monofásicos, como iluminação e tomadas de fase 127 ou 220v; o disjuntor bipolar é usado em torneiras e chuveiros de sistemas bifásicos, na fase de 220v; já o disjuntor tripolar é indicado para redes mais “parrudas”, compostas por circuitos de três fases, com 220 ou 380v.
+
+A principal função do disjuntor é monitorar o fluxo de eletricidade em um circuito e reagir a variações não esperadas. Ele identifica quando a amperagem excede a quantidade nominal, há algum tipo de excesso na corrente de energia elevada, ou a temperatura aumenta, e interrompe a transmissão.
+O que faz os disjuntores desarmarem?
+Muitas vezes o perigo está em hábitos rotineiros, como utilizar benjamins, hubs e outros multiplicadores de tomada, fazendo com que elas fiquem sobrecarregadas e a fiação esquente.
+
+Também é importante observar se os equipamentos ligados na energia estão funcionando corretamente, e se os cabos de força estão íntegros, porque fios desencapados tendem a provocar curto-circuito e comprometer toda ou parte da rede elétrica.
+
+O chuveiro também é mais um vilão no consumo de energia, especialmente os mais modernos e potentes, e precisa ser compatível com a instalação da casa. Há modelos que necessitam de fiação mais espessa e disjuntores com maior amperagem para funcionarem como esperado, sem sobrecarregar a rede de energia.
+
+Outra situação comum é que a energia seja interrompida quando aparelhos de alta demanda de eletricidade, como micro-ondas, aquecedores e secadores sejam ligados simultaneamente, ou ao mesmo tempo que o chuveiro.
+Se isso acontece com frequência, pode ser sinal de que a rede elétrica precisa de ajustes ou manutenção, que pode ser desde simples reparos e substituição dos disjuntores à troca dos cabos por outros de maior calibre.
+
+Assistências
+Com os serviços assistenciais da Enel X, você vive com mais tranquilidade.
+Saber mais
+SABER MAIS
+Como posso reparar os disjuntores?
+Somente um eletricista de confiança poderá recomendar as medidas necessárias para consertar ou ajustar a instalação de energia. Por isso, ao contratar um serviço, tenha certeza de que os disjuntores, cabos e conexões sejam de qualidade, certificados e de acordo com as especificações da instalação elétrica.
+
+É um erro usar disjuntores de amperagem maior ou menor do que pedem os cabos, porque eles podem não desarmar quando há superaquecimento e é aí que pode ocorrer um foco de incêndio.
+
+Mexer em instalações elétricas não é uma aventura para leigos, e contar com profissionais qualificados é garantia de segurança.
+Como a Enel X pode te ajudar?
+Sua casa conectada
+Em família vivenciamos novas formas de nos relacionarmos com a tecnologia e com o meio ambiente.
+SAIBA MAIS
+A Enel X, empresa de soluções inteligentes reconhecida globalmente com confiança e qualidade, oferece
+assistências residenciais
+completas para solucionar as emergências a qualquer momento na sua casa.
+
+Os planos Resolve Xpress e Resolve Xpress Plus garantem uma extensa cobertura de serviços emergenciais e não-emergenciais para apoiar nos imprevistos e necessidades elétricas, como tomadas queimadas, chaves facas, troca de chuveiros, resistências de chuveiros ou torneiras elétricas, instalação ou troca em fiação elétrica interna entre ponto de luz, interruptores e tomadas, além, claro, em situações de disjuntores e fusíveis danificados.
+
+Conheça agora as nossas soluções que levarão mais conforto, praticidade e economia para a sua
+rotina em casa
+.
+Pessoas
+Assistências
++3
+Acompanhe as transformações do mundo
+Acesse os conteúdos Enel X e descubra como a nova energia está tornando o mundo mais inteligente e sustentável.
+IR PARA CONTEÚDOS
+Mais conteúdos
+Como acabar de vez com os vazamentos em torneiras
+Como acabar de vez com os vazamentos em torneiras
+Explicamos a importância de prevenir que os vazamentos ocorram para evitar gastos desnecessários.
+
+Pessoas
+Casa conectada
+Assistências
++4
+O que fazer quando disjuntores desarmam e a energia cai
+O que fazer quando disjuntores desarmam e a energia cai
+Entenda como eles funcionam e os riscos de um funcionamento instável.
+
+Pessoas
+Assistências
++3
+A chave quebrou na fechadura. O que fazer?
+A chave quebrou na fechadura. O que fazer?
+Quebrar a chave na porta pode custar caro. Saiba como resolver casos simples e como prevenir problemas na fechadura.
+
+Pessoas
++2
+✖
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+A ENEL X
+Quem Somos
+Enel X Store
+Economia Circular
+HSEQ
+Contato
+Soluções
+
+
+Pessoas
+Empresas
+Cidades
+Media
+
+
+Conteúdos
+Imprensa
+FAQ
+Junte-se a nós
+
+
+Trabalhe conosco
+Hub de inovação
+Seja um parceiro Enel
+Enel network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X Brasil S.A. | Todos os direitos reservados | CNPJ 08.317.250/0001-61
+Créditos
+|
+Declarações Legais
+|
+Privacidade
+|
+Aviso de privacidade
+|
+Política de cookies
+|
+Política integrada
+Text
+

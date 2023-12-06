@@ -1,0 +1,267 @@
+Central Irrigation Trust (CIT) Lowers Energy Costs with Battery Storage
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Who We Are
+Corporate
+Australia
+
+EN
+
+
+Explore
+Products & Services
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Resources
+LEARN MORE
+CONTACT US
+Australia
+
+EN
+
+
+Explore
+Products & Services
+LEARN MORE
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Australia
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Renewable Energy
+Energy Advisory
+Demand Response
+Electric Mobility
+You may be interested in
+Peaking Response
+LEARN MORE
+Workplace EV charging program
+LEARN MORE
+Resources
+Case Studies
+
+Central Irrigation Trust (CIT) Lowers Energy Costs with Battery Storage
+CIT partners with Enel X on one of Australia’s largest onsite battery storage projects
+DOWNLOAD PDF
+Location
+Riverland Region, South Australia
+Challenge
+Reduce electricity bills including peak demand charges
+Solution
+Fully financed battery energy storage system with DER.OS optimisation software
+Financial Benefit
+Energy savings through
+lower demand charges and participation in demand response programs
+The customer
+Central Irrigation Trust (CIT) is an irrigation infrastructure operator that pumps water from the Murray River to ~1500 family and corporate farms and ~3000 households, community and industrial customers in the Riverland Region of South Australia. CIT operates 13 pressurised pipeline water delivery systems that provide irrigation to ~14,000 hectares of high value agriculture and horticulture in the region.
+
+The challenge:
+reducing electricity costs
+CIT’s 13 large water pumping stations are energy-intensive, and recently the Trust has found electricity to be an increasing portion of its costs. Greg McCarron, Chief Executive Officer of CIT explained, “Energy makes up around 40% of our total operational costs, about $5 million annually. As energy is our single largest operating cost, we’ve been looking for ways to reduce it where possible, both for CIT and to minimise cost increases to our customer charges.”
+
+“To reduce these costs, we explored many options such as onsite generation, different retail models, and more, however we struggled to find anything well suited because of our unique power usage profile.
+We have limited ability to change our demand profile, particularly in peak irrigation seasons when our customers have limited flexibility when water is needed.”
+
+“We quickly learnt that a solution required significant skills in energy and energy markets, skills our team does not have. That’s how we became involved with Enel X, who suggested battery storage as a solution. They provided us with comfort that the battery infrastructure operation would be undertaken expertly, and would be sustainable for our business, now and into the future,” he said.
+The Solution:
+CIT engaged Enel X Australia to install, manage and optimise over 14MWh of batteries across five sites in the Riverland Region. The batteries will intelligently manage CIT’s energy use, generate bill savings and earn a new revenue stream from energy market participation.
+
+CIT is the ‘host’ for the batteries and Enel X manages everything from end-to-end project delivery, optimisation through its own proprietary software (DER.OS
+1
+), integration with its market-leading Virtual Power Plant (VPP), and ongoing maintenance and support.
+
+DER.OS has machine-learning and AI algorithms that analyse unlimited data including: site energy demand, weather forecast inputs, grid conditions, pricing, and more to determine the optimal charge and discharge strategy.
+By fully integrating with Enel X’s VPP platform can take advantage of multiple grid support programs, such as frequency support (FCAS
+2
+) and participating directly in the electricity spot market.
+
+A unique element of Enel X’s approach is its ‘shared savings’ investment model. Enel X funds the entire project and passes on a share of total revenues. CIT does not pay for any upfront or ongoing costs, ever.
+
+“It was really important that in this partnership Enel X provided the ability to take on no additional risk for us and our customers. The total cost of the project is over ~$15m and the outlay for CIT has been none,” McCarron said.
+
+It was really important that in this partnership Enel X provided the ability to take on no additional risk for us and our customers. The total cost of the project is over ~$15m and the outlay for CIT has been none.
+Greg McCarron
+Chief Executive Officer of CIT
+The Benefits
+Lower utility bills and earn new revenue
+Batteries enable the reduction of electricity bills with demand charge management by lowering peak electricity grid demand levels. In addition, batteries unlock energy market opportunities by storing low-cost power when renewables are abundant, and using that same power during high spot prices when renewable power is low.
+
+McCarron explained, “One of the primary benefits of the batteries is the ability to manage our demand on the network. As a significant energy user our demand costs are high and are impacted when our demand increases during summer
+heatwave periods. The batteries provide us the ability to manage that demand, to limit the usage of grid energy at high-cost times and reduce our overall cost.”
+
+“With Enel X’s VPP integration, the batteries can participate in the wholesale and frequency control electricity markets to support grid stability and yield financial gains. CIT and our customers benefit from those revenue streams, as the income increases our bottom line and allows us to minimise charges to our customers.”
+Joining the renewable energy transition
+Batteries provide the instant, dispatchable capacity the electricity grid desperately needs to balance intermittent renewable energy sources. This helps to make the grid more reliable and sustainable.
+
+“Batteries are important for the renewable energy transition away from fossil fuels. Batteries can store energy from the sun and wind when available, to release back into the grid when the sun’s gone down and the wind’s not blowing. This provides the ability to have a stable power market,” McCarron said.
+“As CIT is a critical infrastructure operator in our region, it’s important that we have a sustainable future and energy supply. Another advantage of the battery project is that it allows CIT to become part of the renewable energy transition of South Australia, and Australia. The batteries result in a reduction of Australia’s overall carbon footprint, facilitate increased renewable energy use, and the ability, in a small way, for fossil fuel power plants to be replaced by battery storage.”
+
+Simple process with Enel X’s expetise
+Enel X is a global leader in distributed energy storage and demand response projects, with 751MW of battery storage installed capacity (BTM, FTM, Enel plants) and 8.2GW of Demand Response capacity worldwide. In Australia, with CIT Enel X is developing Australia’s largest onsite battery storage project to date, and operates Australia’s largest VPP (BNEF)
+3
+.
+
+1 Distributed Energy Resources Optimisation Software
+2 Frequency Control Ancillary Services
+3 Bloomberg New Energy Finance, 2019
+McCarron explained, “The battery is unique for our region, it is one of the largest ‘behind-the-meter’ batteries in Australia. We’re proud of the work we’ve done with Enel X and happy with the support they’ve provided us throughout this project. It has been a seamless project to work on, our operational team has found the process simple, and the level of input required from side has been low.”
+
+Energy Storage
+Case study
++3
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+Related Content
+Powering irrigation with renewables
+Powering irrigation with renewables
+Learn how companies are dealing with rising electricity costs by moving towards renewable power sources.
+
+Renewable Energy
+Energy Storage
+Article
++4
+Frequency grid support explained
+Frequency grid support explained
+Help to keep the grid stable at all times with frequency control ancillary services (FCAS) markets
+
+Demand Response
+Article
++3
+ARENA RERT trial proves demand response fast reliable and effective
+ARENA RERT trial proves demand response fast reliable and effective
+Businesses can protect the grid, earn revenue and enhance sustainability with Demand Response
+
+Demand Response
+Article
++3
+University of Queensland monetises BESS with FCAS
+University of Queensland monetises BESS with FCAS
+Learn how we've helped integrate VPP participation through Frequency Control (FCAS)
+
+Demand Response
+Case study
+Renewable Energy
++4
+Hybrid Power Purchase Agreements
+Hybrid Power Purchase Agreements
+Learn how a Hybrid Power Purchase Agreement combines the best of solar and storage, generating lower energy costs for your business today and in the future.
+
+Renewable Energy
+Article
++3
+South Australian Backup Boost Program
+South Australian Backup Boost Program
+We've partnered with the South Australian government to support local businesses by changing the way they use energy
+
+Demand Response
+Article
++3
+Demand Response addresses the energy trilemma
+Demand Response addresses the energy trilemma
+How Virtual Power Plants address issues of energy security, affordability and sustainability
+
+Demand Response
+Article
++3
+A Transformative Opportunity for Circular Economy
+A Transformative Opportunity for Circular Economy
+Learn more about how Demand Response contributes to a more sustainable future in this Enel X global whitepaper.
+
+Demand Response
+Whitepaper
++3
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Cold Storage facility offset 10% of its rising electricity costs with Demand Response
+Oxford Cold Storage participates in Virtual Power Plant as part of its sustainability initiative
+
+Case study
+Demand Response
++3
+✖
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+©Enel X Australia Pty Ltd. All rights reserved | ABN: 49 104 710 278
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+
+

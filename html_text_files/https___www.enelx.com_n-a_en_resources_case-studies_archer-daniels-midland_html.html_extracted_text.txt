@@ -1,0 +1,200 @@
+ADM Gets Real-Time Visibility with Enel X Connect | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Case Studies
+
+ADM Gets Real-Time Visibility with Enel X Connect
+DOWNLOAD PDF
+
+For more than a century, the people of Archer Daniels Midland Company (NYSE: ADM) have transformed crops into products that serve the vital needs of a growing world. Today, ADM is one of the world’s largest agricultural processors and food ingredient providers, with more than 33,000 employees serving customers in more than 140 countries. With a global value chain that includes more than 460 crop procurement locations, 300 ingredient manufacturing facilities, 40 innovation centers and the world’s premier crop transportation network, ADM connects the harvest to the home, making products for food, animal feed, industrial and energy uses. Learn more at
+www.adm.com
+.
+
+The Challenge
+ADM maintains a strong physical presence in the world’s most productive growing regions. An unparalleled asset network—including grain elevators, food processing facilities, flour mills and export facilities—allows the company to respond nimbly to changing market conditions and opportunities. With such a large global footprint, tracking energy costs and identifying areas for improvement is critical to the company’s bottom line.
+
+The Solution
+Avoid Peak Demand Charges
+ADM deployed Enel X Connect at one of the company’s peanut processing plants in Georgia. During an initial audit, an Enel X energy advisor working with the ADM team noted that the plant’s peak demand charge was four times greater in the summer months than in the winter. Using Enel X Connect, the ADM team worked with the Enel X energy advisor to identify opportunities for flexibility in plant operations to reduce peak demand.
+
+The team devised and implemented a strategy to adjust temperature set points in the facility’s on-site cold storage during on-peak hours (2–7 p.m.) and isolate the area. During this period, they were able to reduce overall energy demand without compromising product quality. Once the peak period ends, the team resumes normal operations and allows access to the area. The team also shifted its pellet mill operations outside of on-peak hours to avoid further charges. These minor operational changes required no financial investment and will result in $23,000 in annual savings.
+
+Stay on Track with Reports
+The ADM operations team uses Enel X’s Peak Demand Identification Report to measure and verify the impact of their efforts to reduce peak demand, maintain appropriate demand thresholds and avoid costly demand charges. The weekly report is automatically sent to team members’ email accounts.
+
+Utilize Software to Identify Spikes in Usage
+At a flour mill in Indiana, ADM uses Enel X Connect to determine unusual spikes in energy usage. With real-time visibility into their energy data, the team determined that two independent operations were occurring at the same time, creating an unexpected spike in demand. The team shifted the runtime of one of the conflicting processes—making sure to avoid similar conflicts with other mill activities—and significantly flattened out the facility’s load.
+
+Enel X Connect allows the team to identify the energy consumption of individual processes, and measure and verify that the corrective measure is implemented. Adjusting the sequence of these operations has resulted in $19,000 in annual savings at no cost to ADM.
+
+Enel X Connect not only gives users access to their real-time energy data, but also has an alerting capability that notifies users when spikes and dips occur in electric demand. For example, after the team identified the spike at the Indiana plant, the team set alerts at certain demand thresholds to warn them of the potential to reach peak demand levels that would trigger higher charges on the site’s utility bill. The alerts have helped drive process improvements and the team is able to avoid future charges.
+Related Resources
+Explore other resources within this category.
+Eaton Arecibo: A Post-Maria Microgrid Story
+Eaton Arecibo: A Post-Maria Microgrid Story
+How Enel X and Eaton are Teaming Up to Deploy Resilient Microgrid Solutions in Puerto Rico
+
+Case Studies
+Solar-Plus-Storage
++3
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X Finds Creative Storage Solution for Solar Project
+Enel X and DSD Renewables partner on a project for Hawaiian facility to be powered 100% by renewable energy
+
+Case Studies
+Solar-Plus-Storage
++3
+Thinking Big with Battery Energy Storage
+Thinking Big with Battery Energy Storage
+Imperial Oil partners with Enel X on one of the largest battery energy storage systems in North America
+
+Case Studies
+Energy Storage
++3
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

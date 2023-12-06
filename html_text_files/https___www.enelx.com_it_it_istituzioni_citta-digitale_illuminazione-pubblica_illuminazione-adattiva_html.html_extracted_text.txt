@@ -1,0 +1,361 @@
+Illuminazione pubblica adattiva | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-service-local
+Adaptive Lighting
+Smart City
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Istituzioni
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART CITY
+Città 2.0
+Soluzioni di trasporto elettrico
+Telemedicina
+Telemedicina per la PA
+Innovazione & sostenibilità
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di ricarica per le istituzioni
+Storie di successo
+Insieme a Chiapparoli
+Enel X e Valmet
+In evidenza
+La Smart City di Enel X
+Circular Economy Factbook
+Edifici pubblici efficienti
+SCOPRI DI PIÙ
+Prodotti e servizi
+Efficienza per la città
+Illuminazione pubblica smart
+Comunità energetiche rinnovabili
+Edifici pubblici efficienti
+Illuminazione architetturale
+Canali di acquisto PA
+Project financing
+MEPA
+Consip - Servizio Luce
+Servizi digitali urbani
+City Analytics
+Servizi di videoanalisi
+Urban asset valorization
+APP & TOOL
+Portale Enel X YoUrban
+Sostenibilità urbana
+Città circolare
+APP & TOOL
+Open Data per la PA
+Elettrificazione del trasporto
+Soluzioni per un trasporto elettrificato
+APP & TOOL
+Simulatore trasporto pubblico elettrico
+Telemedicina
+Piattaforma Smart Axistance
+Mobilità elettrica
+Infrastrutture di ricarica
+Servizi di ricarica
+Soluzioni software
+Servizi di consulenza
+Comunità energetiche
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti
+Città 2.0
+SCOPRI DI PIÙ
+Sostenibilità
+SCOPRI DI PIÙ
+Istituzioni
+Prodotti e servizi
+
+Illuminazione pubblica smart
+Illuminazione adattiva
+Il sistema intelligente che regola la luce in base alle condizioni stradali.
+GUARDA IL VIDEO
+
+Hai bisogno di informazioni?
+CONTATTACI
+Che cos’è
+Come funziona
+Che cos’è?
+È la frontiera più avanzata dell’illuminazione pubblica: la possibilità di modificare l’illuminazione delle strade in base alle condizioni reali di traffico, meteo e luminanza. Anche per questa soluzione Enel X ha sviluppato una dashboard, parte della piattaforma IoT, che permette di visualizzare, gestire ed elaborare i dati e i servizi da remoto in modo semplice e flessibile. Una tecnologia integrata che genera importanti vantaggi per l’Amministrazione e i cittadini, consentendo di risparmiare energia e relativi costi, di ridurre gli sprechi e le emissioni e di erogare un servizio efficiente e affidabile.
+Risparmio energetico
+Permette di ottenere un ulteriore 20-35% di risparmio su sorgenti già a led.
+Illuminazione ottimale
+La tecnologia adattiva regola automaticamente la luminosità in funzione delle condizioni meteorologiche e stradali.
+Applicazione prudenziale
+Nei punti sensibili, come strisce pedonali e rotatorie, la luce si mantiene sempre alla massima intensità.
+Multifunzionale
+Con la stessa tecnologia installata si possono erogare altri servizi innovativi di monitoraggio e sicurezza stradale.
+Due modalità di applicazione
+Grazie all’utilizzo di sensori e videocamere, è possibile applicare la soluzione secondo due diverse modalità:
+Modalità TAI
+Traffic Adaptive Installation: l’illuminazione si adatta alla sola variabile traffico.
+Modalità FAI
+Full Adaptive Installation: l’illuminazione si adatta a traffico, meteo e luminosità dell’ambiente.
+Come funziona?
+Controllo
+Configurazione
+Reportistica
+Controllo e videosorveglianza
+Le principali funzioni della dashboard includono la verifica in tempo reale dello status dei punti luce e dei sensori installati, a cui si aggiungono la possibilità di visionare il traffico, di regolare gli impianti semaforici e di identificare i veicoli che dovessero violare il Codice della strada.
+
+Configurazione e dati
+Configurazione dei parametri per il dimming adattivo, che comprende le categorie di luminosità e le relative percentuali. Visualizzazione dei dati sul flusso del traffico, della luminosità rilevata e delle condizioni meteorologiche.
+
+Reportistica
+La reportistica sul funzionamento della tecnologia installata include i dati relativi all’efficientamento e al risparmio energetico, alle ore di funzionamento e ai picchi di luminanza in funzione degli eventi.
+
+Quanto è circolare questo prodotto?
+Enel X offre agli enti pubblici un solido strumento di misura, il Circular Economy Report, che individua il livello di circolarità del prodotto e propone una roadmap di soluzioni innovative per poterlo incrementare.
+SCOPRI DI PIÙ
+Scopri gli altri prodotti
+Le soluzioni pensate da Enel X per la Pubblica Amministrazione.
+Illuminazione a led
+Una famiglia di prodotti ad altissime prestazioni energetiche per città più sostenibili e circolari.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Illuminazione pubblica 2.0
+Le nuove tecnologie a basso impatto energetico e ambientale di Enel X per città efficienti e sostenibili.
+
+SCOPRI DI PIÙ
+
+RICHIEDI INFO
+
+Illuminazione temporanea
+Il design d’impatto, la tecnologia e la competenza di Enel X per esperienze indimenticabili.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Illuminazione architetturale
+Le soluzioni di Enel X per dare nuova luce al patrimonio storico, artistico e culturale del nostro Paese.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Leggi le novità
+Notizie, approfondimenti e casi di studio per conoscere meglio il mondo di Enel X.
+Che cos’è una lampadina a LED e quali sono i benefici?
+Che cos’è una lampadina a LED e quali sono i benefici?
+Le lampadine a LED presentano numerosi vantaggi: innanzitutto, durano di più, consumano di meno rispetto alle lampadine tradizionali.
+
+Smart Home
++1
+Casa sostenibile
+Città più moderne e sicure con l’illuminazione adattiva a LED
+Città più moderne e sicure con l’illuminazione adattiva a LED
+Oltre a essere più efficienti, i lampioni a LED offrono la possibilità di poter installare sistemi di telecontrollo e le tecnologie di illuminazione adattiva, che rendono l’illuminazione modulabile automaticamente e a norma UNI11248 in base al traffico, alle condizioni meteo e alla luminanza, con notevoli benefici in termini di sicurezza
+
+e-City
++2
+Privato
+Pubblica Amministrazione
+Illuminazione stradale a LED: i principali vantaggi
+Illuminazione stradale a LED: i principali vantaggi
+Dal risparmio energetico al rispetto dell’ambiente, dai minori costi di manutenzione alla qualità della luce: ecco perché l’illuminazione a LED conviene
+
+e-City
++3
+Elettrificazione
+Privato
+Pubblica Amministrazione
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

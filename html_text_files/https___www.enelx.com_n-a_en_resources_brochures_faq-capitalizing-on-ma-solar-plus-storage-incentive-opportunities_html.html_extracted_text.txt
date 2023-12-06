@@ -1,0 +1,214 @@
+Massachusetts’ Solar-Plus-Storage Opportunities | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-press
+Skip to Content
+Businesses
+Utilities
+Public Sector
+Who We Are
+Corporate
+United States
+
+EN
+
+
+Contact Us
+Businesses
+
+Utilities
+
+
+Public Sector
+
+
+United States
+
+EN
+
+
+United States
+Europe
+Italy
+Ireland
+Poland
+Portugal
+Spain
+United Kingdom
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Asian Pacific American Community
+Australia
+Japan
+South Korea
+New Zealand
+Taiwan
+Search here...
+Browse by sector...
+Consumers
+GO TO PAGE
+
+Businesses
+GO TO PAGE
+Utilities
+GO TO PAGE
+Public Sector
+GO TO PAGE
+Partners
+GO TO PAGE
+
+Resources
+Brochures
+
+Capitalizing on Massachusetts’ Solar-Plus-Storage Incentive Opportunities
+DOWNLOAD PDF
+
+In Massachusetts, supporting the electric grid during system peak events (the brief periods when demand for electricity is at its highest) has wide-reaching economic and environmental implications. According to the state’s Department of Energy Resources (DOER), 40% of electricity spend in the state stems from the top 10% of hours of energy consumption. Much of this cost can be attributed to a reliance on natural gas generation to accommodate these demand peaks, which is not only expensive but threatens to prevent Massachusetts from reaching its greenhouse gas (GHG) emissions reduction goals.
+
+To help alleviate these problems, Massachusetts is offering a new incentive program for on-site solar power generation and energy storage projects. These incentives create an opportunity for the state’s large energy users to integrate solar-plus-storage technology—enabling them to reduce total energy spend and maximize payments through utility and ISO ancillary programs.
+Frequently Asked Questions
+1
+Why is solar-plus-storage valuable in Massachusetts?
+Why is solar-plus-storage valuable in Massachusetts?
+For energy consumers, solar-plus-storage provides the ability to self-generate, store, and self-consume renewable power strategically.
+
+This is particularly useful for:
+Minimizing demand charges on energy bills,
+which are calculated based on the customer’s energy consumption at certain intervals. This includes Coincident Peak (I-CAP) charges as well.<
+Maximizing earnings through energy market programs,
+which pay large energy users for their ability to reduce consumption or inject power into the grid when called upon.
+
+With Enel X’s DER Optimization Software, which uses advanced machine-learning techniques, large energy consumers can automatically and seamlessly reduce their facilities’ load and maximize the economic value through these practices.
+
+At the same time, distributed solar-plus-storage is valuable for the grid because it can help reduce costs during system peak events and more efficiently use existing infrastructure. At scale, this will play a valuable role in maintaining power availability, reducing overall system cost, and decreasing emissions.
+
+
+2
+What is the Massachusetts SMART incentive program and how does it work?
+What is the Massachusetts SMART incentive program and how does it work?
+The DOER and the state’s electric utilities launched the Solar Massachusetts Renewable Target (SMART) program to create incentive for energy consumers to integrate solar-plus-storage technology.
+
+SMART is a 1600 MW AC “declining block” program that provides fixed base compensation rates for solar projects up to 5MW AC, with additional incentives for projects that incorporate energy storage and those that install their solar panels on their rooftops. The declining block program is structured so that as project applications are submitted and the blocks of available capacity fill up, compensation rates for solar-plus-storage projects will decrease. Therefore, it is important for potential participants to act quickly, as application timing will have a significant impact on project economics.
+
+Due to the structure of these incentives, Enel X can offer turnkey systems at no upfront cost to the customer.
+
+What makes the SMART program different than previous solar incentive programs in Massachusetts?
+
+The prior solar incentive in Massachusetts offered Solar Renewable Energy Certificates (SREC) for every megawatt- hour of power that a customer’s solar project created, which they could then sell to utilities.
+
+SRECs created incentive for energy consumers to create solar power and reduce their consumption of electricity from traditional sources, such as coal or natural gas.
+
+However, the financial value of the SREC varied based on supply and demand, and was volatile as a result. This made it difficult to project the long-term value of a solar project based on the value of the incentive, and drove up the cost to finance solar projects. By contrast, the SMART program offers fixed incentives for 20 years.
+
+Unlike the SREC program, SMART also offers adders that defray the cost of investment in battery storage, making
+it easier for energy consumers to store their self-generated solar power and use it at strategic times to create new revenue streams. By comparison, standalone solar PV only operates during daylight hours.
+3
+What if my organization does not have the capital to invest in solar and storage hardware?
+What if my organization does not have the capital to invest in solar and storage hardware?
+Since the SMART program offers fixed, long-term compensation rates for solar capacity, Enel X can offer flexible financing options and install the hardware on a customer’s site at no upfront cost.
+
+One of the more unique financing opportunities available through Enel X is the hybrid power purchase agreement (HPPA). Through this agreement, Enel X will install the solar-plus-storage system at no cost to the end user. The addition of energy storage enables us to create new revenue streams that were not historically available with standalone solar projects. We pass a percentage of these revenues onto the customer in the form of payments, while also covering our upfront hardware and installation costs for the project. Additionally, we offer the customer a reduced dollar-per-kilowatt-hour rate for the solar power created. The result for the customer is a competitive power purchase agreement with the upside of the revenue created by the strategic deployment of the power created by the system.
+Enel X also offers a range of other financing options based on our customers’ needs. As part of the Enel Group, one of the largest energy companies in the world, Enel X has the flexibility to offer financing agreements that may not be available elsewhere in the market, connecting our customers to these opportunities while also protecting them from risk and aligning with their financial priorities.
+4
+Solar and storage are complex. How do I install and maintain this equipment?
+Solar and storage are complex. How do I install and maintain this equipment?
+Enel X will model the right system for your facility and will operate and maintain the system so your staff can remain focused on their day-to-day responsibilities.
+5
+Will my staff need to transition our load onto the storage system manually? How will we know when to do that for demand response earnings or to reduce demand charges?
+Will my staff need to transition our load onto the storage system manually? How will we know when to do that for demand response earnings or to reduce demand charges?
+Enel X’s DER Optimization Software automates this process and transitions your facility’s load onto the DERs at the optimal times to maximize value. The software learns your building’s energy cost drivers and operational behavior and constantly evaluates available value streams. When your organization stands to earn payments through a demand response dispatch or to reduce costs by shaving your load peak when demand charges are calculated, the software automatically transitions the facility’s load onto the available distributed energy resources based on which practices will have the greatest financial impact at any given time.
+6
+How do I get started?
+How do I get started?
+To find out if your organization is a good fit for a solar- plus-storage system, contact one of our experts today at
+www.enelx.com/n-a/en/contact
+✖
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+ENEL X NORTH AMERICA
+
+
+Who We Are
+Circular Economy
+Contact Us
+Values and Governanace
+
+
+Code of Ethics
+Corruption Zero-Tolerance Plan
+Media
+
+
+Stories
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Partner with Us
+Application Logins
+
+
+Demand Response
+Utilities
+Procurement
+Enel X Network
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+Enel X Way
+© Enel X North America, Inc. All Rights Reserved. Tax ID: 87-06998303
+Cookie Policy
+|
+Legal
+|
+Privacy
+|
+Credits
+Enel X North America, Inc.
+
+Registered office:
+DE - The Corporation Trust Company, 1209 North Orange Street Wilmington, Delaware 19801
+Tax ID:
+87-0698303

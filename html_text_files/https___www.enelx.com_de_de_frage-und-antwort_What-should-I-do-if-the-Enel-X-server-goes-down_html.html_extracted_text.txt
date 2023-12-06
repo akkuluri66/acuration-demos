@@ -1,0 +1,150 @@
+What should I do if the Enel X server goes down?
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Wer wir sind
+Corporate
+Deutschland
+
+DE
+
+English
+German
+Entdecken
+CHANCEN FREISCHALTEN
+Nachhaltigkeit
+Eine komplette digitale Lösung für Ihre Energiestrategie.
+Enel X Connect
+LERN MEHR
+Beratung & Nachhaltigkeit
+BERATUNG & NACHHALTIGKEIT
+Energieberatung
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Entdecken Sie alle Möglichkeiten der erneuerbaren Energien.
+Erneuerbaren Energien
+LERN MEHR
+Support
+KONTAKT
+Deutschland
+
+DE
+
+English
+German
+Entdecken
+LERN MEHR
+CHANCEN FREISCHALTEN
+Nachhaltigkeit
+Beratung & Nachhaltigkeit
+BERATUNG & NACHHALTIGKEIT
+Energieberatung
+Utility Bill Management
+Energy Exchange
+APP & TOOL
+Enel X Connect
+Entdecken Sie alle Möglichkeiten der erneuerbaren Energien.
+Erneuerbaren Energien
+LERN MEHR
+Support
+DEUTSCHLAND
+Europa
+Irland
+Italien
+Polen
+Rumänien
+Spanien
+Vereinigtes Königreich
+Nordamerika
+Vereinigte Staaten
+Kanada
+LATAM
+Perù
+Chile
+Argentina
+Brazil
+Colombia
+APAC
+Australien
+Japan
+Neuseeland
+Südkorea
+Taiwan
+Suche hier
+Nachhaltigkeit
+Utility Bill Management
+Energy Exchange
+Enel X Connect
+Energieberatung
+Sie könnten interessiert sein an
+Energieberatung
+LEARN MORE
+FAQ
+Was soll ich tun, wenn der Enel X-Server ausfällt?
+Unser Server erhält von Zeit zu Zeit Upgrades und es kann zu Serverausfällen kommen, wenn dies passiert. Wir werden immer unser Bestes tun, um Ausfallzeiten zu minimieren und entschuldigen uns, wenn Sie aufgrund von Ausfallzeiten beeinträchtigt werden.
+
+Sie können Ihr Elektrofahrzeug weiterhin normal aufladen, Ihre Einstellungen für Nutzungszeit und Stromstärke sind jedoch nicht verfügbar.
+Wenn Sie TOU verwenden und überschreiben müssen, aber die Bedienelemente nicht verfügbar sind, trennen Sie bitte Ihre Ladestation, um den temporären Speicher des Zeitplans zu löschen. Es wird dann aufgeladen, bis es voll ist, nicht angeschlossen ist oder wenn die Server wieder hochfahren. Wenn die Server wieder online sind, müssen Sie das Laden überschreiben.
+Wenn Sie zuvor auf dem Dashboard eine Lastgruppe oder einen Drahtwert für Ihre aktuelle Drahtbelastbarkeit eingerichtet haben, wird diese Einstellung vom JuiceNet-Gerät gespeichert, unabhängig davon, ob die Box aus- und wieder eingeschaltet wird.
+
+Wir sind ständig bestrebt, unsere serverseitigen Fähigkeiten zu verbessern, um Ihnen das intelligenteste Ladeerlebnis für Elektrofahrzeuge zu bieten. Nochmals, wir entschuldigen uns aufrichtig für etwaige Unannehmlichkeiten, die durch Ausfallzeiten verursacht wurden.
+✖
+ENEL X GERMANY
+
+
+Über uns
+Geschäft
+HSEQ
+SUPPORT
+
+
+FAQ
+MEDIEN
+
+
+Pressemeldungen
+BEGLEITEN SIE UNS
+
+
+Karrier
+Werden Sie Lieferant
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+ENEL X GERMANY
+
+
+Über uns
+Geschäft
+HSEQ
+SUPPORT
+
+
+FAQ
+MEDIEN
+
+
+Pressemeldungen
+BEGLEITEN SIE UNS
+
+
+Karrier
+Werden Sie Lieferant
+ENEL NETWORK
+
+
+Enel X Corporate
+Enel Group
+Enel Green Power
+© Enel X Germany GmbH Alle Rechte Vorbehalten | Enel X VAT DE316424233
+Impressum
+|
+Rechtliche Hinweise
+|
+Datenschutzerklaerung
+|
+Cookie Richtlinien

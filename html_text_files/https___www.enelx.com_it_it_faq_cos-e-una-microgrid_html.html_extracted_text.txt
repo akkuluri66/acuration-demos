@@ -1,0 +1,401 @@
+Microgrid: che cos'è e come funziona | Enel X
+/apps/enel-x-digital-ecosystem/templates/page-content
+Salta il contenuto
+Privati
+Aziende
+Istituzioni
+Chi siamo
+Corporate
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+CONTATTACI
+Privati
+
+Privati
+
+Aziende
+
+
+Istituzioni
+
+
+Italia
+
+IT
+
+
+Esplora
+SMART LIFE
+Casa sostenibile
+Città sostenibili
+Servizi di Telemedicina
+INNOVAZIONE & SOSTENIBILITÀ
+Innovazione
+Sostenibilità
+Mobilità elettrica
+Soluzioni di mobilità per i privati
+CONTENUTI IN EVIDENZA
+Circular Economy Factbook
+#UnPannelloInPiù contro la povertà energetica
+Enel X Store
+SCOPRI DI PIÙ
+Prodotti e servizi
+La tua casa
+Soluzioni per la casa
+Homix Smart Home
+Innovazione e sostenibilità
+Open Innovation Model
+Economia circolare
+Score di prodotto
+Boosting Program
+Telemedicina
+Smart Axistance e-Well
+Mobilità elettrica
+Ricarica domestica
+Servizi di ricarica
+Accessori
+Enel X Store
+SCOPRI DI PIÙ
+Ottieni supporto
+Italia
+Europa
+Italia
+Polonia
+UK
+Irlanda
+Spagna
+Portogallo
+Nord America
+USA
+Canada
+LATAM
+Perù
+Cile
+Argentina
+Brasile
+Colombia
+APAC
+Australia
+Giappone
+Corea del Sud
+Nuova Zelanda
+Cerca qui...
+Economia circolare
+Smart Home
+Telemedicina
+Vivi Meglio
+Elettrificazione
+e-City
+Soluzioni Business
+Innovazione
+Potrebbe interessarti:
+Casa sostenibile
+SCOPRI DI PIÙ
+YoUrban
+SCOPRI DI PIÙ
+FAQ
+Cos’è una microgrid?
+Hai bisogno di informazioni?
+CONTATTACI
+Per dare una
+definizione di
+
+microgrid
+, o microrete, cominciamo col dire che si tratta di un
+sistema di distribuzione locale
+che interconnette carichi elettrici e fonti di
+generazione distribuita
+e ha la capacità di operare sia in connessione alla rete elettrica nazionale che autonomamente (nella modalità cosiddetta “ad isola”).
+
+Andando più a fondo nel significato di microgrid, scopriamo che si stanno sempre più diffondendo le microgrid che integrano impianti di generazione da fonti rinnovabili e sistemi di accumulo elettrico, spinte da:
+Caratteristiche di
+sostenibilità ambientale
+per la fornitura energetica.
+Diminuzione dei costi
+delle tecnologie di accumulo elettrico (p.es. le batterie) e dei sistemi di generazione da rinnovabili (p.es. gli impianti fotovoltaici).
+Sviluppo di
+sistemi di controllo intelligenti
+, che permettono una gestione attiva dei carichi elettrici e degli accumuli, riducendo di fatto i costi della fornitura energetica.
+Generazione distribuita
+Produrre autonomamente energia per aumentare l’efficienza e ridurre i costi.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Quando è possibile implementare una microgrid?
+Avendo chiarito cos’è una microgrid, vediamo per rispondere alle esigenze di quali consumatori risulta particolarmente adatta:
+Industrie e distretti agricoli
+che vogliono abbassare la propria bolletta energetica, integrando fonti di generazione distribuita come il fotovoltaico o la cogenerazione di elettricità e calore.
+Campus universitari e centri di ricerca
+che mirano a ridurre l’impatto ambientale delle proprie attività.
+Clienti commerciali e industriali
+che puntano a ridurre i propri picchi di assorbimento dalla rete per beneficiare di tariffe elettriche più vantaggiose.
+Clienti esperti del mercato elettrico
+(solitamente energivori) che, oltre a minimizzare la propria bolletta elettrica, vogliono valorizzare le proprie risorse per fornire energia o servizi remunerati alla rete nazionale.
+Consumatori
+che devono tutelarsi da potenziali blackout (ad esempio ospedali, data center, torri di telecomunicazione) e hanno quindi la necessità di aumentare la stabilità e la robustezza della fornitura elettrica.
+Quali sono i benefici delle microgrid?
+Flessibilità
+Contribuisci con la tua azienda alla stabilità della rete elettrica e monetizza la tua disponibilità.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+L’installazione di una microgrid consente di ottenere numerosi vantaggi:
+Risparmiare sulla bolletta elettrica
+, consumando dalla rete solo nelle ore in cui il costo dell’energia è inferiore, grazie all’utilizzo della generazione distribuita e degli accumulatori per aumentare l’autoconsumo.
+Creare una
+fonte di ricavi addizionale
+, grazie alla possibilità di fornire servizi ancillari remunerati al sistema elettrico nazionale.
+Raggiungere gli
+obiettivi di sostenibilità
+e riduzione delle emissioni inquinanti.
+Incrementare la
+sicurezza e la resilienza
+, grazie alla possibilità di distacco dalla rete nazionale in caso di interruzioni elettriche, in modo da salvaguardare e continuare ad alimentare i carichi critici anche durante potenziali blackout.
+Ottimizzare economicamente il prelievo di energia
+dal sistema nazionale, la generazione da fonti distribuite, la carica di eventuali sistemi di accumulo come le batterie, grazie ai sistemi avanzati di gestione delle microgrid.
+Quali sono gli esempi di microgrid in Italia?
+Le
+microgrid in Italia
+si stanno diffondendo di pari passo col mercato europeo, che attualmente vede l’11% di applicazioni di microreti sul totale mondiale. A guidare la classifica sono gli Stati Uniti e l’Asia che detengono circa il 42% del mercato a testa, poi dopo l’Europa c’è l’America Latina con il 4% e il Medio Oriente e l’Africa con il solo 1% .La capacità totale è stata di circa 1,4 GW nel 2015 e si prevede che cresca a circa 5,7 GW (stima prudente) o 8,7GW (in uno scenario "aggressivo") entro il 2024 (dati ENEA) e addirittura a 32,8 GW di capacità installata
+entro il 2030
+.
+
+Esempi di microgrid in Italia si trovano al
+Campus universitario di Savona
+, dove è stata realizzata la
+prima microrete energetica basata sull’Intelligenza Artificiale in Italia
+, e che combina diverse tecnologie quali Internet of Things, Big Data Analytics, machine learning e automazione. L’obiettivo del
+progetto
+è “sviluppare, integrare, validare su una microgrid reale e rendere disponibili in un ‘toolkit’ finale un insieme efficace di tecnologie abilitanti per gestire e garantire la resilienza e l’affidabilità dei sistemi energetici”.
+Scopri gli altri servizi
+Le soluzioni pensate da Enel X per privati, aziende e Pubblica Amministrazione.
+Power Quality
+Interventi per migliorare la stabilità della fornitura elettrica, evitare inconvenienti e risparmiare.
+SCOPRI DI PIÙ
+RICHIEDI INFO
+Soluzioni per la casa
+Migliora l’efficienza della tua casa con soluzioni smart, sostenibili e accessibili a tutti.
+SCOPRI DI PIù
+RICHIEDI INFO
+Comunità energetiche rinnovabili
+La condivisione di energia elettrica da fonti pulite a vantaggio di cittadini e imprese.
+SCOPRI DI PIù
+RICHIEDI INFO
+Domande correlate
+Cos’è il Demand Side Management?
+SCOPRI DI PIÙ
+FAQ
+Soluzioni Business
+Cos’è un impianto di cogenerazione?
+SCOPRI DI PIÙ
+FAQ
+Soluzioni Business
+Contenuti in evidenza
+Le comunità energetiche rinnovabili: energia pulita per l’autoconsumo
+Le comunità energetiche rinnovabili: energia pulita per l’autoconsumo
+Anche in Italia vedranno la luce a breve le cosiddette “comunità energetiche rinnovabili”, associazioni di cittadini, attività commerciali o imprese per la produzione e la condivisione di energia elettrica da fonti pulite. Una possibilità che apre la strada a nuove opportunità di sviluppo per la transizione energetica del nostro Paese
+
+Economia circolare
+Soluzioni Business
+Elettrificazione
+e-City
+Smart Home
+Innovazione
+Privato
+Azienda
+Pubblica Amministrazione
++10
+Elettrificazione e Transizione Energetica
+Elettrificazione e Transizione Energetica
+Elettrificazione dei consumi e transizione energetica: come raggiungere la carbon neutrality entro il 2050 e limitare il cambiamento climatico. Scopri di più!
+
+Azienda
+Economia circolare
+Elettrificazione
+e-City
+Privato
+Soluzioni Business
+Smart Home
+Pubblica Amministrazione
++9
+Enel X su transizione energetica e sostenibilità
+Enel X su transizione energetica e sostenibilità
+Eliano Russo, Head of e-Industries, la business line di Enel X dedicata alle soluzioni per le imprese, parteciperà come speaker ai principali congressi e forum dedicati alle questioni energetiche
+
+Soluzioni Business
+Elettrificazione
++3
+Flessibilità energetica: soluzioni e vantaggi per le aziende
+Flessibilità energetica: soluzioni e vantaggi per le aziende
+L’offerta di Enel X per il mondo business, dai programmi di Demand Response al Peak Management.
+
+Innovazione
+Business solutions
++3
+Dopla, più ecosostenibile con il report di circolarità
+Dopla, più ecosostenibile con il report di circolarità
+Con il Circular Economy Report aiutiamo le aziende a migliorare la loro circolarità. Scopri di più sul Report e sull'esperienza dell'azienda trevigiana DOpla.
+
+Economia circolare
+Soluzioni Business
+Innovazione
+Azienda
++5
+Smeg: due nuovi impianti fotovoltaici per le sedi italiane
+Smeg: due nuovi impianti fotovoltaici per le sedi italiane
+Enel X ha realizzato per le sedi Smeg di Guastalla e Bonferraro due impianti fotovoltaici dalla potenza complessiva di 3,6 MW. Scopri di più.
+
+Soluzioni Business
+Elettrificazione
++3
+Scopri le nostre soluzioni
+Compila il form e ti ricontatteremo senza impegno.
+Contattaci
+Iscriviti alla nostra newsletter
+Registrati e ricevi le ultime notizie su Enel X e sugli eventi correlati. Inserisci i tuoi dati e clicca su "iscriviti". Riceverai una email di conferma della tua iscrizione.
+Mobilità elettrica
+Mobilità elettrica
+
+Economia circolare
+
+Per le imprese
+
+Indirizzo email*
+Errore!
+Ho letto e accetto l'
+informativa privacy
+.
+Iscriviti
+
+✖
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+ENEL X
+
+
+Chi siamo
+Economia Circolare
+Enel X Store
+Contatti
+Certificazioni & Governance
+Diventa partner Vivi Meglio
+Clienti
+
+
+Privati
+Aziende
+Istituzioni
+Supporto
+
+
+FAQ
+Accessibilità
+Media
+Storie
+News
+Comunicati stampa
+Showcase
+Eventi
+Webinar
+Unisciti a noi
+
+
+Posizioni aperte
+Innovation Partner
+Diventa fornitore
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel Italia
+Enel Green Power
+E-Distribuzione
+Enel X Way
+© Enel X Italia S.r.l. Tutti i Diritti Riservati | Enel X P.IVA 15844561009
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina
+Apro in una nuova pagina

@@ -1,0 +1,242 @@
+Australia’s energy market volatility and what it means for businesses
+/apps/enel-x-digital-ecosystem/templates/page-content
+Skip to Content
+Who We Are
+Corporate
+Australia
+
+EN
+
+
+Explore
+Products & Services
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Resources
+LEARN MORE
+CONTACT US
+Australia
+
+EN
+
+
+Explore
+Products & Services
+LEARN MORE
+Virtual power plant programs
+Demand Response
+Distributed Energy
+Onsite Battery Storage
+Solar-Plus-Storage
+TOOLS
+Demand Response Calculator
+Retail energy solutions
+Flex Retail
+Electric Mobility
+Workplace EV charging program
+Australia
+Asia Pacific
+Australia
+New Zealand
+Japan
+South Korea
+Taiwan
+Europe
+Italy
+Poland
+United Kingdom
+Ireland
+Spain
+Portugal
+North America
+United States
+Canada
+Latin America
+Brazil
+Peru
+Chile
+Argentina
+Colombia
+Search here
+Renewable Energy
+Energy Advisory
+Demand Response
+Electric Mobility
+You may be interested in
+Peaking Response
+LEARN MORE
+Workplace EV charging program
+LEARN MORE
+Resources
+Australia’s energy market volatility and what it means for businesses
+A deep dive into the factors that are driving down Australia’s electricity futures pricing
+Australia’s National Electricity Market (NEM) has been jolted by unexpected announcements and crisis events over the past few years.  Businesses that felt the pain of sharply increased electricity prices from 2017 have had a recent respite with price reductions over the last year.  Driving the reduction has been an underlying shift to renewable energy and lower gas prices. Although there are questions as to whether this reduction is sustainable.
+
+Events that have caused electricity prices to spike
+
+A significant jolt to the power system occurred when South Australia went dark in 2016.  The “system black” exposed vulnerabilities in transmission networks and placed reliability at the forefront for both the public and policy makers.
+
+An even greater hike in pricing occurred soon after, following the announcement that the Hazelwood brown coal power station would close five months later in March 2017.  This sparked a significant increase in electricity futures prices, with Victorian 2018 futures pricing (CAL18) rising from $66 in November 2016 to $114 at the peak in March 2017.
+
+Punctuating the market has also been the Reliability Emergency Reserve Trader (RERT) events in 2019 and 2020, where AEMO called on emergency reserves to alleviate shortfalls in supply. RERT is designed to be a last resort emergency mechanism, so the fact that it’s been used over the last two summers demonstrates the current challenges we face with supply security. Enel X has participated in RERT over the past few years where our VPP has provided additional capacity to support the grid and local communities.
+
+Renewable power and gas prices impact electricity pricing
+
+For most states, prices are only now returning the ‘pre-Hazelwood’ levels.  The graph shows Victorian 2021 futures (CAL21) are now trading at $58/MWh, well below the peak of $80/MWh in November 2019.
+A key driver for this decrease has been greater levels of renewable generation.  Increased solar penetration behind the meter has flattened demand growth across the NEM, while the growth of renewable generation in front of the meter has dampened prices.
+
+We see downward pressure on spot prices during the day when solar generation ramps up, while prices spike in shoulder periods in the early morning and evening, when solar generation is not as strong.  This is known as the “duck curve”, which has become more pronounced with the addition of more renewables on the grid.
+
+Why is the duck curve important?  Because during these shoulder periods, fast-starting gas peaking plants are more likely to supply the market, and can often set the price in the NEM. The reducing fuel costs for gas peakers have flowed through to lower electricity price expectations.
+
+The global reduction of gas prices has helped to lower electricity prices
+
+Australian gas prices shot up from 2015 when the Gladstone LNG plants connected Australia’s previously isolated gas market to Asian consumers.  With this connection, international gas prices were setting domestic prices, as local gas suppliers preferred to export rather than sell locally.  As a result, gas prices increased from $3-4/GJ in 2012 to $12-13/GJ over just two years.
+
+New gas supply coupled with softer demand in Asia (due to a warmer winter) compounded with the impact of COVID-19 has led to a glut in the global gas market.  The ACCC monitors this through its publication of an Asian Netback price[KS1] , which is an assessment of the cost of liquefying locally made gas to be exported globally.
+
+The lower the Netback price, the lower the expected cost of gas for the local market.  The Netback price has plunged from $13/GJ in October 2018 to $5/GJ a year later, with prices currently trading around $3.5/GJ.
+
+The impact of a global pandemic
+
+The main impact of COVID-19 on pricing may be tied to the wider economic impacts and the global contraction likely to follow.  An economic downturn would reduce demand, which may reduce prices.  However, economic uncertainty may also make investors of new power plants cautious, which could act has a handbrake on the shift to renewables.
+
+The outlook for Australia’s future energy pricing
+
+Several factors have shaped the recent reduction in energy prices including lower demand, more generation from renewables and reducing gas prices.  Some are sceptical whether this trend can continue. JP Morgan analyst Mark Busutill stated in January that the current low spot prices were “too low to incentivise new capacity growth and therefore unsustainable over the medium term”.  AGL also expects wholesale prices to trade $60 to $90/MWh over the next few years.
+
+Electricity prices may shift over the next few years as the generation portfolio changes.  The scheduled closure of the 50-year old Liddell power station has been pushed back to the end of 2022; however as this closure has been well signposted, it’s already built into future price expectations.  Similarly Victoria’s Yallourn power station is scheduled to close over the 2029-2032 period, with planning required should the closure date be brought forward to 2023.
+
+The Snowy Hydro 2.0 pumped hydro is touted to have a capacity of 2,000 MW and is scheduled to be commissioned by 2027.  Once up and running, it should provide dispatchable load to balance renewable generation troughs, and as a result may have a tremendous ability to set the price in the market.
+
+To learn more about how to take advantage of these lower prices,
+get in touch
+with one of our energy finance experts.
+
+Article
+Energy Advisory
++3
+Speak with an expert today to learn how Enel X can help you achieve your energy goals.
+Contact us
+Related Content
+Electricity contracting methods explained
+Electricity contracting methods explained
+Discover how energy advisory services work and the options available for your business
+
+Article
+Energy Advisory
++3
+Progressive Electricity Purchasing Explained
+Progressive Electricity Purchasing Explained
+Optimise your energy contracting by responding to market changes as they arise
+
+Video
+Energy Advisory
++3
+Progressive electricity purchasing myths dispelled
+Progressive electricity purchasing myths dispelled
+We debunk the myths surrounding flexible progressive purchasing contracts, including misconceptions around risk, budgeting and workload
+
+Article
+Energy Advisory
++3
+Enel X continues to lead wholesale electricity market demand-side participation
+Enel X continues to lead wholesale electricity market demand-side participation
+One year on, Enel X has grown its portfolio to 100+MW and remains the sole registered demand response service provider for the WDRM
+
+Media Release
+Demand Response
++3
+Generate revenue from existing assets
+Generate revenue from existing assets
+The food chain is innovating to improve the bottom line with VPPs and Demand Response
+
+Demand Response
+Article
++3
+ARENA RERT trial proves demand response fast reliable and effective
+ARENA RERT trial proves demand response fast reliable and effective
+Businesses can protect the grid, earn revenue and enhance sustainability with Demand Response
+
+Demand Response
+Article
++3
+Backing up South Australia's generation capacity
+Backing up South Australia's generation capacity
+Enel X and the South Australian Government support businesses who want to participate in Demand Response
+
+Demand Response
+Media Release
++3
+South Australian Backup Boost Program
+South Australian Backup Boost Program
+We've partnered with the South Australian government to support local businesses by changing the way they use energy
+
+Demand Response
+Article
++3
+Demand Response addresses the energy trilemma
+Demand Response addresses the energy trilemma
+How Virtual Power Plants address issues of energy security, affordability and sustainability
+
+Demand Response
+Article
++3
+✖
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+Enel X Australia
+
+
+Who We Are
+Contact Us
+Media
+
+
+Resources
+Press Releases
+Join Us
+
+
+Job Openings
+Enel Network
+
+
+Enel X Corporate
+Enel Group
+©Enel X Australia Pty Ltd. All rights reserved | ABN: 49 104 710 278
+Credits
+|
+Legal
+|
+Privacy
+|
+Cookie Policy
+
+
